@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/"}
+---
+
+- [ ] Kill with [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] 
+- [ ] Deal with the Dwarves of [[Locations/Fort Moldan\|Fort Moldan]]
+- [ ] Create a trade deal between the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] and [[Locations/Ehobel/Ehobel\|Ehobel]].
+- [ ] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]
+- [ ] Go to [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan/The Korrigan\|The Korrigan]]'s business.
+- [ ] Travel to [[Locations/Itone\|Itone]]
+	- [ ] Learn more about [[Named Characters & Beasts/Historically Significant  Characters/Uti, The Dragon\|Uti, The Dragon]].
+- [ ] Enact the rest of the [[Other Information/OFC Plans\|OFC Plans]].
+- [ ] Explore [[Locations/The Desert/The Desert\|The Desert]]
+	- [ ] Learn about the towns mentioned in the [[Books, Documents & Artefacts/Old Pyramid Map\|Old Pyramid Map]].
+		- [ ] Travel to [[Locations/The Desert/Falkwayn\|Falkwayn]]
+		- [ ] Travel to [[Locations/The Desert/Peyabo\|Peyabo]]
+		- [ ] Travel to [[Locations/The Desert/Sumene\|Sumene]]
+- [ ] Move [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]'s hero cult to [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]] to increase trade and tourism in the area.
+- [ ] [[Groups/The Auditors\|The Auditors]]
+	- [ ] Learn what [[Named Characters & Beasts/Important Characters/Xekai\|Xekai]] 's plan/ role is
+	- [ ] Learn what their current goals are
+- [ ] Return [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] to [[Locations/Ehobel/Ehobel\|Ehobel]]
+- [ ] Learn what happened to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]].
+- [ ] Learn about [[Gods & Heralds/Eldros/Eldros\|Eldros]]
+- [ ] Learn about [[Gods & Heralds/Somnora/Somnora\|Somnora]] 
+- [ ] Learn more about [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
+- [ ] Learn who the [[Named Characters & Beasts/Illusion Master\|Illusion Master]] is
