@@ -9,7 +9,6 @@ I have compiled a small list of common notes people might want to read below but
 
 I plan to update this every month or if any major changes/ information is learned after a session. DM [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] if there are any problems.
 
-
 > [!tip] Useful Tip - Daggers
 > † denotes that this character is dead.
 > 
