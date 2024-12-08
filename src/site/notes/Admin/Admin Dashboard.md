@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/admin-dashboard/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/admin/admin-dashboard/"}
 ---
 
 
@@ -20,8 +20,8 @@ Shadow: off
 
 === end-column ===
 ### Recently Modified
-- [[Homepage\|Homepage]]
 - [[Admin/Admin Dashboard\|Admin Dashboard]]
+- [[Homepage\|Homepage]]
 - [[Admin/TOM MISSING INFORMATION\|TOM MISSING INFORMATION]]
 - [[Admin/INFORMATION MISSING OR OUT-OF-DATE\|INFORMATION MISSING OR OUT-OF-DATE]]
 - [[Admin/Display Tags/The Towers\|The Towers]]
