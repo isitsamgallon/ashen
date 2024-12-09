@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-the-crypts-of-dawnhaven/"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-the-crypts-of-dawnhaven/","noteIcon":""}
 ---
 
 **Entry 1: The Fallen Sun**  

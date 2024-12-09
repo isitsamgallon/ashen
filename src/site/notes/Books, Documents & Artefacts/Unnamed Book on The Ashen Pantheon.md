@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/unnamed-book-on-the-ashen-pantheon/"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/unnamed-book-on-the-ashen-pantheon/","noteIcon":""}
 ---
 
 

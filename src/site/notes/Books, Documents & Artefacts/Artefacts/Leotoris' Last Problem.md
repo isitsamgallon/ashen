@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/leotoris-last-problem/"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/leotoris-last-problem/","noteIcon":""}
 ---
 
 it A crumpled up piece of paper that contains the last problem [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] wanted to solve before his death. He passed it on to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] at the moment of his death and his last wish. 

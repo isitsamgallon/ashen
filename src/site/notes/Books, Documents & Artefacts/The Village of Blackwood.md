@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-village-of-blackwood/"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-village-of-blackwood/","noteIcon":""}
 ---
 
 

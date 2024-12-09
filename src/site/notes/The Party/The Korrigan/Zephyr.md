@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/","noteIcon":""}
 ---
 
 

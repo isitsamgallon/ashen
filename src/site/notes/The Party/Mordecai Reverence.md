@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":""}
 ---
 
 

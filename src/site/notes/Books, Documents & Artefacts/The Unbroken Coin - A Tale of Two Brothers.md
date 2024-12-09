@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-unbroken-coin-a-tale-of-two-brothers/"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-unbroken-coin-a-tale-of-two-brothers/","noteIcon":""}
 ---
 
 **Preface**

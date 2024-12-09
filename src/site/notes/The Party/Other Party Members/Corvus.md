@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","noteIcon":""}
 ---
 
 ```statblock

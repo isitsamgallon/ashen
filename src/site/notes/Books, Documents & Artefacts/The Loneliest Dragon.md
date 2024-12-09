@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-loneliest-dragon/"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-loneliest-dragon/","noteIcon":""}
 ---
 
 

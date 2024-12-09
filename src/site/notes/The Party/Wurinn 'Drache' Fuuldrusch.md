@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-drache-fuuldrusch/"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-drache-fuuldrusch/","noteIcon":""}
 ---
 
 

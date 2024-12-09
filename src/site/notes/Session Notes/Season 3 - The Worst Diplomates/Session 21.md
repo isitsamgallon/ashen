@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-21/"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-21/","noteIcon":""}
 ---
 
 

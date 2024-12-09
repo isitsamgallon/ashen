@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/","noteIcon":""}
 ---
 
 We start mid combat in [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]].
@@ -58,4 +58,4 @@ Everyone got super drunk.
 
 Kal and Mordecai bonded over getting cool new capes.
 
--- [[Admin/Display Tags/Level Up\|Level Up]] --
+-- [[Level Up\|Level Up]] --
