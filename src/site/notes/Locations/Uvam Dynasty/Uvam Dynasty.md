@@ -20,6 +20,14 @@ Uvam is a relatively small nation found towards the south of the [[Locations/Ver
 - [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
 
+### NPCs From The Uvam Dynasty
+| File                                                                                                                         | Home Town | Status |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
+| [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                | Minatota  | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
+
+{ .block-language-dataview}
 ### Static Map
 ![Uvam_Dynasty_Map.jpg](/img/user/Admin/Attachments/Uvam_Dynasty_Map.jpg)
 

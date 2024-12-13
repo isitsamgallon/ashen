@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","noteIcon":""}
 ---
 
-
 The OFC is a small nation found to the west of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Sometime after the events of [[History & Events/The Sundering\|The Sundering]], the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] occurred causing the people of the land to fracture from The Dawn and form The OFC after the former refused to defend them against the Elves. It is assumed that [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] also defected from The Dawn around this time but it is unclear exactly when or why this happened. Upon his defection, he became the leader of the armies and was known throughout the OFC as a powerful figure and a beacon of hope to its people.
 
 [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] disdains the OFC and everything that it stands for and wished to take back the land and its people under his rule. In [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 6\|Session 6]], [[Admin/Display Tags/The Party\|The Party]] learnt that at least part of his reasoning for wanting the land back was due to its strategic position when at war with [[Locations/Ehobel/Ehobel\|Ehobel]] and its great trade routes via the seas. He went so far as to start [[History & Events/The War for the OFC's Freedom\|a full-scale war]] with the OFC to try and gain the land but was defeated.
@@ -25,6 +24,16 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 - [[Groups/Religious Organisations/The Black Cult\|The Black Cult]]'s Hideout (Defunct)
 - [[Groups/Religious Organisations/The Red Cult\|The Red Cult]]'s Hideout (Defunct)
 - [[Groups/Goblin Mafia\|Goblin Mafia]]'s Various Hideouts (Defunct)
+
+### NPCs From The OFC
+| File                                                                                                                                      | Home Town | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
+| [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn  | Dead   |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall | Dead   |
+| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn  | Alive  |
+| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall | Alive  |
+
+{ .block-language-dataview}
 
 ### Static Map
 ![OFC_Map.jpg](/img/user/Admin/Attachments/OFC_Map.jpg)

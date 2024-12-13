@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/newhall/","noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/newhall/","tags":["Location","Unexplored"],"noteIcon":""}
 ---
 
 A small village in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. [[Admin/Display Tags/The Party\|The Party]] encountered this village on their way to the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. When the party first got to the village the guards were so tired from not being able to sleep that they just let [[Admin/Display Tags/The Party\|The Party]] in. There had been a series of disappearances but when [[Admin/Display Tags/The Party\|The Party]] asked about them the towns folk had no idea that people had gone missing. After asking many people it was becoming night time so [[Admin/Display Tags/The Party\|The Party]] went to the inn to sleep. Through multiple dreams with different people, [[Admin/Display Tags/The Party\|The Party]] dreamed of a faceless figure trying to talk to them and then flying into the sky. 

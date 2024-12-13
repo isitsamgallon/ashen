@@ -24,6 +24,19 @@ The home nation of the Elves in [[Locations/The Amber Realms\|The Amber Realms]]
 - [[Locations/Ehobel/Yren\|Yren]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
 
+### NPCs From Ehobel
+| File                                                                                                                            | Home Town | Status  |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- |
+| [[Named Characters & Beasts/Beasts & Animals/Mannnnnn\|Mannnnnn]]                                                            | \-        | Alive   |
+| [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |
+| [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
+| [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
+| [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
+| [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                | Ishnmel   | Alive   |
+
+{ .block-language-dataview}
 ### Static Map
 ![Ehobel_Map.jpg](/img/user/Admin/Attachments/Ehobel_Map.jpg)
 

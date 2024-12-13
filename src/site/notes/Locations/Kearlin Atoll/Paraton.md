@@ -4,6 +4,7 @@
 
 
 ### Overview
-
+A town found in [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]].
 
 ### Notable Information & History 
+- [[The Party/Halfbie\|Halfbie]] is originally from here
