@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/redmund-verix/","tags":["NPC"]}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/redmund-verix/","tags":["NPC"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/master-enel-cubus/","tags":["NPC"]}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/master-enel-cubus/","tags":["NPC"],"noteIcon":""}
 ---
 
 

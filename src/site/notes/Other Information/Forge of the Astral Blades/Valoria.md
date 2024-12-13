@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/forge-of-the-astral-blades/valoria/"}
+{"dg-publish":true,"permalink":"/other-information/forge-of-the-astral-blades/valoria/","noteIcon":""}
 ---
 
 [[Other Information/Forge of the Astral Blades/locations/The Elderwood\|The Elderwood]]

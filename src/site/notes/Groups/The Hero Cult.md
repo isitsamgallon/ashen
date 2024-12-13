@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/the-hero-cult/"}
+{"dg-publish":true,"permalink":"/groups/the-hero-cult/","noteIcon":""}
 ---
 
 ### Overview

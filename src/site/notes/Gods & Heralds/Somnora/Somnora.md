@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","noteIcon":""}
 ---
 
 

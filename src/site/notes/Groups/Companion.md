@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/companion/","tags":["NPC"]}
+{"dg-publish":true,"permalink":"/groups/companion/","tags":["NPC"],"noteIcon":""}
 ---
 
 ### Overview

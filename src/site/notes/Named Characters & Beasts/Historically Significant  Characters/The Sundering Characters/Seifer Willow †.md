@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/seifer-willow/","tags":["NPC"]}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/seifer-willow/","tags":["NPC"],"noteIcon":""}
 ---
 
 

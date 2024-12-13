@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/the-necromantic-circle-of-dawnhaven/"}
+{"dg-publish":true,"permalink":"/groups/the-necromantic-circle-of-dawnhaven/","noteIcon":""}
 ---
 
 Led by [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] as their Arch-Necromancer, this was a group of Necromancers responsible for the disappearance of [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] and the death of [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]. Their base of operation was in [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]]. Apart from their leader, many of the Circle's members seemed to be decently skilled necromancers and mages as they were able to concentrate on an incredibly complicated spell for possibly days or weeks. The members [[Admin/Display Tags/The Party\|The Party]] encountered within the Crypts, however, seemed to have been experimented on due to their volatile natures and lack of control over their own bodies while infected with purple magic.

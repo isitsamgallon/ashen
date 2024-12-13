@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/magic-demons/","tags":["NPC"]}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/magic-demons/","tags":["NPC"],"noteIcon":""}
 ---
 
 

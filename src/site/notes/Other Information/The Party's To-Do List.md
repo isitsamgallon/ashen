@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/"}
+{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","noteIcon":""}
 ---
 
 - [ ] Kill with [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] 
@@ -7,8 +7,10 @@
 - [ ] Create a trade deal between the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] and [[Locations/Ehobel/Ehobel\|Ehobel]].
 - [ ] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]
 - [ ] Go to [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan/The Korrigan\|The Korrigan]]'s business.
-- [ ] Travel to [[Locations/Itone\|Itone]]
+- [ ] Travel to [[Locations/Itone Isles\|Itone Isles]]
 	- [ ] Learn more about [[Named Characters & Beasts/Historically Significant  Characters/Uti, The Dragon\|Uti, The Dragon]].
+	- [ ] Find [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus\|Master Enel Cubus]]
+	- [ ] Learn about [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]]
 - [ ] Enact the rest of the [[Other Information/OFC Plans\|OFC Plans]].
 - [ ] Explore [[Locations/The Desert/The Desert\|The Desert]]
 	- [ ] Learn about the towns mentioned in the [[Books, Documents & Artefacts/Old Pyramid Map\|Old Pyramid Map]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-ethertwist-haunter/"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-ethertwist-haunter/","noteIcon":""}
 ---
 
 [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], who takes children and drains them of their remaining years to give to [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]]. He presides over [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]] where he spends a lot of his time watching the realms and waiting for the end of time. After completing [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]], for the first time, it was revealed that the [[Gods & Heralds/Herald\|herald]] was once the Second-born child of the family [[Admin/Display Tags/The Party\|The Party]] met while searching for [[Gods & Heralds/Chronovorus/The Pages\|The Pages]]. 

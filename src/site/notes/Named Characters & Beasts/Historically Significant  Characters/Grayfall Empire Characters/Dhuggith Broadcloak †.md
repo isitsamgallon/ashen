@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/dhuggith-broadcloak/","tags":["NPC"]}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/dhuggith-broadcloak/","tags":["NPC"],"noteIcon":""}
 ---
 
 

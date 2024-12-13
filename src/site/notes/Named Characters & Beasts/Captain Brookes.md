@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-brookes/","tags":["NPC"]}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-brookes/","tags":["NPC"],"noteIcon":""}
 ---
 
 

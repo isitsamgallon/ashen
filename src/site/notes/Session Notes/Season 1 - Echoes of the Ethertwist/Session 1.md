@@ -44,7 +44,7 @@ the party made their way to the clearing in [[Twopines\|Twopines]] to start [[Go
 The first bell rang. as they kept their eyes shut, everyone was haunted by the ghosts of their past. 
 
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] called out for Kal's help, urging him to open his eyes and help her.
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Mother †\|Mordecai's Mother †]] whispered in his ears, tempting him to come home. She knew that he didn't mean to start the fire that consumed them.
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] whispered in his ears, tempting him to come home. She knew that he didn't mean to start the fire that consumed them.
 - Chenris' teacher tempted him to open his eyes, telling him that chenris was his greatest achievement.
 - Drache's long lost forbidden love called out for him.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","noteIcon":""}
 ---
 
 The Verdant Arbiter, Bringer of Balance

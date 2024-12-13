@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/"}
+{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","noteIcon":""}
 ---
 
 The home nation of the Elves in [[Locations/The Amber Realms\|The Amber Realms]] and led by The Empress, [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]. Obeus took over the role of Empress from her mother [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] some years ago. he is described in books as a very kind and understanding ruler and has "grand military plans". In reality, She doesn't leave the palace enough to understand the situation of her lands, let alone what i happening with her people. Ehobel was one of the main factions that made up [[Groups/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period Ehobel had a very good relationship with [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].

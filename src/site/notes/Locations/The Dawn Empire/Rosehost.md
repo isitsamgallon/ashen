@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/","noteIcon":""}
 ---
 
-A town in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]
+A small town in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]

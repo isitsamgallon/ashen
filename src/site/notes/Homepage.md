@@ -22,9 +22,9 @@ I plan to update this every month or if any major changes/ information is learne
 | File                                                                    | Class             |
 | ----------------------------------------------------------------------- | ----------------- |
 | [[The Party/Wurinn 'Drache' Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]] | Barbarian/Paladin |
+| [[The Party/Halfbie\|Halfbie]]                                       | Wizard/Artificer  |
 | [[The Party/The Korrigan/The Korrigan\|The Korrigan]]                | Ranger/Druid      |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]]                 | Sorcerer/Bard     |
-| [[The Party/Halfbie\|Halfbie]]                                       | Wizard/Artificer  |
 | [[The Party/Aidan Knight\|Aidan Knight]]                             | Rogue/Warlock     |
 
 { .block-language-dataview}
@@ -32,11 +32,11 @@ I plan to update this every month or if any major changes/ information is learne
 ### Last 5 Sessions
 | File                                                                        | Part                     | Summary                                                                                                                                                                                             |
 | --------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 26\|Session 26]]                                 | <ul><li>Part 3</li></ul> | \-                                                                                                                                                                                                  |
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]] | <ul><li>Part 3</li></ul> | We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.                            |
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 24\|Session 24]] | <ul><li>Part 3</li></ul> | Chenris, Mordecai and Korrigan explore further and aim to scout out Dawnhaven. However, along the way, they help a man retrieve his stuff from a which. Dawnhaven has been overrun with dark mages. |
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 23\|Session 23]] | <ul><li>Part 3</li></ul> | Xekai's portal delivers us to Yakawa where we infiltrate the Tulan fort and free Emmeline.                                                                                                          |
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 22\|Session 22]] | <ul><li>Part 3</li></ul> | We carried on through the pyramid and managed to solve its puzzles and defeat its master. Xekai comes to our rescue as the pyramid begins to collapse in on itself.                                 |
-| [[Session Notes/Season 3 - The Worst Diplomates/Session 21\|Session 21]] | <ul><li>Part 3</li></ul> | After talking to many of the Gods' priests, Chenris eventually gets a vision of the Mummy Lord in the pyramid encouraging us to return and deal with it.                                            |
 
 { .block-language-dataview}
 ### Locations:
@@ -47,7 +47,7 @@ I plan to update this every month or if any major changes/ information is learne
 - [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
 - [[Locations/The Desert/The Desert\|The Desert]]
 - [[Locations/Feywild/Feywild\|Feywild]]
-- [[Locations/Itone\|Itone]]
+- [[Locations/Itone Isles\|Itone Isles]]
 - [[Locations/Strixhaven\|Strixhaven]]
 
 ### History & Events

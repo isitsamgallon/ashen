@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/steelwick/"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/steelwick/","noteIcon":""}
 ---
 
 Steelwick is the home city of [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] and is found a little ways from [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]'s boarder. Steelwick is an old mining town adorned with dark and spruce wood building and decorated with precious metals. Steelwick's mines are also home to secret [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]] found behind a set of heavy door ([[Session Notes/Season 2 - The War for The OFC's Freedom/Session 3\|Session 3]]). The city ended up hiring the services of [[Locations/Strixhaven\|Strixhaven]] to investigate the dungeon further. 

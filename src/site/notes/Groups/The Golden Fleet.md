@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/the-golden-fleet/"}
+{"dg-publish":true,"permalink":"/groups/the-golden-fleet/","noteIcon":""}
 ---
 
 A fleet of pirates, a very old fleet that owns immeasurable riches. They control the seas and especially the area around [[Locations/Snowport\|Snowport]]. The captain of the fleet is known as [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]].

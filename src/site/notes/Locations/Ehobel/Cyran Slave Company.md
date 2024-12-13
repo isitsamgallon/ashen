@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/cyran-slave-company/"}
+{"dg-publish":true,"permalink":"/locations/ehobel/cyran-slave-company/","noteIcon":""}
 ---
 

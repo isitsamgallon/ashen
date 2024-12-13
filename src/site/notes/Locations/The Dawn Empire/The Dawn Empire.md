@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","noteIcon":""}
 ---
 
 The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]] and led by The Emperor, [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]. Galen is from a long line of Verixs who have ruled the nation for over 500 years after liberating it from the Dwarves in what came to be known as [[History & Events/The Cleansing\|The Cleansing]] led by his ancestor [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]]. The Dawn was one of the magic factions that made up [[Groups/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period The Dawn had a very good relationship with [[Locations/Ehobel/Ehobel\|Ehobel]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].

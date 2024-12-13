@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/","noteIcon":""}
 ---
 
 

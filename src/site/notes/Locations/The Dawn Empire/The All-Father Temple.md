@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/","noteIcon":""}
 ---
 
 The All Father Temple is a combined church for every member of [[Gods & Heralds/The Ashen Pantheon\|The Ashen Pantheon]], including [[Gods & Heralds/Aetherion/The All-Father\|The All-Father]]. Located near the border of [[Locations/OFC/Organisation of Free Cities (OFC)\|The OFC]] and [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], it is a large marble building with a small encampment around it. Inside was a truly massive library that had a door to each of the Gods going to their dedicated room.

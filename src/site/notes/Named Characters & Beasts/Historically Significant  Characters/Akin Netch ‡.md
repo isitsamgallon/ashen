@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/akin-netch/"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/akin-netch/","noteIcon":""}
 ---
 
 ### Overview

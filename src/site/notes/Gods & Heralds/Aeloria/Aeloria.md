@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","noteIcon":""}
 ---
 
 The Goddess of Light, Bringer of Knowledge. She dedicates herself to bringing hope to the inhabitants of [[Locations/The Amber Realms\|The Amber Realms]] and teaching them how to survive. She has no physical form in [[Locations/The Amber Realms\|The Amber Realms]] however she often pulls people up to The Golden Plain to communicate with her directly, where she chooses to take the form of an elven woman wearing all white. 
@@ -20,4 +20,4 @@ Aeloria is seen as generally a good god who dedicates herself to bringing hope t
 - [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]
 
 ### Trivia 
-- Aeloria is responsible for [[Admin/Display Tags/The Party\|The Party]] [[Admin/Display Tags/Level Up\|Level Up]]s
+- Aeloria is responsible for [[Admin/Display Tags/The Party\|The Party]] [[Level Up\|Level Up]]s

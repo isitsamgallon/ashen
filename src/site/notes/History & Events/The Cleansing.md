@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/the-cleansing/"}
+{"dg-publish":true,"permalink":"/history-and-events/the-cleansing/","noteIcon":""}
 ---
 
 The event where [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] led a human revolt against the [[History & Events/Grayfall Empire\|Grayfall Empire]] who had been keeping them slaves. It took place at the turn of the [[History & Events/Eras/5th Era\|5th Era]]. It was an incredibly bloody conflict which saw the merciless killing of any dwarves found whether they were good or bad. The Cleansing eventually led to the formation of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], led by Redmund's distant son, [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]].

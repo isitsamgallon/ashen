@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/important-locations-and-nations/the-5-towers/"}
+{"dg-publish":true,"permalink":"/locations/important-locations-and-nations/the-5-towers/","noteIcon":""}
 ---
 
 The 5 main remaining towers that hold back the heavens from interacting with the material plane.

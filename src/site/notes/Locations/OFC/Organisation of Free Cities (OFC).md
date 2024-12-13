@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/"}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","noteIcon":""}
 ---
 
 

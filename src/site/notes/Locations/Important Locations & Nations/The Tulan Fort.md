@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/important-locations-and-nations/the-tulan-fort/"}
+{"dg-publish":true,"permalink":"/locations/important-locations-and-nations/the-tulan-fort/","noteIcon":""}
 ---
 
 A mercenary fort that used to be led by [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]] and is the rival to [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]]. It is located towards the southern end of the [[Locations/Verdant Spine\|Verdant Spine]]. There is a secret tunnel going through the mountain range that connects to [[Locations/Uvam Dynasty/Yakawa\|Yakawa]] that [[The Party/Wurinn 'Drache' Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]] used to meet his lover, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] secretly. It was noted that its main fighting force is treated incredibly poorly compared to its rival, with armour that is one size fits all and tents to sleep in rather than barracks. It notably sided with [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. It was also part of [[Groups/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]], however, this was under different leadership.

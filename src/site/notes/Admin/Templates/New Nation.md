@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/templates/new-nation/"}
+{"dg-publish":true,"permalink":"/admin/templates/new-nation/","noteIcon":""}
 ---
 
 ### Overview
