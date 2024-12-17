@@ -4,7 +4,7 @@
 
 
 ### Overview
-Not much is known about this woman apart from when [[The Party/Mordecai Reverence\|Mordecai Reverence]] first used his magic he accidentally cast a fireball and blew up his family home killing his mother and siblings. 
+Not much is known about this woman apart from when [[The Party/Mordecai Reverence\|Mordecai Reverence]] first used his magic, he accidentally cast a fireball and blew up his family home, killing his mother and brother. 
 
 ### Notable Information & History   
 - She is first mentioned during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] when Mordecai burns his cloak to get rid of [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]].

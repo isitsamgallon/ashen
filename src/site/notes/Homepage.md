@@ -104,11 +104,11 @@ I plan to update this every month or if any major changes/ information is learne
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                               | Uvam Dynasty     | Minatota                    |
 | [[Named Characters & Beasts/Important Characters/Lady of Morak †\|Lady of Morak †]]                                                   | Dwarven Empire   | \-                          |
 | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Strixhaven       | Strixhaven Residential Area |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]             | Uvam Dynasty     | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | Ehobel           | Ishnmel                     |
 | [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                           | The Dawn Empire  | Dawnhaven                   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                         | The Emerald Fort | The Emerald Fort            |
 | [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire  | Dawnhaven                   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]             | Uvam Dynasty     | Yokotori                    |
 
 { .block-language-dataview}
 
