@@ -18,7 +18,7 @@ Steve Ulan was found in one of the cells in the dungeon of [[Groups/Religious Or
 
 The majority of his memories returned when the party journeyed to [[Locations/The Dawn Empire/Steelwick/Steelwick\|steelwick]] and explored his room and the dungeons. In the dungeons, he learnt that his father had tortured and murdered his girlfriend [[Named Characters & Beasts/Mistrel †\|Mistrel †]]. This filled him with rage and led him to murdering his father and go to trial for it.
 
-### Description 
+### Description
 Steve is described as a bland bland-looking human with a receding hairline and no remarkable features. 
 
 ### Personality
@@ -28,7 +28,7 @@ Initially, Steve was unreliable and quite racist, especially since [[Admin/Displ
 - Steve isn't a very good fighter but tries hard to not be a burden to the party and his friends.
 - He travelled with [[Admin/Display Tags/The Party\|The Party]] as a [[Groups/Companion\|Companion]] for a long time before being left in the [[History & Events/The War for the OFC's Freedom\|OFC]] to manage the cult and other affairs while they're not in the country 
 
-### Appearance 
+### Appearance
 ![SteveUlan.png](/img/user/Admin/Attachments/SteveUlan.png)
 
 ### Trivia

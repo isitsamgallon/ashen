@@ -3,7 +3,7 @@
 ---
 
 
-# Session Summary 
+# Session Summary
 After subduing Aidan Knight and stabilizing him, the party is ambushed by a goblin mage who uses powerful ancient magic to increase gravity, incapacitating them. Chenris Tallfellow manages to dispel the magic on Korrigan, who attempts to shoot the mage but misses as the mage turns invisible. With the situation worsening and Arwen Gryffon approaching with goblins, Chenris attempts to stop the mage but fails, causing the party to black out. They awaken in Aeloria's library, where she offers to help them level up in exchange for information. They later find themselves captured and forced to mine in a goblin-controlled area, but manage to escape using a combination of deception, magic, and scouting from Korrigan's summoned bird, Zephyr. The party retrieves their gear and escapes to Steelwick, where they find the city deserted due to a trial.
 
 The next morning, after a brief altercation between Mordecai and Aidan, Drache convinces the party to save Steve Ulan, who is on trial for murder. They disguise themselves to infiltrate the courtroom, but their efforts to defend Steve result in his execution sentence. Despite the setback, they receive a note from Xekai with instructions on breaking Steve out. Meanwhile, Chenris and Korrigan explore a local library to learn more about the gods. The session ends with Xekai advising the party to seek reinforcements in Dustwood for Steelwick, opening a portal to facilitate their journey.
@@ -33,6 +33,6 @@ Deciding that they need disguises to get in to the courtroom, Mordecai puts [[Th
 
 Soon after this Korrigan runs in and try to start a resolution around the fact that the [[Groups/Goblin Mafia\|Goblin Mafia]] are planning an attack on the city in an attempt to speed up the trial - he succeeds in speeding up the trial, however it ends with Steve being sent for execution. The three of them make their move to leave the court room slightly depressed with the undesirably result, get stopped by Xekai. He hands them a note that contains [[Books, Documents & Artefacts/Steve's Cell Location\|Steve's Cell Location]] and a time to break him out. 
 
-During all of this Chenris went to the libary to learn a bit more about the gods of [[Locations/The Amber Realms\|The Amber Realms]] and found a book called [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]].
+During all of this Chenris went to the library to learn a bit more about the gods of [[Locations/The Amber Realms\|The Amber Realms]] and found a book called [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]].
 
 After thew whole party regroups, they meet Xekai and tells them to not only the delivery to [[Locations/The Dawn Empire/Farpost\|Farpost]], they note they got as a quest back in [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] they should also go to [[Locations/The Dawn Empire/Dustwood\|Dustwood]] to try and get reinforcements for steelwick. He opens a portal there so the party don't waste too much time. 

@@ -3,7 +3,7 @@
 ---
 
 
-# Session Summery 
+# Session Summery
 Chenris Tallfellow and Aidan Knight realize that the house they are staying in is a mimic, and they quickly wake their companions as the furniture starts to move. The Party escapes the mimic after a battle, spending the night traveling to the nearby coastal town of Enelion. At the inn, Chenris uses his noble status to secure a luxury room, revealing his noble heritage to the surprised group. The Party rests in the opulent accommodations, but tensions rise due to the presence of enslaved staff and Chenris’s prank on Aidan, which involves hiding his dagger in a portal.
 
 The next day, after enjoying a lavish breakfast, the Party asks about meeting the Empress, Obeus Yelris, and learns that gaining the favor of local lords could help. They locate Lord Folre Enelion IV on the beach, surrounded by women, and secure his support by making flattering remarks. With the Lord’s favor, the Party sets off toward Nas Anor, hoping to advance their quest.

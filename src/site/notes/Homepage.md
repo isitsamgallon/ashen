@@ -91,24 +91,24 @@ I plan to update this every month or if any major changes/ information is learne
 - [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]
 - [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]
 - [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
-- [[Books, Documents & Artefacts/Diary Entry Found The Crypts of Dawnhaven\|Diary Entry Found The Crypts of Dawnhaven]]
+- [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]
 
 ### Other Information:
 **Important NPCs:**
 | File                                                                                                                                     | Home Nation      | Home Town                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------- |
-| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire  | Dawnhaven                   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                               | Lost Haven       | \-                          |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                 | Lost Haven       | \-                          |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | Strixhaven       | Strixhaven Residential Area |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                         | The Tulan Fort   | The Tulan Fort              |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                         | The Emerald Fort | The Emerald Fort            |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]             | Uvam Dynasty     | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                               | Uvam Dynasty     | Minatota                    |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | Ehobel           | Ishnmel                     |
 | [[Named Characters & Beasts/Important Characters/Lady of Morak †\|Lady of Morak †]]                                                   | Dwarven Empire   | \-                          |
 | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Strixhaven       | Strixhaven Residential Area |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]             | Uvam Dynasty     | Yokotori                    |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | Ehobel           | Ishnmel                     |
 | [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                           | The Dawn Empire  | Dawnhaven                   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                         | The Emerald Fort | The Emerald Fort            |
+| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire  | Dawnhaven                   |
 
 { .block-language-dataview}
 
@@ -138,13 +138,13 @@ I plan to update this every month or if any major changes/ information is learne
 | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]]           | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]                   | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Carryn\|Carryn]]                         | Kearlin Atoll   |
-| [[Locations/Important Locations & Nations/Morak Hold\|Morak Hold]] | Dwarven Empire  |
 | [[Locations/Fort Moldan\|Fort Moldan]]                             | Dwarven Empire  |
+| [[Locations/Important Locations & Nations/Morak Hold\|Morak Hold]] | Dwarven Empire  |
 | [[Locations/Feywild/Temple of Lorwyn\|Temple of Lorwyn]]           | The Feywilds    |
 | [[Locations/Feywild/Seelie Court\|Seelie Court]]                   | The Feywilds    |
-| [[Locations/Ehobel/Yren\|Yren]]                                    | Ehobel          |
-| [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]    | Ehobel          |
 | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                      | Ehobel          |
+| [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]    | Ehobel          |
+| [[Locations/Ehobel/Yren\|Yren]]                                    | Ehobel          |
 | [[Locations/Ehobel/Renabel\|Renabel]]                              | Ehobel          |
 | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]    | Ehobel          |
 | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                        | Ehobel          |

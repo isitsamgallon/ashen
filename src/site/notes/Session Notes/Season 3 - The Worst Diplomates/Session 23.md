@@ -63,7 +63,7 @@ By this point, Mordecai has made it to the room to find it unchanged since they 
 
 As he approaches her she tells him to be quiet as people are approaching. From their vantage point, they can see a guard walking a prisoner down to their location. Chenris is dumbfounded when he recognises Aidan as the prisoner because as far as he was aware, the rogue was in [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] still. He is unable to ascertain the identity of the guard, however. As they get closer, Aidan spots Chenris and Obeus hiding and motions that everything is ok. 
 
-### Drache's Duel 
+### Drache's Duel
 Drache begins to sneak into the room and greets [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] and Mordecai unconscious on either side of Damascus' throne, with the man himself seated and bored. The barbarian is instantly spotted, so he just walks in to confront his cruel former boss. As he approaches, he spots out of the corner of his eye, the Dwarf readying a sneak attack. Effortlessly dogging out the way, the Dragonborn snarled "You sneaky bastard". "Worth a shot" grumbled the dwarf as Drache explained his respect for the attempt. Witnessing the entire event, Klyn begins to cackle.
 
 Drache turns to the man stating "I knew you were a spineless fucking worm, but this a new low, even for you". "Big words coming from the man who abandoned us because he was too scared to fight in wars" snarled the fort leader. "I seem to remember that it was my side that won the war, not yours" Drache retorted. 

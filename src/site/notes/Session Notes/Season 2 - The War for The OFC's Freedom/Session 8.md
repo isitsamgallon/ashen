@@ -3,7 +3,7 @@
 ---
 
 
-# Session Summery 
+# Session Summery
 The party travels to the Uvam Dynasty to locate Terence Witherfeather and free Drache from his contract with the Ivory Crest. Along the way, they stop in Dustwood, where they are detained by guards and questioned about their connection to Steve Ulan, who has murdered his father, Lord Ulan. The party denies involvement but learns that under Dawn Empire law, all associates of a murderer can be held responsible. They are released but are accompanied by a gnome named Captain Junior, who is tasked with observing them.
 
 As they near the Uvam Dynasty, Mordecai confesses he is wanted in Minatota, where Witherfeather was last seen. In Minatota, the party mistakenly enters a sex club while searching for information. Here, they learn that Witherfeather is associated with Arwen Gryffon, a figure from Mordecai’s past. The club, designed to disorient and isolate patrons, quickly separates the party. Aidan is charmed and kidnapped by a tiefling, Korrigan is drugged into aiding a robbery, and Mordecai gives money to an old friend who is clearly being abused by Arwen. Eventually, they regroup and locate Arwen’s office, discovering disturbing evidence of her obsession with Mordecai, including walls adorned with scratched-out images of him and a pile of dead tieflings.

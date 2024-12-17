@@ -19,7 +19,7 @@ traits:
 ### Overview
 Korrigan is a human-fey hybrid and [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]'s [[Gods & Heralds/Herald\|Herald]]. He is a Ranger/Druid Multi-class known for using a powerful lightning bow and fey-magic. He first joined [[Admin/Display Tags/The Party\|The Party]] as [[The Party/Dead/Kal ‡\|Kal ‡]] before he eventually died when fighting a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]] near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. He later rejoined the party in his new form with barely any of his memories, however, over time he regained most of his memories when interacting with things reminiscent of his past. He was incredibly close with [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], being one of the few people able to understand him and tell when they were lying. He is played by [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]
 
-### Personality 
+### Personality
 Korrigan is generally a very happy and seemingly quite innocent person who prioritises someone's freedom and the safety of nature above all else. He fiercely defends his friends and allies and just wants them to be happy. Underneath the surface, he is deeply troubled as he tries to reconcile his human life with his new life as a Fey creature and the Herald of Lorwyn.  
 
 ### Description

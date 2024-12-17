@@ -18,7 +18,7 @@ Bruce is A Dwarven automaton found in [[Locations/The Dawn Empire/Steelwick/Iron
 
 He was finally rediscovered when [[Admin/Display Tags/The Party\|The Party]] accompanied [[Locations/Strixhaven\|Strixhaven]] researchers to explore what they thought was an Ancient Dwarven Stronghold. The party immediately took a liking to him, especially [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]],  and decided to take him on to journey with them. 
 
-### Personality 
+### Personality
 Although Bruce is an automaton, the extended period of time where he was left alone has caused many bugs in his coding and construction, leading him to his own personality. Bruce is sweet, endearing and kind of awkward but is incredibly energetic in whatever he does.
 
 ### Other Information

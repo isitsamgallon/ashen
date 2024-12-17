@@ -4,7 +4,7 @@
 
 
 
-# Session Summery 
+# Session Summery
 The party, after reuniting outside the palace, decides to leave the city of Ishnmel to avoid being implicated in Obeus Yelris's disappearance. During their escape, Mordecai Reverance reassures Obeus, who is delighted to have made friends for the first time. She offers them a cursed amulet, but Chenris Tallfellow confirms that the curse has been lifted. They set up camp outside the city walls, and during their watches, they uncover troubling news: the Emperor is missing, local lords are gaining power, and The Ethertwist Haunter is monitoring them. They decide to keep moving toward [[Locations/Ehobel/Caalona\|Caalona]], only to be ambushed by [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]], who mysteriously revive after being killed. Chenris uses magic to command the [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]] to flee, allowing the group to make a hasty escape.
 
 # Full Session Notes
@@ -16,7 +16,7 @@ Having dealt with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] before
 
 [[Admin/Display Tags/The Party\|The Party]] are now outside the gates of the city and asks [[The Party/The Korrigan/The Korrigan\|The Korrigan]] where the best place to set up camp might. (Due to a low roll) He decides it would be best to sleep right outside the castle wall. Most people disagree but go with it once Chenris reminds them that Korrigan would know best in these situations. 
 
-#### Chenris & [[The Party/Aidan Knight\|Aidan Knight]]'s watch:
+#### Chenris & [[The Party/Aidan Knight\|Aidan Knight]]'s Watch:
 Sitting alone Chenris ask Aidan about his possession by [[Gods & Heralds/Chronovorus/Chronovorus\|chronovorus]] and starts to take notes as Aidan is talking. Aidan reveals that the possession actually started the night before [[Session Notes/Season 3 - The Worst Diplomates/Session 15\|Session 15]] and it felt like something halfway between being in autopilot and being in a coma. That was until [[Gods & Heralds/Chronovorus/Chronovorus\|chronovorus]] took full control and started opening time rifts. Apparently attacking his body did help him regain some control but this only angered the god and took back control. it was only after Mordecai cast [Dispel Magic](https://www.dndbeyond.com/spells/2072-dispel-magic) that he regained control. Having learned all he wanted, Chenris closed his notebook and returned to reading. 
 
 #### Chenris, Mordecai & Obeus' Watch:
@@ -28,7 +28,7 @@ Mordecai then asks he she knows [[Named Characters & Beasts/Important Characters
 
 Talking about [[History & Events/The Sundering\|The Sundering]] further, Chenris and Obeus talk about the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]] and about it's incredible enchantment to turn anyone it hits into [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] and how it is probably still out there and whoever has it must be terrifying. Soon their watch comes to an end. 
 
-#### Korrigan, Obeus & Drache's Watch 
+#### Korrigan, Obeus & Drache's Watch
 Korrigan and Drache bond over the fact that they can teach other the skills that they specialise in. Korrigan starts teaching Drache some basic ritual spells and drache shows some basic martial arts. Suddenly they notice that a [[Gods & Heralds/Chronovorus/Haunter Crows\|crow]] has been watching them intently for a long time. Using their respective ways of talking to animals they ask what it is doing and who it is watching for. The crow will not tell them. Korrigan attempts to use [Charm Monster](https://www.dndbeyond.com/spells/14763-charm-monster) on the crow 3 times and only succeeds on the final attempt. Drache then uses [Beast Sense](https://www.dndbeyond.com/spells/2325-beast-sense) to allow him to know who the crow returns to. 
 
 The crow returns to [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]].

@@ -11,10 +11,10 @@
 | [[The Party/Aidan Knight\|Aidan Knight]]                                      | Rogue/Warlock     | Party Member | In The Party |
 | [[The Party/Halfbie\|Halfbie]]                                                | Wizard/Artificer  | Party Member | In The Party |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]]                          | Sorcerer/Bard     | Party Member | In The Party |
-| [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin           | Companion    | Travelling   |
-| [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown           | Companion    | Travelling   |
-| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter           | Companion    | Travelling   |
 | [[The Party/The Korrigan/The Korrigan\|The Korrigan]]                         | Ranger/Druid      | Party Member | In The Party |
 | [[The Party/Wurinn 'Drache' Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]]          | Barbarian/Paladin | Party Member | In The Party |
+| [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown           | Companion    | Travelling   |
+| [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin           | Companion    | Travelling   |
+| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter           | Companion    | Travelling   |
 
 { .block-language-dataview}
