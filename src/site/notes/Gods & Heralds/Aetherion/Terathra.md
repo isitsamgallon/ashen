@@ -3,9 +3,8 @@
 ---
 
 
+### Overview
 The name given to the being at the centre of the world. See [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]] for more information. When he speaks to the party, he speaks in a very archaic and poetic way.
-
-[[Admin/TOM MISSING INFORMATION\|TOM MISSING INFORMATION]]
 
 # History
 [[The Party/The Korrigan/The Korrigan\|The Korrigan]] first made contact with it by casting [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) on the crystal at [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]. Korrigan then managed to have a full conversation with it by meditating on the tree in [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]].

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-ritual/","noteIcon":""}
 ---
 
-This was an ancient ritual that could be used to banish the [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]. To perform this ritual, the afflicted must burn 8 of [[Gods & Heralds/Chronovorus/The Pages\|The Pages]] along with their most prized possession. Everyone must then close their eyes and not open them until they hear three rings of a bell. 
+This was an ancient ritual that could be used to banish [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]. To perform this ritual, the afflicted must burn 8 of [[Gods & Heralds/Chronovorus/The Pages\|The Pages]] along with their most prized possession. Everyone must then close their eyes and not open them until they hear three rings of a bell. 
 
 Here is a list of what each party member burnt during their ritual:
 - [[The Party/Aidan Knight\|Aidan Knight]] threw in the key that he had used to escape the cult he had been holding since his birth. 
