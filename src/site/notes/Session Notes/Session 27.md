@@ -83,7 +83,7 @@
 - They fight da dragon 
 - Through a gold portal a man in a golden mask appears and says i knew this would happen. They shake their head and golden dragon leaves through the portal
 - Halfbie, Aidan and Korrigan all heal Mordecai after that. 
-- Drache cant understand they killed [[Named Characters & Beasts/Historically Significant  Characters/Uti, The Dragon\|Uti, The Dragon]]
+- Drache cant understand they killed [[Named Characters & Beasts/Historically Significant  Characters/Uti †\|Uti †]]
 - Mordecai asks why they would help them when they've been so mean to halfbie 
 - Halfbie said they would always help people and is confused if they wouldn't
 - Mordecai can tell halfbie isn't telling the full truth and says they can get away with it cus they saved them. Halfbie doesn't respond and smiles 

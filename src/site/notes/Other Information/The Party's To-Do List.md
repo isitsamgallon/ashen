@@ -8,7 +8,7 @@
 - [ ] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]
 - [ ] Go to [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan/The Korrigan\|The Korrigan]]'s business.
 - [ ] Travel to [[Locations/Itone Isles\|Itone Isles]]
-	- [ ] Learn more about [[Named Characters & Beasts/Historically Significant  Characters/Uti, The Dragon\|Uti, The Dragon]].
+	- [ ] Learn more about [[Named Characters & Beasts/Historically Significant  Characters/Uti †\|Uti †]].
 	- [ ] Find [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus\|Master Enel Cubus]]
 	- [ ] Learn about [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]]
 - [ ] Enact the rest of the [[Other Information/OFC Plans\|OFC Plans]].
