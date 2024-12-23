@@ -32,7 +32,7 @@ The OFC finally won true independence from [[Locations/The Dawn Empire/The Dawn 
     - Safe bed to sleep in for those who lose their families/homes**
 
 # Defence & Security
-Minister of Defence; [[The Party/Wurinn 'Drache' Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]]
+Minister of Defence; [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
 
 **Primary Focus:** Protecting the people and lands of the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] by fighting battles when needed and organising typical guard duties for city and town protection. 
 

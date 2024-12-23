@@ -13,13 +13,14 @@ Each member of the Auditors has a piece of Akin, binding them to the same missio
 - [[Admin/Display Tags/The Party\|The Party]] 
 
 # Known Members
-- [[Named Characters & Beasts/Important Characters/Xekai\|Xekai]] (?)
-- [[Named Characters & Beasts/Historically Significant  Characters/Niaross\|Niaross]]
-- [[Named Characters & Beasts/Beasts & Animals/The Black Dragon\|The black Dragon]] (?)
-- [[Named Characters & Beasts/Illusion Master\|Illusion Master]](?)
-- [[Named Characters & Beasts/Historically Significant  Characters/Akin Netch ‡\|Akin Netch ‡]] (Founder)
-- [[Named Characters & Beasts/Anselis\|Anselis]] (?)
-- [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] (Theorised)
+- [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] (Founder)
+- [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] (Assumed High-Ranking Member)
+- [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]] 
+- [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]
+- [[Named Characters & Beasts/Illusion Master\|Illusion Master]] (Theorised)
+- [[Named Characters & Beasts/Anselis\|Anselis]] (Theorised)
+- Various other unnamed members that appeared in [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]]
 
 # Trivia 
 - When writing up the notes for them, [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] didn't have a name for the group since [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] hadn't revealed it yet. Same decided to make something up and made it super weeby. Leading to the temporary name of "The Emmence's Shadow Garden"

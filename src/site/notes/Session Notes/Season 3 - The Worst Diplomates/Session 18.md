@@ -112,5 +112,5 @@ Mordecai explains that if they were going to do it properly they might need to r
 --Session End--
 
 # Trivia & Notes
-- [[The Party/Wurinn 'Drache' Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]] doesn't appear in this session due to Caleb not being able to join the session due to work. [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] simply states that Drache ends up getting trapped in an illusion in a different part of the city and didn't manage to join the group outside the city.
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] doesn't appear in this session due to Caleb not being able to join the session due to work. [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] simply states that Drache ends up getting trapped in an illusion in a different part of the city and didn't manage to join the group outside the city.
 - For the majority of this session Mordecai had knives for hands dues to rolling bad on the wild magic table. 

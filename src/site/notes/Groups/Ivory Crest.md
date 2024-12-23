@@ -8,4 +8,4 @@ Ivory Crest is facade for a thriving thieves' guild that operated covertly withi
 
 The guild is also known for secretly stealing from [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]. They have people on the inside and there is secret access to the palace to funnel money out of the vault. 
 
-[[The Party/Wurinn 'Drache' Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]] was forced into being a member in the [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 6\|Session 6]] [ In response to this, [[The Party/Aidan Knight\|Aidan Knight]] attempted to break into the guild to steal one of the magical slips of paper.
+[[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] was forced into being a member in the [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 6\|Session 6]] [ In response to this, [[The Party/Aidan Knight\|Aidan Knight]] attempted to break into the guild to steal one of the magical slips of paper.

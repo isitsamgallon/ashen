@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-A snowy nation found to the north of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. The island where [[Named Characters & Beasts/Historically Significant  Characters/Uti †\|Uti †]], lives. It is described like the following: "Isolated and inhospitable, [[Locations/Itone Isles\|Itone Isles]] is but a graveyard of a forgotten civilisation, a silent testament to an era lost in the mists of time."
+A snowy nation found to the north of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. The island where [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]], lives. It is described like the following: "Isolated and inhospitable, [[Locations/Itone Isles\|Itone Isles]] is but a graveyard of a forgotten civilisation, a silent testament to an era lost in the mists of time."
 
 [[Admin/Display Tags/The Party\|The Party]] first travelled here in [[Session Notes/Season 4 - Name Undecided/Session 26\|Session 26]].
 

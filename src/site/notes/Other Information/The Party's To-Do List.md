@@ -8,8 +8,8 @@
 - [ ] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]
 - [ ] Go to [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan/The Korrigan\|The Korrigan]]'s business.
 - [ ] Travel to [[Locations/Itone Isles\|Itone Isles]]
-	- [ ] Learn more about [[Named Characters & Beasts/Historically Significant  Characters/Uti †\|Uti †]].
-	- [ ] Find [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus\|Master Enel Cubus]]
+	- [ ] Learn more about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]].
+	- [ ] Find [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus †\|Master Enel Cubus †]]
 	- [ ] Learn about [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]]
 - [ ] Enact the rest of the [[Other Information/OFC Plans\|OFC Plans]].
 - [ ] Explore [[Locations/The Desert/The Desert\|The Desert]]
@@ -19,7 +19,7 @@
 		- [ ] Travel to [[Locations/The Desert/Sumene\|Sumene]]
 - [ ] Move [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]'s hero cult to [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]] to increase trade and tourism in the area.
 - [ ] [[Groups/The Auditors\|The Auditors]]
-	- [ ] Learn what [[Named Characters & Beasts/Important Characters/Xekai\|Xekai]] 's plan/ role is
+	- [ ] Learn what [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] 's plan/ role is
 	- [ ] Learn what their current goals are
 - [ ] Return [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] to [[Locations/Ehobel/Ehobel\|Ehobel]]
 - [ ] Learn what happened to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]].

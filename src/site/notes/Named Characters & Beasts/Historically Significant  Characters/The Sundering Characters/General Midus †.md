@@ -4,4 +4,4 @@
 
 
 ### Overview 
-General MIdus was one of the lead tacticians for [[Groups/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]] and faced off against [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Seifer Willow †\|Seifer Willow †]] many times during the war.
+General MIdus was one of the lead tacticians for [[Groups/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]] and faced off against [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]] many times during the war.

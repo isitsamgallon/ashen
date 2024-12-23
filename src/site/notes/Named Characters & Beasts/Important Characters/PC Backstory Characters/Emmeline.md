@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/emmeline/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/emmeline/","tags":["NPC","Important"],"noteIcon":""}
 ---
 
 
 ### Overview
-She is [[The Party/Wurinn 'Drache' Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]]'s lover from [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]]. When they first met, Drache was a part of [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]] and would sneak out, abandoning post sometimes, to go see her. 
+She is [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]'s lover from [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]]. When they first met, Drache was a part of [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]] and would sneak out, abandoning post sometimes, to go see her. 
 
 ### Notable Information & History
 - For a long time not much was known about her until Drache talked with [[Named Characters & Beasts/Genevieve †\|Genevieve †]] and learned that she was last spotted heading for Tulan, not aware he was in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] with [[Admin/Display Tags/The Party\|The Party]] at the time.
