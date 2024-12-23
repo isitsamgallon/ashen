@@ -111,13 +111,13 @@ I plan to update this every month or if any major changes/ information is learne
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                 | Lost Haven       | \-                          |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                               | Lost Haven       | \-                          |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                    | Unknown/Unclear  | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                          | Unknown/Unclear  | \-                          |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                          | Itone            | \-                          |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]                                            | \-               | \-                          |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                  | Itone            | \-                          |
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                      | \-               | \-                          |
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]]                                    | \-               | \-                          |
 | [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                   | \-               | \-                          |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                          | Unknown/Unclear  | \-                          |
 
 { .block-language-dataview}
 
