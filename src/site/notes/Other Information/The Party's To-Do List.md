@@ -7,10 +7,10 @@
 - [ ] Create a trade deal between the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] and [[Locations/Ehobel/Ehobel\|Ehobel]].
 - [ ] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]
 - [ ] Go to [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan/The Korrigan\|The Korrigan]]'s business.
-- [ ] Travel to [[Locations/Itone Isles\|Itone Isles]]
-	- [ ] Learn more about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]].
-	- [ ] Find [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus †\|Master Enel Cubus †]]
-	- [ ] Learn about [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]]
+- [x] Travel to [[Locations/Itone Isles\|Itone Isles]] ✅ 2024-12-24
+	- [x] Learn more about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]. ✅ 2024-12-24
+	- [x] Find [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus †\|Master Enel Cubus †]] ✅ 2024-12-24
+	- [x] Learn about [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]] ✅ 2024-12-24
 - [ ] Enact the rest of the [[Other Information/OFC Plans\|OFC Plans]].
 - [ ] Explore [[Locations/The Desert/The Desert\|The Desert]]
 	- [ ] Learn about the towns mentioned in the [[Books, Documents & Artefacts/Old Pyramid Map\|Old Pyramid Map]].
@@ -21,9 +21,11 @@
 - [ ] [[Groups/The Auditors\|The Auditors]]
 	- [ ] Learn what [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] 's plan/ role is
 	- [ ] Learn what their current goals are
+	- [ ] Go to [[Groups/The Auditors\|The Auditors]] Hideout
 - [ ] Return [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] to [[Locations/Ehobel/Ehobel\|Ehobel]]
 - [ ] Learn what happened to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]].
 - [ ] Learn about [[Gods & Heralds/Eldros/Eldros\|Eldros]]
 - [ ] Learn about [[Gods & Heralds/Somnora/Somnora\|Somnora]] 
 - [ ] Learn more about [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
 - [ ] Learn who the [[Named Characters & Beasts/Illusion Master\|Illusion Master]] is
+- [x] Find the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]] ✅ 2024-12-24

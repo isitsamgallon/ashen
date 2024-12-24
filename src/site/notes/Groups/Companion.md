@@ -10,9 +10,9 @@ The name is given to the group of people that travel with [[Admin/Display Tags/T
 | -------------------------------------------------------------------------------- | ------- | --------- | ------------ |
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] | Cleric  | Companion | In The Party |
 | [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown | Companion | Travelling   |
-| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter | Companion | Travelling   |
 | [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin | Companion | Travelling   |
-| [[The Party/Bit\|Bit]]                                                        | None    | Companion | In The Party |
+| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter | Companion | Travelling   |
+| [[The Party/Other Party Members/Bit\|Bit]]                                    | None    | Companion | In The Party |
 
 { .block-language-dataview}
 
