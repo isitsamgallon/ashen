@@ -3,11 +3,11 @@
 ---
 
 # Purpose & Use:
-This is a read-only version of the Ashen Campaign Vault to make it easier to find, read and share campaign information without having to set up Obsidian.
+This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without having to set up Obsidian. Although not built for theorising, you can find a list of our current **[[Other Information/Theories\|THEORIES HERE]]**.
 
 I have compiled a small list of common notes people might want to read below but there is also a search function on both desktop and mobile. On the desktop, there is also an "Explorer" section which contains the full folder tree of the vault to make finding specific notes easier.  
 
-I plan to update this every month or if any major changes/ information is learned after a session. DM [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] if there are any problems.
+I plan to update this every month or if any major changes/ information is learned after a session. DM [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] if there are any problems. As always, you should talk to [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] if you have any ideas or thoughts relating to the campaign. **NEVER** keep secrets from the DM this is a collaborative storytelling game, and it only works well if the storyteller knows what's happening. Who knows, they might even be able to make it happen better than you expected. 
 
 > [!tip] Useful Tip - Daggers
 > † denotes that this character is dead.
@@ -23,8 +23,8 @@ I plan to update this every month or if any major changes/ information is learne
 | -------------------------------------------------------- | ----------------- | --------------- | --------------- | --------------------------------------- |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]    | Barbarian/Paladin | The Tulan Fort  | The Tulan Fort  | <ul><li>Drache</li></ul>                |
 | [[The Party/The Korrigan/The Korrigan\|The Korrigan]] | Ranger/Druid      | The Feywilds    | Seelie Court    | <ul><li>Korri</li><li>Antlers</li></ul> |
-| [[The Party/Halfbie\|Halfbie]]                        | Wizard/Artificer  | Kearlin Atoll   | Paraton         | <ul><li>Halfwit</li></ul>               |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]]  | Sorcerer/Bard     | Uvam Dynasty    | Yokotori        | <ul><li>Mord</li></ul>                  |
+| [[The Party/Halfbie\|Halfbie]]                        | Wizard/Artificer  | Kearlin Atoll   | Paraton         | <ul><li>Halfwit</li></ul>               |
 | [[The Party/Aidan Knight\|Aidan Knight]]              | Rogue/Warlock     | Unknown/Unclear | Unknown/Unclear | \-                                      |
 
 { .block-language-dataview}
@@ -39,6 +39,33 @@ I plan to update this every month or if any major changes/ information is learne
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 23\|Session 23]] | <ul><li>Part 3</li></ul> | Xekai's portal delivers us to Yakawa where we infiltrate the Tulan fort and free Emmeline.                                                                                                                                                                                        |
 
 { .block-language-dataview}
+### Important NPCs
+| File                                                                                                                                     | Home Nation      | Home Town                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------- |
+| [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]                                                                    | \-               | \-                          |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                          | Unknown/Unclear  | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                          | Itone            | Uti's Cave                  |
+| [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                      | Unknown/Unclear  | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]]                                    | Unknown/Unclear  | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                  | Unknown/Unclear  | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                    | Unknown/Unclear  | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]                                            | Unknown/Unclear  | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire  | Dawnhaven                   |
+| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                   | The Desert       | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                               | Lost Haven       | Lost Haven                  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                 | Lost Haven       | Lost Haven                  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | Strixhaven       | Strixhaven Residential Area |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                         | The Tulan Fort   | The Tulan Fort              |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                         | The Emerald Fort | The Emerald Fort            |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]             | Uvam Dynasty     | Yokotori                    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                               | Uvam Dynasty     | Minatota                    |
+| [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                           | The Dawn Empire  | Dawnhaven                   |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | Ehobel           | Ishnmel                     |
+| [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Strixhaven       | Strixhaven Residential Area |
+| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                               | Unknown/Unclear  | Unknown/Unclear             |
+
+{ .block-language-dataview}
+
 ### Locations:
 - [[Locations/The Amber Realms\|The Amber Realms]] / [[Locations/Verdant Peninsula\|Verdant Peninsula]]
 - [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]
@@ -94,73 +121,46 @@ I plan to update this every month or if any major changes/ information is learne
 - [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]
 
 ### Other Information:
-**Important NPCs:**
-| File                                                                                                                                     | Home Nation      | Home Town                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------- |
-| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                   | \-               | \-                          |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                               | Lost Haven       | \-                          |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                 | Lost Haven       | \-                          |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | Strixhaven       | Strixhaven Residential Area |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                         | The Tulan Fort   | The Tulan Fort              |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                         | The Emerald Fort | The Emerald Fort            |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]             | Uvam Dynasty     | Yokotori                    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                               | Uvam Dynasty     | Minatota                    |
-| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire  | Dawnhaven                   |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                          | Unknown/Unclear  | \-                          |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                          | Itone            | \-                          |
-| [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                      | \-               | \-                          |
-| [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]]                                    | \-               | \-                          |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                  | Itone            | \-                          |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                    | Unknown/Unclear  | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]                                            | \-               | \-                          |
-| [[Named Characters & Beasts/Important Characters/Lady of Morak †\|Lady of Morak †]]                                                   | Dwarven Empire   | \-                          |
-| [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                           | The Dawn Empire  | Dawnhaven                   |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | Ehobel           | Ishnmel                     |
-| [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Strixhaven       | Strixhaven Residential Area |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                               | Unknown/Unclear  | Unknown/Unclear             |
-
-{ .block-language-dataview}
-
 **Unexplored locations:**
 | File                                                                               | Nation          |
 | ---------------------------------------------------------------------------------- | --------------- |
+| [[Locations/Fort Moldan\|Fort Moldan]]                                          | Dwarven Empire  |
 | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                                   | Uvam Dynasty    |
+| [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                         | Uvam Dynasty    |
 | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                                   | Uvam Dynasty    |
 | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                                   | Uvam Dynasty    |
-| [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                         | Uvam Dynasty    |
 | [[Locations/Snowport\|Snowport]]                                                | Snowport        |
 | [[Locations/The Desert/The Desert\|The Desert]]                                 | The Desert      |
 | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | The Desert      |
 | [[Locations/The Desert/Sumene\|Sumene]]                                         | The Desert      |
 | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | The Desert      |
 | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | The Desert      |
-| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | The Desert      |
 | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | The Desert      |
+| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | The Desert      |
 | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                              | The Dawn Empire |
-| [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                              | The Dawn Empire |
 | [[Locations/The Dawn Empire/Newhall\|Newhall]]                                  | The Dawn Empire |
+| [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                              | The Dawn Empire |
 | [[Locations/The Dawn Empire/Farpost\|Farpost]]                                  | The Dawn Empire |
-| [[Locations/Fort Moldan\|Fort Moldan]]                                          | Dwarven Empire  |
-| [[Locations/Kearlin Atoll/Paraton\|Paraton]]                                    | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Totala\|Totala]]                                      | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]                                | Kearlin Atoll   |
+| [[Locations/Kearlin Atoll/Paraton\|Paraton]]                                    | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Teria\|Teria]]                                        | Kearlin Atoll   |
+| [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]                                      | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]]                        | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]                                | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Carryn\|Carryn]]                                      | Kearlin Atoll   |
-| [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]                                      | Kearlin Atoll   |
 | [[Locations/Important Locations & Nations/Morak Hold\|Morak Hold]]              | Dwarven Empire  |
-| [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]                 | Ehobel          |
-| [[Locations/Ehobel/Yren\|Yren]]                                                 | Ehobel          |
-| [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]                 | Ehobel          |
-| [[Locations/Ehobel/Renabel\|Renabel]]                                           | Ehobel          |
-| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                   | Ehobel          |
-| [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                                     | Ehobel          |
-| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                 | Ehobel          |
-| [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                                   | Ehobel          |
-| [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]                   | Ehobel          |
+| [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]              | \-              |
 | [[Locations/Feywild/Temple of Lorwyn\|Temple of Lorwyn]]                        | The Feywilds    |
 | [[Locations/Feywild/Seelie Court\|Seelie Court]]                                | The Feywilds    |
-| [[Admin/Templates/New Location\|New Location]]                                  | \-              |
+| [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]                 | Ehobel          |
+| [[Locations/Ehobel/Yren\|Yren]]                                                 | Ehobel          |
+| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                   | Ehobel          |
+| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                 | Ehobel          |
+| [[Locations/Ehobel/Renabel\|Renabel]]                                           | Ehobel          |
+| [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]                 | Ehobel          |
+| [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                                     | Ehobel          |
+| [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]                   | Ehobel          |
+| [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                                   | Ehobel          |
 
 { .block-language-dataview}
