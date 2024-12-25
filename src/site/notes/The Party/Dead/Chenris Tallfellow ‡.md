@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T19:24:02.172+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T20:34:48.388+00:00"}
 ---
+
 
 
 <html lang="en">
@@ -59,13 +60,11 @@
 		    display: flex; /* Apply flexbox to the section */
 		    align-items: flex-start; /* Align items to the top */
 		    margin: 12px 0;
-		    background-color: #fffbf6;
 		  }
 		  .section h6 {
 		    margin-right: 8px; /* Add space between the title and content */
 		    font-size: 1rem; /* Ensure title font size matches */
 		    font-weight: bold; /* Title should be bold */
-		    background-color: #fffbf6;
 		  }
 		  .section p {
 		    margin: 0; /* Ensure paragraph has no extra margin */
@@ -74,17 +73,14 @@
 		    display: flex;  /* Ensures the stat items are displayed in a row */
 		    justify-content: space-between;
 		    margin: 8px 0;
-		    background-color: #fdf2de
 		  }
 		  .stat-table div {
 		    text-align: center;
-		    background-color: #fdf2de
 		  }
 		  .stat-table div span {
 		    display: block;
 		    font-weight: normal; /* Remove bold from numbers */
 		    color: #333;
-		    background-color: #fdf2de
 		  }
 		  .languages, .senses, .traits {
 		    font-size: 1.1rem;
@@ -94,7 +90,6 @@
 		    display: flex;
 		    align-items: center;
 		    gap: 12px;
-		    background-color: #fffbf6;
 		  }
 		  .avatar img {
 		    width: 48px;
@@ -107,7 +102,7 @@
 <body>
   <div class="character-card">
     <div class="avatar">
-      <img src="https://via.placeholder.com/48" alt="Chenris Avatar">
+      <img src="https://imgur.com/a/13ChMZv">
       <div>
         <h5>Chenris Tallfellow</h5>
         <p>Cleric (Death Domain) / Artificer<br>Half-Eldarin, Lawful Neutral<br>Per aspera ad astra</p>
