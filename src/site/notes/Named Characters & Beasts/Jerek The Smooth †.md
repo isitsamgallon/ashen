@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jerek-the-smooth/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jerek-the-smooth/","tags":["NPC"],"noteIcon":"","created":"2024-05-12T21:01:40.073+01:00","updated":"2024-12-13T17:33:51.977+00:00"}
 ---
 
 

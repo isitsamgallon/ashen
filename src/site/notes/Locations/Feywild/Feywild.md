@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/feywild/","noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/feywild/feywild/","noteIcon":"","created":"2024-10-11T21:28:24.448+01:00","updated":"2024-12-13T17:45:57.507+00:00"}
 ---
 
 The Feywild was a place of unrestrained and awe-inspiring natural beauty. The plane is always bathed in twilight of the setting (or perhaps rising) sun, with lanterns and fireflies providing additional, haunting lights. 

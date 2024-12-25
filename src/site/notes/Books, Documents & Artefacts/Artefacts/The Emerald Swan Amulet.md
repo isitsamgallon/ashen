@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/the-emerald-swan-amulet/","tags":["Artefact"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/the-emerald-swan-amulet/","tags":["Artefact"],"noteIcon":"","created":"2024-08-10T10:21:00.483+01:00","updated":"2024-12-23T18:12:51.589+00:00"}
 ---
 
 

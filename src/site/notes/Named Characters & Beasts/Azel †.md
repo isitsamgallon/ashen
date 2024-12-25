@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/azel/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/azel/","tags":["NPC"],"noteIcon":"","created":"2024-06-02T22:17:35.151+01:00","updated":"2024-12-13T17:33:51.913+00:00"}
 ---
 
 ### Overview

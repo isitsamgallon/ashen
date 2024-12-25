@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/old-pyramid-map/","noteIcon":""}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/old-pyramid-map/","noteIcon":"","created":"2024-10-03T21:26:02.657+01:00","updated":"2024-12-13T17:46:18.136+00:00"}
 ---
 
 A map that was found in [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]. It's very faded but they can make out 3 names next to a [[Locations/The Desert/Ember Peak\|volcano]]. 

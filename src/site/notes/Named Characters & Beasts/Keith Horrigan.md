@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/keith-horrigan/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/keith-horrigan/","tags":["NPC"],"noteIcon":"","created":"2024-06-02T21:07:50.000+01:00","updated":"2024-12-13T17:33:51.988+00:00"}
 ---
 
 

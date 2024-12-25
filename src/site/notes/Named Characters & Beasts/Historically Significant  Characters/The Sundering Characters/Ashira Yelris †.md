@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/ashira-yelris/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/ashira-yelris/","tags":["NPC"],"noteIcon":"","created":"2024-07-21T18:10:19.524+01:00","updated":"2024-12-13T17:33:51.943+00:00"}
 ---
 
 

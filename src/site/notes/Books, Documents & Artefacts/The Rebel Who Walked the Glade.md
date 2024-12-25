@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-rebel-who-walked-the-glade/","noteIcon":""}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-rebel-who-walked-the-glade/","noteIcon":"","created":"2024-12-18T22:42:16.658+00:00","updated":"2024-12-18T23:29:40.640+00:00"}
 ---
 
 Written by The Archivist

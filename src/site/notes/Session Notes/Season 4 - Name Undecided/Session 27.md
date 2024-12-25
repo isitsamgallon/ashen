@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-27/","noteIcon":""}
+{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-27/","noteIcon":"","created":"2024-12-20T20:21:01.364+00:00","updated":"2024-12-23T18:41:20.225+00:00"}
 ---
 
 **Session Date:** 20th Dec 2024 

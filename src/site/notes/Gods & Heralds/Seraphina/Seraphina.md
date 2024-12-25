@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","noteIcon":"","created":"2024-02-28T18:29:12.626+00:00","updated":"2024-12-17T21:06:53.591+00:00"}
 ---
 
 The Compassionate One, Bringer of Health. Although there is no distinction between the moral standing of the deities, she often considered the closet to being a 'moral good' God. It seems she has temples in most major cities that can be used to access healing. 

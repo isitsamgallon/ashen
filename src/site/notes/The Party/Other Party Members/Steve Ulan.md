@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC"],"noteIcon":"","created":"2024-10-04T19:06:33.206+01:00","updated":"2024-12-23T14:13:34.699+00:00"}
 ---
 
 ```statblock

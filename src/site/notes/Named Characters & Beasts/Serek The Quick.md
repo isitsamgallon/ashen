@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/serek-the-quick/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/serek-the-quick/","tags":["NPC"],"noteIcon":"","created":"2024-05-05T21:04:34.796+01:00","updated":"2024-12-13T17:33:52.005+00:00"}
 ---
 
 

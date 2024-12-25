@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/caden-steel-breaker/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/caden-steel-breaker/","tags":["NPC"],"noteIcon":"","created":"2024-03-22T14:44:15.591+00:00","updated":"2024-12-13T17:33:51.945+00:00"}
 ---
 
 ### Overview

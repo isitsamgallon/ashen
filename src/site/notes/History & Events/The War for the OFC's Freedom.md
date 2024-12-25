@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/the-war-for-the-ofc-s-freedom/","noteIcon":""}
+{"dg-publish":true,"permalink":"/history-and-events/the-war-for-the-ofc-s-freedom/","noteIcon":"","created":"2024-05-12T20:57:59.489+01:00","updated":"2024-12-13T17:46:30.526+00:00"}
 ---
 
 During the war for the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]'s independents in the [[History & Events/Eras/7th Era\|7th Era]], there were many parties involved, here is a list of all the factions and troupes involved:

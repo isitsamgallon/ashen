@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-sundering-a-historical-account/","noteIcon":""}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-sundering-a-historical-account/","noteIcon":"","created":"2024-08-03T20:34:13.214+01:00","updated":"2024-12-23T18:16:41.893+00:00"}
 ---
 
 The Sundering stands as one of the most cataclysmic events in the annals of history, a period of chaos and devastation that ushered in the Seventh Era. Over the course of three harrowing years, the world was irrevocably transformed by the machinations of [[Groups/Religious Organisations/The Ashen Cult\|the Ashen Cult]] and their dark deity, [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], the Cleansing Flame, Destroyer of Worlds.

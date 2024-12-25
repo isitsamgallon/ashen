@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-bridges/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-bridges/","tags":["NPC"],"noteIcon":"","created":"2024-03-12T22:15:44.115+00:00","updated":"2024-12-23T14:12:46.087+00:00"}
 ---
 
 

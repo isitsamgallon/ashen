@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/pour/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/pour/","tags":["NPC"],"noteIcon":"","created":"2024-08-03T19:49:11.559+01:00","updated":"2024-12-13T17:33:52.001+00:00"}
 ---
 
 

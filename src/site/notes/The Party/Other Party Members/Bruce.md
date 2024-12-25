@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","noteIcon":""}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","noteIcon":"","created":"2024-03-03T20:53:08.033+00:00","updated":"2024-12-23T14:13:34.702+00:00"}
 ---
 
 ```statblock

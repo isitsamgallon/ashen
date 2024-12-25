@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"noteIcon":"","created":"2024-05-06T00:16:39.624+01:00","updated":"2024-12-13T17:33:51.996+00:00"}
 ---
 
 

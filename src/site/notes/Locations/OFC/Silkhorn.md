@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/silkhorn/","tags":["Location"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/ofc/silkhorn/","tags":["Location"],"noteIcon":"","created":"2024-03-12T16:12:52.348+00:00","updated":"2024-12-13T22:52:52.550+00:00"}
 ---
 
 ### Overview

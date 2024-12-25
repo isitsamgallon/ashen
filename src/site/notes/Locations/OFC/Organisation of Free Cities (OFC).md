@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","noteIcon":"","created":"2024-08-10T09:42:12.226+01:00","updated":"2024-12-13T22:52:52.548+00:00"}
 ---
 
 The OFC is a small nation found to the west of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Sometime after the events of [[History & Events/The Sundering\|The Sundering]], the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] occurred causing the people of the land to fracture from The Dawn and form The OFC after the former refused to defend them against the Elves. It is assumed that [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] also defected from The Dawn around this time but it is unclear exactly when or why this happened. Upon his defection, he became the leader of the armies and was known throughout the OFC as a powerful figure and a beacon of hope to its people.
@@ -28,10 +28,10 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 ### NPCs From The OFC
 | File                                                                                                                                      | Home Town | Status |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall | Dead   |
-| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall | Alive  |
-| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn  | Alive  |
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn  | Dead   |
+| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn  | Alive  |
+| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall | Alive  |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall | Dead   |
 
 { .block-language-dataview}
 

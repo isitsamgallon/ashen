@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","noteIcon":"","created":"2024-02-28T17:25:38.744+00:00","updated":"2024-12-18T14:39:55.702+00:00"}
 ---
 
 **The Temporal Harbinger, Bringer of Chaos.** Although he dedicates most of his time to using his powers to sow chaos across [[Locations/The Amber Realms\|The Amber Realms]] for his own amusement, he is also responsible for maintaining the flow of time and keeping it moving forward at the correct speed. He often makes pacts with mortals, with his most common pact being to take parts of their lifespans in exchange for help with a problem or strength. He often appears in [[Locations/The Amber Realms\|The Amber Realms]], choosing to take the form of a cloud of black smoke with nothing but a creepy smile levitating in it, halting time when he does appear. He also causes time rifts to open across the Amber Realm, which bleeds time, causing chaos and agony wherever they appear. 

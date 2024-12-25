@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/ofc-plans/","noteIcon":""}
+{"dg-publish":true,"permalink":"/other-information/ofc-plans/","noteIcon":"","created":"2024-07-22T15:03:03.107+01:00","updated":"2024-12-23T14:12:46.261+00:00"}
 ---
 
 These are intended as outline of how [[Admin/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 3 - The Worst Diplomates/Session 12\|Session 12]].

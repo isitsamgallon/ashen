@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/high-priest-lyrion/","tags":["NPC"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/high-priest-lyrion/","tags":["NPC"],"noteIcon":"","created":"2024-07-30T15:03:55.867+01:00","updated":"2024-12-13T17:33:51.950+00:00"}
 ---
 
 

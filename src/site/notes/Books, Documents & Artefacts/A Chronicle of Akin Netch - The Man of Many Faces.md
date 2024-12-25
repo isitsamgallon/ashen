@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/a-chronicle-of-akin-netch-the-man-of-many-faces/","noteIcon":""}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/a-chronicle-of-akin-netch-the-man-of-many-faces/","noteIcon":"","created":"2024-09-17T22:20:03.046+01:00","updated":"2024-12-17T21:09:58.636+00:00"}
 ---
 
 

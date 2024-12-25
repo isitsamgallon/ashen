@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/the-auditor-s-headquarters/","tags":["Location","Unexplored"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/the-desert/the-auditor-s-headquarters/","tags":["Location","Unexplored"],"noteIcon":"","created":"2024-12-23T17:46:52.106+00:00","updated":"2024-12-23T18:04:49.420+00:00"}
 ---
 
 

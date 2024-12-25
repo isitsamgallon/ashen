@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria-s-library/","tags":["Location"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria-s-library/","tags":["Location"],"noteIcon":"","created":"2024-12-18T14:41:29.105+00:00","updated":"2024-12-18T14:52:30.671+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/","noteIcon":"","created":"2024-09-17T14:45:05.330+01:00","updated":"2024-12-23T14:12:46.361+00:00"}
 ---
 
 We start mid combat in [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]].
