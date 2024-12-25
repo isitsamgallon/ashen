@@ -1,13 +1,109 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T19:02:33.386+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T19:18:45.369+00:00"}
 ---
+
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chenris Tallfellow Card</title>
-  <link rel="stylesheet" href="character-card.css"> <!-- Link to the external CSS -->
+	<meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <title>Chenris Tallfellow Card</title>
+	  <link rel="stylesheet" href="character-card.css"> <!-- Link to the external CSS -->
+	  <style>
+		body {
+		    font-family: Arial, sans-serif;
+		    background-color: #fdf2de;
+		    display: flex;
+		    justify-content: center;
+		    align-items: center;
+		    height: 100vh;
+		    margin: 0;
+		
+		  }
+		  .character-card {
+		    background-color: #fdf2de;
+		    border: 2px solid #e5c7a1;
+		    border-top: 4px solid #a11812; /* Red border on the top */
+		    border-bottom: 4px solid #a11812; /* Red border on the bottom */
+		    border-left: none; /* No border on the left */
+		    border-right: none; /* No border on the right */
+		    border-radius: 5px;
+		    padding: 16px;
+		    width: 350px; /* Increased width */
+		    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+		    box-sizing: border-box;
+		  }
+		  .divider {
+		    background: linear-gradient(to right, #a11812, transparent);
+		    height: 4px;
+		    width: 100%;
+		    margin: 12px 0;
+		    box-sizing: border-box;
+		  }
+		  h6 {
+		    font-weight: bold;
+		    color: #a11812; /* Red color */
+		    font-size: 1.2rem; /* Font size */
+		    margin: 0;
+		  }
+		  .character-card h5 {
+		    font-size: 1.5em;
+		    margin: 0;
+		    color: #a11812;
+		  }
+		  .character-card p {
+		    font-size: 1rem;
+		    margin: 0;
+		    color: #555;
+		  }
+		  .section {
+		    display: flex; /* Apply flexbox to the section */
+		    align-items: flex-start; /* Align items to the top */
+		    margin: 12px 0;
+		    background-color: #fffbf6;
+		  }
+		  .section h6 {
+		    margin-right: 8px; /* Add space between the title and content */
+		    font-size: 1rem; /* Ensure title font size matches */
+		    font-weight: bold; /* Title should be bold */
+		    background-color: #fffbf6;
+		  }
+		  .section p {
+		    margin: 0; /* Ensure paragraph has no extra margin */
+		  }
+		  .stat-table {
+		    display: flex;  /* Ensures the stat items are displayed in a row */
+		    justify-content: space-between;
+		    margin: 8px 0;
+		    background-color: #fdf2de
+		  }
+		  .stat-table div {
+		    text-align: center;
+		    background-color: #fdf2de
+		  }
+		  .stat-table div span {
+		    display: block;
+		    font-weight: normal; /* Remove bold from numbers */
+		    color: #333;
+		    background-color: #fdf2de
+		  }
+		  .languages, .senses, .traits {
+		    font-size: 1.1rem;
+		    margin: 8px 0;
+		  }
+		  .avatar {
+		    display: flex;
+		    align-items: center;
+		    gap: 12px;
+		    background-color: #fffbf6;
+		  }
+		  .avatar img {
+		    width: 48px;
+		    height: 48px;
+		    border-radius: 50%;
+		    border: 2px solid #ccc;
+		  }
+	</style>
 </head>
 <body>
   <div class="character-card">
