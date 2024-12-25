@@ -3,7 +3,7 @@
 ---
 
 # Purpose & Use:
-This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without having to set up Obsidian. Although not built for theorising, you can find a list of our current **[[Other Information/Theories\|THEORIES HERE]]**.
+This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without having to set up Obsidian. Although not built for theorising, you can find a list of our current **[[Other Information/Theories & Unanswered Questions\|THEORIES & UNANSWERED QUESTIONS HERE]]**.
 
 I have compiled a small list of common notes people might want to read below but there is also a search function on both desktop and mobile. On the desktop, there is also an "Explorer" section which contains the full folder tree of the vault to make finding specific notes easier.  
 
