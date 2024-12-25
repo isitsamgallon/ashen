@@ -1,19 +1,80 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-23T18:32:20.737+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T19:02:33.386+00:00"}
 ---
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chenris Tallfellow Card</title>
+  <link rel="stylesheet" href="character-card.css"> <!-- Link to the external CSS -->
+</head>
+<body>
+  <div class="character-card">
+    <div class="avatar">
+      <img src="https://via.placeholder.com/48" alt="Chenris Avatar">
+      <div>
+        <h5>Chenris Tallfellow</h5>
+        <p>Cleric (Death Domain) / Artificer<br>Half-Eldarin, Lawful Neutral<br>Per aspera ad astra</p>
+      </div>
+    </div>
+  
+    <!-- Divider above Armor Class -->
+    <div class="divider"></div>
+		<div class="section">
+	  <h6>Armor Class:</h6>
+	  <p>16</p>
+	</div>
 
-```statblock
-image: [[IMG_0309.jpg]]
-name: Chenris Tallfellow
-subtype: Half-Eldarin, Cleric/Artificer
-alignment: Lawful Neutral
-ac: 16
-stats: [8, 10, 15, 16, 16, 8]
-senses: Darkvision 60ft
-languages: Common, Ancient Dwarvish, Elvish, Primordial, Undercommon
-type: "Per aspera ad astra"
-```
+    <!-- Divider below Armor Class -->
+    <div class="divider"></div>
+    
+    <div class="section stat-table">
+      <div>
+        <span>STR</span>
+        <p>8 (-1)</p>
+      </div>
+      <div>
+        <span>DEX</span>
+        <p>10 (+0)</p>
+      </div>
+      <div>
+        <span>CON</span>
+        <p>15 (+2)</p>
+      </div>
+      <div>
+        <span>INT</span>
+        <p>16 (+3)</p>
+      </div>
+      <div>
+        <span>WIS</span>
+        <p>16 (+3)</p>
+      </div>
+      <div>
+        <span>CHA</span>
+        <p>8 (-1)</p>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+  
+	<div class="section">
+	  <h6>Senses:</h6>
+	  <p>Darkvision 60ft</p>
+	</div>
+	
+	<div class="section">
+	  <h6>Languages:</h6>
+	  <p>Common, Ancient Dwarvish, Elvish, Primordial, Undercommon</p>
+	</div>
+
+	<div class="section">
+	  <h6>Traits:</h6>
+	  <p>Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.</p>
+	</div>
+  </div>
+</body>
+</html>
 
 ### Overview
 Chenris Tallfellow is a Half-Eldarin who used to live and study at [[Locations/Strixhaven\|Strixhaven]]. He was a Cleric/ Artificer Multi-class and was among the original 3 members of [[Admin/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for his sharp wit and even sharper tongue, Chenris was the brains of the party, often researching and figuring out solutions to whatever situation the party found themselves in. He was notability from a noble lineage, however, he refused to elaborate on how. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
@@ -24,7 +85,7 @@ Chenris is a know-it-all magic user with a pension to talk down to people who ar
 ### Description
 Chenris has a pale complexion and a long grey beard and hair. He was found wearing scale mail armour covered by a long and beautifully made black cloak. It was made from fine Elvin silk and had the words 'Per aspera ad astra' sown into the fabric with golden thread. Chenris was incredibly protective of his cloak and kept it in incredible condition until it was later ripped to shreds before [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. He later replaced it with a Cloak of Billowing he made himself. 
 
-Chenris' appearance soon takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness; Spring with happiness; Summer with rage and Autumn with confusion. 
+Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
 
 ### Backstory Summary
 Due to circumstances that Chenris refused to elaborate on, the Tallfellow family fell from their position of Eladrin nobility and escaped to Strixhaven for safety. He showed incredible aptitude for academics and was admitted into Strixhaven University. He soon became close to one of his professors, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]. 
