@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T19:18:45.369+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T19:24:02.172+00:00"}
 ---
 
 
@@ -18,7 +18,6 @@
 		    align-items: center;
 		    height: 100vh;
 		    margin: 0;
-		
 		  }
 		  .character-card {
 		    background-color: #fdf2de;
@@ -114,17 +113,14 @@
         <p>Cleric (Death Domain) / Artificer<br>Half-Eldarin, Lawful Neutral<br>Per aspera ad astra</p>
       </div>
     </div>
-  
     <!-- Divider above Armor Class -->
     <div class="divider"></div>
 		<div class="section">
 	  <h6>Armor Class:</h6>
 	  <p>16</p>
 	</div>
-
     <!-- Divider below Armor Class -->
     <div class="divider"></div>
-    
     <div class="section stat-table">
       <div>
         <span>STR</span>
@@ -151,19 +147,15 @@
         <p>8 (-1)</p>
       </div>
     </div>
-
     <div class="divider"></div>
-  
 	<div class="section">
 	  <h6>Senses:</h6>
 	  <p>Darkvision 60ft</p>
 	</div>
-	
 	<div class="section">
 	  <h6>Languages:</h6>
 	  <p>Common, Ancient Dwarvish, Elvish, Primordial, Undercommon</p>
 	</div>
-
 	<div class="section">
 	  <h6>Traits:</h6>
 	  <p>Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.</p>
