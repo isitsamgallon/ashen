@@ -48,13 +48,11 @@ body {
     display: flex; /* Apply flexbox to the section */
     align-items: flex-start; /* Align items to the top */
     margin: 12px 0;
-    background-color: #fffbf6;
   }
   .section h6 {
     margin-right: 8px; /* Add space between the title and content */
     font-size: 1rem; /* Ensure title font size matches */
     font-weight: bold; /* Title should be bold */
-    background-color: #fffbf6;
   }
   .section p {
     margin: 0; /* Ensure paragraph has no extra margin */
@@ -63,17 +61,14 @@ body {
     display: flex;  /* Ensures the stat items are displayed in a row */
     justify-content: space-between;
     margin: 8px 0;
-    background-color: #fdf2de
   }
   .stat-table div {
     text-align: center;
-    background-color: #fdf2de
   }
   .stat-table div span {
     display: block;
     font-weight: normal; /* Remove bold from numbers */
     color: #333;
-    background-color: #fdf2de
   }
   .languages, .senses, .traits {
     font-size: 1.1rem;
@@ -83,7 +78,6 @@ body {
     display: flex;
     align-items: center;
     gap: 12px;
-    background-color: #fffbf6;
   }
   .avatar img {
     width: 48px;
