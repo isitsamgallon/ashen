@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T00:08:55.885+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T00:26:21.822+00:00"}
 ---
 
 
@@ -10,17 +10,25 @@
 > ###### Basic Information
 > 
 >  Type | Stat |
-> :----: | :---: |
+> :----: | --- |
 >  Race | Eladrin |
 >  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
 >  Class | Wizard/ Artificer |
->  Subclass | Order of Scribes/ Artificer |
+>  Subclass | Order of Scribes/ Artillerist |
 >  Age | 21 |
 >  Alignment | Seelie |
->  ##### Stats 2
->  STR | DEX | CON | INT | WIS | CHA | | 
->  |:---:|:---:|:---:|:---:|:---:|:---:|:--- | 
->  | 10 | (+0) | 0 |0  | 0|  0|0 0|0 00|0 0|
+>  Pronouns | Any |
+>  ##### Stats
+>  STR | DEX | CON | INT | WIS | CHA | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  10 | 14 | 15 | 20|  15 | 12 |
+>  (+0) | (+2) | (+2) | (+5) | (+2) | (+1)|
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | 13 (15 MA) |
+>Senses | Darkvision 60ft |
+>Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 
 ### Overview
 An enigmatic wizard who seems to know [[Admin/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Admin/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
@@ -37,14 +45,3 @@ An enigmatic wizard who seems to know [[Admin/Display Tags/The Party\|The Party]
 Halfbie's story hasn't been publicly revealed.
 
 ### Trivia
-
-```statblock
-name: Halfbie
-image: [[Halfbie.png]]
-subtype: Eladrin, Wizard (Order of Scribes)/ Artificer
-alignment: Seelie
-ac: 12
-stats: [10, 14, 15, 20, 15, 12]
-senses: Darkvision 60ft
-languages: Common, Ancient Dwarvish, Elvish, Primordial, Undercommon
-```

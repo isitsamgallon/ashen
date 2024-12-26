@@ -1,18 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-23T14:11:51.079+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T00:38:00.815+00:00"}
 ---
 
 
-```statblock
-name: Wurinn Fuuldrusch
-image: [[white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg]]
-subtype: White Dragonborn, Barbarian/Paladin
-alignment: Lawful Good 
-ac: 17
-stats: [16, 14, 13, 8, 11, 14]
-senses: Vision
-languages: Common, Draconic
-```
+> [!infobox]
+> # Wurinn Fuuldrusch
+> ![white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg|cover hsmall](/img/user/Admin/Attachments/white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | --- |
+>  Race | Dragonborn (White Dragon) |
+>  Nationality | [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]] |
+>  Class | Barbarian/ Paladin |
+>  Subclass | Totem Warrior/ Oath Undecided |
+>  Age | 30-40 |
+>  Alignment | Lawful Good |
+>  Pronouns | He/ Him |
+>  ##### Stats
+>  STR | DEX | CON | INT | WIS | CHA | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  16 | 14 | 13 | 8|  11 | 14 |
+>  (+3) | (+2) | (+1) | (-1) | (+0) | (+2)|
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | 18 |
+>Senses | Sight |
+>Languages | Common, Draconic|
 
 ### Overview
 Wurinn Fuuldrusch, or more commonly known as 'Drache', is a white Dragonborn. It is currently unknown where he is originally from, but he spent the majority of his life serving in [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]]. He is a Barbarian/ Paladin multi-class and was among the original 3 members of [[Admin/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for being honest and good to fault and is often seen as the party's moral compass. He is also physically the strongest out of the party, often being left to do most physical activities. Played by [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]].

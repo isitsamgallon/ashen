@@ -1,162 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T20:59:49.519+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-26T00:54:39.411+00:00"}
 ---
+
+> [!infobox]
+> 
+> # Chenris Tallfellow
+> ![IMG_0309.jpg|cover hsmall](/img/user/Admin/Attachments/IMG_0309.jpg)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | --- |
+>  Race | Half-Eladrin |
+>  Nationality | [[Locations/Strixhaven\|Strixhaven]] |
+>  Class | Cleric/ Artificer |
+>  Subclass | Death Domain/ None Selected |
+>  Age | 21 |
+>  Alignment | Lawful Neutral |
+>  Pronouns | He/ Him |
+>  ##### Stats
+>  STR | DEX | CON | INT | WIS | CHA | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  8 | 10 | 15 | 16|  16 | 8 |
+>  (-1) | (+0) | (+2) | (+3) | (+3) | (-1)|
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | 16 |
+>Senses | Darkvision 60ft |
+>Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
+>
+>Traits |
+>---|
+>Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
+
+
 
  > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."<cite>[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]]</cite>
 
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	  <title>Chenris Tallfellow Card</title>
-	  <link rel="stylesheet" href="character-card.css"> <!-- Link to the external CSS -->
-	  <style>
-		body {
-		    font-family: Arial, sans-serif;
-		    background-color: #fdf2de;
-		    display: flex;
-		    justify-content: center;
-		    align-items: center;
-		    height: 100vh;
-		    margin: 0;
-		  }
-		  .character-card {
-		    background-color: #fdf2de;
-		    border: 2px solid #e5c7a1;
-		    border-top: 4px solid #a11812; /* Red border on the top */
-		    border-bottom: 4px solid #a11812; /* Red border on the bottom */
-		    border-left: none; /* No border on the left */
-		    border-right: none; /* No border on the right */
-		    border-radius: 5px;
-		    padding: 16px;
-		    width: 350px; /* Increased width */
-		    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-		    box-sizing: border-box;
-		  }
-		  .divider {
-		    background: linear-gradient(to right, #a11812, transparent);
-		    height: 4px;
-		    width: 100%;
-		    margin: 12px 0;
-		    box-sizing: border-box;
-		  }
-		  h6 {
-		    font-weight: bold;
-		    color: #a11812; /* Red color */
-		    font-size: 1.2rem; /* Font size */
-		    margin: 0;
-		  }
-		  .character-card h5 {
-		    font-size: 1.5em;
-		    margin: 0;
-		    color: #a11812;
-		  }
-		  .character-card p {
-		    font-size: 1rem;
-		    margin: 0;
-		    color: #555;
-		  }
-		  .section {
-		    display: flex; /* Apply flexbox to the section */
-		    align-items: flex-start; /* Align items to the top */
-		    margin: 12px 0;
-		  }
-		  .section h6 {
-		    margin-right: 8px; /* Add space between the title and content */
-		    font-size: 1rem; /* Ensure title font size matches */
-		    font-weight: bold; /* Title should be bold */
-		  }
-		  .section p {
-		    margin: 0; /* Ensure paragraph has no extra margin */
-		  }
-		  .stat-table {
-		    display: flex;  /* Ensures the stat items are displayed in a row */
-		    justify-content: space-between;
-		    margin: 8px 0;
-		  }
-		  .stat-table div {
-		    text-align: center;
-		  }
-		  .stat-table div span {
-		    display: block;
-		    font-weight: normal; /* Remove bold from numbers */
-		    color: #333;
-		  }
-		  .languages, .senses, .traits {
-		    font-size: 1.1rem;
-		    margin: 8px 0;
-		  }
-		  .avatar {
-		    display: flex;
-		    align-items: center;
-		    gap: 12px;
-		  }
-		  .avatar img {
-		    width: 48px;
-		    height: 48px;
-		    border-radius: 50%;
-		    border: 2px solid #ccc;
-		  }
-	</style>
-</head>
-<body>
-  <div class="character-card">
-    <div class="avatar">
-      <div>
-        <h5>Chenris Tallfellow</h5>
-        <p>Cleric (Death Domain) / Artificer<br>Half-Eldarin, Lawful Neutral<br>Per aspera ad astra</p>
-      </div>
-    </div>
-    <!-- Divider above Armor Class -->
-    <div class="divider"></div>
-		<div class="section">
-	  <h6>Armor Class:</h6>
-	  <p>16</p>
-	</div>
-    <!-- Divider below Armor Class -->
-    <div class="divider"></div>
-    <div class="section stat-table">
-      <div>
-        <span>STR</span>
-        <p>8 (-1)</p>
-      </div>
-      <div>
-        <span>DEX</span>
-        <p>10 (+0)</p>
-      </div>
-      <div>
-        <span>CON</span>
-        <p>15 (+2)</p>
-      </div>
-      <div>
-        <span>INT</span>
-        <p>16 (+3)</p>
-      </div>
-      <div>
-        <span>WIS</span>
-        <p>16 (+3)</p>
-      </div>
-      <div>
-        <span>CHA</span>
-        <p>8 (-1)</p>
-      </div>
-    </div>
-    <div class="divider"></div>
-	<div class="section">
-	  <h6>Senses:</h6>
-	  <p>Darkvision 60ft</p>
-	</div>
-	<div class="section">
-	  <h6>Languages:</h6>
-	  <p>Common, Ancient Dwarvish, Elvish, Primordial, Undercommon</p>
-	</div>
-	<div class="section">
-	  <h6>Traits:</h6>
-	  <p>Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.</p>
-	</div>
-  </div>
-</body>
-</html>
 
 ### Overview
 Chenris Tallfellow is a Half-Eldarin who used to live and study at [[Locations/Strixhaven\|Strixhaven]]. He was a Cleric/ Artificer Multi-class and was among the original 3 members of [[Admin/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for his sharp wit and even sharper tongue, Chenris was the brains of the party, often researching and figuring out solutions to whatever situation the party found themselves in. He was notability from a noble lineage, however, he refused to elaborate on how. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].

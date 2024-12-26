@@ -1,18 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","noteIcon":"","created":"2024-11-27T13:42:03.539+00:00","updated":"2024-12-23T14:13:34.681+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","noteIcon":"","created":"2024-11-27T13:42:03.539+00:00","updated":"2024-12-26T00:56:13.997+00:00"}
 ---
 
-
-```statblock
-name: [[Kal]]
-image: [[KorriganProfilePic.png]]
-subtype: Human, Rogue/Ranger
-alignment: Chaotic Good
-ac: 15
-stats: [11, 18, 10, 12, 14, 10]
-senses: Sight
-languages: Common, Thieves' Cant
-```
+> [!infobox]
+> 
+> # Kal
+> ![KorriganProfilePic.png|cover hsmall](/img/user/Admin/Attachments/KorriganProfilePic.png)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | --- |
+>  Race | Human |
+>  Nationality | [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] |
+>  Class | Rogue/ Ranger |
+>  Subclass | N/A|
+>  Age | Late 20s |
+>  Alignment | Chaotic Neutral |
+>  Pronouns | He/ Him |
+>  ##### Stats
+>  STR | DEX | CON | INT | WIS | CHA | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  11 | 18 | 10 | 12|  14 | 10 |
+>  (+0) | (+4) | (+0) | (+1) | (+2) | (+0)|
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | 14 |
+>Senses | Sight |
+>Languages | Common, Thieves' Cant, Celestial, Common, Deep Speech, Primordial|
 
 ### Overview
 Kal was a human Rogue/ Ranger Multi-class that joined the party on [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 0\|Session 0]] when [[Admin/Display Tags/The Party\|The Party]] were exploring the ruins of [[Locations/OFC/Balance Ranch\|Balance Ranch]]. He is originally from [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]], but was known to have spent a long time in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. He was known for his incredible skills with a bow and love for money. Quite often seen as very innocent to the world, Kal was incredibly secretive about his past and what he used to do. 

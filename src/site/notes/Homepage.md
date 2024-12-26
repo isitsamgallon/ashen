@@ -42,7 +42,6 @@ I plan to update this every month or if any major changes/ information is learne
 ### Important NPCs
 | File                                                                                                                                     | Home Nation      | Home Town                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------- |
-| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire  | Dawnhaven                   |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                          | Unknown/Unclear  | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                          | Itone            | Uti's Cave                  |
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                      | Unknown/Unclear  | Unknown/Unclear             |
@@ -50,6 +49,7 @@ I plan to update this every month or if any major changes/ information is learne
 | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                  | Unknown/Unclear  | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                    | Unknown/Unclear  | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]                                            | Unknown/Unclear  | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire  | Dawnhaven                   |
 | [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                   | The Desert       | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                               | Lost Haven       | Lost Haven                  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                 | Lost Haven       | Lost Haven                  |
@@ -140,8 +140,9 @@ I plan to update this every month or if any major changes/ information is learne
 | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                              | The Dawn Empire |
 | [[Locations/The Dawn Empire/Farpost\|Farpost]]                                  | The Dawn Empire |
 | [[Locations/Snowport\|Snowport]]                                                | Snowport        |
-| [[Locations/Kearlin Atoll/Totala\|Totala]]                                      | Kearlin Atoll   |
+| [[Locations/Fort Moldan\|Fort Moldan]]                                          | Dwarven Empire  |
 | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]                                | Kearlin Atoll   |
+| [[Locations/Kearlin Atoll/Totala\|Totala]]                                      | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Teria\|Teria]]                                        | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Paraton\|Paraton]]                                    | Kearlin Atoll   |
 | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]                                      | Kearlin Atoll   |
@@ -150,7 +151,6 @@ I plan to update this every month or if any major changes/ information is learne
 | [[Locations/Kearlin Atoll/Carryn\|Carryn]]                                      | Kearlin Atoll   |
 | [[Locations/Important Locations & Nations/Morak Hold\|Morak Hold]]              | Dwarven Empire  |
 | [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]              | \-              |
-| [[Locations/Fort Moldan\|Fort Moldan]]                                          | Dwarven Empire  |
 | [[Locations/Feywild/Temple of Lorwyn\|Temple of Lorwyn]]                        | The Feywilds    |
 | [[Locations/Feywild/Seelie Court\|Seelie Court]]                                | The Feywilds    |
 | [[Locations/Ehobel/Yren\|Yren]]                                                 | Ehobel          |
