@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T01:05:33.689+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T12:36:40.077+00:00"}
 ---
 
 
@@ -18,8 +18,14 @@
 >  Alignment | Lawful Good |
 >  Pronouns | He/ Him |
 >  ##### Stats
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | 16 | +3 | <input type="checkbox" checked> |
+>  DEX | 14 | +2 | 
+
+
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---:| 
+>  :---:|:---:|:---:|
 >  16 | 14 | 13 | 8|  11 | 14 |
 >  (+3) | (+2) | (+1) | (-1) | (+0) | (+2)|
 >  
