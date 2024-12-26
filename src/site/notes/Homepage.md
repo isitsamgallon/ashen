@@ -1,8 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2024-12-25T13:32:59.914+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2024-12-26T14:01:05.522+00:00"}
 ---
 
 # Purpose & Use:
+> [!tabbed]
+>
+> <label>Purpose & Use<input type="info" name="purpose & use" /></label>
+>
+> > This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without having to set up Obsidian. Although not built for theorising, you can find a list of our current **[[Other Information/Theories & Unanswered Questions\|THEORIES & UNANSWERED QUESTIONS HERE]]**.
+> > I have compiled a small list of common notes people might want to read below but there is also a search function on both desktop and mobile. On the desktop, there is also an "Explorer" section which contains the full folder tree of the vault to make finding specific notes easier. 
+>
+> <label>Second<input type="radio" name="test" /></label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Second)
+> > [External Link](https://google.com) > > $\LaTeX$
+>
+> <label>Third<input type="radio" name="test" />l</label>
+>
+> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Third)
+> >
+> > - bullet item
+> > - [ ] checkbox
+> > - [x] #tag
+
 This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without having to set up Obsidian. Although not built for theorising, you can find a list of our current **[[Other Information/Theories & Unanswered Questions\|THEORIES & UNANSWERED QUESTIONS HERE]]**.
 
 I have compiled a small list of common notes people might want to read below but there is also a search function on both desktop and mobile. On the desktop, there is also an "Explorer" section which contains the full folder tree of the vault to make finding specific notes easier.  
