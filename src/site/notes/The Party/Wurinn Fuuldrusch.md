@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T00:38:00.815+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T01:03:18.724+00:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 >  Pronouns | He/ Him |
 >  ##### Stats
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:---: | 
 >  16 | 14 | 13 | 8|  11 | 14 |
 >  (+3) | (+2) | (+1) | (-1) | (+0) | (+2)|
 >  

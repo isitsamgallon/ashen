@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-26T00:54:39.411+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-26T01:02:56.733+00:00"}
 ---
 
 > [!infobox]
@@ -19,7 +19,7 @@
 >  Pronouns | He/ Him |
 >  ##### Stats
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:---: | 
 >  8 | 10 | 15 | 16|  16 | 8 |
 >  (-1) | (+0) | (+2) | (+3) | (+3) | (-1)|
 >  

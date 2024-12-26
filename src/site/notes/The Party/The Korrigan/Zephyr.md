@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/","noteIcon":"","created":"2024-04-29T23:31:20.762+01:00","updated":"2024-12-26T00:53:12.524+00:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/","noteIcon":"","created":"2024-04-29T23:31:20.762+01:00","updated":"2024-12-26T01:03:09.552+00:00"}
 ---
 
  > [!infobox]
@@ -17,7 +17,7 @@
 >  Alignment | Seelie |
 >  ##### Stats
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:---: | 
 >  18 | 11 | 16 | 4|  14 | 5 |
 >  (+4) | (+0) | (+3) | (-3) | (+2) | (-3)|
 >  

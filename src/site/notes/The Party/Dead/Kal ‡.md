@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","noteIcon":"","created":"2024-11-27T13:42:03.539+00:00","updated":"2024-12-26T00:56:13.997+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","noteIcon":"","created":"2024-11-27T13:42:03.539+00:00","updated":"2024-12-26T01:03:02.385+00:00"}
 ---
 
 > [!infobox]
@@ -19,7 +19,7 @@
 >  Pronouns | He/ Him |
 >  ##### Stats
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:---: | 
 >  11 | 18 | 10 | 12|  14 | 10 |
 >  (+0) | (+4) | (+0) | (+1) | (+2) | (+0)|
 >  
