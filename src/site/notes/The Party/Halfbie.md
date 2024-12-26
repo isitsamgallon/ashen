@@ -1,18 +1,49 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-23T14:14:21.101+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T00:03:01.834+00:00"}
 ---
 
 
-```statblock
-name: Halfbie
-image: [[Halfbie.png]]
-subtype: Eladrin, Wizard (Order of Scribes)/ Artificer
-alignment: Seelie
-ac: 12
-stats: [10, 14, 15, 20, 15, 12]
-senses: Darkvision 60ft
-languages: Common, Ancient Dwarvish, Elvish, Primordial, Undercommon
-```
+> [!infobox]
+> 
+> # Halfbie
+> ![Halfbie.png|cover hsmall](/img/user/Admin/Attachments/Halfbie.png)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | :---: |
+>  Race | Eladrin |
+>  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
+>  Class | Wizard/ Artificer |
+>  Subclass | Order of Scribes/ Artificer |
+>  Age | 21 |
+>  Alignment | Seelie |
+
+> 
+> ##### Stats 2
+>  Type | Stat |
+>  ---- | ---- |
+>  Test | Testing |
+>  Test | Testing |
+
+>[!infobox]
+>
+># Halfbie
+>![Halfbie.png](/img/user/Admin/Attachments/Halfbie.png)
+>###### Basic Information
+> **Race**: Eladrin
+
+
+
+
+
+> Type | Data 
+> -- | --
+> Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] 
+> Race  |  Eladrin |
+> Class | Wizard/ Artificer 
+> Subclass | Order of Scribes/ Artillerist 
+> Age | 20 
+> Alignment | Seelie 
 
 ### Overview
 An enigmatic wizard who seems to know [[Admin/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Admin/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
@@ -29,3 +60,14 @@ An enigmatic wizard who seems to know [[Admin/Display Tags/The Party\|The Party]
 Halfbie's story hasn't been publicly revealed.
 
 ### Trivia
+
+```statblock
+name: Halfbie
+image: [[Halfbie.png]]
+subtype: Eladrin, Wizard (Order of Scribes)/ Artificer
+alignment: Seelie
+ac: 12
+stats: [10, 14, 15, 20, 15, 12]
+senses: Darkvision 60ft
+languages: Common, Ancient Dwarvish, Elvish, Primordial, Undercommon
+```

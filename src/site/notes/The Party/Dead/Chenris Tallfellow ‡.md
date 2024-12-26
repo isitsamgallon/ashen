@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T20:34:48.388+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-25T20:59:49.519+00:00"}
 ---
 
-
+ > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."<cite>[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]]</cite>
 
 <html lang="en">
 <head>
@@ -102,7 +102,6 @@
 <body>
   <div class="character-card">
     <div class="avatar">
-      <img src="https://imgur.com/a/13ChMZv">
       <div>
         <h5>Chenris Tallfellow</h5>
         <p>Cleric (Death Domain) / Artificer<br>Half-Eldarin, Lawful Neutral<br>Per aspera ad astra</p>
