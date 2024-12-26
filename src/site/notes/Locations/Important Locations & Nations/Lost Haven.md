@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/important-locations-and-nations/lost-haven/","tags":["Important","Unexplored"],"noteIcon":"","created":"2024-08-15T21:55:45.580+01:00","updated":"2024-12-25T13:03:49.864+00:00"}
+{"dg-publish":true,"permalink":"/locations/important-locations-and-nations/lost-haven/","tags":["Unexplored","Location"],"noteIcon":"","created":"2024-08-15T21:55:45.580+01:00","updated":"2024-12-26T14:06:46.171+00:00"}
 ---
 
 
