@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aidan-knight/","noteIcon":"","created":"2024-09-17T15:01:33.993+01:00","updated":"2024-12-26T01:05:52.880+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aidan-knight/","noteIcon":"","created":"2024-09-17T15:01:33.993+01:00","updated":"2024-12-26T12:51:44.288+00:00"}
 ---
 
 
@@ -20,10 +20,15 @@
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
 >  ##### Stats
->  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---:| 
->  9 | 18 | 15 | 10|  16 | 15 |
->  (-1) | (+4) | (+2) | (+0) | (+3) | (+2)|
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | 9 | -1 | <input type="checkbox" unchecked> |
+>  DEX | 18 | +4 |  <input type="checkbox" unchecked> |
+>  CON | 15 | +2 | <input type="checkbox" checked> |
+>  INT | 10 | +1 | <input type="checkbox" checked>|
+>  WIS | 16 | +3 | <input type="checkbox" unchecked> |
+>  CHA | 15 | +2 | <input type="checkbox" unchecked> |
+>  
 >  
 >Type | Stat |
 >:---: | --- |

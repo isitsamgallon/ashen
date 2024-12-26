@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/","noteIcon":"","created":"2024-04-29T23:31:20.762+01:00","updated":"2024-12-26T01:09:47.673+00:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/","noteIcon":"","created":"2024-04-29T23:31:20.762+01:00","updated":"2024-12-26T12:53:47.357+00:00"}
 ---
 
  > [!infobox]
@@ -16,12 +16,16 @@
 >  Subclass | Fey Beast |
 >  Alignment | Seelie |
 >  ##### Stats
->  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---:| 
->  18 | 11 | 16 | 4|  14 | 5 |
->  (+4) | (+0) | (+3) | (-3) | (+2) | (-3)|
+> Skill | Score | Mod |
+> :---: | :---: | :---: | 
+>  STR | 18 | +4 | 
+>  DEX | 11 | +0 |  
+>  CON | 16 | +3 | 
+>  INT | 4 | -3 | 
+>  WIS | 14 | +2 | 
+>  CHA | 5 | -3 | 
 >  
->Type | Stat |
+Type | Stat |
 >:---: | --- |
 >AC | 12 |
 >Senses | Darkvision 60ft |

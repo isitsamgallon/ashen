@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T01:05:47.634+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T12:50:20.421+00:00"}
 ---
 
 
@@ -19,10 +19,14 @@
 >  Alignment | Seelie |
 >  Pronouns | Any |
 >  ##### Stats
->  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---:| 
->  10 | 14 | 15 | 20|  15 | 12 |
->  (+0) | (+2) | (+2) | (+5) | (+2) | (+1)|
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | 10 | +0 | <input type="checkbox" unchecked> |
+>  DEX | 14 | +2 |  <input type="checkbox" unchecked> |
+>  CON | 14 | +2 | <input type="checkbox" unchecked> |
+>  INT | 20 | +5 | <input type="checkbox" checked>|
+>  WIS | 15 | +2 | <input type="checkbox" checked> |
+>  CHA | 12 | +1 | <input type="checkbox" unchecked> |
 >  
 >Type | Stat |
 >:---: | --- |
