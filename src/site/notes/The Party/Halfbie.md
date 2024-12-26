@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T00:03:01.834+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T00:08:55.885+00:00"}
 ---
 
 
@@ -17,33 +17,10 @@
 >  Subclass | Order of Scribes/ Artificer |
 >  Age | 21 |
 >  Alignment | Seelie |
-
-> 
-> ##### Stats 2
->  Type | Stat |
->  ---- | ---- |
->  Test | Testing |
->  Test | Testing |
-
->[!infobox]
->
-># Halfbie
->![Halfbie.png](/img/user/Admin/Attachments/Halfbie.png)
->###### Basic Information
-> **Race**: Eladrin
-
-
-
-
-
-> Type | Data 
-> -- | --
-> Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] 
-> Race  |  Eladrin |
-> Class | Wizard/ Artificer 
-> Subclass | Order of Scribes/ Artillerist 
-> Age | 20 
-> Alignment | Seelie 
+>  ##### Stats 2
+>  STR | DEX | CON | INT | WIS | CHA | | 
+>  |:---:|:---:|:---:|:---:|:---:|:---:|:--- | 
+>  | 10 | (+0) | 0 |0  | 0|  0|0 0|0 00|0 0|
 
 ### Overview
 An enigmatic wizard who seems to know [[Admin/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Admin/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
