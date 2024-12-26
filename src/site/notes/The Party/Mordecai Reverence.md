@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":"","created":"2024-03-22T18:35:04.570+00:00","updated":"2024-12-26T01:05:41.224+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":"","created":"2024-03-22T18:35:04.570+00:00","updated":"2024-12-26T01:10:02.259+00:00"}
 ---
 
 
 > [!infobox]
-> # Halfbie
+> # Mordecai Reverence
 > ![MordProfilePic.jpg|cover hsmall](/img/user/Admin/Attachments/MordProfilePic.jpg)
 > ###### Basic Information
 > 

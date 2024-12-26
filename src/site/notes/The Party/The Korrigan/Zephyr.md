@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/","noteIcon":"","created":"2024-04-29T23:31:20.762+01:00","updated":"2024-12-26T01:05:57.242+00:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/zephyr/","noteIcon":"","created":"2024-04-29T23:31:20.762+01:00","updated":"2024-12-26T01:09:47.673+00:00"}
 ---
 
  > [!infobox]
 > 
-> # The Korrigan 
+> # Zephyr
 > ![ZephyrPP.png|cover hsmall](/img/user/Admin/Attachments/ZephyrPP.png)
 > ###### Basic Information
 > 
