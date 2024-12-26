@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aidan-knight/","noteIcon":"","created":"2024-09-17T15:01:33.993+01:00","updated":"2024-12-26T01:02:42.861+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aidan-knight/","noteIcon":"","created":"2024-09-17T15:01:33.993+01:00","updated":"2024-12-26T01:05:52.880+00:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 >  Pronouns | He/ Him |
 >  ##### Stats
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---: | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:---:| 
 >  9 | 18 | 15 | 10|  16 | 15 |
 >  (-1) | (+4) | (+2) | (+0) | (+3) | (+2)|
 >  

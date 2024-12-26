@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":"","created":"2024-03-22T18:35:04.570+00:00","updated":"2024-12-26T01:02:31.579+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":"","created":"2024-03-22T18:35:04.570+00:00","updated":"2024-12-26T01:05:41.224+00:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 >  Pronouns | He/ They |
 >  ##### Stats
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---: | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:---:| 
 >  9 | 15 | 13 | 8|  11 | 19 |
 >  (-1) | (+2) | (+1) | (-1) | (+0) | (+4)|
 >  

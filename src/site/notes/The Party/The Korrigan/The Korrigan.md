@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/the-korrigan/","noteIcon":"","created":"2024-12-06T19:07:37.790+00:00","updated":"2024-12-26T01:02:22.356+00:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/the-korrigan/","noteIcon":"","created":"2024-12-06T19:07:37.790+00:00","updated":"2024-12-26T01:06:02.033+00:00"}
 ---
 
  > [!infobox]
@@ -19,7 +19,7 @@
 >  Pronouns | He/ Him |
 >  ##### Stats
 >  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---: | 
+>  :---:|:---:|:---:|:---:|:---:|:---:|:---:| 
 >  11 | 14 | 10 | 12|  18 | 10 |
 >  (+0) | (+2) | (+0) | (+1) | (+4) | (+0)|
 >  
