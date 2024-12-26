@@ -53,4 +53,4 @@ Sometime later they arrived in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minat
 ### Trivia
 - Mordecai's mini is based on the female character model on Eldritch Foundry because the male models weren't "Twinky enough".
 - Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 
-- Mordecai canonically does drag and has even put [[The Party/The Korrigan/The Korrigan\|The Korrigan]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in their own drag costumes at times.
+- Mordecai canonically does drag and has even put [[The Party/The Korrigan\|The Korrigan]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in their own drag costumes at times.

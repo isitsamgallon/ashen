@@ -5,7 +5,7 @@
 
 [[Admin/TOM MISSING INFORMATION\|TOM MISSING INFORMATION]]
 
-It is assumed these are the original 50 Pillars that held back the Gods from the mortal plane. Most fell during [[History & Events/The Sundering\|The Sundering]]. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/The Korrigan/The Korrigan\|The Korrigan]] know a lot more about the history of the pillars than the rest of [[Admin/Display Tags/The Party\|The Party]]. 
+It is assumed these are the original 50 Pillars that held back the Gods from the mortal plane. Most fell during [[History & Events/The Sundering\|The Sundering]]. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/The Korrigan\|The Korrigan]] know a lot more about the history of the pillars than the rest of [[Admin/Display Tags/The Party\|The Party]]. 
 
 List of Ancient Pillars:
 - [[Other Information/Forge of the Astral Blades/locations/The Elderwood\|The Elderwood]]

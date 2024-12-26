@@ -14,4 +14,4 @@ It was located at the north-west most point of The Dawn Empire contented before 
 - An [[Groups/Adventurers Guild\|Adventurers Guild]]
 
 ### Trivia
-- When [[The Party/The Korrigan/The Korrigan\|The Korrigan]] used to be a member of the Ivory Crest and operated in and around Dawnhaven.
+- When [[The Party/The Korrigan\|The Korrigan]] used to be a member of the Ivory Crest and operated in and around Dawnhaven.

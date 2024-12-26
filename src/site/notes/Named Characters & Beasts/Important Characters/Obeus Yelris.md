@@ -1,20 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"noteIcon":"","created":"2024-07-30T15:57:54.930+01:00","updated":"2024-12-23T18:34:39.745+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"noteIcon":"","created":"2024-07-30T15:57:54.930+01:00","updated":"2024-12-26T13:35:08.001+00:00"}
 ---
 
-```statblock
-name: Obeus Yelris
-image: [[Obeus.png]]
-subtype: Half-Elf, Cleric (Light Domain)
-alignment: Neutral Good
-ac: 15
-stats: [9, 12, 9, 18, 12, 15]
-senses: Darkvision 60ft
-languages: Celestial, Common, Dwarvish, Elvish
-traits:
-  - name: Weakened Condition
-    desc: "Obeus has a weakened immune system due to being a Half-Elf"
-```
+> [!infobox]
+> 
+> # Obeus Yelris
+> ![Obeus.png|cover hsmall](/img/user/Admin/Attachments/Obeus.png)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | --- |
+>  Race | Half-Elf |
+>  Nationality | [[Locations/Ehobel/Ehobel\|Ehobel]] |
+>  Class | Cleric |
+>  Subclass | Light Domain |
+>  Age | Unknown |
+>  Alignment | Lawful Neutral |
+>  Pronouns | She/ Her |
+>  ##### Stats
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | 9 | -1 | <input type="checkbox" unchecked> |
+>  DEX | 12 | +1 |  <input type="checkbox" unchecked> |
+>  CON | 9 | +1 | <input type="checkbox" unchecked> |
+>  INT | 18 | +4 | <input type="checkbox" unchecked>|
+>  WIS | 14 | +2 | <input type="checkbox" checked> |
+>  CHA | 15 | +2 | <input type="checkbox" checked> |
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | 15 |
+>Senses | Darkvision 60ft |
+>Languages | Celestial, Common, Dwarvish, Elvish|
+>
+>Traits |
+>---|
+>Obeus is a half-elf and, therefore, is born with some deformities - namely a weak immune system.
 
 ### Overview
 Obeus Yelris is the daughter of [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] and [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and the current Empress of [[Locations/Ehobel/Ehobel\|Ehobel]]. She is described in books as being a very kind and understanding ruler and has "grand military plans". In reality, she doesn't leave the palace enough to understand what the current situation of her nation is like. 
@@ -33,6 +54,3 @@ Obeus is a small Elf with sickly pale skin and flowing black hair and can often 
 - She cried when [[The Party/Mordecai Reverence\|Mordecai Reverence]] said that they would be her friend especially now that they would be travelling together. 
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was the only one to understand truly why her guards wouldn't let her leave the palace due to his similar nature as a Half-Eladrin.
 - She has been travelling with them as a [[Groups/Companion\|Companion]] since being broken out of the palace.
-
-### Appearance
-![Obeus.png](/img/user/Admin/Attachments/Obeus.png)

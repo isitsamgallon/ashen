@@ -11,7 +11,7 @@ It's very unlikely anyone who fought in [[History & Events/The Sundering\|The Su
 # Currently known heralds:
 - [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] - [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] 
 - [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]] - [[Gods & Heralds/Somnora/Somnora\|Somnora]] (Theorised)
-- [[The Party/The Korrigan/The Korrigan\|The Korrigan]] - [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]
+- [[The Party/The Korrigan\|The Korrigan]] - [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]
 - [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]] - [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]
 
 

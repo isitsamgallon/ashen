@@ -13,7 +13,7 @@ Since the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Ses
 - Each member wrote down their plans for the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] now that they were in charge. These plans can be found here: [[Other Information/OFC Plans\|OFC Plans]].
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] spent some time in his study tinkering on some projects. These include the [[Other Information/Items/Alchemy Jug\|Alchemy Jug]], [[Other Information/Items/Clockwork Bird\|Clockwork Bird]], [Armour of Magical Strength](https://www.worldanvil.com/block/1046919), [Cloak of Billowing](http://dnd5e.wikidot.com/wondrous-items:cloak-of-billowing).
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]] spends time performing and creating propaganda tunes to tell the people what happened.
-- [[The Party/The Korrigan/The Korrigan\|The Korrigan]] spends his time gardening as well as taking Chenris on a trip to the [[Locations/Feywild/Feywild\|Feywild]].
+- [[The Party/The Korrigan\|The Korrigan]] spends his time gardening as well as taking Chenris on a trip to the [[Locations/Feywild/Feywild\|Feywild]].
 
 [[Admin/Display Tags/The Party\|The Party]] meet in the councillors hall. its very awkward since people don't know how to approach the subject on everyones mind: Chenris' betrayal regarding [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]. Mordecai decides to bring it up and have the conversation. Mordecai states that he's not mad (right now) but is so confused since Chenris is normally the very logical one, he also wants to know what is so important that he couldn't burn it. Chenris himself is confused why he did it since again its not a logical thing to do. 
 

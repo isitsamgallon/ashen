@@ -19,13 +19,13 @@ I plan to update this every month or if any major changes/ information is learne
 # Common Locations:
 
 ### [[Admin/Display Tags/The Party\|The Party]]
-| File                                                     | Class             | Home Nation     | Home Town       | Nickname                                |
-| -------------------------------------------------------- | ----------------- | --------------- | --------------- | --------------------------------------- |
-| [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]    | Barbarian/Paladin | The Tulan Fort  | The Tulan Fort  | <ul><li>Drache</li></ul>                |
-| [[The Party/The Korrigan/The Korrigan\|The Korrigan]] | Ranger/Druid      | The Feywilds    | Seelie Court    | <ul><li>Korri</li><li>Antlers</li></ul> |
-| [[The Party/Mordecai Reverence\|Mordecai Reverence]]  | Sorcerer/Bard     | Uvam Dynasty    | Yokotori        | <ul><li>Mord</li></ul>                  |
-| [[The Party/Halfbie\|Halfbie]]                        | Wizard/Artificer  | Kearlin Atoll   | Paraton         | <ul><li>Halfwit</li></ul>               |
-| [[The Party/Aidan Knight\|Aidan Knight]]              | Rogue/Warlock     | Unknown/Unclear | Unknown/Unclear | \-                                      |
+| File                                                    | Class             | Home Nation     | Home Town       | Nickname                                |
+| ------------------------------------------------------- | ----------------- | --------------- | --------------- | --------------------------------------- |
+| [[The Party/The Korrigan\|The Korrigan]]             | Ranger/Druid      | The Feywilds    | Seelie Court    | <ul><li>Korri</li><li>Antlers</li></ul> |
+| [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]   | Barbarian/Paladin | The Tulan Fort  | The Tulan Fort  | <ul><li>Drache</li></ul>                |
+| [[The Party/Mordecai Reverence\|Mordecai Reverence]] | Sorcerer/Bard     | Uvam Dynasty    | Yokotori        | <ul><li>Mord</li></ul>                  |
+| [[The Party/Halfbie\|Halfbie]]                       | Wizard/Artificer  | Kearlin Atoll   | Paraton         | <ul><li>Halfwit</li></ul>               |
+| [[The Party/Aidan Knight\|Aidan Knight]]             | Rogue/Warlock     | Unknown/Unclear | Unknown/Unclear | \-                                      |
 
 { .block-language-dataview}
 

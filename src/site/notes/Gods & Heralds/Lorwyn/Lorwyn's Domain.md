@@ -7,4 +7,4 @@
 [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] 's Domain
 
 ### Notable Information & History 
-- [[The Party/Dead/Kal ‡\|Kal ‡]] / [[The Party/The Korrigan/The Korrigan\|The Korrigan]] is the 
+- [[The Party/Dead/Kal ‡\|Kal ‡]] / [[The Party/The Korrigan\|The Korrigan]] is the 

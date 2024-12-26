@@ -4,7 +4,7 @@
 
 Ivory Crest is facade for a thriving thieves' guild that operated covertly within the [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]. 
 
-6 years ago, during a secretive initiation ceremony, [[The Party/The Korrigan/The Korrigan\|The Korrigan]], signed the contract binding him to the guild's code and secrets. He had no choice but to continue down this unexpected path. As a member of the guild, Kal was trained in the art of thievery, lock-picking, and manipulation. Kal freed himself with the help of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]], Kal faked his death somehow(unknown)
+6 years ago, during a secretive initiation ceremony, [[The Party/The Korrigan\|The Korrigan]], signed the contract binding him to the guild's code and secrets. He had no choice but to continue down this unexpected path. As a member of the guild, Kal was trained in the art of thievery, lock-picking, and manipulation. Kal freed himself with the help of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]], Kal faked his death somehow(unknown)
 
 The guild is also known for secretly stealing from [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]. They have people on the inside and there is secret access to the palace to funnel money out of the vault. 
 

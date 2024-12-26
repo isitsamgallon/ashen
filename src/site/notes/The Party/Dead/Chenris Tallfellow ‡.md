@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-26T01:06:11.608+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","noteIcon":"","created":"2024-03-24T15:18:24.000+00:00","updated":"2024-12-26T13:26:56.927+00:00"}
 ---
 
 > [!infobox]
@@ -18,10 +18,14 @@
 >  Alignment | Lawful Neutral |
 >  Pronouns | He/ Him |
 >  ##### Stats
->  STR | DEX | CON | INT | WIS | CHA | 
->  :---:|:---:|:---:|:---:|:---:|:---:|:---:  
->  8 | 10 | 15 | 16|  16 | 8 |
->  (-1) | (+0) | (+2) | (+3) | (+3) | (-1)|
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | 8 | -1 | <input type="checkbox" unchecked> |
+>  DEX | 10 | +0 |  <input type="checkbox" unchecked> |
+>  CON | 15 | +2 | <input type="checkbox" unchecked> |
+>  INT | 16 | +3 | <input type="checkbox" unchecked>|
+>  WIS | 16 | +3 | <input type="checkbox" checked> |
+>  CHA | 8 | -1 | <input type="checkbox" checked> |
 >  
 >Type | Stat |
 >:---: | --- |
@@ -119,7 +123,7 @@ This dossier serves as the second report on the activities of Chenris Tallfellow
 ---
 
 **Incident at the Council**
-Subject was involved in a covert operation with companions [[The Party/The Korrigan/The Korrigan\|The Korrigan]] and [[The Party/Aidan Knight\|Aidan Knight]]. Successfully infiltrated council offices to gather intelligence. During the mission, subject located classified documents on territorial sales and troop movements, but inadvertently triggered an alarm system connected to [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]]. This led to an escalation of hostilities between the Empire and external parties.
+Subject was involved in a covert operation with companions [[The Party/The Korrigan\|The Korrigan]] and [[The Party/Aidan Knight\|Aidan Knight]]. Successfully infiltrated council offices to gather intelligence. During the mission, subject located classified documents on territorial sales and troop movements, but inadvertently triggered an alarm system connected to [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]]. This led to an escalation of hostilities between the Empire and external parties.
 
 **Confrontation with [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]**
 During a critical encounter with [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], a potentially dangerous member of the mysterious group known as [[Groups/The Auditors\|The Auditors]], subject identified the use of forbidden magic and uncovered the truth behind the murder of [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]. Despite the high-stakes scenario, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] escaped through a portal, leaving the subject’s group with partial intelligence. Subject showed notable strategic restraint, but the situation highlights a lapse in anticipating magical tracking mechanisms.
@@ -158,7 +162,7 @@ This report provides a comprehensive update on Chenris Tallfellow's recent actio
 
 ---
 
-Following a chaotic encounter, [[Admin/Display Tags/The Party\|The Party]]’s efforts to manage a crisis came to a head. [[The Party/Mordecai Reverence\|Mordecai Reverence]], [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]], and [[The Party/The Korrigan/The Korrigan\|The Korrigan]] managed to neutralize [[The Party/Aidan Knight\|Aidan Knight]] before any further harm could occur. Chenris Tallfellow took swift action to stabilize Aidan, preventing his death. However, the arrival of a goblin mage, who increased the gravity in the area, left [[Admin/Display Tags/The Party\|The Party]] incapacitated and struggling.
+Following a chaotic encounter, [[Admin/Display Tags/The Party\|The Party]]’s efforts to manage a crisis came to a head. [[The Party/Mordecai Reverence\|Mordecai Reverence]], [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]], and [[The Party/The Korrigan\|The Korrigan]] managed to neutralize [[The Party/Aidan Knight\|Aidan Knight]] before any further harm could occur. Chenris Tallfellow took swift action to stabilize Aidan, preventing his death. However, the arrival of a goblin mage, who increased the gravity in the area, left [[Admin/Display Tags/The Party\|The Party]] incapacitated and struggling.
 
 Chenris, recognizing the use of Ancient Goblin Magic, attempted to dispel the enchantment. His efforts, though valiant, only allowed him to free one individual at a time. He succeeded in freeing Korrigan, who then attempted to attack the mage but missed as the mage turned invisible.
 
@@ -169,7 +173,7 @@ Chenris freed himself and collaborated with Korrigan to locate the elusive mage.
 Our records show, that while they were unconscious, [[Admin/Display Tags/The Party\|The Party]] were transferred to a nearby goblin-ran mineshaft located under the Verdant Spine. Imprisoned and guarded by goblins, [[Admin/Display Tags/The Party\|The Party]] faced dire circumstances. Korrigan’s charm on one guard led to the other demanding the charmed goblin’s execution. Reluctantly, Korrigan released the goblin, sealing its fate. [[Admin/Display Tags/The Party\|The Party]] was forced into labor, during which Drache unearthed unsettling eyes in the wall. Chenris utilized Thaumaturgy to simulate a cave-in, causing the goblins to panic. Drache discovered a hidden tunnel, leading the goblins to direct [[Admin/Display Tags/The Party\|The Party]] down it.
 
 **Planning an Escape:**
-Mordecai and Drache conspired in Draconic, while Korrigan and Chenris communicated in Primordial. Their plan involved Korrigan summoning a bird, [[The Party/The Korrigan/Zephyr\|Zephyr]], for Drache to scout the area. [[The Party/The Korrigan/Zephyr\|Zephyr]] revealed a group of 60 goblins and a precarious door leading to the outside. The door opened to a grim scene of dead humanoid slaves, underscoring the urgency of their escape. After the goblins passed, [[Admin/Display Tags/The Party\|The Party]] eliminated their captor and sent [[The Party/The Korrigan/Zephyr\|Zephyr]] back to retrieve their equipment.
+Mordecai and Drache conspired in Draconic, while Korrigan and Chenris communicated in Primordial. Their plan involved Korrigan summoning a bird, [[The Party/Other Party Members/Zephyr\|Zephyr]], for Drache to scout the area. [[The Party/Other Party Members/Zephyr\|Zephyr]] revealed a group of 60 goblins and a precarious door leading to the outside. The door opened to a grim scene of dead humanoid slaves, underscoring the urgency of their escape. After the goblins passed, [[Admin/Display Tags/The Party\|The Party]] eliminated their captor and sent [[The Party/Other Party Members/Zephyr\|Zephyr]] back to retrieve their equipment.
 
 Once their belongings were recovered, [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] opened a portal to their gear, leading them to the [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]]Ancient Dwarven Stronghold]]'s library. Using a secret exit from the captain’s quarters, they escaped unnoticed, emerging in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]].
 
@@ -183,7 +187,7 @@ To gain entry into the courtroom, [[Admin/Display Tags/The Party\|The Party]] do
 Korrigan burst into the courtroom, declaring that the [[Groups/Goblin Mafia\|Goblin Mafia]] was planning an attack on the city. His dramatic interruption hastened the trial proceedings, though Steve was still sentenced to execution. As they exited, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] provided a note detailing Steve’s cell location and a time for a planned breakout.
 
 **Quest to [[Locations/The Dawn Empire/Dustwood\|Dustwood]] and [[Locations/The Dawn Empire/Farpost\|Farpost]]:**
-[[Admin/Display Tags/The Party\|The Party]] met [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], who suggested delivering a note to [[Locations/The Dawn Empire/Farpost\|Farpost]] and gathering reinforcements from [[Locations/The Dawn Empire/Dustwood\|Dustwood]] for [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] opened a portal to [[Locations/The Dawn Empire/Dustwood\|Dustwood]], expediting their journey. On the way, Chenris and [[The Party/The Korrigan/The Korrigan\|The Korrigan]] struck a deal involving [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]’s soul contract, leading to Chenris learning about [[History & Events/The Ancient Pillars\|the Ancient Pillars]] and Korrigan’s hidden agendas. Their navigation faltered due to Chenris and Korrigan’s leadership, but Mordecai corrected their course.
+[[Admin/Display Tags/The Party\|The Party]] met [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], who suggested delivering a note to [[Locations/The Dawn Empire/Farpost\|Farpost]] and gathering reinforcements from [[Locations/The Dawn Empire/Dustwood\|Dustwood]] for [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] opened a portal to [[Locations/The Dawn Empire/Dustwood\|Dustwood]], expediting their journey. On the way, Chenris and [[The Party/The Korrigan\|The Korrigan]] struck a deal involving [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]’s soul contract, leading to Chenris learning about [[History & Events/The Ancient Pillars\|the Ancient Pillars]] and Korrigan’s hidden agendas. Their navigation faltered due to Chenris and Korrigan’s leadership, but Mordecai corrected their course.
 
 **Encounter with [[Groups/Merchant Guild\|Merchant Guild]] Caravan:**
 [[Admin/Display Tags/The Party\|The Party]] encountered a [[Groups/Merchant Guild\|Merchant Guild]] caravan loaded with weaponry, but interaction was refused. Chenris noted the heavy guard presence and inferred the caravan’s destination was [[Locations/The Dawn Empire/Farpost\|Farpost]].
@@ -207,7 +211,7 @@ At 3 a.m., a massive black dragon sent by [[Groups/The Auditors\|The Auditors]] 
 The dragon transported [[Admin/Display Tags/The Party\|The Party]] to the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]], where [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] and the city of [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] were preparing for battle. [[Named Characters & Beasts/Genevieve †\|Genevieve †]] coordinated the defense efforts, while the [[Groups/Goblin Mafia\|Goblin Mafia]] attempted to strike a deal with her.
 
 **Goblin Troupe Deal:**
-After deliberation, [[Admin/Display Tags/The Party\|The Party]] decided to employ the goblins as sacrificial pawns, despite Chenris’s suggestion. The vote was 4-1 in favor of hiring the goblins, though [[The Party/The Korrigan/The Korrigan\|The Korrigan]] had to be physically coerced into signing the contract.
+After deliberation, [[Admin/Display Tags/The Party\|The Party]] decided to employ the goblins as sacrificial pawns, despite Chenris’s suggestion. The vote was 4-1 in favor of hiring the goblins, though [[The Party/The Korrigan\|The Korrigan]] had to be physically coerced into signing the contract.
 
 **Rest at the Minister's Rooms:**
 [[Admin/Display Tags/The Party\|The Party]] enjoyed a luxurious stay in the minister's rooms, complete with 24/7 baths. They overslept, and during the night, Aidan stole Chenris’s cloak, prompting a confrontation. Chenris, angered, led to a discussion about [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the Ethertwist Haunter]]. Aidan downplayed the issue, heading to the council room where [[Named Characters & Beasts/Genevieve †\|Genevieve †]] awaited.
@@ -263,7 +267,7 @@ I suspect these changes stem from the harrowing events in **[[Locations/Ehobel/
 ---
 
 **Return to the Adventurers' Guild**
-Upon their return to the Adventurers' Guild, the group sought much-needed rest. By morning, their usual camaraderie had resumed, albeit with the same undertones of rivalry. **[[The Party/Mordecai Reverence\|Mordecai Reverence]]** and **[[The Party/The Korrigan/The Korrigan\|The Korrigan]]**, ever mischievous, concocted a plan to outshine Chenris by busking for their breakfast. The intent was clearly to rile him—to provoke his competitive spirit. Naturally, Chenris, overhearing their schemes, responded predictably. However, instead of escalating the situation with overt trickery or confrontation, he chose to outwit them with subtlety. He ordered the most expensive meal available, complete with a fine bottle of wine. His demeanor, though still smug, displayed an almost playful restraint.
+Upon their return to the Adventurers' Guild, the group sought much-needed rest. By morning, their usual camaraderie had resumed, albeit with the same undertones of rivalry. **[[The Party/Mordecai Reverence\|Mordecai Reverence]]** and **[[The Party/The Korrigan\|The Korrigan]]**, ever mischievous, concocted a plan to outshine Chenris by busking for their breakfast. The intent was clearly to rile him—to provoke his competitive spirit. Naturally, Chenris, overhearing their schemes, responded predictably. However, instead of escalating the situation with overt trickery or confrontation, he chose to outwit them with subtlety. He ordered the most expensive meal available, complete with a fine bottle of wine. His demeanor, though still smug, displayed an almost playful restraint.
 
 Mordecai, of course, was visibly irked by the success of Chenris’ counter-prank, but the exchange was devoid of the previous edge of malice. There is a peculiar softness to Chenris' victories now, as though he seeks to best his companions without truly damaging them—a nuance that gives me hope.
 
@@ -286,7 +290,7 @@ Chenris’ inquiry into **[[Named Characters & Beasts/Historically Significant 
 Chenris, rattled, fled the scene—a rare moment of vulnerability for one so often in control of his emotions. His later attempts to make sense of the encounter were marked by uncharacteristic panic, and when **Korrigan** used magic to delve into Chenris’ mind, the revelation that their thoughts had been probed at some unknown point left the entire group shaken.
 
 **[[Locations/Ehobel/Caalona\|Caalona]]’s Illusory Deception**
-Upon their arrival, [[Admin/Display Tags/The Party\|The Party]] was greeted by **[[Locations/Ehobel/Caalona\|Caalona]]**, a city notorious to the mages at [[Locations/Strixhaven\|Strixhaven]] for morphing itself to suit the current deepest yearnings of its visitors. The malleability of the environment—an obvious illusory enchantment—allowed each member to perceive a vision tailored to their specific desires. **[[The Party/Aidan Knight\|Aidan Knight]]** envisioned a city of comfort, with hot springs and massage parlors to ease his newly discovered magical abilities. **[[The Party/The Korrigan/The Korrigan\|The Korrigan]]**, drained of arcane energy, sought mana restoration, while **Mordecai Reverence** saw a playground designed for thrill-seeking.
+Upon their arrival, [[Admin/Display Tags/The Party\|The Party]] was greeted by **[[Locations/Ehobel/Caalona\|Caalona]]**, a city notorious to the mages at [[Locations/Strixhaven\|Strixhaven]] for morphing itself to suit the current deepest yearnings of its visitors. The malleability of the environment—an obvious illusory enchantment—allowed each member to perceive a vision tailored to their specific desires. **[[The Party/Aidan Knight\|Aidan Knight]]** envisioned a city of comfort, with hot springs and massage parlors to ease his newly discovered magical abilities. **[[The Party/The Korrigan\|The Korrigan]]**, drained of arcane energy, sought mana restoration, while **Mordecai Reverence** saw a playground designed for thrill-seeking.
 
 Chenris, however, was drawn to something more sinister. His recent fixation on the regenerative powers of the **[[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]]** led him to envision a “Magical Cannibal School,” where robed scholars eagerly handed him forbidden knowledge. Though alarming, this vision showcased Chenris’ obsessive need for knowledge—a trait that remains both his greatest asset and deepest flaw.
 
@@ -302,7 +306,7 @@ The rivalry between Mordecai and Chenris has been a source of tension within [[A
 
 Chenris re-entered the illusory city and encountered a fake version of Mordecai, further confirming his suspicions of the city’s deceptive nature. Using his wits, Chenris tested the imposter with a specific query that only the true Mordecai would know, forcing the illusion to crumble before him. The fact that he did not fall prey to the charm of the illusion demonstrates a growing resilience in Chenris, one that might allow him to overcome the darker inclinations of his mind.
 
-Outside the illusion, the situation became increasingly dangerous as **[[The Party/The Korrigan/The Korrigan\|The Korrigan]]** and **[[The Party/Aidan Knight\|Aidan Knight]]** remained ensnared by the false visions. Though Chenris and Mordecai succeeded in escaping the illusions themselves, they struggled to convince their companions of the reality. Korrigan, in particular, proved resistant—his paranoia deepened by the city's pervasive magic.
+Outside the illusion, the situation became increasingly dangerous as **[[The Party/The Korrigan\|The Korrigan]]** and **[[The Party/Aidan Knight\|Aidan Knight]]** remained ensnared by the false visions. Though Chenris and Mordecai succeeded in escaping the illusions themselves, they struggled to convince their companions of the reality. Korrigan, in particular, proved resistant—his paranoia deepened by the city's pervasive magic.
 
 **The [[Named Characters & Beasts/Illusion Master\|Illusion Master]]: A Choice Presented**
 The climax of the ordeal came when Chenris encountered the **[[Named Characters & Beasts/Illusion Master\|Illusion Master]]**, the malevolent architect of [[Locations/Ehobel/Caalona\|Caalona]]’s ever-shifting façade. In a moment that could have revealed Chenris’ true nature, he was offered a tempting deal: remain in [[Locations/Ehobel/Caalona\|Caalona]], where all his dreams could be realized, free from the constraints of reality. The [[Named Characters & Beasts/Illusion Master\|Illusion Master]] promised protection and power—both tantalizing to someone of Chenris’ ambition.
@@ -310,12 +314,12 @@ The climax of the ordeal came when Chenris encountered the **[[Named Characters
 Yet, Chenris did not accept. His skepticism, once again, overpowered his darker impulses. He rejected the offer, citing the artificial nature of the peace being offered. While I do not doubt that Chenris’ desire for knowledge and power remains strong, this moment reveals that he is not beyond hope. He may yet possess the discernment to distinguish between genuine growth and hollow shortcuts.
 
 **Consequences & Strained Alliances**
-Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of elves—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[The Party/The Korrigan/The Korrigan\|The Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
+Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of elves—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[The Party/The Korrigan\|The Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
 
 Chenris, though clearly shaken, healed Mordecai—an action underscored by his sarcastic comment about the [[Named Characters & Beasts/Illusion Master\|Illusion Master]]’s intentions. This was not an act of compassion, but rather a calculated and spiteful decision to avoid proving his adversary’s grim predictions correct. Nonetheless, Chenris' ability to weigh the broader consequences of his actions is a positive development.
 
 **Arrival in [[Locations/OFC/Silkhorn\|SIlkhorn]]**
-After the dramatic conclusion of the events in **[[Locations/Ehobel/Caalona\|Caalona]]**, [[Admin/Display Tags/The Party\|The Party]] heads toward the bustling docks of **[[Locations/OFC/Silkhorn\|Silkhorn]]**, where **Wurinn "Drache" Fuuldrusch** awaits. **Mordecai Reverence**, eager to reconnect, rushes to embrace Drache and recount their harrowing adventures. Meanwhile, **[[The Party/The Korrigan/The Korrigan\|The Korrigan]]**, ever meticulous, creates a list of the group’s priorities titled "What good in the world can we do?" The first task: aiding Drache in breaking **[[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]** out of captivity.
+After the dramatic conclusion of the events in **[[Locations/Ehobel/Caalona\|Caalona]]**, [[Admin/Display Tags/The Party\|The Party]] heads toward the bustling docks of **[[Locations/OFC/Silkhorn\|Silkhorn]]**, where **Wurinn "Drache" Fuuldrusch** awaits. **Mordecai Reverence**, eager to reconnect, rushes to embrace Drache and recount their harrowing adventures. Meanwhile, **[[The Party/The Korrigan\|The Korrigan]]**, ever meticulous, creates a list of the group’s priorities titled "What good in the world can we do?" The first task: aiding Drache in breaking **[[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]** out of captivity.
 
 As [[Admin/Display Tags/The Party\|The Party]] begins to navigate the streets of [[Locations/OFC/Silkhorn\|Silkhorn]], an unsettling atmosphere greets them. The townsfolk, eerily cheerful and clad in uniform brown robes, prompt concern. **Chenris Tallfellow**, ever curious but growing clumsy with his rising self-doubt, causes a small commotion by accidentally pulling down a passerby’s trousers while attempting to investigate. His muttered apology—“Can’t do anything right these days…”—betrays the inner turmoil gnawing at him.
 

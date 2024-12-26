@@ -7,7 +7,7 @@
 The name given to the being at the centre of the world. See [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]] for more information. When he speaks to the party, he speaks in a very archaic and poetic way.
 
 # History
-[[The Party/The Korrigan/The Korrigan\|The Korrigan]] first made contact with it by casting [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) on the crystal at [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]. Korrigan then managed to have a full conversation with it by meditating on the tree in [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]].
+[[The Party/The Korrigan\|The Korrigan]] first made contact with it by casting [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) on the crystal at [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]. Korrigan then managed to have a full conversation with it by meditating on the tree in [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]].
 
 [[Admin/Display Tags/The Party\|The Party]] had a second conversation with it after [[The Party/Aidan Knight\|Aidan Knight]] was possessed by [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] in [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]. One of the time distortions was on [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] making Korrigan incredibly scared for Terathra's safety. After the distortion was lifted, the party tried to communicate through the same method Korrigan did the day before. Accept this time, Korrigan, [[The Party/Mordecai Reverence\|Mordecai Reverence]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] shared the burden of allowing the whole party to speak. 
 

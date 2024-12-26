@@ -26,7 +26,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [ ] Who is [[Named Characters & Beasts/Anselis\|Anselis]]
 - [ ] Why was [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] working with [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was it a part of his larger plan?
 - [ ] Why does [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] come back every 50 years?
-- [ ] why did Xekai get angry at [[The Party/The Korrigan/The Korrigan\|The Korrigan]] when they mentioned [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]?
+- [ ] why did Xekai get angry at [[The Party/The Korrigan\|The Korrigan]] when they mentioned [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]?
 
 ### Current Theories
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks the man with the golden mask from [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]] was [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]

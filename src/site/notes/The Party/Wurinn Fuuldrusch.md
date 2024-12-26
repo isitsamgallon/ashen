@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T12:42:14.017+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T13:47:30.251+00:00"}
 ---
 
 
@@ -50,9 +50,9 @@ Drache was originally from and loyal to [[Locations/Important Locations & Nation
 ### Trivia
 - Chenris and Drache have a card game they always play when the rest of [[Admin/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 
 - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] has died many times having to roleplay characters Drache is flirting with.
-- According to [[The Party/The Korrigan/The Korrigan\|The Korrigan]] Drache's scales are salty and freezing
+- According to [[The Party/The Korrigan\|The Korrigan]] Drache's scales are salty and freezing
 - Drache may not be able to spell his own name. (he may be mildly dyslexic but is in denial)
-- He is currently indoctrinated by the [[Groups/Ivory Crest\|Ivory Crest]] misled by their ideals of supposedly "freeing slaves" and "helping the poor" However [[The Party/The Korrigan/The Korrigan\|The Korrigan]] informed [[Admin/Display Tags/The Party\|The Party]] they are a thieves guild and he is now magically bound to them.
+- He is currently indoctrinated by the [[Groups/Ivory Crest\|Ivory Crest]] misled by their ideals of supposedly "freeing slaves" and "helping the poor" However [[The Party/The Korrigan\|The Korrigan]] informed [[Admin/Display Tags/The Party\|The Party]] they are a thieves guild and he is now magically bound to them.
 - He currently wields an obsidian great-sword, gained from [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] himself after fighting his animated corpse at the council building. 
 - He frequently has to carry Mordecai as he has become injured or incapacitated on many occasions, including being an incredible lightweight regarding alcohol.
 - Drache gained a dope ass bowler hat from a random encounter with goblins dancing around a fire after chenris repaired the worn-out hat they provided him.

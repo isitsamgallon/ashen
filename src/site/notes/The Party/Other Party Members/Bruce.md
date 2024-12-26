@@ -1,18 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","noteIcon":"","created":"2024-03-03T20:53:08.033+00:00","updated":"2024-12-23T14:13:34.702+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","noteIcon":"","created":"2024-03-03T20:53:08.033+00:00","updated":"2024-12-26T13:39:19.337+00:00"}
 ---
 
-```statblock
-name: Bruce
-image: [[Bruce.png]]
-subtype: Dwarven Automaton, Paladin (Oath of Ancients)
-alignment: Neutral Good
-ac: 17
-stats: [10, 10, 10, 10, 10, 10]
-senses: Sight
-languages: Common, Ancient Dwarvish
-```
 
+> [!infobox]
+> 
+> # Bruce
+> ![Bruce.png|cover hsmall](/img/user/Admin/Attachments/Bruce.png)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | --- |
+>  Race | Dwarven Automaton |
+>  Nationality | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] |
+>  Class | Paladin |
+>  Subclass | Oath of Ancients |
+>  Age | Over 500 |
+>  Alignment | Neutral Good |
+>  Pronouns | He/ Him |
+>  ##### Stats
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | ? | ? | <input type="checkbox" unchecked> |
+>  DEX | ? | ? |  <input type="checkbox" unchecked> |
+>  CON | ? | ? | <input type="checkbox" unchecked> |
+>  INT | ? | ? | <input type="checkbox" unchecked>|
+>  WIS | ? | ? | <input type="checkbox" unchecked> |
+>  CHA | ? | ? | <input type="checkbox" unchecked> |
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | 17 |
+>Senses | Sight |
+>Languages | Common, Ancient Dwarfish|
+
+ > "ROCK - - - ON"<cite>[[The Party/Other Party Members/Bruce\|Bruce]] - [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 5\|Session 5]]</cite>
+ 
+ 
 ### Overview
 Bruce is A Dwarven automaton found in [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] under modern-day [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. Bruce seemed to be one of the original caretakers of the city, chasing off invaders and supporting the dwarfs and other automatons where needed. As [[History & Events/The Cleansing\|The Cleansing]] carried on, many of the Dwarfs died or moved to [[Locations/Fort Moldan\|Fort Moldan]] and Bruce was left to take off the city by himself until [[The Party/Other Party Members/Corvus\|Corvus]] moved in.
 
@@ -25,6 +49,3 @@ Although Bruce is an automaton, the extended period of time where he was left al
 - Originally Bruce was only powered by lava that was pumped into him from a hose, severally limiting his operation time and where he could go. Chenris was able to create a semi-functioning battery for Bruce so they could take him to [[Locations/Strixhaven\|Strixhaven]] to fit him with a proper engine. 
 - Researchers managed to fix an airship core to him giving him an abundance of power but also making him slightly buoyant in air, requiring him to be weighed down with heavy metal plating. 
 - He has been travelling with [[Admin/Display Tags/The Party\|The Party]] as a [[Groups/Companion\|Companion]] ever since.
-
-### Appearance
-![Bruce.png](/img/user/Admin/Attachments/Bruce.png)

@@ -1,17 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC"],"noteIcon":"","created":"2024-10-04T19:06:33.206+01:00","updated":"2024-12-23T14:13:34.699+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC"],"noteIcon":"","created":"2024-10-04T19:06:33.206+01:00","updated":"2024-12-26T13:42:20.902+00:00"}
 ---
 
-```statblock
-name: Steve Ulan
-image: [[SteveUlan.png]]
-subtype: Human, Fighter (Champion)
-alignment: Neutral Good
-ac: 15
-stats: [10, 10, 10, 10, 10, 10]
-senses: Sight
-languages: Common
-```
+> [!infobox]
+> 
+> # Steve Ulan
+> ![SteveUlan.png|cover hsmall](/img/user/Admin/Attachments/SteveUlan.png)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | --- |
+>  Race | Human |
+>  Nationality | [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] |
+>  Class | Fighter |
+>  Subclass | Champion |
+>  Age | 28 |
+>  Alignment | Neutral Good |
+>  Pronouns | He/ Him |
+>  ##### Stats
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | ? | ? | <input type="checkbox" unchecked> |
+>  DEX | ? | ? |  <input type="checkbox" unchecked> |
+>  CON | ? | ? | <input type="checkbox" unchecked> |
+>  INT | ? | ? | <input type="checkbox" unchecked>|
+>  WIS | ? | ? | <input type="checkbox" unchecked> |
+>  CHA | ? | ? | <input type="checkbox" unchecked> |
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | ? |
+>Senses | Sight |
+>Languages | Common |
 
 ### Overview
 Steve Ulan was found in one of the cells in the dungeon of [[Groups/Religious Organisations/The Red Cult\|The Red Cult]] at the start of the campaign. When he was first found he was incredibly racist and had many gaps in his memory. As he adventured with [[Admin/Display Tags/The Party\|The Party]] it was eventually revealed that he was the son of the [[Named Characters & Beasts/Lord Ulan †\|Lord of Steelwick]] and had run away years ago. 
@@ -27,9 +47,6 @@ Initially, Steve was unreliable and quite racist, especially since [[Admin/Displ
 ### Other Information
 - Steve isn't a very good fighter but tries hard to not be a burden to the party and his friends.
 - He travelled with [[Admin/Display Tags/The Party\|The Party]] as a [[Groups/Companion\|Companion]] for a long time before being left in the [[History & Events/The War for the OFC's Freedom\|OFC]] to manage the cult and other affairs while they're not in the country 
-
-### Appearance
-![SteveUlan.png](/img/user/Admin/Attachments/SteveUlan.png)
 
 ### Trivia
 - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] James originally planned for [[Admin/Display Tags/The Party\|The Party]] to kill Steve because he was so racist and so had to quickly develop a back story for him since [[Admin/Display Tags/The Party\|The Party]] showed no sign of letting him go. >:)
