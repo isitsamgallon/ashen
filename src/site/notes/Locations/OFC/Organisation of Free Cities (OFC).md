@@ -30,8 +30,8 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall | Dead   |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall | Alive  |
-| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn  | Alive  |
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn  | Dead   |
+| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn  | Alive  |
 
 { .block-language-dataview}
 

@@ -15,7 +15,7 @@
 | [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin           | Companion    | Travelling   |
 | [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown           | Companion    | Travelling   |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter           | Companion    | Travelling   |
-| [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                            | Barbarian/Paladin | Party Member | In The Party |
 | [[The Party/The Korrigan\|The Korrigan]]                                      | Ranger/Druid      | Party Member | In The Party |
+| [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                            | Barbarian/Paladin | Party Member | In The Party |
 
 { .block-language-dataview}

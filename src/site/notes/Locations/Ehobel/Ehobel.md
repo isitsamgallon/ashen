@@ -29,11 +29,11 @@ The home nation of the Elves in [[Locations/The Amber Realms\|The Amber Realms]]
 | ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- |
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
+| [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
-| [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
 | [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn\|Mannnnnn]]                                                            | \-        | Alive   |
 
 { .block-language-dataview}
