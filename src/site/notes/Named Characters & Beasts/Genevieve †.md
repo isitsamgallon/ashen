@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/genevieve/","tags":["NPC"],"noteIcon":"","created":"2024-10-12T15:46:01.650+01:00","updated":"2024-12-23T14:12:46.122+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/genevieve/","tags":["NPC"],"noteIcon":"","created":"2024-10-12T15:46:01.650+01:00","updated":"2024-12-31T19:59:00.542+00:00"}
 ---
 
 
 ### Overview
-Genevieve is the former leader of [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]] and a known [[Other Information/Perpetual\|Perpetual]]. Before her death, she ran the fort for over 200 years but her family have controlled the fort for 1000s of years. She fought in [[History & Events/The Sundering\|The Sundering]] as a part of [[Groups/The Coalition\|The Coalition]] and is considered a fair leader, but extremely money-driven. 
+Genevieve is the former leader of [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]] and a known [[Other Information/Perpetual\|Perpetual]]. Before her death, she ran the fort for over 200 years but her family have controlled the fort for 1000s of years. She fought in [[History & Events/The Sundering\|The Sundering]] as a part of [[Groups & Factions/The Coalition\|The Coalition]] and is considered a fair leader, but extremely money-driven. 
 
 ### Notable Information & History 
 - During [[Admin/Display Tags/The Party\|The Party]] 's first encounter with her, she revealed [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] 's previous allegiance to [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and his involvement in [[History & Events/The Sundering\|The Sundering]]. 

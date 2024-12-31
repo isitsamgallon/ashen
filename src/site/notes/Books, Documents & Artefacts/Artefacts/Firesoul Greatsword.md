@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/firesoul-greatsword/","tags":["Artefact"],"noteIcon":"","created":"2024-07-30T14:36:24.113+01:00","updated":"2024-12-23T18:13:26.745+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/firesoul-greatsword/","tags":["Artefact"],"noteIcon":"","created":"2024-07-30T14:36:24.113+01:00","updated":"2024-12-31T22:15:52.318+00:00"}
 ---
 
 ### Overview

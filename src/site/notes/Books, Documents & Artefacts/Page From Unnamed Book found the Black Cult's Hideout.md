@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/page-from-unnamed-book-found-the-black-cult-s-hideout/","noteIcon":"","created":"2024-05-03T19:38:38.708+01:00","updated":"2024-12-18T14:56:04.021+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/page-from-unnamed-book-found-the-black-cult-s-hideout/","tags":["Unimportant"],"noteIcon":"","created":"2024-05-03T19:38:38.708+01:00","updated":"2024-12-31T22:44:23.861+00:00"}
 ---
 
-This is a book found in [[Groups/Religious Organisations/The Black Cult\|The Black Cult]]'s hideout in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] that details how to defeat [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] in [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]]. 
+This is a book found in [[Groups & Factions/Religious Organisations/The Black Cult\|The Black Cult]]'s hideout in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] that details how to defeat [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] in [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]]. 
 
 It states that everyone being haunted must burn their most prosed passions alongside [[Gods & Heralds/Chronovorus/The Pages\|The Pages]] and then wait until they hear the sound of 3 bells ringing before opening their eyes. 

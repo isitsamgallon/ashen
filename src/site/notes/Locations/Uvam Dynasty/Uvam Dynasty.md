@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","noteIcon":"","created":"2024-03-10T21:05:30.939+00:00","updated":"2024-12-13T22:49:46.262+00:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Location"],"noteIcon":"","created":"2024-03-10T21:05:30.939+00:00","updated":"2024-12-31T20:35:16.029+00:00"}
 ---
 
 A nation found to the south of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Its architecture is based on [Edo Period Japan](https://en.wikipedia.org/wiki/Edo_period). Uvam is an [Anarchist Nation](https://en.wikipedia.org/wiki/Anarchy) with many of the towns and people free to do what they want, leading to them being extremely different from one another. Long ago they all banded together under one banner and each contributed forces for a standing army.  [[The Party/Mordecai Reverence\|Mordecai Reverence]] spent a long time in the region and has a particularly dark past associated with [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] and its de facto leader, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]].
@@ -23,8 +23,8 @@ Uvam is a relatively small nation found towards the south of the [[Locations/Ver
 ### NPCs From The Uvam Dynasty
 | File                                                                                                                         | Home Town | Status |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
-| [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                | Minatota  | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
+| [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                | Minatota  | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
 
 { .block-language-dataview}

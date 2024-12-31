@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/poems-from-the-sand-dunes/","noteIcon":"","created":"2024-09-24T22:15:12.217+01:00","updated":"2024-12-13T17:46:18.140+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/poems-from-the-sand-dunes/","noteIcon":"","created":"2024-09-24T22:15:12.217+01:00","updated":"2024-12-31T22:43:19.012+00:00"}
 ---
 
 By [[Named Characters & Beasts/Khanate Hester †\|Khanate Hester †]]. A book of poems found in the [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]] by a a long dead skeleton. It contains clues to all of the puzzles found within the dungeon. [The original text can be found here](https://docs.google.com/document/d/1UX0cNa8eirpmyI3VuvZkTE1AVZ1fbgltdeTA2EEroCM/edit#heading=h.el9mt8cye42p)

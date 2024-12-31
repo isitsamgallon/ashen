@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-in-the-crypts-of-dawnhaven/","noteIcon":"","created":"2024-11-25T22:33:30.961+00:00","updated":"2024-12-13T17:46:18.145+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-in-the-crypts-of-dawnhaven/","noteIcon":"","created":"2024-11-25T22:33:30.961+00:00","updated":"2024-12-31T22:43:18.982+00:00"}
 ---
 
 **Entry 1: The Fallen Sun**  

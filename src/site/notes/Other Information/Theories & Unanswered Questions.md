@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","noteIcon":"","created":"2024-12-25T12:48:43.045+00:00","updated":"2024-12-25T13:31:15.023+00:00"}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","noteIcon":"","created":"2024-12-25T12:48:43.045+00:00","updated":"2024-12-31T22:33:31.184+00:00"}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.
@@ -22,7 +22,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [x] How did [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] live for so long? ✅ 2024-12-25
 - [ ] Who is the [[Named Characters & Beasts/Illusion Master\|Illusion Master]]?
 - [ ] What made [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]] go mad?
-- [x] What happened to [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus †\|Master Enel Cubus †]]? ✅ 2024-12-25
+- [x] What happened to [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]]? ✅ 2024-12-25
 - [ ] Who is [[Named Characters & Beasts/Anselis\|Anselis]]
 - [ ] Why was [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] working with [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was it a part of his larger plan?
 - [ ] Why does [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] come back every 50 years?
@@ -35,15 +35,15 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] and [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] are the two boys from [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks that the [[Books, Documents & Artefacts/Artefacts/Crown of Trues Sight\|Crown of Trues Sight]] is currently held by [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]].
 - Sam thinks the Heragon from [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]] could be the druid [[Admin/Display Tags/The Party\|The Party]] met ages ago.
-- [[Named Characters & Beasts/Illusion Master\|Illusion Master]] is one of [[Groups/The Auditors\|The Auditors]]
-- [[Named Characters & Beasts/Anselis\|Anselis]] is a member of [[Groups/The Auditors\|The Auditors]]
+- [[Named Characters & Beasts/Illusion Master\|Illusion Master]] is one of [[Groups & Factions/The Auditors\|The Auditors]]
+- [[Named Characters & Beasts/Anselis\|Anselis]] is a member of [[Groups & Factions/The Auditors\|The Auditors]]
 - [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] was the one behind [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]'s resurrection 
 - [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] was behind [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] resurrection 
   
 ### Incorrect Theories
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] had a theory that each member of [[Admin/Display Tags/The Party\|The Party]] would become associated with a God at the beginning of the campaign. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], [[The Party/Aidan Knight\|Aidan Knight]] with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[The Party/Wurinn Fuuldrusch\|Drache]] with [[Gods & Heralds/Eldros/Eldros\|Eldros]] or [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] - they just couldn't place [[The Party/Dead/Kal ‡\|Kal ‡]]
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thought [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was rewarded by a powerful group like [[Groups/The Auditors\|The Auditors]] for leading the charge in the sundering and keeping the balance of the gods. OR he found a way with dark magic to extend his life so he could be with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] before she rejected him for [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]].
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thought [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was rewarded by a powerful group like [[Groups & Factions/The Auditors\|The Auditors]] for leading the charge in the sundering and keeping the balance of the gods. OR he found a way with dark magic to extend his life so he could be with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] before she rejected him for [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]].
 
 ### Correct Theories & Answers
 - [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was a [[Other Information/Perpetual\|Perpetual]] because he was killed a long time ago and resurrected [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] - read [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]] to learn more
-- [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus †\|Master Enel Cubus †]] was killed on [[Locations/Itone Isles\|Itone Isles]] by [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]
+- [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] was killed on [[Locations/Itone Isles\|Itone Isles]] by [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]

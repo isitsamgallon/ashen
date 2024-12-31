@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","noteIcon":"","created":"2024-09-17T22:36:35.266+01:00","updated":"2024-12-18T14:56:55.875+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","noteIcon":"","created":"2024-09-17T22:36:35.266+01:00","updated":"2024-12-31T21:52:52.070+00:00"}
 ---
 
-Ignatius is known as The Cleansing Flame, Destroyer of worlds, the god of war. Ignatius is best known for when he entered [[Locations/The Amber Realms\|The Amber Realms]] to 'purify' the world in an event known as [[History & Events/The Sundering\|The Sundering]]. 
+Ignatius is known as **The Cleansing Flame, Destroyer of worlds**, the god of war. Ignatius is best known for when he entered [[Locations/The Amber Realms\|The Amber Realms]] to 'purify' the world in an event known as [[History & Events/The Sundering\|The Sundering]]. 
 
-He is famously worshipped by [[Groups/Religious Organisations/The Ashen Cult\|The Ashen Cult]] (known in the modern day as [[Groups/Religious Organisations/The Red Cult\|The Red Cult]]), which was led by [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/High Priest Lyrion\|High Priest Lyrion]], he was brought into the world and immediately started to make preparations to begin war. This included making the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]], which could reduce anyone it slashed to ash and reform them as part of the [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] army. 
+He is famously worshipped by [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]] (known in the modern day as [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]), which was led by [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/High Priest Lyrion\|High Priest Lyrion]], he was brought into the world and immediately started to make preparations to begin war. This included making the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]], which could reduce anyone it slashed to ash and reform them as part of the [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] army. 
 
 It is said in [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]] that [[Locations/The Desert/Ember Peak\|Ember Peak]], are large volcano found in [[Locations/The Desert/The Desert\|The Desert]] was "as a conduit to [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]. Its molten heart pulsed with the essence of their god, and its fiery eruptions were seen as omens of his imminent return."
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/caden-steel-breaker/","tags":["NPC"],"noteIcon":"","created":"2024-03-22T14:44:15.591+00:00","updated":"2024-12-13T17:33:51.945+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/caden-steel-breaker/","tags":["NPC"],"noteIcon":"","created":"2024-03-22T14:44:15.591+00:00","updated":"2024-12-31T19:55:45.123+00:00"}
 ---
 
 ### Overview
@@ -15,7 +15,7 @@ Caden had a short, well-maintained haircut and beard and could often be found we
 - After [[History & Events/The Sundering\|The Sundering]], [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] found herself trapped in a love triangle with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]. Ultimately she falls for Caden but it's considered Taboo to marry humans in Elvin culture so she promises to love Caden forever in secret.
 - Soon after she returned to [[Locations/Ehobel/Ehobel\|Ehobel]], she was known to constantly leave the palace at night time and only return in the early hours of the morning looking incredibly drained. Over time she became so weak that she passed away. 
 - The party first met Caden when they reached [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] for the first time, he was manning the gates. 
-- Later on, a large airship crashed a few days march away and he needed all abled-bodied people to due in the investigation. Although the exact circumstances of the airship crash are unknown, it is suspected to be the work of [[Groups/Religious Organisations/The Ashen Cult\|The Ashen Cult]]. 
+- Later on, a large airship crashed a few days march away and he needed all abled-bodied people to due in the investigation. Although the exact circumstances of the airship crash are unknown, it is suspected to be the work of [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]. 
 - Midway through the investigation, one of the cult members managed to explode themselves causing a large shockwave that flung Caden against a nearby try, knocking him out cold. 
 - This explosion also caused a wyvern to attack the area. During the chaos of the attack, no one noticed when [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] secretly caused the tree to fall onto Caden's body, killing him. His death was verified and his body was brought back to Blackwall.
 - Caden was later found walking around like nothing had happened, although he seemed slightly off. Most didn't see his actions as being strange since they were so relieved that Caden was still around.  After a short analysis, [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was able to conclude that someone had used powerful necromancy magic to control and resurrect Caden. 

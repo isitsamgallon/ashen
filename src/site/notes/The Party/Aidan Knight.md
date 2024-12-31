@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aidan-knight/","noteIcon":"","created":"2024-09-17T15:01:33.993+01:00","updated":"2024-12-26T12:51:44.288+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aidan-knight/","noteIcon":"","created":"2024-09-17T15:01:33.993+01:00","updated":"2024-12-31T17:15:49.777+00:00"}
 ---
 
 
 
 > [!infobox]
 > 
-> # Aidan Knight
+> # Aiden Knight
 > ![AidenKnight.png|cover hsmall](/img/user/Admin/Attachments/AidenKnight.png)
 > ###### Basic Information
 > 
@@ -42,7 +42,7 @@ Aiden Knight is a human Rogue/ Warlock Multi-class. Not much is known about this
 Aiden is a very quiet and reserved person, who doesn't interact with [[Admin/Display Tags/The Party\|The Party]] much. He is best known for his love for sleeping in trees, notably not with the party. He is also known for being quite selfish and self-centred often wanting to keep as much [[Other Information/Gold\|Gold]] to himself as possible. 
 
 ### Description
-Aiden has Blond hair and brown eyes. He wears all-black clothing with a black hood. 
+Aiden has platinum blond hair and brown eyes. He wears all-black clothing with a black hood. 
 
 ### Backstory Summary
 Aiden's backstory hasn't been revealed publicly yet. 

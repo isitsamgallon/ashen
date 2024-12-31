@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":"","created":"2024-03-22T18:35:04.570+00:00","updated":"2024-12-26T12:47:36.065+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":"","created":"2024-03-22T18:35:04.570+00:00","updated":"2024-12-27T16:02:14.348+00:00"}
 ---
 
 
@@ -48,7 +48,7 @@ Mordecai Reverence is always adorned in whatever finery he has been able to affo
 ### Backstory Summary
 Mordecai was a young child when their magic activated randomly, causing a massive fireball to launch inside of his family home. The house fire that ensued caused the death of their [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Mother]] and some of their siblings. It was later revealed that their father and brother survived the fire and have been hunting Mordecai down ever since. 
 
-Sometime later they arrived in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] where they joined the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] to make money, eventually catching the eye, and obsessive love, of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. They later broke free of their work there and soon found themselves captured by [[Groups/Religious Organisations/The Red Cult\|The Red Cult]].
+Sometime later they arrived in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] where they joined the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] to make money, eventually catching the eye, and obsessive love, of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. They later broke free of their work there and soon found themselves captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
 
 ### Trivia
 - Mordecai's mini is based on the female character model on Eldritch Foundry because the male models weren't "Twinky enough".

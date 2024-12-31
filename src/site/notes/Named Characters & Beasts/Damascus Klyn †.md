@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"noteIcon":"","created":"2024-05-12T21:00:11.818+01:00","updated":"2024-12-23T14:12:46.115+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"noteIcon":"","created":"2024-05-12T21:00:11.818+01:00","updated":"2024-12-31T19:55:45.113+00:00"}
 ---
 
 

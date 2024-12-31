@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/silkhorn/","tags":["Location"],"noteIcon":"","created":"2024-03-12T16:12:52.348+00:00","updated":"2024-12-13T22:52:52.550+00:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/silkhorn/","tags":["Location"],"noteIcon":"","created":"2024-03-12T16:12:52.348+00:00","updated":"2024-12-31T20:49:01.780+00:00"}
 ---
 
 ### Overview
@@ -7,7 +7,7 @@ Silkhorn is a small fishing village found to the west of the [[Locations/OFC/Org
 
 ### Notable Information & History  
 - The Party wasn't welcome in the village after committing several acts of mild disrespect such as trespassing in the goblin's bar, destroying their quest board and general tomfoolery. As the leaders of the OFC, they are now allowed back in the village. 
-- Sometime before [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]], Azel arrived in [[Locations/OFC/Silkhorn\|Silkhorn]] and began to stoke up racial hate, blaming the town's misfortunes on other races. He managed to stoke up so much hatred that they hung many Goblins ([[Groups/Goblin Mafia\|Goblin Mafia]] or not) and many of the foreigners. [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]] tried his best to contain the hate but this only stoked the flames of hatred and caused riots. He was later killed by [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]], who then formed [[Groups/The Hero Cult\|The Hero Cult]].
+- Sometime before [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]], Azel arrived in [[Locations/OFC/Silkhorn\|Silkhorn]] and began to stoke up racial hate, blaming the town's misfortunes on other races. He managed to stoke up so much hatred that they hung many Goblins ([[Groups & Factions/Goblin Mafia\|Goblin Mafia]] or not) and many of the foreigners. [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]] tried his best to contain the hate but this only stoked the flames of hatred and caused riots. He was later killed by [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]], who then formed [[Groups & Factions/The Hero Cult\|The Hero Cult]].
 
 ### Trivia:
 - The arm of a seemingly noble man with a significant credit count was left just outside the walls before [[Admin/Display Tags/The Party\|The Party]] left.

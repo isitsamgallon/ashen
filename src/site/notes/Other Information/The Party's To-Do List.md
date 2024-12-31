@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","noteIcon":"","created":"2024-09-06T13:59:06.719+01:00","updated":"2024-12-24T12:53:26.008+00:00"}
+{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","noteIcon":"","created":"2024-09-06T13:59:06.719+01:00","updated":"2024-12-31T22:33:31.168+00:00"}
 ---
 
 - [ ] Kill with [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] 
@@ -9,7 +9,7 @@
 - [ ] Go to [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan\|The Korrigan]]'s business.
 - [x] Travel to [[Locations/Itone Isles\|Itone Isles]] ✅ 2024-12-24
 	- [x] Learn more about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]. ✅ 2024-12-24
-	- [x] Find [[Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus †\|Master Enel Cubus †]] ✅ 2024-12-24
+	- [x] Find [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] ✅ 2024-12-24
 	- [x] Learn about [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]] ✅ 2024-12-24
 - [ ] Enact the rest of the [[Other Information/OFC Plans\|OFC Plans]].
 - [ ] Explore [[Locations/The Desert/The Desert\|The Desert]]
@@ -18,10 +18,10 @@
 		- [ ] Travel to [[Locations/The Desert/Peyabo\|Peyabo]]
 		- [ ] Travel to [[Locations/The Desert/Sumene\|Sumene]]
 - [ ] Move [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]'s hero cult to [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]] to increase trade and tourism in the area.
-- [ ] [[Groups/The Auditors\|The Auditors]]
+- [ ] [[Groups & Factions/The Auditors\|The Auditors]]
 	- [ ] Learn what [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] 's plan/ role is
 	- [ ] Learn what their current goals are
-	- [ ] Go to [[Groups/The Auditors\|The Auditors]] Hideout
+	- [ ] Go to [[Groups & Factions/The Auditors\|The Auditors]] Hideout
 - [ ] Return [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] to [[Locations/Ehobel/Ehobel\|Ehobel]]
 - [ ] Learn what happened to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]].
 - [ ] Learn about [[Gods & Heralds/Eldros/Eldros\|Eldros]]

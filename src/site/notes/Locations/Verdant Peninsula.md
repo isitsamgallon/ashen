@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/verdant-peninsula/","noteIcon":"","created":"2024-07-30T15:19:00.240+01:00","updated":"2024-12-13T17:45:57.578+00:00"}
+{"dg-publish":true,"permalink":"/locations/verdant-peninsula/","tags":["Display"],"noteIcon":"","created":"2024-07-30T15:19:00.240+01:00","updated":"2024-12-31T20:50:06.341+00:00"}
 ---
 
 This is the name given to the collective land made up of the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]], [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]], [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]] and [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]]. It used to be ruled by the [[History & Events/Grayfall Empire\|Grayfall Empire]] from the [[History & Events/Eras/2nd Era\|2nd Era]] to the [[History & Events/Eras/5th Era\|5th Era]] until its fall. The mountain range that goes down the middle is known as the Verdant Spine. 

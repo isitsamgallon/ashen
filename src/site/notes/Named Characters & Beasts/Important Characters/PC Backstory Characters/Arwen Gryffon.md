@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/arwen-gryffon/","tags":["NPC","Important"],"noteIcon":"","created":"2024-03-24T21:53:31.521+00:00","updated":"2024-12-23T18:34:39.749+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/arwen-gryffon/","tags":["NPC","Important"],"noteIcon":"","created":"2024-03-24T21:53:31.521+00:00","updated":"2024-12-31T19:55:45.146+00:00"}
 ---
 
 Arwen is a very obese half-elf, who was first mentioned by [[Named Characters & Beasts/Cindy\|Cindy]] and is the owner of the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]. In his office, there are many pictures of [[The Party/Mordecai Reverence\|Mordecai Reverence]] with his eye cut out. There are many dead Tieflings under the pictures, written above them, presumably in their blood "Mordecai stole my heart". 
 
-Arwen is known to have worked with the [[Groups/Goblin Mafia\|Goblin Mafia]] but it is unknown to what end. He had also kidnapped [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] and was forcing him to rob the clients of the Nightshade's Crown 
+Arwen is known to have worked with the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] but it is unknown to what end. He had also kidnapped [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] and was forcing him to rob the clients of the Nightshade's Crown 

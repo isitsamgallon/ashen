@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/terence-witherfeather/","tags":["NPC"],"noteIcon":"","created":"2024-04-30T14:58:21.484+01:00","updated":"2024-12-23T14:12:46.238+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/terence-witherfeather/","tags":["NPC"],"noteIcon":"","created":"2024-04-30T14:58:21.484+01:00","updated":"2024-12-31T19:55:45.196+00:00"}
 ---
 
 
 ### Overview
-Witherfeather is a powerful mage that was first mentioned by [[The Party/The Korrigan\|The Korrigan]] as a way to break [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] out of this contract with the [[Groups/Ivory Crest\|Ivory Crest]]. It was revealed that Korrigan was also a part of the [[Groups/Ivory Crest\|Ivory Crest]] 5 years ago and Terrance helped him escape the contact when the effect weakened over time. He freed both of them by transferring the ownership over to a new party and then giving them the contract so that they were always in control. 
+Witherfeather is a powerful mage that was first mentioned by [[The Party/The Korrigan\|The Korrigan]] as a way to break [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] out of this contract with the [[Groups & Factions/Ivory Crest\|Ivory Crest]]. It was revealed that Korrigan was also a part of the [[Groups & Factions/Ivory Crest\|Ivory Crest]] 5 years ago and Terrance helped him escape the contact when the effect weakened over time. He freed both of them by transferring the ownership over to a new party and then giving them the contract so that they were always in control. 
 
 ### Notable Information & History 
 - 3 years before the start of the story he was chased out of [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], presumably for freeing many slaves.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/deputy-bridges/","tags":["NPC"],"noteIcon":"","created":"2024-03-17T21:35:12.275+00:00","updated":"2024-12-13T17:33:51.926+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/deputy-bridges/","tags":["NPC"],"noteIcon":"","created":"2024-03-17T21:35:12.275+00:00","updated":"2024-12-31T19:55:45.106+00:00"}
 ---
 
 ### Overview

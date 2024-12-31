@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/cindy/","tags":["NPC"],"noteIcon":"","created":"2024-03-24T21:51:35.576+00:00","updated":"2024-12-13T17:33:51.923+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/cindy/","tags":["NPC"],"noteIcon":"","created":"2024-03-24T21:51:35.576+00:00","updated":"2024-12-31T19:58:53.564+00:00"}
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","noteIcon":"","created":"2024-03-10T22:33:45.000+00:00","updated":"2024-12-20T23:39:41.849+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","noteIcon":"","created":"2024-03-10T22:33:45.000+00:00","updated":"2024-12-31T21:35:22.379+00:00"}
 ---
 
 ### Overview
 **The Goddess of Light, Bringer of Knowledge**, who lives in [[Gods & Heralds/Aeloria/Aeloria's Library\|her grand library]]. She dedicates herself to bringing hope to the inhabitants of [[Locations/The Amber Realms\|The Amber Realms]] and teaching them how to survive. She has no physical form in [[Locations/The Amber Realms\|The Amber Realms]], however, she often pulls people up to The Golden Plain to communicate with her directly, where she chooses to take the form of an elven woman wearing all white. 
 
-She has a group of followers known as [[Groups/Religious Organisations/The Golden Ones\|The Golden Ones]] who sign a pact with her on initiation, meaning that she gets their eternal soul to act as a researcher while they get whatever knowledge they may require.
+She has a group of followers known as [[Gods & Heralds/Aeloria/The Golden Ones\|The Golden Ones]] who sign a pact with her on initiation, meaning that she gets their eternal soul to act as a researcher while they get whatever knowledge they may require.
 
 Aeloria is seen as generally a good god who dedicates herself to bringing hope to the inhabitants of [[Locations/The Amber Realms\|The Amber Realms]] and teaching them how to survive. However, she can also be quite cruel in what she asks for in return for knowledge, like when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/Mordecai Reverence\|Mordecai Reverence]] visit her room in the [[Session Notes/Season 3 - The Worst Diplomates/Session 20#Aeloria's Room\|All-Father Temple]].
 

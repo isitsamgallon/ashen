@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-chronicles-of-the-grayfall-empire-a-dwarven-legacy/","noteIcon":"","created":"2024-09-04T22:51:19.856+01:00","updated":"2024-12-13T17:46:18.144+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-chronicles-of-the-grayfall-empire-a-dwarven-legacy/","noteIcon":"","created":"2024-09-04T22:51:19.856+01:00","updated":"2024-12-31T22:43:18.998+00:00"}
 ---
 
 

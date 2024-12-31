@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/","noteIcon":"","created":"2024-09-17T14:45:05.330+01:00","updated":"2024-12-23T14:12:46.361+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/","noteIcon":"","created":"2024-09-17T14:45:05.330+01:00","updated":"2024-12-31T22:51:03.210+00:00"}
 ---
 
 We start mid combat in [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]].
@@ -24,7 +24,7 @@ They come to a now familiar looking derelict house. This time they give all of t
 - Drache, Kal + Chenris 
 - Aidan + Mordecai
 
-House looks beautiful, and the child is still alive. Mordecai impersonates an elf and forces the father to do a survey for the [[Groups/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]] to distract the family while Kale and Aidan infiltrate. Mordecai gets invited in for dinner while kale makes his life harder because of all the noise he is making. Suddenly, [[Locations/Ehobel/Ehobel\|Ehobel]] attacks the area so eventually the household entrusts the page to Mordecai to keep it safe. 
+House looks beautiful, and the child is still alive. Mordecai impersonates an elf and forces the father to do a survey for the [[Groups & Factions/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]] to distract the family while Kale and Aidan infiltrate. Mordecai gets invited in for dinner while kale makes his life harder because of all the noise he is making. Suddenly, [[Locations/Ehobel/Ehobel\|Ehobel]] attacks the area so eventually the household entrusts the page to Mordecai to keep it safe. 
 
 The party escapes The Not World and heads east to the last page where they find the house and the not world. Inside the family is currently building the familiar house. The Dawn expanded their empire and the family moved from their house in [[Locations/Snowport\|Snowport]]. they got here by being smuggled in with the help of [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]]. 
 

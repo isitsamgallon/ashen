@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/olgrik/","tags":["NPC","Important"],"noteIcon":"","created":"2024-10-07T13:33:43.043+01:00","updated":"2024-12-23T18:34:39.754+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/olgrik/","tags":["NPC","Important"],"noteIcon":"","created":"2024-10-07T13:33:43.043+01:00","updated":"2024-12-31T19:55:45.151+00:00"}
 ---
 
 

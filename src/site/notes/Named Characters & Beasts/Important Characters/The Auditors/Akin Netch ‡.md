@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/akin-netch/","tags":["Important"],"noteIcon":"","created":"2024-09-17T23:28:19.979+01:00","updated":"2024-12-25T12:36:47.222+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/akin-netch/","tags":["Important"],"noteIcon":"","created":"2024-09-17T23:28:19.979+01:00","updated":"2024-12-31T19:55:45.157+00:00"}
 ---
 
 ### Overview
-Akin Netch, known as "the Faceless Savior," was a mysterious and revered figure as the founder of [[Groups/The Auditors\|The Auditors]]. He rejected divine influence and adopted countless identities, never revealing his true face. His actions were guided by a belief in maintaining the world’s balance.
+Akin Netch, known as "the Faceless Savior," was a mysterious and revered figure as the founder of [[Groups & Factions/The Auditors\|The Auditors]]. He rejected divine influence and adopted countless identities, never revealing his true face. His actions were guided by a belief in maintaining the world’s balance.
 
 ### Other Information & History
 - Akin established _The Auditors_, a secretive order devoted to preserving balance in the realm, addressing both natural and supernatural forces. The Auditors acted as impartial agents, intervening in shadowy and decisive ways to maintain equilibrium.

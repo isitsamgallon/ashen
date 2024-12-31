@@ -51,7 +51,7 @@ Korrigan looks identically to [[The Party/Dead/Kal ‡\|Kal ‡]], the only diff
 ### Backstory Summary
 The first part of Kal's backstory hasn't been revealed publicly yet. 
 
-After these events, Kal ran away to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was soon tricked into joining the [[Groups/Ivory Crest\|Ivory Crest]] where he became their slave for over 6 years before finally breaking free with the help of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After finally being free, he left The Dawn and soon found himself in [[Locations/OFC/Organisation of Free Cities (OFC)\|The Dawn]].
+After these events, Kal ran away to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was soon tricked into joining the [[Groups & Factions/Ivory Crest\|Ivory Crest]] where he became their slave for over 6 years before finally breaking free with the help of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After finally being free, he left The Dawn and soon found himself in [[Locations/OFC/Organisation of Free Cities (OFC)\|The Dawn]].
 
 After his death, he awoke in Lorwyn's realm where he eventually made a deal with her that allowed him to return back to life as her Herald so he could finish his business in [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]. In return, he must destroy one of [[Admin/Display Tags/The Towers\|The Towers]] for her own enjoyment.
 

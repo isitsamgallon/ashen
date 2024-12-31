@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","noteIcon":"","created":"2024-09-02T19:36:17.631+01:00","updated":"2024-12-23T14:12:46.632+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","noteIcon":"","created":"2024-09-02T19:36:17.631+01:00","updated":"2024-12-31T22:53:33.303+00:00"}
 ---
 
 
@@ -50,7 +50,7 @@ The haunter then turns its attention to Mordecai who is trying to get into the w
 Chenris enters a portal and there is notably no fog that clouds his judgement. He is in an empty marble room with a man with a staff standing in the middle. The man introduces himself as the person who controls all of the illusions. He invites Chenris to sit down and chat. Chenris joins him at the nearly summoned banquet table. The man gets straight to he point and asks why is chenris trying to ruin the illusion. Everyone seems happy with it. why not just leave it be. Chenris states that he is not trying to ruin it. His party have quite a lot of things to do and they just want to leave and get on with this lives. At this this the man brings out a a [[Locations/Strixhaven\|strixhaven]] dossier and states, he has been researching the party. although they have done some good, they have also done a few "… counterproductive actions" in reference to [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]]. 
 
 The [[Named Characters & Beasts/Illusion Master\|Illusion Master]] tries to make a deal with chenris by saying that he can offer protection for the party, even from the Gods. Chenris raises his doubts about this and ensure him that tricking the mind can do wonders. Their end of the deal is that they have to stay in [[Locations/Ehobel/Caalona\|Caalona]] - forever. Chenris refuses. The man tries to reason that is it not good to give the party everything they have ever wanted? He then goes on to list all of their latent desires one by one:
-- Aidan wishes to be rid of Chronovorus and to have never experienced his trauma at the hands of [[Groups/Religious Organisations/The Black Cult\|The Black Cult]]
+- Aidan wishes to be rid of Chronovorus and to have never experienced his trauma at the hands of [[Groups & Factions/Religious Organisations/The Black Cult\|The Black Cult]]
 - Mordecai could have [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|his mother]] back
 - Drache could have the freedom to do as his wishes and be with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]
 - Korrigan could finish his business in [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]].
