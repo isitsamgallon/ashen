@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2024-12-31T23:01:45.262+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2024-12-31T23:28:09.112+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
 
 ### Quick Links
-**[[Other Information/Characters\|Characters]] | [[Admin/Display Tags/The Party\|The Party]] | [[Other Information/Locations\|Locations]] | [[Other Information/History & Events\|History & Events]] | [[Other Information/Gods & Heralds\|Gods & Heralds]] | [[Other Information/Groups & Factions\|Groups & Factions]]
+[[Other Information/Characters\|Characters]] | [[Admin/Display Tags/The Party\|The Party]] | [[Other Information/Locations\|Locations]] | [[Other Information/History & Events\|History & Events]] | [[Other Information/Gods & Heralds\|Gods & Heralds]] | [[Other Information/Groups & Factions\|Groups & Factions]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without having to set up Obsidian.
 
