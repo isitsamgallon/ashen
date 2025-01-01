@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-01T00:01:04.959+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-01T13:06:59.983+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
 
 ### Quick Links
-[[Other Information/Characters\|Characters]] | [[Admin/Display Tags/The Party\|The Party]] | [[Other Information/Locations\|Locations]] | [[Other Information/History & Events\|History & Events]] | [[Other Information/Gods & Heralds\|Gods & Heralds]] | [[Other Information/Groups & Factions\|Groups & Factions]]
+[[Other Information/Display Tags/Characters\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Other Information/Display Tags/Locations\|Locations]] | [[Other Information/Display Tags/History & Events\|History & Events]] | [[Other Information/Display Tags/Gods & Heralds\|Gods & Heralds]] | [[Other Information/Display Tags/Groups & Factions\|Groups & Factions]]
 
-This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without having to set up Obsidian.
+This is a read-only version of the Ashen Campaign Vault, designed to make it easier to find, read, and share campaign information without setting up Obsidian.
 
 > [!tip] Useful Tip - Daggers
 > † denotes that this character is dead.

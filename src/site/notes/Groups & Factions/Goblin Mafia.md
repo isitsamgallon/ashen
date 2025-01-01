@@ -16,5 +16,5 @@ They could be related to [[Named Characters & Beasts/Historically Significant  C
 	- [[Locations/Verdant Spine\|Verdant Spine]]
 
 ### Known Business Partners
-- [[Admin/Display Tags/The Party\|The Party]]/ [[Named Characters & Beasts/Genevieve †\|Genevieve †]]
+- [[Other Information/Display Tags/The Party\|The Party]]/ [[Named Characters & Beasts/Genevieve †\|Genevieve †]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]

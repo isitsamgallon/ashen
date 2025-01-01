@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-The name is given to the group of people that travel with [[Admin/Display Tags/The Party\|The Party]] but don't engage with them day-to-day. They can often be found at a nearby town/ Inn.
+The name is given to the group of people that travel with [[Other Information/Display Tags/The Party\|The Party]] but don't engage with them day-to-day. They can often be found at a nearby town/ Inn.
 
 ### Current Companions
 | File                                                                             | Class   | Role      | Status       |

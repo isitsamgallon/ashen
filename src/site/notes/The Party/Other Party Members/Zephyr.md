@@ -34,4 +34,4 @@ Type | Stat |
 A Fey Hawk that is loyal to [[The Party/The Korrigan\|The Korrigan]] which is native to the [[Locations/Feywild/Feywild\|Feywild]]'s
 
 **Trivia**
-- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] cast beast sense on Zephyr so [[Admin/Display Tags/The Party\|The Party]] could use it to scout far away POIs
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] cast beast sense on Zephyr so [[Other Information/Display Tags/The Party\|The Party]] could use it to scout far away POIs

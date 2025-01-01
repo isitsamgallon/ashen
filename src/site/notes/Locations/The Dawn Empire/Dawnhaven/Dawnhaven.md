@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Location"],"noteIcon":"","created":"2024-03-10T23:09:01.093+00:00","updated":"2024-12-13T23:07:04.184+00:00"}
 ---
 
-The capital city of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and home to [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]], The Emperor. Dawnhaven seems to be a very well-off area with buildings that look very well put together and pretty. The city takes on a different appearance once [[Admin/Display Tags/The Party\|The Party]] goes off the main streets of the city as the wealth disparity becomes more and more evident. 
+The capital city of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and home to [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]], The Emperor. Dawnhaven seems to be a very well-off area with buildings that look very well put together and pretty. The city takes on a different appearance once [[Other Information/Display Tags/The Party\|The Party]] goes off the main streets of the city as the wealth disparity becomes more and more evident. 
 
 It was located at the north-west most point of The Dawn Empire contented before [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] and [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]] cast an incredibly complex spell that culminated in Dawnhaven disappearing from the map. It is currently unknown where it is now located.
 

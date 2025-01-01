@@ -4,7 +4,7 @@
 
 
 ### Overview
-Captain of the guards in [[Locations/The Dawn Empire/Dustwood\|Dustwood]] and had been told to accompany [[Admin/Display Tags/The Party\|The Party]] to try and catch them out for [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] 's murder of [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]] in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]].
+Captain of the guards in [[Locations/The Dawn Empire/Dustwood\|Dustwood]] and had been told to accompany [[Other Information/Display Tags/The Party\|The Party]] to try and catch them out for [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] 's murder of [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]] in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]].
 
 ### Notable Information & History 
 - He was first encountered when the party was taken in for questioning. He was secretly in the integration room with them until he was later revealed.

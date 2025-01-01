@@ -11,7 +11,7 @@ Aeloria is seen as generally a good god who dedicates herself to bringing hope t
 
 ### List of Aeloria's Deals:
 - Information on [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] and [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|his note]] in exchange for Chenris' soul. (Deal Successful)
-- Access to [[Admin/Display Tags/Dispel Ancient Goblin Magic\|Dispel Ancient Goblin Magic]] in exchange for one of Chenris' first-level spell slots. (Deal Successful)
+- Access to [[Other Information/Display Tags/Dispel Ancient Goblin Magic\|Dispel Ancient Goblin Magic]] in exchange for one of Chenris' first-level spell slots. (Deal Successful)
 - Information on the nation in which [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] is currently located in exchange for the knowledge of Chneris' childhood home. (Deal Successful)
 - Information on [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] and information on [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] and how to talk to her in exchange for all of Chenris' memories about Leotoris. (Deal Unsuccessful)
 	- Same information, but Mordecai would have to forget everything about himself, his [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]], his father and his brother would also forget about him. (Deal Unsuccessful)
@@ -22,4 +22,4 @@ Aeloria is seen as generally a good god who dedicates herself to bringing hope t
 - [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]
 
 ### Trivia 
-- Aeloria is responsible for [[Admin/Display Tags/The Party\|The Party]] Level Ups
+- Aeloria is responsible for [[Other Information/Display Tags/The Party\|The Party]] Level Ups

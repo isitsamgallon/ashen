@@ -33,8 +33,8 @@ The home nation of the Elves in [[Locations/The Amber Realms\|The Amber Realms]]
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn\|Mannnnnn]]                                                            | \-        | Alive   |
 | [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                | Ishnmel   | Alive   |
 
 { .block-language-dataview}
 ### Static Map

@@ -10,7 +10,7 @@ Each member of the Auditors has a piece of Akin, binding them to the same missio
 
 # Known Business Partners
 - [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]
-- [[Admin/Display Tags/The Party\|The Party]] 
+- [[Other Information/Display Tags/The Party\|The Party]] 
 
 # Known Members
 - [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] (Founder)

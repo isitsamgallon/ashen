@@ -35,7 +35,7 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 
 ### Overview
-An enigmatic wizard who seems to know [[Admin/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Admin/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
+An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
 
 ### Personality
 **Overall:** Halfbie is a very kind and caring person who wants to help their friends and loved ones. They have an incredibly curious personality and love to take things apart to fully understand the things around them. Although their appetite for learning is large, they're very aware of people's boundaries and do their best not to cross them. 
