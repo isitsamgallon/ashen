@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2024-12-31T23:33:28.381+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-01T00:01:04.959+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
@@ -41,6 +41,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make it eas
 > **Low Priority** - These are books that are still good and contain helpful information, but you don't need to read them to understand what is happening 
 > 
 > **Unimportant Priority** - These documents won't appear in this table below but can still be found in "Books, Documents & Artefacts" for you to read at your leisure
+
 
 
 | Book/ Document                                                                                                                                         | Reading Priority | Location found                                                                        | Date Found         |
