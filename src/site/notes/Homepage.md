@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-01T20:11:08.832+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-09T19:26:05.460+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
@@ -44,27 +44,27 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 > 
 > **Unimportant Priority** - These documents won't appear in this table below but can still be found in "Books, Documents & Artefacts" for you to read at your leisure
 
-
-
+<br> 
 | Book/ Document                                                                                                                                         | Reading Priority | Location found                                                                        | Date Found         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------------ |
-| [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                             | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                         | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
-| [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]               | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
+| [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                             | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                         | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
-| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                     | Low              | Unknown                                                                               | December 17, 2024  |
-| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                     | Low              | Unknown                                                                               | December 18, 2024  |
+| [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]               | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                     | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                             | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
+| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                     | Low              | Unknown                                                                               | December 17, 2024  |
+| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                     | Low              | Unknown                                                                               | December 18, 2024  |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                         | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | August 03, 2024    |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                               | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | September 24, 2024 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                   | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                               | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
-| [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                           | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]] | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
+| [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                           | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
 { .block-language-dataview}
+
 
 
 
