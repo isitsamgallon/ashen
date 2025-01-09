@@ -67,6 +67,7 @@
 | [[Named Characters & Beasts/Khanate Hester †\|Khanate Hester †]]                                                                             | Dead    | Adult Human Male         | \-               | \-                    |
 | [[Named Characters & Beasts/King Oberon\|King Oberon]]                                                                                       | Alive   | Adult Fey Male           | The Feywilds     | \-                    |
 | [[Named Characters & Beasts/Important Characters/Lady of Morak †\|Lady of Morak †]]                                                          | Dead    | Adult Female Dwarf       | Dwarven Empire   | Unknown/Unclear       |
+| [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                                     | Alive   | \- \- \-                 | The Dawn Empire  | Baytown               |
 | [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                                       | Dead    | Adult Human Male         | The Dawn Empire  | Steelwick             |
 | [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]]                                                                    | Alive   | Magic Demon Race         | \-               | \-                    |
 | [[Named Characters & Beasts/Malin\|Malin]]                                                                                                   | Alive   | Adult Human Male         | The Dawn Empire  | The All Father Temple |

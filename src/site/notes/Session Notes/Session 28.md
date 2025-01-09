@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-28/","noteIcon":"","created":"2025-01-09T20:03:37.139+00:00","updated":"2025-01-09T23:06:21.798+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/session-28/","noteIcon":"","created":"2025-01-09T20:03:37.139+00:00","updated":"2025-01-09T23:12:48.303+00:00"}
 ---
 
 **Session Date:** 9th Jan 2025 
@@ -13,7 +13,7 @@
 - While this is happening, [[The Party/The Korrigan\|The Korrigan]] checks the painting in [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]'s cave and realises that the masks that [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] and [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] wear are very similar. 
 - Returning, he sits down with [[The Party/Other Party Members/Bit\|Bit]], casts Summon Steed, and makes the summon look as close as possible to Uti so Bit doesn't feel lonely. The horse is called Bobs.
 - Halfbie uses their Eldritch Canon to start melting down the skeleton and forming it into smaller bars before putting it into the bag of holding. While this is happening, korrigan convinces Bits and Bobs to make moulds in the snow so they can have a smaller version of them.
-- As night comes, [[The Party/Halfbie\|Halfbie]] puts up Leomond's Tiny Hut while they work into the night. The skeletons reanimate and notably ignore them and start heading for the castle.
+- Halfbie puts up Leomond's Tiny Hut as night comes while they work into the night. The skeletons reanimate and notably ignore them and start heading for the castle.
 - Korrigan summons [[The Party/Other Party Members/Zephyr\|Zephyr]] while [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] uses Beast Sense, so they scout out the area. 
 - Zephyr sees them all go into the castle, and the bird follows them in. Inside, all the skeletons are lined up in ranks, kneeling towards the throne. One at the front has their hand up on the throne, waiting for something 
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]] goes pale (for a tiefling) upon hearing this; Korrigan can't tell that Mordecai isn't being controlled. 
@@ -102,14 +102,6 @@
 - Before Mordecai can say anything, Mord's mouth moves on its own as Seifer speaks through Mord's mouth forcibly. Seifer apologises, explaining that they could take control of a lot more of their body, but they don't because they are friends. 
 - They wonder if taking Seifer to the temple is a good idea as they would essentially be taking her to the other follower of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]].
 - Mordecai says they have discussed consent with Seifer and are okay with Mordecai being in control. If they need to go to the temple, they can just go there.
-
-
-
-
-
-
-
-
 
 # Trivia & Notes
 
