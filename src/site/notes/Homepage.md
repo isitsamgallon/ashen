@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-09T19:26:05.460+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-09T19:50:41.084+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
@@ -19,7 +19,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ![ZoomedOutMapOfAmberRealms.jpg](/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg)
 
 ### Sessions
-| File                                                                        | Saga                            | Summary                                                                                                                                                                                                                                                                  |
+| Session                                                                     | Saga                            | Summary                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]]       | 4th Saga - Name Undecided       | We continue to explore Itone and encounter a strange crown that possesses Mordecai. We meet Uti, who is revealed to be Niaross and is killed in a fight. Finally, we investigate some strange chanting and find the Firesoul Greatsword, which Ebis Daro quickly steals. |
 | [[Session Notes/Season 4 - Name Undecided/Session 26\|Session 26]]       | 4th Saga - Name Undecided       | After the death and the disappearance of chenris, we meet Halfbie. We also travel to Itone for the first time and explore the island.                                                                                                                                    |
