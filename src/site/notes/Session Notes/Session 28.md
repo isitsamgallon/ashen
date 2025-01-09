@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-28/","noteIcon":"","created":"2025-01-09T20:03:37.139+00:00","updated":"2025-01-09T23:12:48.303+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/session-28/","noteIcon":"","created":"2025-01-09T20:03:37.139+00:00","updated":"2025-01-09T23:18:08.821+00:00"}
 ---
 
 **Session Date:** 9th Jan 2025 
-**Web Vault Link:** https://ashen-one.vercel.app/session-notes/season-4-name-undecided/session-29/
+**Web Vault Link:** https://ashen-one.vercel.app/session-notes/season-4-name-undecided/session-28/
 
 # Session Summary 
 
