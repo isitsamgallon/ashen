@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-09T19:50:41.084+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-10T17:17:39.295+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
@@ -21,7 +21,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                     | Saga                            | Summary                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Session 28\|Session 28]]                                 | 4th Saga - Name Undecided       | Not Written Yet                                                                                                                                                                                                                                                          |
+| [[Session Notes/Season 4 - Name Undecided/Session 28\|Session 28]]       | 4th Saga - Name Undecided       | Not Written Yet                                                                                                                                                                                                                                                          |
 | [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]]       | 4th Saga - Name Undecided       | We continue to explore Itone and encounter a strange crown that possesses Mordecai. We meet Uti, who is revealed to be Niaross and is killed in a fight. Finally, we investigate some strange chanting and find the Firesoul Greatsword, which Ebis Daro quickly steals. |
 | [[Session Notes/Season 4 - Name Undecided/Session 26\|Session 26]]       | 4th Saga - Name Undecided       | After the death and the disappearance of chenris, we meet Halfbie. We also travel to Itone for the first time and explore the island.                                                                                                                                    |
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]] | 3rd Saga - The Worst Diplomates | We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.                                                                                                 |
@@ -64,11 +64,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                           | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
 { .block-language-dataview}
-
-
-
-
-
 
 
 
