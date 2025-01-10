@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-10T17:17:39.295+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-10T17:38:14.588+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
@@ -64,6 +64,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                           | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
 { .block-language-dataview}
+
 
 
 
