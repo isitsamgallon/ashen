@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-10T17:38:14.588+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-10T17:42:54.750+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
@@ -45,6 +45,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 > **Unimportant Priority** - These documents won't appear in this table below but can still be found in "Books, Documents & Artefacts" for you to read at your leisure
 
 <br> 
+
 | Book/ Document                                                                                                                                         | Reading Priority | Location found                                                                        | Date Found         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------------ |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                         | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
