@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","noteIcon":"","created":"2024-12-06T18:59:07.259+00:00","updated":"2024-12-26T12:50:20.421+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2024-12-26T12:50:20.421+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ms-adrei/","tags":["NPC"],"noteIcon":"","created":"2024-07-17T21:05:36.807+01:00","updated":"2024-12-31T20:02:46.377+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ms-adrei/","tags":["NPC"],"updated":"2024-12-31T20:02:46.377+00:00"}
 ---
 
 

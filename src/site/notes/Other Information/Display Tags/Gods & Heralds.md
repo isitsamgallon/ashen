@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/gods-and-heralds/","hideInGraph":true,"noteIcon":"","created":"2024-12-31T19:44:03.485+00:00","updated":"2024-12-31T21:55:19.168+00:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/gods-and-heralds/","hideInGraph":true,"updated":"2024-12-31T21:55:19.168+00:00"}
 ---
 
 A list of all the known Gods and [[Gods & Heralds/Herald\|Herald]]s of [[Gods & Heralds/The Ashen Pantheon\|The Ashen Pantheon]]

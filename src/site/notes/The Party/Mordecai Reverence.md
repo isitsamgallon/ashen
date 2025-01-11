@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","noteIcon":"","created":"2024-03-22T18:35:04.570+00:00","updated":"2024-12-27T16:02:14.348+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-01-11T14:30:38.927+00:00"}
 ---
 
 
@@ -34,23 +34,20 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Infernal, Draconic|
 
+
 ### Overview
-Mordecai Reverence is a Tiefling who is from somewhere in the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. They are a Sorcerer/Bard multi-class and a member of [[Other Information/Display Tags/The Party\|The Party]]. Renowned for their dramatic flair and innate magical aptitude, Mordecai is often both the heart of the group's charm and a source of their tension. His aversion to fire magic and knack for theatrical improvisation have made him a standout figure in their journeys. Played by [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]].
+Mordecai Reverence is a Tiefling sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within the party. Notably, he has an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes him during their adventures. He is portrayed by [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]].
 
 ### Personality
-Mord is a performer at heart, every aspect of their personality is meticulously planned to make themself as likeable and interesting as possible. He is overdramatic and led firmly by his emotions which can lead him to be inherently selfish in their decisions - though they try their best to cover it up as much as humanly possible. Mordecai craves the dramatics that life and adventure entails, forging an interesting narrative wherever they go - creating conflict or quiet moments of calmness where he believes the story of their life should have it. He tries to be good, though often impulsivity can get in the way
+Mordecai Reverence has a performance-oriented personality. He carefully cultivates his behaviour to appear likeable and intriguing. He exhibits an overdramatic demeanour, heavily influenced by his emotions, which can result in selfish decision-making; however, he strives to mask this trait. Mordecai desires the dramatic elements of life and adventure, adeptly weaving engaging narratives that involve both conflict and moments of tranquillity. His intentions are good, although impulsiveness may hinder his judgment at times.
 
-### Description
-Mordecai Reverence is always adorned in whatever finery he has been able to afford over the years, favouring gold jewellery and royal purple fabrics that compliment his red complexion. Their long dark hair has gold threads and cuffs encircling different strands. He wears a lot of makeup, favouring the brighter colours as almost a mask to aid the persona he meticulously formed over the years. The only thing genuine about them would be his cloak, clearly old however well maintained. The colour faded to a dull brown, however each hole was meticulously stitched. Though he is clearly fiendish, his eyes are oddly human.
+### Physical Description
+Mordecai Reverence is typically dressed in elaborate attire, favouring gold jewellery and rich purple fabrics that complement his red skin tone. His long dark hair features gold threads and cuffs woven into different strands. He often applies vibrant makeup, using brighter colours as a facade to support the persona he has developed over time. The only authentic item in his wardrobe is his well-maintained cloak, which has aged significantly, featuring a faded brown colour and meticulous stitching on its numerous holes. Despite his fiendish appearance, his eyes have a notably human quality.
 
-
-
-### Backstory Summary
-Mordecai was a young child when their magic activated randomly, causing a massive fireball to launch inside of his family home. The house fire that ensued caused the death of their [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Mother]] and some of their siblings. It was later revealed that their father and brother survived the fire and have been hunting Mordecai down ever since. 
-
-Sometime later they arrived in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] where they joined the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] to make money, eventually catching the eye, and obsessive love, of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. They later broke free of their work there and soon found themselves captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
+### Backstory 
+Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[Admin/CLI/spells/fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
 
 ### Trivia
-- Mordecai's mini is based on the female character model on Eldritch Foundry because the male models weren't "Twinky enough".
-- Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 
-- Mordecai canonically does drag and has even put [[The Party/The Korrigan\|The Korrigan]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in their own drag costumes at times.
+* Mordecai's miniature figure is modelled after the female character design from Eldritch Foundry, as the male models did not meet his desired aesthetic criteria.
+* A series of misunderstandings led to fans associating Mordecai with Chenris despite their mutual reluctance.
+* Mordecai is confirmed to perform in drag and has occasionally dressed [[The Party/The Korrigan\|The Korrigan]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in drag costumes.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mistrel/","tags":["NPC"],"noteIcon":"","created":"2024-03-03T22:22:24.828+00:00","updated":"2024-12-31T20:02:38.418+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/mistrel/","tags":["NPC"],"updated":"2024-12-31T20:02:38.418+00:00"}
 ---
 
 

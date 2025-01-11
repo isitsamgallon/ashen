@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"noteIcon":"","created":"2024-10-11T21:38:13.432+01:00","updated":"2024-12-31T21:35:55.346+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"updated":"2024-12-31T21:35:55.346+00:00"}
 ---
 
 

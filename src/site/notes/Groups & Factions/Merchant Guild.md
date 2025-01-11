@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/merchant-guild/","tags":["Groups"],"noteIcon":"","created":"2024-05-13T15:03:07.944+01:00","updated":"2024-12-31T21:58:53.913+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/merchant-guild/","tags":["Groups"],"updated":"2024-12-31T21:58:53.913+00:00"}
 ---
 
 - Handle and relay information on the price of goods in different regions, allowing merchants to make more money from their speculative trading. The guild could even hire spell casters to use sending to send updates between regions really quickly. Protecting these ledgers and notes from rival traders outside of the guild would be important

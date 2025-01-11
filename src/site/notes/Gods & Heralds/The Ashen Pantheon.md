@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/the-ashen-pantheon/","noteIcon":"","created":"2024-04-29T23:26:51.720+01:00","updated":"2024-12-31T21:36:31.526+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/the-ashen-pantheon/","updated":"2024-12-31T21:36:31.526+00:00"}
 ---
 
 There are several deities that watch over [[Locations/The Amber Realms\|The Amber Realms]] there is no distinction between the moral standing of these deities, they all do as they want. This means that the inhabitants of  [[Locations/The Amber Realms\|The Amber Realms]] often see these deities as fickle, though this is not the truth as they plan and scheme and often have agendas they wish to fulfil." - extract from [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]].

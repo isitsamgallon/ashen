@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-ritual/","noteIcon":"","created":"2024-02-28T17:33:23.814+00:00","updated":"2024-12-31T21:36:20.523+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-ritual/","updated":"2024-12-31T21:36:20.523+00:00"}
 ---
 
 This was an ancient ritual that could be used to banish [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]. To perform this ritual, the afflicted must burn 8 of [[Gods & Heralds/Chronovorus/The Pages\|The Pages]] along with their most prized possession. Everyone must then close their eyes and not open them until they hear three rings of a bell. 

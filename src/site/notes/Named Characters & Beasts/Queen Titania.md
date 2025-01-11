@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/queen-titania/","tags":["NPC"],"noteIcon":"","created":"2024-12-06T19:03:42.377+00:00","updated":"2024-12-31T20:03:04.168+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/queen-titania/","tags":["NPC"],"updated":"2024-12-31T20:03:04.168+00:00"}
 ---
 
 

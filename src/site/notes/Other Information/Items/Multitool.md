@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/items/multitool/","noteIcon":"","created":"2024-05-28T15:58:33.543+01:00","updated":"2024-12-13T17:46:39.112+00:00"}
+{"dg-publish":true,"permalink":"/other-information/items/multitool/","updated":"2024-12-13T17:46:39.112+00:00"}
 ---
 
 

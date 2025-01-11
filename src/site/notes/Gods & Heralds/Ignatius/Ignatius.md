@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","noteIcon":"","created":"2024-09-17T22:36:35.266+01:00","updated":"2024-12-31T21:52:52.070+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2024-12-31T21:52:52.070+00:00"}
 ---
 
 Ignatius is known as **The Cleansing Flame, Destroyer of worlds**, the god of war. Ignatius is best known for when he entered [[Locations/The Amber Realms\|The Amber Realms]] to 'purify' the world in an event known as [[History & Events/The Sundering\|The Sundering]]. 

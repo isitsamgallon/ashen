@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/malin/","tags":["NPC"],"noteIcon":"","created":"2024-09-18T16:53:17.713+01:00","updated":"2024-12-31T19:55:45.200+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/malin/","tags":["NPC"],"updated":"2024-12-31T19:55:45.200+00:00"}
 ---
 
 

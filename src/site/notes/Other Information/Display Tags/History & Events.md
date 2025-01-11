@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/history-and-events/","hideInGraph":true,"noteIcon":"","created":"2024-12-31T19:44:01.461+00:00","updated":"2024-12-31T21:58:12.531+00:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/history-and-events/","hideInGraph":true,"updated":"2024-12-31T21:58:12.531+00:00"}
 ---
 
 A list of all the historical events that we are aware of:

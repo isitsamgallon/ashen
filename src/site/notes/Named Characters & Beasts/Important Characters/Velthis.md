@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/velthis/","tags":["NPC","Important"],"noteIcon":"","created":"2024-11-25T21:05:35.945+00:00","updated":"2024-12-31T19:55:45.168+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/velthis/","tags":["NPC","Important"],"updated":"2024-12-31T19:55:45.168+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/illusion-master/","tags":["NPC"],"noteIcon":"","created":"2024-09-03T13:35:28.470+01:00","updated":"2024-12-31T19:55:45.136+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/illusion-master/","tags":["NPC"],"updated":"2024-12-31T19:55:45.136+00:00"}
 ---
 
 

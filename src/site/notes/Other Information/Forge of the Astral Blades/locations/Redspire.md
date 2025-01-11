@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/forge-of-the-astral-blades/locations/redspire/","noteIcon":"","created":"2024-04-29T23:18:33.900+01:00","updated":"2024-12-13T17:46:39.103+00:00"}
+{"dg-publish":true,"permalink":"/other-information/forge-of-the-astral-blades/locations/redspire/","updated":"2024-12-13T17:46:39.103+00:00"}
 ---
 
 Kingdom in a far far away land

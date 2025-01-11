@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/the-ancient-pillars/","noteIcon":"","created":"2024-12-06T19:04:07.278+00:00","updated":"2024-12-13T17:46:30.524+00:00"}
+{"dg-publish":true,"permalink":"/history-and-events/the-ancient-pillars/","updated":"2025-01-11T13:15:26.393+00:00"}
 ---
 
 
-[[Admin/TOM MISSING INFORMATION\|TOM MISSING INFORMATION]]
+[[Admin/MISSING INFORMATION FOR TOM\|MISSING INFORMATION FOR TOM]]
 
 It is assumed these are the original 50 Pillars that held back the Gods from the mortal plane. Most fell during [[History & Events/The Sundering\|The Sundering]]. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/The Korrigan\|The Korrigan]] know a lot more about the history of the pillars than the rest of [[Other Information/Display Tags/The Party\|The Party]]. 
 

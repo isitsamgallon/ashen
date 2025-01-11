@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/xekai/","tags":["NPC","Important"],"noteIcon":"","created":"2024-03-12T21:31:10.441+00:00","updated":"2024-12-31T19:55:45.166+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/xekai/","tags":["NPC","Important"],"updated":"2024-12-31T19:55:45.166+00:00"}
 ---
 
 

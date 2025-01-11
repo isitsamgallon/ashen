@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/akin-netch/","tags":["Important"],"noteIcon":"","created":"2024-09-17T23:28:19.979+01:00","updated":"2024-12-31T19:55:45.157+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/akin-netch/","tags":["Important"],"updated":"2024-12-31T19:55:45.157+00:00"}
 ---
 
 ### Overview

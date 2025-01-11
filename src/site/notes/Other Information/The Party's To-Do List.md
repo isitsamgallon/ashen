@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","noteIcon":"","created":"2024-09-06T13:59:06.719+01:00","updated":"2025-01-09T23:10:14.477+00:00"}
+{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","updated":"2025-01-09T23:10:14.477+00:00"}
 ---
 
 - [ ] Kill with [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] 

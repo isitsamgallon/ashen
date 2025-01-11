@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/chatiz/","tags":["NPC"],"noteIcon":"","created":"2024-07-30T14:26:17.798+01:00","updated":"2024-12-31T21:59:58.548+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/chatiz/","tags":["NPC"],"updated":"2024-12-31T21:59:58.548+00:00"}
 ---
 
 

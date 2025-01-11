@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","noteIcon":"","created":"2024-06-02T20:28:10.866+01:00","updated":"2024-12-26T13:47:30.251+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2024-12-26T13:47:30.251+00:00"}
 ---
 
 

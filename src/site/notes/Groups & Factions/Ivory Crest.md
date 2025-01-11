@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"noteIcon":"","created":"2024-04-29T23:35:04.350+01:00","updated":"2024-12-31T21:58:53.912+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"updated":"2024-12-31T21:58:53.912+00:00"}
 ---
 
 Ivory Crest is facade for a thriving thieves' guild that operated covertly within the [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]. 

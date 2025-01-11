@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/uti/","tags":["NPC","Important"],"noteIcon":"","created":"2024-08-03T19:58:23.985+01:00","updated":"2024-12-31T19:55:45.163+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/uti/","tags":["NPC","Important"],"updated":"2024-12-31T19:55:45.163+00:00"}
 ---
 
 ### Overview

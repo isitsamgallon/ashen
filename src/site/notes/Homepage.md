@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-12-08T19:38:27.664+00:00","updated":"2025-01-10T17:42:54.750+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-01-11T13:41:01.389+00:00"}
 ---
 
 ![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
@@ -36,7 +36,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Books & Documents Reading List
 
 > [!Info] **Reading List Explained**
-> **High Priority** —These documents are unnecessary to understand the campaign's key themes. Not reading these may cause confusion.
+> **High Priority** —These documents are unnecessary to understand the campaign's key themes. Not reading these may cause confusion or a lack of understanding of common [[Other Information/Theories & Unanswered Questions\|theories]].
 > 
 > **Medium Priority** - These documents are pertinent to understanding the story but can help explain things that are happening in the background, which may influence the story
 > 
@@ -48,8 +48,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 | Book/ Document                                                                                                                                         | Reading Priority | Location found                                                                        | Date Found         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------------ |
-| [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                         | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                             | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
+| [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                         | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                         | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]               | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                     | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |

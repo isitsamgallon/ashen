@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","noteIcon":"","created":"2024-09-17T14:58:57.729+01:00","updated":"2024-12-31T21:36:44.600+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","updated":"2024-12-31T21:36:44.600+00:00"}
 ---
 
 There are two main theories on how heralds are made, either they are people who accomplish great feats in their lives and thus are chosen by gods to carry out their whims. The second way is where a small part of the god is given form to go to [[Locations/The Amber Realms\|The Amber Realms]] to carry out the Gods whims. You usually have to willingly accept to become a herald.

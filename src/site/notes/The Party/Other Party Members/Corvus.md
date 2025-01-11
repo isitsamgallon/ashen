@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","noteIcon":"","created":"2024-03-15T20:00:22.307+00:00","updated":"2024-12-26T13:48:45.551+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2024-12-26T13:48:45.551+00:00"}
 ---
 
 

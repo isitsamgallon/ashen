@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/characters/","hideInGraph":true,"noteIcon":"","created":"2024-12-31T19:43:57.196+00:00","updated":"2024-12-31T20:39:23.477+00:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/characters/","hideInGraph":true,"updated":"2024-12-31T20:39:23.477+00:00"}
 ---
 
 ### Important Characters 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","noteIcon":"","created":"2024-12-06T19:07:37.790+00:00","updated":"2024-12-26T13:18:28.579+00:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-01-10T18:00:13.217+00:00"}
 ---
 
  > [!infobox]
@@ -39,23 +39,20 @@
  
  > "Do you know why the smartest people end up working for the worst people? It's because they are better at rationalising the wrong things they do"<cite>[[The Party/The Korrigan\|The Korrigan]] - [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]]</cite>
 
-### Overview
-Korrigan is a human-fey hybrid and [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]'s [[Gods & Heralds/Herald\|Herald]]. He is a Ranger/Druid Multi-class known for using a powerful lightning bow and fey-magic. He first joined [[Other Information/Display Tags/The Party\|The Party]] as [[The Party/Dead/Kal ‡\|Kal ‡]] before he eventually died when fighting a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]] near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. He later rejoined the party in his new form with barely any of his memories, however, over time he regained most of his memories when interacting with things reminiscent of his past. He was incredibly close with [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], being one of the few people able to understand him and tell when they were lying. He is played by [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]
 
-### Personality
-Korrigan is generally a very happy and seemingly quite innocent person who prioritises someone's freedom and the safety of nature above all else. He fiercely defends his friends and allies and just wants them to be happy. Underneath the surface, he is deeply troubled as he tries to reconcile his human life with his new life as a Fey creature and the Herald of Lorwyn.  
-
-### Description
-Korrigan looks identically to [[The Party/Dead/Kal ‡\|Kal ‡]], the only difference being that Korrigan has a large pair of antlers growing out the sides of his head.
-
-### Backstory Summary
-The first part of Kal's backstory hasn't been revealed publicly yet. 
-
-After these events, Kal ran away to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was soon tricked into joining the [[Groups & Factions/Ivory Crest\|Ivory Crest]] where he became their slave for over 6 years before finally breaking free with the help of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After finally being free, he left The Dawn and soon found himself in [[Locations/OFC/Organisation of Free Cities (OFC)\|The Dawn]].
-
-After his death, he awoke in Lorwyn's realm where he eventually made a deal with her that allowed him to return back to life as her Herald so he could finish his business in [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]. In return, he must destroy one of [[Other Information/Display Tags/The Towers\|The Towers]] for her own enjoyment.
-
-### Trivia
-- Korrigan was taught the word cunt by Mordecai, but he has not used it correctly since
-- Korrigan's eyes glow purple when he is pissed off
-- Korrigan is particularly fond of charming enemies  
+### Overview  
+Korrigan is a human-fey hybrid and serves as the [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. He is a multi-classed Ranger and Druid recognised for utilising a powerful lightning bow and fey magic. Initially, he joined [[Other Information/Display Tags/The Party\|The Party]] under the name [[The Party/Dead/Kal ‡\|Kal ‡]] but perished during a confrontation with a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]] near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. Subsequently, he rejoined [[Other Information/Display Tags/The Party\|The Party]] in a new form, initially devoid of most of his memories. Through interactions with reminiscences of his past, he gradually regained a significant portion of his memories. Korrigan shared a close bond with [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], one of the few individuals capable of understanding him and discerning when he was untruthful. He is portrayed by [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]].  
+  
+### Personality  
+Korrigan is characterised as a generally happy and seemingly innocent individual who prioritises the freedom of others and the protection of nature. He is known for fiercely defending friends and allies, often desiring their happiness. Beneath this cheerful exterior, Korrigan grapples with inner turmoil as he seeks to reconcile his human past with his existence as a Fey creature and the [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]].  
+  
+### Description  
+Korrigan resembles [[The Party/Dead/Kal ‡\|Kal ‡]], the primary distinction being the presence of a large set of antlers protruding from the sides of his head.  
+  
+### Backstory Summary  
+Kal's early backstory has not been disclosed to the public. Following initial events, Kal fled to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was deceived into joining the [[Groups & Factions/Ivory Crest\|Ivory Crest]], subsequently enduring six years of servitude before breaking free with assistance from [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After escaping, he departed from The Dawn and became associated with the Organisation of Free Cities. After his death, Kal awakened within [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]'s realm, where he negotiated a pact allowing him to return to life as the [[Gods & Heralds/Herald\|Herald]] to complete unfinished business in [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]. In exchange, he is tasked with destroying one of [[Other Information/Display Tags/The Towers\|The Towers]] for her amusement.  
+  
+### Trivia  
+- Korrigan was introduced to the term "cunt" by Mordecai but has not used it appropriately since.  
+- Korrigan's eyes exhibit a purple glow when he is angry.  
+- Korrigan has a particular penchant for charming enemies.  

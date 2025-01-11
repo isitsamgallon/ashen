@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/folre-enelion-iv-esquire/","tags":["NPC"],"noteIcon":"","created":"2024-06-08T23:28:34.825+01:00","updated":"2024-12-31T19:55:45.109+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/folre-enelion-iv-esquire/","tags":["NPC"],"updated":"2024-12-31T19:55:45.109+00:00"}
 ---
 
 

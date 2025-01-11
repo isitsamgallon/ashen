@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/fort-moldan/","tags":["Location","Unexplored"],"noteIcon":"","created":"2024-08-10T11:20:16.011+01:00","updated":"2024-12-13T23:05:29.474+00:00"}
+{"dg-publish":true,"permalink":"/locations/fort-moldan/","tags":["Location","Unexplored"],"updated":"2024-12-13T23:05:29.474+00:00"}
 ---
 
 The last surviving dwarven stronghold in [[Locations/The Amber Realms\|The Amber Realms]]. The foot was established during the [[History & Events/Eras/4th Era\|4th Era]] by Dwarf King [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Dhuggith Broadcloak †\|Dhuggith Broadcloak †]] amidst the decline of the [[History & Events/Grayfall Empire\|Grayfall Empire]]. Dhuggith, seeking power as the empire fractured, ventured north into uncharted, icy territories. There, he constructed Fort Moldan and utilized the steam geysers from local hot springs to forge a mechanical army. This automaton force became a key tool in Dhuggith's campaign to conquer northern dwarf villages, consolidating his control over the region.
