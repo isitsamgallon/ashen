@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/mage-s-guild/","tags":["Groups"],"updated":"2024-12-31T21:58:53.917+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/mage-s-guild/","tags":["Groups"],"updated":"2025-01-14T21:14:00.616+00:00"}
 ---
 
 A group of researches and magic specialists found in many areas of [[Locations/The Amber Realms\|The Amber Realms]].

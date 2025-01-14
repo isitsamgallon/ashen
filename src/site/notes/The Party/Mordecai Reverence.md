@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-01-11T14:30:38.927+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-01-14T21:01:11.456+00:00"}
 ---
 
 
@@ -45,7 +45,7 @@ Mordecai Reverence has a performance-oriented personality. He carefully cultivat
 Mordecai Reverence is typically dressed in elaborate attire, favouring gold jewellery and rich purple fabrics that complement his red skin tone. His long dark hair features gold threads and cuffs woven into different strands. He often applies vibrant makeup, using brighter colours as a facade to support the persona he has developed over time. The only authentic item in his wardrobe is his well-maintained cloak, which has aged significantly, featuring a faded brown colour and meticulous stitching on its numerous holes. Despite his fiendish appearance, his eyes have a notably human quality.
 
 ### Backstory 
-Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[Admin/CLI/spells/fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
+Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
 
 ### Trivia
 * Mordecai's miniature figure is modelled after the female character design from Eldritch Foundry, as the male models did not meet his desired aesthetic criteria.

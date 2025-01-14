@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-3/","updated":"2024-12-31T22:51:57.072+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-3/","updated":"2025-01-14T21:10:35.358+00:00"}
 ---
 
 They climb the mountain to try a find the Wyven's lair. The group reason that this is what [[The Party/Dead/Kal ‡\|Kal ‡]] would’ve wanted. The group eventually find it - its not a naturally occurring cave, more like it was hollowed out long ago. the lair is full of books shelves with ancient books written in ancient dwarvish. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] takes one of the books to for further study and in the hopes of learning the language. [[The Party/Mordecai Reverence\|Mordecai Reverence]] recognised the language from his travels. This language is found all over the cave and even on four pillars that are holding up the cave. The group decided that its best that leave for [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] to not only learn more about the books but about what is also going in with [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]].

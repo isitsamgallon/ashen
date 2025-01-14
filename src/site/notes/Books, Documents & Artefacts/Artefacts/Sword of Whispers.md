@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/sword-of-whispers/","tags":["Artefact"],"updated":"2024-12-31T22:15:52.322+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/sword-of-whispers/","tags":["Artefact"],"updated":"2025-01-14T21:11:25.925+00:00"}
 ---
 
 ### Overview

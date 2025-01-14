@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/ebis-daro/","tags":["NPC","Important"],"updated":"2024-12-31T22:33:31.097+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/ebis-daro/","tags":["NPC","Important"],"updated":"2025-01-14T20:52:34.884+00:00"}
 ---
 
 

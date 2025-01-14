@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-14/","updated":"2024-12-31T22:53:33.298+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-14/","updated":"2025-01-14T21:10:35.382+00:00"}
 ---
 
 

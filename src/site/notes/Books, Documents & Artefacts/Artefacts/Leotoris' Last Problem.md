@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/leotoris-last-problem/","tags":["Artefact"],"updated":"2024-12-31T22:15:52.320+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/leotoris-last-problem/","tags":["Artefact"],"updated":"2025-01-14T21:11:25.923+00:00"}
 ---
 
 ### Overview

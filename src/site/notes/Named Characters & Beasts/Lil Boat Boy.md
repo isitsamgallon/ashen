@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lil-boat-boy/","tags":["NPC"],"updated":"2025-01-09T23:17:03.249+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lil-boat-boy/","tags":["NPC"],"updated":"2025-01-14T20:57:09.295+00:00"}
 ---
 
 

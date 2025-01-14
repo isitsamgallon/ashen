@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/zephyr/","updated":"2024-12-26T12:53:47.357+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/zephyr/","updated":"2025-01-14T20:46:21.729+00:00"}
 ---
 
  > [!infobox]
@@ -31,7 +31,7 @@ Type | Stat |
 >Senses | Darkvision 60ft |
 >Languages | Abyssal, Beast Speech, Celestial, Common, Deep Speech, Druidic, Primordial, Sylvan|
 
-A Fey Hawk that is loyal to [[The Party/The Korrigan\|The Korrigan]] which is native to the [[Locations/Feywild/Feywild\|Feywild]]'s
+A Fey Hawk that is loyal to [[The Party/The Korrigan\|The Korrigan]], which is native to the [[Locations/Feywild/Feywild\|Feywild]]'s
 
 **Trivia**
-- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] cast beast sense on Zephyr so [[Other Information/Display Tags/The Party\|The Party]] could use it to scout far away POIs
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] can cast beast sense on Zephyr so [[Other Information/Display Tags/The Party\|The Party]] could use it to scout far away POIs

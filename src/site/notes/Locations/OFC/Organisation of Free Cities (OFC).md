@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Location"],"updated":"2024-12-31T20:49:01.779+00:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Location"],"updated":"2025-01-14T21:03:47.491+00:00"}
 ---
 
 The OFC is a small nation found to the west of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Sometime after the events of [[History & Events/The Sundering\|The Sundering]], the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] occurred causing the people of the land to fracture from The Dawn and form The OFC after the former refused to defend them against the Elves. It is assumed that [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] also defected from The Dawn around this time but it is unclear exactly when or why this happened. Upon his defection, he became the leader of the armies and was known throughout the OFC as a powerful figure and a beacon of hope to its people.

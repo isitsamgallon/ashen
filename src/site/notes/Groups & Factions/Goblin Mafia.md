@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/goblin-mafia/","tags":["Groups"],"updated":"2024-12-31T21:58:53.904+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/goblin-mafia/","tags":["Groups"],"updated":"2025-01-14T21:14:00.609+00:00"}
 ---
 
 A well-connected group of goblins that seem to have connections in nearly every nation. They were first encountered in Two Pines when they offered a quest to deliver a "package" to Blackwall, which turned out to be a bomb used to try and blow up [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]. They turned up various points in the story and a group involved in terrorism, blackmail, thievery, exploitation and presumably much more. 

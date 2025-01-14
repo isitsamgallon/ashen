@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/mousebert-and-the-emperor-s-folly/","updated":"2024-12-31T22:43:18.987+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/mousebert-and-the-emperor-s-folly/","updated":"2025-01-14T21:11:25.947+00:00"}
 ---
 
 By [[The Party/Dead/Kal ‡\|Kal ‡]], [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]

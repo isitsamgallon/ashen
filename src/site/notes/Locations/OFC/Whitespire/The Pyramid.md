@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/whitespire/the-pyramid/","tags":["Location"],"updated":"2024-12-31T20:49:01.783+00:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/whitespire/the-pyramid/","tags":["Location"],"updated":"2025-01-14T21:03:47.498+00:00"}
 ---
 
 A mysterious dungeon that spawned in during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]] when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] used one of his Bag of beans to disrupt a canon doing major damage to their forces. It is considered a major problem since it blocks the majority of trade due to it appearing right in the middle of the main path into the OFC [[Other Information/Display Tags/The Party\|The Party]] started clearing it in [[Session Notes/Season 3 - The Worst Diplomates/Session 21\|Session 21]] and defeated the [Mummy Lord](https://www.dndbeyond.com/monsters/16962-mummy-lord) in [[Session Notes/Season 3 - The Worst Diplomates/Session 22\|Session 22]] allowing for the pyramid to disappear and allow for better travel and trade to the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]].

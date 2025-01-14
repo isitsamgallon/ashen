@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/froki-and-the-dragon/","tags":["Unimportant"],"updated":"2024-12-31T22:43:38.618+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/froki-and-the-dragon/","tags":["Unimportant"],"updated":"2025-01-14T21:11:25.939+00:00"}
 ---
 
 A book [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] found when exploring the lair of a Wyvern they had chilled killed. it was written in Ancient Dwarven, and Chenris spent some time translating it to learn the language. 

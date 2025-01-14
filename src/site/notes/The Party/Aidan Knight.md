@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aidan-knight/","updated":"2025-01-10T17:54:51.866+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aidan-knight/","updated":"2025-01-14T21:01:11.452+00:00"}
 ---
 
 

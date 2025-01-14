@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-eldritch-curse-of-eldermire-forest/","tags":["Unimportant"],"updated":"2024-12-31T22:44:41.358+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-eldritch-curse-of-eldermire-forest/","tags":["Unimportant"],"updated":"2025-01-14T21:11:25.967+00:00"}
 ---
 
 Chapter 1: The Whispering Woods

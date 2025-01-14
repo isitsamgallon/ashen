@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","updated":"2024-12-13T23:00:01.513+00:00"}
+{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","updated":"2025-01-14T21:03:47.437+00:00"}
 ---
 

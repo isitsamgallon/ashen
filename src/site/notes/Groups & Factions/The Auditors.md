@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2024-12-31T21:58:53.924+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2025-01-14T21:14:00.624+00:00"}
 ---
 
 The Auditors, founded by Akin Netch, are an ancient and secretive order dedicated to one sacred mission: to maintain the balance between all forces of the realm—natural and supernatural. Unlike other champions of the age, the Auditors were not bound by morality or personal allegiance. They were answerable to the realm itself, an unshakable force guided by Akin’s wisdom.

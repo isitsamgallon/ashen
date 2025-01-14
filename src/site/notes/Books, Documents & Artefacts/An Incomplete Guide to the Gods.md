@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/an-incomplete-guide-to-the-gods/","updated":"2024-12-31T22:43:18.978+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/an-incomplete-guide-to-the-gods/","updated":"2025-01-14T21:11:25.933+00:00"}
 ---
 
 A book [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] picked up in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]'s library that detailed some knowledge about [[Gods & Heralds/The Ashen Pantheon\|The Ashen Pantheon]]. Here are its contents:
