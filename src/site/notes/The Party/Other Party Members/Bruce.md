@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2024-12-26T13:39:19.337+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-01-14T21:18:02.105+00:00"}
 ---
 
 

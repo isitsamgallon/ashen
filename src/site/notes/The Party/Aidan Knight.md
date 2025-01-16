@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aidan-knight/","updated":"2025-01-14T21:01:11.452+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aidan-knight/","updated":"2025-01-14T21:26:40.115+00:00"}
 ---
 
 
@@ -35,6 +35,9 @@
 >AC | 15 |
 >Senses | Sight|
 >Languages | Common, Elvish, Goblin, Primordial, Thieves’ Cant|
+
+ > "..."<cite>Aidan Knight</cite>
+
 ### Overview
 Aiden Knight is a human rogue and warlock, notable for his multi-class abilities in the realms of both stealth and arcane magic. He is a member of a party involved in the unfolding narrative of time distortion, initially coming to their attention during a significant temporal anomaly.  
   

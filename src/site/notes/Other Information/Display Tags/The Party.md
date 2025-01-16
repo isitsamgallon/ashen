@@ -7,11 +7,11 @@
 | -------------------------------------------------------------------------------- | ----------------- | ------------ | ------------ | --------------- | --------------- |
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] | Cleric            | Companion    | In The Party | Ehobel          | Ishnmel         |
 | [[The Party/Aidan Knight\|Aidan Knight]]                                      | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
-| [[The Party/Halfbie\|Halfbie]]                                                | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]]                          | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
-| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                          | None              | Companion    | In The Party | Itone           | Uti's Cave      |
+| [[The Party/Halfbie\|Halfbie]]                                                | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
 | [[The Party/The Korrigan\|The Korrigan]]                                      | Ranger/Druid      | Party Member | In The Party | The Feywilds    | Seelie Court    |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                            | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
+| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                          | None              | Companion    | In The Party | Itone           | Uti's Cave      |
 
 { .block-language-dataview}
 
