@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/lady-of-morak/","tags":["NPC"],"updated":"2025-01-14T20:52:34.891+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/lady-of-morak/","tags":["NPC"],"updated":"2025-01-18T23:46:47.559+00:00"}
 ---
 
 

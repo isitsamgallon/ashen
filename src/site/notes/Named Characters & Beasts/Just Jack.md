@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/just-jack/","tags":["NPC"],"updated":"2024-12-31T20:00:25.429+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/just-jack/","tags":["NPC"],"updated":"2025-01-18T23:46:47.685+00:00"}
 ---
 
 

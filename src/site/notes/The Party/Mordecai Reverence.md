@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-01-14T21:26:56.295+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-01-18T23:11:11.156+00:00"}
 ---
 
 
@@ -36,13 +36,13 @@
 
 
 ### Overview
-Mordecai Reverence is a Tiefling sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within the party. Notably, he has an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes him during their adventures. He is portrayed by [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]].
+Mordecai Reverence is a Tiefling sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within the party. Notably, they have an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes them during their adventures. He is portrayed by [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]].
 
 ### Personality
 Mordecai Reverence has a performance-oriented personality. He carefully cultivates his behaviour to appear likeable and intriguing. He exhibits an overdramatic demeanour, heavily influenced by his emotions, which can result in selfish decision-making; however, he strives to mask this trait. Mordecai desires the dramatic elements of life and adventure, adeptly weaving engaging narratives that involve both conflict and moments of tranquillity. His intentions are good, although impulsiveness may hinder his judgment at times.
 
 ### Physical Description
-Mordecai Reverence is typically dressed in elaborate attire, favouring gold jewellery and rich purple fabrics that complement his red skin tone. His long dark hair features gold threads and cuffs woven into different strands. He often applies vibrant makeup, using brighter colours as a facade to support the persona he has developed over time. The only authentic item in his wardrobe is his well-maintained cloak, which has aged significantly, featuring a faded brown colour and meticulous stitching on its numerous holes. Despite his fiendish appearance, his eyes have a notably human quality.
+Mordecai Reverence is typically dressed in elaborate attire, favouring gold jewellery and rich purple fabrics that complement their red skin tone. His long dark hair features gold threads and cuffs woven into different strands. They often apply vibrant makeup, using brighter colours as a façade to support the persona they have developed over time. The only authentic item in his wardrobe is his well-maintained cloak, which has aged significantly, featuring a faded brown colour and meticulous stitching on its numerous holes. Despite his fiendish appearance, his eyes have a notably human quality.
 
 ### Backstory 
 Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].

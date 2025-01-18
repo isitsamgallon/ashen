@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/genevieve/","tags":["NPC"],"updated":"2024-12-31T19:59:00.542+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/genevieve/","tags":["NPC"],"updated":"2025-01-18T23:46:47.513+00:00"}
 ---
 
 

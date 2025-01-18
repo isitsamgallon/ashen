@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/man-eating-horse/","tags":["NPC"],"updated":"2024-12-31T20:01:55.951+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/man-eating-horse/","tags":["NPC"],"updated":"2025-01-18T23:46:47.477+00:00"}
 ---
 
 

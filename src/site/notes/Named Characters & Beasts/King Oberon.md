@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/king-oberon/","tags":["NPC"],"updated":"2024-12-31T20:00:46.841+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/king-oberon/","tags":["NPC"],"updated":"2025-01-18T23:46:47.691+00:00"}
 ---
 
 

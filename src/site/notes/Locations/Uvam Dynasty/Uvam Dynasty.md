@@ -23,9 +23,9 @@ Uvam is a relatively small nation found towards the south of the [[Locations/Ver
 ### NPCs From The Uvam Dynasty
 | File                                                                                                                         | Home Town | Status |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
 | [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                | Minatota  | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
 
 { .block-language-dataview}
 ### Static Map

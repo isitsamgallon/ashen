@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2024-12-31T22:33:31.077+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2025-01-18T23:46:47.522+00:00"}
 ---
 
 

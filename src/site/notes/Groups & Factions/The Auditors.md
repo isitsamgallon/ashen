@@ -1,6 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2025-01-14T21:14:00.624+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2025-01-18T23:46:02.821+00:00"}
 ---
+
+> [!infobox]
+> 
+> > # The Auditors
+> ![Corvus.jpg|cover hsmall](/img/user/Admin/Attachments/Corvus.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  HQ | HQ |
+>  Alignment | Neutral(?) |
+>  Founder | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] |
+>  Current Leader | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] (?) |
+>  ##### Key Members
+>   | File                                                                                                  | Gender | Race       | Age   |
+> | ----------------------------------------------------------------------------------------------------- | ------ | ---------- | ----- |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]         | Male   | Human      | Adult |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]] | Female | Halfling   | Adult |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]               | Female | Red Dragon | Adult |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]] | Male   | Human      | Adult |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]   | Male   | Human      | Adult |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                       | Female | Red Dragon | Adult |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                       | Male   | Human      | Adult |
+> 
+{ .block-language-dataview}
 
 The Auditors, founded by Akin Netch, are an ancient and secretive order dedicated to one sacred mission: to maintain the balance between all forces of the realm—natural and supernatural. Unlike other champions of the age, the Auditors were not bound by morality or personal allegiance. They were answerable to the realm itself, an unshakable force guided by Akin’s wisdom.
 

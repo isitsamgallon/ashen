@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-01-14T21:01:11.450+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-01-18T16:24:12.670+00:00"}
 ---
 
 
 > [!infobox]
 > # Wurinn Fuuldrusch
-> ![white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg|cover hsmall](/img/user/Admin/Attachments/white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg)
+> ![Screen Shot 2025-01-18 at 4.23.25 pm.png|cover hsmall](/img/user/Admin/Attachments/Screen%20Shot%202025-01-18%20at%204.23.25%20pm.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
