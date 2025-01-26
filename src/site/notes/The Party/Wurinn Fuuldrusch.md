@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-01-18T16:24:12.670+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-01-26T17:58:38.236+00:00"}
 ---
 
 
@@ -17,6 +17,7 @@
 >  Age | 30-40 |
 >  Alignment | Lawful Good |
 >  Pronouns | He/ Him |
+>  Family | Unnamed Parents |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

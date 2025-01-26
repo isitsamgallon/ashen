@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aidan-knight/","updated":"2025-01-14T21:26:40.115+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aidan-knight/","updated":"2025-01-26T17:59:05.652+00:00"}
 ---
 
 
@@ -19,6 +19,7 @@
 >  Age | Mid 20s |
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
+>  Family | Unnamed Parents |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

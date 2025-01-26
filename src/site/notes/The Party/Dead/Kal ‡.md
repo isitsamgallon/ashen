@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-01-14T21:01:26.026+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-01-26T17:59:58.581+00:00"}
 ---
 
 > [!infobox]
@@ -17,6 +17,7 @@
 >  Age | Late 20s |
 >  Alignment | Chaotic Neutral |
 >  Pronouns | He/ Him |
+>  Family | Unnamed Parents |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

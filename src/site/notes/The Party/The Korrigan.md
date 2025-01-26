@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-01-18T16:25:30.542+00:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-01-26T17:58:51.666+00:00"}
 ---
 
  > [!infobox]
@@ -17,6 +17,7 @@
 >  Age | Late 20s |
 >  Alignment | Seelie |
 >  Pronouns | He/ Him |
+>  Family | Unclear |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

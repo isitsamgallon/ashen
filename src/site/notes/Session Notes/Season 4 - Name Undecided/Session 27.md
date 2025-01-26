@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-27/","updated":"2025-01-14T21:10:35.500+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-27/","updated":"2025-01-26T16:05:11.098+00:00"}
 ---
 
 **Session Date:** 20th Dec 2024 
-**Web Vault Link:** https://ashen-one.vercel.app/session-notes/season-4-name-undecided/session-27/
+**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/season-4-name-undecided/session-27/
 
 # Session Summary
 The party took refuge within the magical protection of Halfbie's forcefield, attempting to recover from their ordeal. Drache opened up to Halfbie about Chenris' death, marking the first significant bonding moment between the two. Tensions arose when Korrigan and Mordecai discovered Halfbie’s worship of Aeloria, a connection that prompted conflicting emotions, particularly given Chenris' tragic dealings with the deity. Despite the mistrust, the group ascended the mountain to a ruined castle, where Mordecai's encounter with a cursed crown led to visions and temptation, sparking heated debates and emotional outbursts. Aidan ultimately stopped Mordecai from wearing the crown, diffusing the immediate danger.

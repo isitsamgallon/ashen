@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-01-14T19:32:56.540+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-01-26T15:15:16.817+00:00"}
 ---
 
-![Obsidian Banner copy 2.png](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
+![Obsidian Banner copy 2.png|banner](/img/user/Admin/Attachments/Obsidian%20Banner%20copy%202.png)
 
 ### Quick Links
 [[Other Information/Display Tags/Characters\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Other Information/Display Tags/Locations\|Locations]] | [[Other Information/Display Tags/History & Events\|History & Events]] | [[Other Information/Display Tags/Gods & Heralds\|Gods & Heralds]] | [[Other Information/Display Tags/Groups & Factions\|Groups & Factions]]

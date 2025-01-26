@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-28/","updated":"2025-01-17T14:39:20.921+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-28/","updated":"2025-01-26T16:05:09.733+00:00"}
 ---
 
 **Session Date:** 9th Jan 2025 
-**Web Vault Link:** https://ashen-one.vercel.app/session-notes/season-4-name-undecided/session-28/
+**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/season-4-name-undecided/session-28/
 **A list Of Spells Cast In Sessions:** [[Admin/Spell Links\|Click Here]]
 
 # Session Summary 

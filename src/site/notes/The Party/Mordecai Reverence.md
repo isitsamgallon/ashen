@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-01-26T12:17:31.462+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-01-26T18:03:50.519+00:00"}
 ---
 
 
@@ -17,6 +17,7 @@
 >  Age | 23 |
 >  Alignment | Neutral Good |
 >  Pronouns | He/ They |
+>  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] (Mother), Unnamed Father, Unnamed Siblings |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
@@ -34,6 +35,8 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Infernal, Draconic|
 
+
+> "I don't want to be alone!"<cite>[[The Party/Mordecai Reverence\|Mordecai Reverence]] - [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]]</cite>
 
 ### Overview
 Mordecai Reverence is a Tiefling sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within the party. Notably, they have an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes them during their adventures. He is portrayed by [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]].

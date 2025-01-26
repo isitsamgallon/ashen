@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-26/","updated":"2025-01-14T21:10:35.476+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-26/","updated":"2025-01-26T16:05:12.184+00:00"}
 ---
 
 **Session Date:** 12th Dec 2024 
-**Web Vault Link:** https://ashen-one.vercel.app/session-notes/session-26/
+**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/session-26/
 
 # Session Summary
 The group stood at the edge of the crater left by Dawnhaven’s destruction, struggling to process the loss of Chenris Tallfellow, who had sacrificed himself to save them. Their grief was interrupted when Korrigan spotted something small falling from the sky. Acting quickly, he summoned his fey companion, Zephyr, to retrieve it. To their astonishment, the falling object turned out to be an elven figure named Halfbie, who landed screaming in terror. Despite the absurdity of their arrival, Halfbie’s purple eyes marked them as Fey, igniting Korrigan’s curiosity and suspicion.

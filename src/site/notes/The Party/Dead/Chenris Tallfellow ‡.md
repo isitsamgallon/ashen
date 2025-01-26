@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-01-14T21:01:26.021+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-01-26T18:00:21.805+00:00"}
 ---
 
 > [!infobox]
@@ -17,6 +17,7 @@
 >  Age | 21 |
 >  Alignment | Lawful Neutral |
 >  Pronouns | He/ Him |
+>  Family | Unnamed Parents, [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] (Father Figure) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
