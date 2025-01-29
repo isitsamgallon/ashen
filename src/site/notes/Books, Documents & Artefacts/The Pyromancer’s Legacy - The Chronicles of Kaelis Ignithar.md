@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-01-29T21:24:36.242+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-01-29T21:25:30.948+00:00"}
 ---
 
 ### Introduction: The Flame’s Origin
 
 In the ancient days of the Grayfall Empire, before its collapse at the hands of the rising human rebellion, there lived a fire genasi who would change the course of magical history. Kaelis Ignithar, born in the blistering sands of the Ember Wastes, possessed an unparalleled mastery of fire. His brilliance led him to the heart of Grayfall, where he became one of the empire’s most renowned arcanists. This book recounts the life, triumphs, and ultimate fate of Kaelis—known as the Prince of Fire—and his enduring legacy.
+
 ### Chapter 1: A Spark Ignites
 
 Kaelis was born to a nomadic tribe in the Ember Wastes, a land of shifting dunes and endless heat. Fire was in his blood, both from his genasi heritage and the harsh desert that forged him. As a child, he could shape flames with effortless precision, earning him a reputation as a living ember of the gods.
 
 Driven by an insatiable hunger for knowledge, he left the desert and journeyed to the Grayfall Empire, a land ruled by dwarves whose mastery of metallurgy and arcane sciences was unrivaled. There, he found both awe and skepticism. The dwarves respected fire for its forging power but distrusted its chaotic nature. Kaelis sought to prove that fire was not merely a tool of destruction but an art that could be harnessed with precision.
+
 ### Chapter 2: The Scholar of Grayfall
 
 Kaelis earned a place in the Grand Academy of Grayfall, where he studied alongside dwarven scholars and artificers. His innovative approach to pyromancy soon drew the attention of Emperor Thalgrim Ironheart, who saw in him both a prodigy and a potential weapon.

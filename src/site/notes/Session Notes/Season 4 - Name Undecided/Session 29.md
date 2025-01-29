@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-29/","updated":"2025-01-26T16:05:08.585+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-name-undecided/session-29/","updated":"2025-01-29T20:02:31.901+00:00"}
 ---
 
 **Session Date:** 16th Jan 2025 
@@ -51,7 +51,7 @@ He was led by one of the humans, a woman, on one of the boxes and taken to an ev
 
 Instinctively, he went for the great axe that wasn't on his back, giving her time to dig the knife into his shoulder he screamed in pain before grabbing something heavy-looking and bringing it down on her head. the woman crumpled to the ground as blood pooled around her body. The next few months were a blur until they sat him down on a chair. The guards strapped him to the old chair and put a headband around his head. There were small snakes attached to the headband that all led to the panels with three levers on them. He bangs to scream, "I'm telling you, it was self-defence; she was going to kill me. Please don't do this!!" Words he did not fully understand. Nor did he know why he pled for his life when all he did was sit on a chair. All of the levers were pulled, and his head was full of searing pain, much as if Korrigan's lightning bow had shot him. 
 
-He woke up in a luscious green field with a golden temple in front of him. It was here that Drache could no longer take it as his mind snapped into two. He died so many times only to wake to know a horrible death, and his will was only so strong. [[Named Characters & Beasts/Tangy\|Tangy]] sat at the temple steps, laughing hysterically at the result of his work: the once proud Dragonborn lay on the floor crying and screaming like a child.
+He woke up in a luscious green field with a golden temple in front of him. It was here that Drache could no longer take it as his mind snapped into two. He died so many times only to wake to know a horrible death, and his will was only so strong. [[Named Characters & Beasts/Tangy\|Tangy]] sat at the temple steps, laughing hysterically at the result of his work: the once proud Dragonborn lay on the floor laugh and screaming like a child.
 
 Kerrigan, who had been inside sipping tea, heard Drache's anguished scream and came to see what was wrong. When greeted with the sight outside, he chuckled slightly and exclaimed that [[Named Characters & Beasts/Tangy\|Tangy]] may have had a bit too much and told the priest to return to his duties. Complaining like a child asked to do their homework, [[Named Characters & Beasts/Tangy\|Tangy]] returned to the human realm. Korrigan approached Drache, who refused to believe the world was real. After some time, he finally convinced the Dragonborn that he was real, and they finally calmed down. Once calmed and drinking some tea, Korrigan simply stood up and said, "My turn!" before pushing Drache over, a feat easily done with his mind in shambles.
 

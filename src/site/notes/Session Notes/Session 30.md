@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-30/","updated":"2025-01-29T21:23:12.133+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/session-30/","updated":"2025-01-29T21:35:42.467+00:00"}
 ---
 
 **Session Date:** 29th Jan 2025 
@@ -53,9 +53,11 @@
 - korrigan takes them back and explains what happened, including that "Stew and noodles are real good"
 - They're all thankful that space-time didn't break and decide to head off. 
 - They had out assuming that guards won't care or ask, and they don't. they're ignored
-- The party decide to go ofc as they need to sort that out. they will then go [[Locations/Ehobel/Ehobel\|Ehobel]] and [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]
-- It is dubbed Tour De Ashen 
-- 
+- The party decided to go ofc as they needed to sort that out. they will then go [[Locations/Ehobel/Ehobel\|Ehobel]] and [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]
+- It is dubbed [[Tour De Ashen\|Tour De Ashen]] 
+- They ask receptionist if they know anything the Prince of fire an theyre give [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]]
+- there is mention of a Crown, which sounds similar to [[Books, Documents & Artefacts/Artefacts/The Crown of the Lost\|The Crown of the Lost]] but none are sure if theyre the same. 
+- They set out 
 
 
 

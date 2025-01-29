@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-01-26T18:17:55.551+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-01-29T21:21:02.396+00:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 
-> "I saw something I absolutely should not have seen, the face of a divinity I do not worship, the smile of a devil I never believed in…"
+> "Stew and noodles are real goodddddddd"
 
 ### Overview
 An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
