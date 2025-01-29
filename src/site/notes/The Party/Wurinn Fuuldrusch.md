@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-01-26T17:58:38.236+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-01-29T22:05:59.935+00:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 >  Race | Dragonborn (White Dragon) |
 >  Nationality | [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]] |
 >  Class | Barbarian/ Paladin |
->  Subclass | Totem Warrior/ Oath Undecided |
+>  Subclass | Totem Warrior/ Oath of Redemption |
 >  Age | 30-40 |
 >  Alignment | Lawful Good |
 >  Pronouns | He/ Him |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-01-14T21:03:47.525+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-01-29T22:40:57.772+00:00"}
 ---
 
 Strixhaven is the most prestigious magic academy in [[Locations/The Amber Realms\|The Amber Realms]]. It is both a city and university and fazes in and out of the material plane, reappearing in different locations depending on the academy's needs and interests. The current Headmaster is [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]. Their logo has an emblem of a bird on it, holding a banner. 
@@ -12,3 +12,4 @@ Members of Strixhaven were first seen when [[Other Information/Display Tags/The 
 
 **Known Previous Locations:**
 - Very close to [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]].
+- East of [[Locations/OFC/Firebranch Range\|Firebranch Range]]

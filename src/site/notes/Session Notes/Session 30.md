@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-30/","updated":"2025-01-29T21:35:42.467+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/session-30/","updated":"2025-01-29T23:13:17.343+00:00"}
 ---
 
 **Session Date:** 29th Jan 2025 
@@ -55,11 +55,85 @@
 - They had out assuming that guards won't care or ask, and they don't. they're ignored
 - The party decided to go ofc as they needed to sort that out. they will then go [[Locations/Ehobel/Ehobel\|Ehobel]] and [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]
 - It is dubbed [[Tour De Ashen\|Tour De Ashen]] 
-- They ask receptionist if they know anything the Prince of fire an theyre give [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]]
+- They ask the receptionist if they know anything the Prince of fire, an they give [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]]
 - there is mention of a Crown, which sounds similar to [[Books, Documents & Artefacts/Artefacts/The Crown of the Lost\|The Crown of the Lost]] but none are sure if theyre the same. 
-- They set out 
-
-
+- They set out and make good time 
+- Passing [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]] they see guards in orange armour cant see insignias or logos 
+- Passing [[Locations/The Dawn Empire/Dustwood\|Dustwood]], come across two men in modern-day suits. They have gorse that are carrying large amounts of colourful fabric. They ask if they want to invest in their future. halfbie falls for it. men are from [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]]. Describes silk to them 
+- halfbie feels the silk and says it isn't as nice as the fine Elvin silk they know 
+- They can make this silk super quick and much faster. halfbie knows this to be true because the worms stay alive 
+- halfbie calls them out on this and they lie more saying their silk worms are special.
+- the party doesn't have money. the man offers to give them sone silk and makes a pyramid scheme 
+- drache doesn't wanna sign a magical contract 
+- Korrigan offers to give them a stall in [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] built they already have one. they part ways and halfbie is sad they didn't get. to invest. 
+- late afternoon when they arrive in [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]. Korrigan is worried that Aiden might break the tower or be possessed. They decide to walk around the city. They decide to camp in thew wilderness 
+- Drache wants to do the first shift with Korrigan. Korrigan wants to train buyt drache refuses, they wanna talk. 
+- Drache feels lost as everything feels so chaotic. everyone talks and he doesn't always understand and isn't sure he doing things right. guilty about he priest 
+- Korrigan says he killed the priest - not on him; if the priest is the only one who knew of the tower, they've now bought them time. 
+- Draceh says Mordecai mentioned they were the moral part of the group, and every day, they keep doing more shit. 
+- Korrigan feels bad as thweir friend is possessed, another paterially possessed and another who is two in one and he is lorwns bitch 
+- drache doesn't wanna pretend that he is a good person. he done bad and still acts as a good person - all fake 
+- Korrigan decides to talk while they fight to clear their minds. they ready their weapons. 
+- Korrigan says that drache is a good person and he challenges the world with his rage. Korrigan reminds him that overall theyre trying to do good and better the world.
+- Drache is worried that if one day his anger could come out when its not needed 
+- Korrigan wants him to focus on the good . the bad fuels his good acts. 
+- Korrigan punches drache after he keeps being sad. he keeps punching until drache breaks and goes into a rage.
+- Korrigan fire his bow and drache throws it right back at them and the sound wakes everyone. 
+- Korrigan says that this is the power his rage and no one else could do this. 
+- Aidan suggested they swap their shifts
+- halfbie is still half asleep 
+- in the distance, they spot a large brown mass moving behind the trees and stop by a bush and sniff around. Halfbie points it, but Aidan can't see it. Aiden suggests it could be bear. halfbie casts an alarm to make sure 
+- Aidan asks if they're enjoying the adventures. and halfbie is happy they are on a cool adventure and mentions their job with strixhaven mages.
+- they ask why Aidan is so quiet, and Aidan explains they've been like this, and it can be quite overwhelming when everything is going on 
+- He. says that everyone is very different and casuse conflict. Halfbie brings up him kill the tiefling and his fight with Mordecai. doesn't know how he knew 
+- "yeahhh i didn't have Periara "
+- Aidan parents only saw him as an experiment while he was in a cult. left half of his body is covered in scars. The cult was [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] Aidan is mad that the experiment kinda worked 
+- Aidan doesn't wanna do an autobiography and doesn't wanna talk about the experience. He struggles to talk about things when more people are there.
+- awkward silence 
+- chicken noodles soup and halfbie wants to become a chef to perfect chicken noodle soup 
+- Aidan goes to bed. 
+- Halfbie and Obeus watch 
+- halfbie doesn't understand rich people, obeus doesn't understand poor people 
+- obeus loved seeing all the call cities and seeing Dawn Haven disappear and seeing Itone. She loved seeing the party over everything 
+- she dreads going back and not being able to adventure.
+- she can't just leave. 
+- halfbie has been really enjoying the party and loves the adventure and is just following the voice in his head 
+- obeus is sad she never got to meet her parents 
+- halfbie is sad they couldn't properly provide for their family 
+- They wonder if somnora every yearned to sit with her dad with eldros. 
+- she finds it funny that they both grew up on different ends of the economic scales but had the opposite experience with family 
+- Drache goes to korrigan in the morning and apologises for his attack last night and thanks him for his kind words
+- halfbie wonders if you could out other, meets in noodle soup 
+- they hear that [[Locations/Strixhaven\|Strixhaven]] is nearby, and Korrigan reminisces on how he learnt about Terathra and the towers when they were there last. 
+- Everyone is directed because of the night before. aidain spots something in the trees to the left. Korrigan throws [[The Party/Other Party Members/Familiars/Bobs\|Bobs]] to go have a look and see. Bobs and tells them they see tiny people. They want them to have a look. 
+- they fly off the beaten path and they find a huge patch of mushrooms. looking closer they see the mushrooms have small doors and windows on them. There are Inchlings (Men that are an inch tall)
+- they show themselves and the inchlings say 'another tall people'
+- korrigan turns into an ant and hears they shout about getting 'Big Dave'
+- climbs onto dravche shoulder but drache cant hear so Korrigan wildshapse into a horse and drache is unable to keep this up
+- normal human appears and theyre dressed like an inchling
+- man introduces himself as big Dave and horri says theyre regular sized [[The Party/The Korrigan\|The Korrigan]]gan 
+- inkling on his should speaks very posh and wonders what theyre doing and they explain that theyre on [[Tour De Ashen\|Tour De Ashen]] and is urrpised that there is something bigger than the forest. 
+- the inkling wants to see so they put them on [[The Party/Other Party Members/Familiars/Bit\|Bit]] to fly up. they make a harness.
+- Dill Billington Inchling - of the famous blington 
+- parsley Billington - brother 
+- Sage Billington - father 
+- cumin Billington 
+- halfbie joins them with the fly spell, and they both fly up super high and halfbie doesn't realise theyre too high.
+- halfbie gets excited about chickened noodles and explains it 
+- the inklings don't do sport 
+- Parsely was the all-time fishing championship until the big Dave came along
+- they wanna do introduce high-restriction but they won't cus they like him 
+- they're communist 
+- big Dave does a lot of the jobs 
+- big Dave was called big feets.
+- they go back down to the ground and halfbie lands well. 
+- Oregano Billington - grandma was eaten by bird.
+- He offers them food and drach is hesitant because he doesn't think there could be too to eat. the man runs offer big Dave comes to say 
+- these pople are Pescetarian - a common word in  this wold.
+- The chefs are mean and wont let him into the kitchen. 
+- some of the inklings pull some toadstools together, and they begin to eat. 
+- they come out with loads of food, although there isn't a lot as they're too small. the party 
+- halfbie and drache try the tadpoles while Korrigan has the berries. very tasty but not very filling.
 
 
 
