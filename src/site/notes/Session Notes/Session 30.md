@@ -54,7 +54,7 @@
 - They're all thankful that space-time didn't break and decide to head off. 
 - They had out assuming that guards won't care or ask, and they don't. they're ignored
 - The party decided to go ofc as they needed to sort that out. they will then go [[Locations/Ehobel/Ehobel\|Ehobel]] and [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]
-- It is dubbed [[Tour De Ashen\|Tour De Ashen]] 
+- It is dubbed [[Other Information/Tour De Ashen\|Tour De Ashen]] 
 - They ask the receptionist if they know anything the Prince of fire, an they give [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]]
 - there is mention of a Crown, which sounds similar to [[Books, Documents & Artefacts/Artefacts/The Crown of the Lost\|The Crown of the Lost]] but none are sure if theyre the same. 
 - They set out and make good time 
@@ -112,7 +112,7 @@
 - climbs onto dravche shoulder but drache cant hear so Korrigan wildshapse into a horse and drache is unable to keep this up
 - normal human appears and theyre dressed like an inchling
 - man introduces himself as big Dave and horri says theyre regular sized [[The Party/The Korrigan\|The Korrigan]]gan 
-- inkling on his should speaks very posh and wonders what theyre doing and they explain that theyre on [[Tour De Ashen\|Tour De Ashen]] and is urrpised that there is something bigger than the forest. 
+- inkling on his should speaks very posh and wonders what theyre doing and they explain that theyre on [[Other Information/Tour De Ashen\|Tour De Ashen]] and is urrpised that there is something bigger than the forest. 
 - the inkling wants to see so they put them on [[The Party/Other Party Members/Familiars/Bit\|Bit]] to fly up. they make a harness.
 - Dill Billington Inchling - of the famous blington 
 - parsley Billington - brother 
