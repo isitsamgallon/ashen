@@ -1,0 +1,19 @@
+img[alt="banner"] {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    height: 550px;
+    width: 100%;
+    margin: 0 auto;
+    pointer-events: auto;
+    background: none !important;
+    border: none !important;
+    border-radius: none !important;
+    box-shadow: none !important;
+}
+
+body {
+    padding-top: 550px;
+}
