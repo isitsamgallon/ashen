@@ -26,12 +26,17 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 - [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]'s Various Hideouts (Defunct)
 
 ### NPCs From The OFC
-| File                                                                                                                                      | Home Town | Status |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall | Dead   |
-| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall | Alive  |
-| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn  | Alive  |
-| [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn  | Dead   |
+| File                                                                                                                                      | Home Town        | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------ |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead   |
+| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive  |
+| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive  |
+| [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead   |
+| [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | \-     |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | \-     |
+| [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | \-     |
+| [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | \-     |
+| [[Named Characters & Beasts/Oregano Billington\|Oregano Billington]]                                                                   | Inchling Village | \-     |
 
 { .block-language-dataview}
 
