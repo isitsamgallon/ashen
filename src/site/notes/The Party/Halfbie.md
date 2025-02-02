@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-01-29T21:21:02.396+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-02-02T17:15:30.131+00:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 
-> "Stew and noodles are real goodddddddd"
+> "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session Notes/Session 30\|Session 30]]</cite>
 
 ### Overview
 An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
@@ -52,3 +52,4 @@ An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party
 Halfbie's story hasn't been publicly revealed.
 
 ### Trivia
+- Halfbie has an obsession with chicken noodle soup after it was their only real meal when they were trapped in the [[Locations/Feywild/Feywild\|Feywild]]s for 750 years.
