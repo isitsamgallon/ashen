@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/humans/","updated":"2025-02-08T17:08:48.971+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/humans/","updated":"2025-02-08T17:17:57.975+00:00"}
 ---
 
  > [!infobox]
@@ -43,7 +43,7 @@ By far, the most common race found within [[Locations/The Amber Realms\|The Ambe
 Humans, especially those found in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], are known to be incredibly racist, especially against the [[Other Information/Races/Elves\|Elves]].
 
 ### History
-Up until the [[History & Events/Eras/5th Era\|5th Era]], humans were slaves in the [[History & Events/Grayfall Empire\|Grayfall Empire]] until [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] led a revolution to overthrow the [[Dwarfs\|Dwarfs]] and gain independence. Once the empire was overthrown, [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] was founded and became the primary settlement for humans. 
+Up until the [[History & Events/Eras/5th Era\|5th Era]], humans were slaves in the [[History & Events/Grayfall Empire\|Grayfall Empire]] until [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] led a revolution to overthrow the [[Other Information/Races/Dwarves\|Dwarves]] and gain independence. Once the empire was overthrown, [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] was founded and became the primary settlement for humans. 
 
 Over the years, [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and [[Locations/Ehobel/Ehobel\|Ehobel]] have fought in many wars against each other, with the most recent one being the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]], which took place a little before the start of the campaign. 
 
