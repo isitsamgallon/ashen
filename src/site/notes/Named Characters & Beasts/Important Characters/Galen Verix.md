@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/galen-verix/","tags":["NPC","Important"],"updated":"2025-01-18T23:46:47.556+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/galen-verix/","tags":["NPC","Important"],"updated":"2025-02-08T17:15:46.415+00:00"}
 ---
 
 
 ### Overview
-Galen Verix is the current Emperor of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], currently residing in [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], in a massive palace and a known [[Other Information/Perpetual\|Perpetual]]. He is a distant relative of [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] and like many people in The Dawn, has a particular hatred for Elves due to the ongoing tensions with [[Locations/Ehobel/Ehobel\|Ehobel]]. However, if proper etiquette is followed he can show some patience. 
+Galen Verix is the current Emperor of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], currently residing in [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], in a massive palace and a known [[Other Information/Perpetual\|Perpetual]]. He is a distant relative of [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] and like many people in The Dawn, has a particular hatred for [[Other Information/Races/Elves\|Elves]] due to the ongoing tensions with [[Locations/Ehobel/Ehobel\|Ehobel]]. However, if proper etiquette is followed he can show some patience. 
 
 He is particularly renowned as an impressive fighter who fought during [[History & Events/The Sundering\|The Sundering]] as leader of one of the main factions in [[Groups & Factions/The Coalition\|The Coalition]]. This has led to an almost obsessive personality when it comes to stopping any future attempts to bring the Gods and, more importantly, [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] down to [[Locations/The Amber Realms\|The Amber Realms]]. It was also revealed that he was incredibly in love with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]], an affection that was not returned, much to his dismay. 
 

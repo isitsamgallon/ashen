@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-chronicles-of-the-grayfall-empire-a-dwarven-legacy/","updated":"2025-01-14T21:11:25.964+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-chronicles-of-the-grayfall-empire-a-dwarven-legacy/","updated":"2025-02-08T17:15:28.953+00:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 In the annals of history, few epochs rival the grandeur of the [[History & Events/Grayfall Empire\|Grayfall Empire]], founded in the [[History & Events/Eras/2nd Era\|2nd Era]] by the esteemed Emperor [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall †\|Durdretrude Grayfall †]]. This ancient realm encompassed much of the [[Locations/Verdant Peninsula\|Verdant Peninsula]], a land rich with resources and promise. The dwarves, known for their industrious nature, established their dominance through a combination of strategic prowess and, regrettably, exploitation. Their cities, built upon the backs of a vast human workforce, were marvels of engineering and fortification. However, this prosperity came at a grave cost, as the dwarves enslaved many humans to extract the wealth of their lands.
 
-While the dwarves indulged in their creations and reveled in the solitude of their subterranean cities, their isolationism became a defining trait. The empire, flourishing in its own secluded corner, chose not to interact with the elves of [[Locations/Ehobel/Ehobel\|Ehobel]] or the other burgeoning factions of the time. This separation from the world beyond their borders defined their culture and politics, setting the stage for future conflicts.
+While the dwarves indulged in their creations and reveled in the solitude of their subterranean cities, their isolationism became a defining trait. The empire, flourishing in its own secluded corner, chose not to interact with the [[Other Information/Races/Elves\|elves]] of [[Locations/Ehobel/Ehobel\|Ehobel]] or the other burgeoning factions of the time. This separation from the world beyond their borders defined their culture and politics, setting the stage for future conflicts.
 
 **Chapter 2: The Seeds of Discord**
 

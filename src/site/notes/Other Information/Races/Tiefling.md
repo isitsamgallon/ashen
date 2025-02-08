@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-02-08T16:23:41.056+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-02-08T17:09:23.066+00:00"}
 ---
 
 
@@ -23,6 +23,7 @@
 >  Language(s) | [Common](https://forgottenrealms.fandom.com/wiki/Common "Common"), [Infernal](https://forgottenrealms.fandom.com/wiki/Infernal "Infernal") |
 >  Vision | Darkvision |
 >  Homeland | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] |
+>  Rulers | None (Anarchist State)
 >
 >##### Appearance
 > Type | Stat |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-02-08T16:29:09.405+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-02-08T17:09:45.912+00:00"}
 ---
 
 
@@ -23,6 +23,7 @@
 >  Language(s) | [Common](https://forgottenrealms.fandom.com/wiki/Common "Common"), [Elvish](https://forgottenrealms.fandom.com/wiki/Elven_language "Elven language"), [Sylvan](https://forgottenrealms.fandom.com/wiki/Sylvan "Sylvan") |
 >  Vision | Darkvision |
 >  Homeland | [[Locations/Feywild/Feywild\|Feywild]], [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] (?) |
+>  Ruler | [[Named Characters & Beasts/Queen Titania\|Queen Titania]] |
 >
 >##### Appearance
 > Type | Stat |

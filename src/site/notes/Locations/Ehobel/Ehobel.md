@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2025-01-14T21:03:47.357+00:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2025-02-08T17:15:19.353+00:00"}
 ---
 
-The home nation of the Elves in [[Locations/The Amber Realms\|The Amber Realms]] and led by The Empress, [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]. Obeus took over the role of Empress from her mother [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] some years ago. he is described in books as a very kind and understanding ruler and has "grand military plans". In reality, She doesn't leave the palace enough to understand the situation of her lands, let alone what i happening with her people. Ehobel was one of the main factions that made up [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period Ehobel had a very good relationship with [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
+The home nation of the [[Other Information/Races/Elves\|Elves]] in [[Locations/The Amber Realms\|The Amber Realms]] and led by The Empress, [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]. Obeus took over the role of Empress from her mother [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] some years ago. he is described in books as a very kind and understanding ruler and has "grand military plans". In reality, She doesn't leave the palace enough to understand the situation of her lands, let alone what was  happening with her people. Ehobel was one of the main factions that made up [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period Ehobel had a very good relationship with [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
 
 ### Known Locations
 - [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]] (Capital)
@@ -29,12 +29,12 @@ The home nation of the Elves in [[Locations/The Amber Realms\|The Amber Realms]]
 | ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- |
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
 | [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
 | [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn\|Mannnnnn]]                                                            | \-        | Alive   |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                | Ishnmel   | Alive   |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
 
 { .block-language-dataview}
 ### Static Map

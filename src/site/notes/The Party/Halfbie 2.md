@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-02-08T17:15:03.443+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie-2/","updated":"2025-02-08T17:15:14.291+00:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | [[Other Information/Races/Eladrin\|Eladrin]] |
+>  Race | Eladrin |
 >  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
 >  Class | Wizard/ Artificer |
 >  Subclass | Order of Scribes/ Artillerist |
@@ -35,7 +35,7 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 
-> "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session Notes/Season 4 - Name Undecided/Session 30\|Session 30]]</cite>
+> "Stew and noodles are real goodddddddd"
 
 ### Overview
 An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
@@ -52,4 +52,4 @@ An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party
 Halfbie's story hasn't been publicly revealed.
 
 ### Trivia
-- Halfbie has an obsession with chicken noodle soup after it was their only real meal when they were trapped in the [[Locations/Feywild/Feywild\|Feywild]]s for 750 years.
+- Halfbie has an obsession with chicken noodles soup after it was their only real meal when they were trapped in the [[Locations/Feywild/Feywild\|Feywild]]s for 750 years.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/gnomes/","updated":"2025-02-08T16:34:18.333+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/gnomes/","updated":"2025-02-08T16:55:58.904+00:00"}
 ---
 
 
@@ -40,12 +40,13 @@
 >  Based on | [Gnome](https://en.wikipedia.org/wiki/en:Gnome "wikipedia:en:Gnome") (European) |
 
 ### Overview
-
+**Gnomes**, or the **Forgotten Folk** as they were sometimes known, were small [humanoids](https://forgottenrealms.fandom.com/wiki/Humanoid "Humanoid") known for their eccentric sense of humor, inquisitiveness, and engineering prowess. Having had few overt influences on the world's history but many small and unseen ones, gnomes were often overlooked by the powers that be, despite their craftiness and affinity for [illusion](https://forgottenrealms.fandom.com/wiki/Illusion "Illusion") magic. Gnomes were present in nearly every human city and most caravan-stop villages where other cultures and non-human races were at least tolerated.
 
 ### Attitudes & Beliefs
-
+Not enough is know about this race to enter this information
 
 ### History
-
+Not enough is know about this race to enter this information
 
 ### Locations Found
+Not enough is know about this race to enter this information

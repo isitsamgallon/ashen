@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-01-26T18:00:21.805+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-02-08T17:15:16.945+00:00"}
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | Half-Eladrin |
+>  Race | Half-[[Other Information/Races/Eladrin\|Eladrin]] |
 >  Nationality | [[Locations/Strixhaven\|Strixhaven]] |
 >  Class | Cleric/ Artificer |
 >  Subclass | Death Domain/ None Selected |
@@ -55,7 +55,7 @@ Chenris has a pale complexion and a long grey beard and hair. He was found weari
 Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
 
 ### Backstory Summary
-Due to circumstances that Chenris refused to elaborate on, the Tallfellow family fell from their position of Eladrin nobility and escaped to Strixhaven for safety. He showed incredible aptitude for academics and was admitted into Strixhaven University. He soon became close to one of his professors, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]. 
+Due to circumstances that Chenris refused to elaborate on, the Tallfellow family fell from their position of [[Other Information/Races/Eladrin\|Eladrin]] nobility and escaped to Strixhaven for safety. He showed incredible aptitude for academics and was admitted into Strixhaven University. He soon became close to one of his professors, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]. 
 
 Later on, Leotoris was one of the stewards on a field trip to a local dungeon. Chenris begged his beloved teacher to let him tag along who eventually relented and snuck him onto the trip. This trip was designed for a much more advanced class than Chenris so it was no surprise when he accidentally activated a trap. Leotoris dove in between them and the trap at the last second, sparing Chenris but leaving the professor with lethal injuries. With his dying breath, he passed Chenris [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] and begged him to solve the problem on it. 
 
@@ -64,13 +64,13 @@ Later on, Leotoris was one of the stewards on a field trip to a local dungeon. C
 In response to recent sightings of Chenris Tallfellow within the [[Locations/Strixhaven\|Strixhaven]] campus, I have initiated a comprehensive dossier report to illuminate his history before and during his tenure at [[Locations/Strixhaven\|Strixhaven]] University.
 
 **Family Background:**
-Chenris Tallfellow's upbringing unfolded within the residential confines of [[Locations/Strixhaven\|Strixhaven]], marking the continuation of a storied lineage once steeped in Eladrin nobility. However, the Tallfellow family's illustrious legacy was tarnished by --REDACTED--
+Chenris Tallfellow's upbringing unfolded within the residential confines of [[Locations/Strixhaven\|Strixhaven]], marking the continuation of a storied lineage once steeped in [[Other Information/Races/Eladrin\|Eladrin]] nobility. However, the Tallfellow family's illustrious legacy was tarnished by --REDACTED--
 
 **Transition to [[Locations/Strixhaven\|Strixhaven]]:**
---REDACTED-- endeavoured to instil in Chenris the customs and traditions of Eladrin high society, including etiquette and martial training, in a bid to --REDACTED--
+--REDACTED-- endeavoured to instil in Chenris the customs and traditions of [[Other Information/Races/Eladrin\|Eladrin]] high society, including etiquette and martial training, in a bid to --REDACTED--
 
 **Academic Journey:**
-Upon reaching the age of enrolment, Chenris demonstrated exceptional aptitude, effortlessly passing the entrance examination. Assigned to the Silverquill house by his mother, Chenris's academic journey diverged from the traditional path of Eladrin nobility. Despite his familial aspirations for social integration, Chenris eschewed societal expectations, immersing himself in the pursuit of knowledge and magical mastery.
+Upon reaching the age of enrolment, Chenris demonstrated exceptional aptitude, effortlessly passing the entrance examination. Assigned to the Silverquill house by his mother, Chenris's academic journey diverged from the traditional path of [[Other Information/Races/Eladrin\|Eladrin]] nobility. Despite his familial aspirations for social integration, Chenris eschewed societal expectations, immersing himself in the pursuit of knowledge and magical mastery.
 
 His academic pursuits encompassed a diverse array of disciplines, ranging from abjuration to conjuration, reflecting his insatiable curiosity and intellectual flexibility. Library records reveal Chenris's voracious appetite for learning, characterised by eclectic reading habits and a propensity for exploring diverse subject matter.
 
@@ -315,7 +315,7 @@ The climax of the ordeal came when Chenris encountered the **[[Named Characters
 Yet, Chenris did not accept. His skepticism, once again, overpowered his darker impulses. He rejected the offer, citing the artificial nature of the peace being offered. While I do not doubt that Chenris’ desire for knowledge and power remains strong, this moment reveals that he is not beyond hope. He may yet possess the discernment to distinguish between genuine growth and hollow shortcuts.
 
 **Consequences & Strained Alliances**
-Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of elves—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[The Party/The Korrigan\|The Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
+Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of [[Other Information/Races/Elves\|elves]]—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[The Party/The Korrigan\|The Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
 
 Chenris, though clearly shaken, healed Mordecai—an action underscored by his sarcastic comment about the [[Named Characters & Beasts/Illusion Master\|Illusion Master]]’s intentions. This was not an act of compassion, but rather a calculated and spiteful decision to avoid proving his adversary’s grim predictions correct. Nonetheless, Chenris' ability to weigh the broader consequences of his actions is a positive development.
 

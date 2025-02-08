@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-9/","updated":"2025-01-14T21:10:35.376+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-9/","updated":"2025-02-08T17:11:54.157+00:00"}
 ---
 
 
@@ -25,7 +25,7 @@ As soon as the 60 goblins had walked past them, the party jumped the goblin lead
 
 The streets of [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] were completely deserted, and since it was becoming night the party deiced to the [[Groups & Factions/Adventurers Guild\|Adventurers Guild]] to rest up and ask whats happening. [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]] at the guild says that most people are watching the trial for the murder of [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]] by his son, [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]. The party decide to sleep on it and decide what to do in the morning. Aidan decided to go find his missing horse and stayed the night in a tree nearby.
 
-The next morning the party find Aidan in his tree and Mordecai, still not happy with him for what he did to the tiefling in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], used [Hideous Laughter](https://www.dndbeyond.com/spells/hideous-laughter) to knock him out the tree for a laugh. 
+The next morning the party find Aidan in his tree and Mordecai, still not happy with him for what he did to the [[Other Information/Races/Tiefling\|tiefling]] in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], used [Hideous Laughter](https://www.dndbeyond.com/spells/hideous-laughter) to knock him out the tree for a laugh. 
 
 Drache slowly convinces Mordecai to save Steve since he was obviously misguided in dealing with his anger and needs someone to help him become a better person, since everyone should get a second chance. Chenris however said "fuck him, he got himself in this mess, he can get him out" and walks off to the local library to learn more about the [[The Ashen Pantheon\|The Ashen Pantheon]]. Korrigan ends up joining him. Chenris wants to to go to the library to learn more about the Gods so he finds a book called [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]].
 

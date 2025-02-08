@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/dwarves/","updated":"2025-02-08T16:13:49.587+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/dwarves/","updated":"2025-02-08T17:11:13.638+00:00"}
 ---
 
 
@@ -23,6 +23,7 @@
 >  Language(s) | [Common](https://forgottenrealms.fandom.com/wiki/Common "Common"), [Dwarven](https://forgottenrealms.fandom.com/wiki/Dwarven_language "Dwarven language") |
 >  Vision | Darkvision |
 >  Homeland | Dwarven Empire ([[Locations/Verdant Peninsula\|Verdant Peninsula]]) |
+>  Rulers | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall †\|Durdretrude Grayfall †]], [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Dhuggith Broadcloak †\|Dhuggith Broadcloak †]], [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]] (current) |
 >
 >##### Appearance
 > Type | Stat |

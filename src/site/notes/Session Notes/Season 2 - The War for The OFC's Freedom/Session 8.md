@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-8/","updated":"2025-01-14T21:10:35.371+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-8/","updated":"2025-02-08T17:11:52.847+00:00"}
 ---
 
 
 # Session Summery
 The party travels to the Uvam Dynasty to locate Terence Witherfeather and free Drache from his contract with the Ivory Crest. Along the way, they stop in Dustwood, where they are detained by guards and questioned about their connection to Steve Ulan, who has murdered his father, Lord Ulan. The party denies involvement but learns that under Dawn Empire law, all associates of a murderer can be held responsible. They are released but are accompanied by a gnome named Captain Junior, who is tasked with observing them.
 
-As they near the Uvam Dynasty, Mordecai confesses he is wanted in Minatota, where Witherfeather was last seen. In Minatota, the party mistakenly enters a sex club while searching for information. Here, they learn that Witherfeather is associated with Arwen Gryffon, a figure from Mordecai’s past. The club, designed to disorient and isolate patrons, quickly separates the party. Aidan is charmed and kidnapped by a tiefling, Korrigan is drugged into aiding a robbery, and Mordecai gives money to an old friend who is clearly being abused by Arwen. Eventually, they regroup and locate Arwen’s office, discovering disturbing evidence of her obsession with Mordecai, including walls adorned with scratched-out images of him and a pile of dead tieflings.
+As they near the Uvam Dynasty, Mordecai confesses he is wanted in Minatota, where Witherfeather was last seen. In Minatota, the party mistakenly enters a sex club while searching for information. Here, they learn that Witherfeather is associated with Arwen Gryffon, a figure from Mordecai’s past. The club, designed to disorient and isolate patrons, quickly separates the party. Aidan is charmed and kidnapped by a [[Other Information/Races/Tiefling\|tiefling]], Korrigan is drugged into aiding a robbery, and Mordecai gives money to an old friend who is clearly being abused by Arwen. Eventually, they regroup and locate Arwen’s office, discovering disturbing evidence of her obsession with Mordecai, including walls adorned with scratched-out images of him and a pile of dead tieflings.
 
 # Full Session Notes
 [[Other Information/Display Tags/The Party\|The Party]] are traveling to [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] to try and find [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] to free [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] from his contract with the [[Groups & Factions/Ivory Crest\|Ivory Crest]]. Along the way they make a stop at [[Locations/The Dawn Empire/Dustwood\|Dustwood]]. As soon as they enter the small village they are taken in by [[Locations/The Dawn Empire/Dustwood\|DUstwood]] guards to a questioning room. Through being questioned [[Other Information/Display Tags/The Party\|The Party]] find out that [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] has murdered his father [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]. He is currently on trail and facing an almost certain death sentence. However, according to [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] law, all known associates of the murderer involved in the murder of lord are responsible for the murder of [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]] and will also receive the same punishment.
@@ -20,7 +20,7 @@ As [[Other Information/Display Tags/The Party\|The Party]] get closer to [[Locat
 - [[The Party/The Korrigan\|The Korrigan]] talks to some shifty looking characters who try to pick pocket him. He is confused why people would want to pickpocket and gives them the money anyway. They buy drinks together and the bartender spikes Korrigan with the suggestion potion
 - Drache and Chenris try to find Mordecai.
 - Mordecai gives money to an old friend who looks ROUGH because they’re clearly being abused by Arwen.
-- Aidan comes to being tied to a bed with all his equipment stolen and the tiefling informing an old man that “they’d found another one for him” and he knocks Aidan out cold.
+- Aidan comes to being tied to a bed with all his equipment stolen and the [[Other Information/Races/Tiefling\|tiefling]] informing an old man that “they’d found another one for him” and he knocks Aidan out cold.
 - Mordecai locates the office but finds it locked
 - Korrigan is drugged into helping a bunch of people rob the club of money
 - Mordecai Chenris and Drache all try and help Korrigan out of that situation

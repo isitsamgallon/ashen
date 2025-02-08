@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-02-08T16:50:17.152+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-02-08T17:07:55.896+00:00"}
 ---
 
 
@@ -23,6 +23,7 @@
 >  Language(s) | Common, [Ghukliak](https://forgottenrealms.fandom.com/wiki/Ghukliak) |
 >  Vision | Darkvision |
 >  Homeland | [[Locations/The Desert/The Desert\|The Desert]] (?) |
+>  Leaders | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]] (?) |
 >
 >##### Appearance
 > Type | Stat |
@@ -43,6 +44,7 @@
 a race of small and numerous [goblinoids](https://forgottenrealms.fandom.com/wiki/Goblinoid "Goblinoid") common throughout [[Locations/The Amber Realms\|The Amber Realms]], often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly [hobgoblins](https://forgottenrealms.fandom.com/wiki/Hobgoblin "Hobgoblin"). They're typically seen as part of the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] completing jobs and heist with varying degrees of success. They're not known for being very smart.
 
 ### Attitudes & Beliefs
-
+Not much is known about them apart from their simple minded nature and the fact that most of them are part of gangs of the mafia.
 
 ### History
+The ealiest known account of them in [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]] where it was revealed that chief, [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]] joined forces with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]

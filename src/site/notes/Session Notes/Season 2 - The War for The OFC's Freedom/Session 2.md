@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-2/","updated":"2025-01-14T21:10:35.356+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-2/","updated":"2025-02-08T17:16:06.147+00:00"}
 ---
 
 sessionNumbersessionNumbersessionNumberThe party are quickly swept off their feet by [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and were told to come with him to the site of an airship crash, they travelled half a day away to find a crashed airship in flames, upon investigation kal notices some of the soldiers on board the airship had fake OFC uniform, they found a survivor which attacked them as soon as they noticed his fake uniform. The party take the survivor out of the airship and the guards kill them immediately due to being a threat to Caden. The party noticed it was an inside job. Outside the airship after investigating, a survivor the party missed walks out and up to cayden. As soon as the party notice the faulty uniform they go to intervene but the survivor yelled "FOR [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]" and exploded in a fiery explosion.  The party was injured and cayden was thrown against a tree, he seemed to be alive though unconscious but then the party was interrupted by a piercing roar and a wyvern descended onto the battle field. During the battle , Caden was killed due to a tree falling on. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] was later revealed to be behind this murder.  
@@ -34,7 +34,7 @@ The Dawn really don't trust Non-Human races. Mordecai uses disguise self on Hims
 
 The Donkey bites Kal.
 
-[[Named Characters & Beasts/Merek The Wise\|Merek The Wise]] the Wise (Part of a small level 1 adventuring party made up of halflings) pisses of the group by calling [[Other Information/Display Tags/The Party\|The Party]] weak as they keep bigging themselves up. This party mentioned how they were going to find dragons in the mountains near steelwick. The Group set up camp.
+[[Named Characters & Beasts/Merek The Wise\|Merek The Wise]] the Wise (Part of a small level 1 adventuring party made up of [[Other Information/Races/Halflings\|halflings]]) pisses of the group by calling [[Other Information/Display Tags/The Party\|The Party]] weak as they keep bigging themselves up. This party mentioned how they were going to find dragons in the mountains near steelwick. The Group set up camp.
 
 Drache and Mordecai take the first watch. While on watch, they could hear someone singing a song about the 1000 year reign of the Dawn. Mordecai and Drache talk about how Drache has a lot of anxiety around going back to [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]] - bonding moment. In the next watch, Chenris and Aidan find horses and Aidan is able to tame of the horses. in the next watch Kal sees a man in white robe. the robes an emblem of a bird with a crest and banner on it ([[Locations/Strixhaven\|Strixhaven]]). This leaves Chenris white with worry. 
 
@@ -42,7 +42,7 @@ The party sets off the next morning and travel through steel pass, a path that w
 
 --Fight--
 
-Kal uses his new lightning bow to catch the Wyven's attention with a bolt of lightening. Mordecai uses Firebolt for the first time in years, misfires and hits on of the halflings. 
+Kal uses his new lightning bow to catch the Wyven's attention with a bolt of lightening. Mordecai uses Firebolt for the first time in years, misfires and hits on of the [[Other Information/Races/Halflings\|halflings]]. 
 
 Kal dies towards the end of the fight as Wyven attacks him when he is unconscious, impaling him with his claws . The monster is defeated while in the are and falls on top of Steve. meanwhile Mordecai is is desperately trying to use healing spells on Kal - to no avail.  
 

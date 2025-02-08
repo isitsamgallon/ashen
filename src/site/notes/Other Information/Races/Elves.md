@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-02-08T15:49:53.913+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-02-08T17:07:27.303+00:00"}
 ---
 
 
@@ -23,6 +23,7 @@
 >  Activity Cycle | Typically day|
 >  Average Lifespan | 1000s of Years |
 >  Language(s) | [Common](https://forgottenrealms.fandom.com/wiki/Common "Common"), [Elvish](https://forgottenrealms.fandom.com/wiki/Elven_language "Elven language") |
+>  Rulers | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]], [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] (Current) |
 >
 >##### Appearance
 > Type | Stat |
@@ -40,12 +41,19 @@
 >  Based on | [Elf](https://en.wikipedia.org/wiki/en:Elf) |
 
 ### Overview
-
+**Elves**, known in their own tongue as **Tel-quessir**, are a  number of closely related, long-lived races that excelled in [magic](https://forgottenrealms.fandom.com/wiki/Magic "Magic") The come from the land of [[Locations/Ehobel/Ehobel\|Ehobel]] and are commonly known for living lavish housing and their constant wars with [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]].
 
 ### Attitudes & Beliefs
+Elves are often depicted with superiority complex, often looking down on the other races and regarding them as savages and brutes. Their culture is often centred around the arts and beauty and go to great lengths to heighten the beauty around them and their own. 
 
+Due to their extremely long lifespans, they have strange perceptions of time often seeing 50 years as just blip in their lives.  Because of this way of electing emperors shifted from voting to a succession. Typically when one emperor dies the next lord in line for the throne will take their place or if the emperor lives for more than 1000s year then they move to the next one. [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] broke this rule by becoming the next empress after her mother, [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]. 
+
+Elves notably make frequent use of slaves, most likely captured during wars and invasions. so much so that [[Locations/Ehobel/Ehobel\|Ehobel]] has atleast 3 slave companies ([[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]], [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]], [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]])
 
 ### History
+Elves fought during [[History & Events/The Sundering\|The Sundering]] as their armies contained great mages and warriors.
 
+Elves and [[Other Information/Races/Humans\|Humans]] have fought many time, with the most recent being [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which took place a little bit before the campaign.
 
 ### Locations Found
+- [[Locations/Ehobel/Ehobel\|Ehobel]]
