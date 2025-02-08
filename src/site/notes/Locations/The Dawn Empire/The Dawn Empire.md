@@ -35,10 +35,10 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
-| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                            | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                    | Dawnhaven             | Unknown |
 | [[Named Characters & Beasts/Just Jack\|Just Jack]]                                                                             | Newhall               | Alive   |
 | [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                           | Dawnhaven             | Dead    |
+| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                            | Dawnhaven             | Alive   |
+| [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                    | Dawnhaven             | Unknown |
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                   | Newhall               | Alive   |
