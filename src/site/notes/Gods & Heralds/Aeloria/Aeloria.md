@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-01-14T21:11:41.285+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-02-08T14:41:36.105+00:00"}
 ---
 
 ### Overview
@@ -14,7 +14,7 @@ Aeloria is seen as generally a good god who dedicates herself to bringing hope t
 - Access to [[Other Information/Display Tags/Dispel Ancient Goblin Magic\|Dispel Ancient Goblin Magic]] in exchange for one of Chenris' first-level spell slots. (Deal Successful)
 - Information on the nation in which [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] is currently located in exchange for the knowledge of Chneris' childhood home. (Deal Successful)
 - Information on [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] and information on [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] and how to talk to her in exchange for all of Chenris' memories about Leotoris. (Deal Unsuccessful)
-	- Same information, but Mordecai would have to forget everything about himself, his [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]], his father and his brother would also forget about him. (Deal Unsuccessful)
+	- Same information, but [[The Party/Mordecai Reverence\|Mordecai Reverence]] would have to forget everything about himself, his [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]], his father and his brother would also forget about him. (Deal Unsuccessful)
 - A deal with [[The Party/Halfbie\|Halfbie]] (Deal Successful)
 
 ### Known Temple Locations

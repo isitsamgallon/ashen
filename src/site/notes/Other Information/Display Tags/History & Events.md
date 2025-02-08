@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/history-and-events/","hideInGraph":true,"updated":"2024-12-31T21:58:12.531+00:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/history-and-events/","hideInGraph":true,"updated":"2025-02-08T15:09:24.517+00:00"}
 ---
 
 A list of all the historical events that we are aware of:
@@ -8,7 +8,10 @@ A list of all the historical events that we are aware of:
 - [[History & Events/The Cleansing\|The Cleansing]]
 - [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
 - [[History & Events/Skyfall Ward\|Skyfall Ward]]
+- [[History & Events/Grayfall Empire\|Grayfall Empire]]
 - [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
 - [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]]
+
+{ .block-language-dataview}
 
 Historians have split the world's history up into [[History & Events/Eras/Historical Eras\|Historical Eras]]. Each Era is defined by a world-changing event, like a war or empires rising and falling. The campaign is currently happening in the [[History & Events/Eras/7th Era\|7th Era]].
