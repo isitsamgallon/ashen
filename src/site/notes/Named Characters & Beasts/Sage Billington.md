@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/sage-billington/","tags":["NPC"],"updated":"2025-02-02T19:07:26.984+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/sage-billington/","tags":["NPC"],"updated":"2025-02-08T14:01:02.522+00:00"}
 ---
 
-[[Admin/INFORMATION MISSING OR OUT-OF-DATE\|INFORMATION MISSING OR OUT-OF-DATE]]
+
 ### Overview
-
-
-### Notable Information & History 
+[[Named Characters & Beasts/Dill Billington\|Dill Billington]]'s father and resident of [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]
