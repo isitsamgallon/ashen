@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-02-08T17:14:23.346+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-02-10T22:12:58.149+00:00"}
 ---
 
 **Session Date:** 16th Jan 2025 
-**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/season-4-name-undecided/session-29/
+**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/season-4-ignatius-beckons/session-29/
 **A list Of Spells Cast In Sessions:** [[Admin/Spell Links\|Click Here]]
 
 # Session Summary 
