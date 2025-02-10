@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-02-08T17:15:03.443+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-02-10T22:22:45.121+00:00"}
 ---
 
 
 > [!infobox]
 > 
 > # Halfbie
-> ![Halfbie.png|cover hsmall](/img/user/Admin/Attachments/Halfbie.png)
+> ![halfbie 2.png](/img/user/Admin/Attachments/halfbie%202.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
