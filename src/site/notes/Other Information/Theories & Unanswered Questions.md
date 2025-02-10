@@ -29,12 +29,12 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [ ] why did Xekai get angry at [[The Party/The Korrigan\|The Korrigan]] when they mentioned [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]?
 
 ### Current Theories
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks the man with the golden mask from [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]] was [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks the man with the golden mask from [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]] was [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]
 - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] thinks [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] is [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks that [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]] went mad because he was researching [[Other Information/Display Tags/The Towers\|The Towers]] and accidentally absorbed some of their energy and couldn't take it. 
 - [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] and [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] are the two boys from [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks that the [[Books, Documents & Artefacts/Artefacts/Crown of Trues Sight\|Crown of Trues Sight]] is currently held by [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]].
-- Sam thinks the Heragon from [[Session Notes/Season 4 - Name Undecided/Session 27\|Session 27]] could be the druid [[Other Information/Display Tags/The Party\|The Party]] met ages ago.
+- Sam thinks the Heragon from [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]] could be the druid [[Other Information/Display Tags/The Party\|The Party]] met ages ago.
 - [[Named Characters & Beasts/Illusion Master\|Illusion Master]] is one of [[Groups & Factions/The Auditors\|The Auditors]]
 - [[Named Characters & Beasts/Anselis\|Anselis]] is a member of [[Groups & Factions/The Auditors\|The Auditors]]
 - [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] was the one behind [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]'s resurrection 

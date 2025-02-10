@@ -35,7 +35,7 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 
-> "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session Notes/Season 4 - Name Undecided/Session 30\|Session 30]]</cite>
+> "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]]</cite>
 
 ### Overview
 An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
