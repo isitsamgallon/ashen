@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-02-10T22:17:35.610+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-02-10T22:19:40.620+00:00"}
 ---
 
 [[Admin/INFORMATION MISSING OR OUT-OF-DATE\|INFORMATION MISSING OR OUT-OF-DATE]]
@@ -94,7 +94,7 @@ Members of Strixhaven were first seen when [[Other Information/Display Tags/The 
 
 **Known Previous Locations:**
 - Very close to [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]].
-- East of [[Locations/OFC/Firebranch Range\|Firebranch Range]]
+- East of [[Locations/OFC/Twopines Estate\|Twopines Estate]]
 
 
 </div></div>
@@ -126,7 +126,7 @@ Members of Strixhaven were first seen when [[Other Information/Display Tags/The 
 
 **Known Previous Locations:**
 - Very close to [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]].
-- East of [[Locations/OFC/Firebranch Range\|Firebranch Range]]
+- East of [[Locations/OFC/Twopines Estate\|Twopines Estate]]
 
 
 </div></div>
@@ -158,7 +158,7 @@ Members of Strixhaven were first seen when [[Other Information/Display Tags/The 
 
 **Known Previous Locations:**
 - Very close to [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]].
-- East of [[Locations/OFC/Firebranch Range\|Firebranch Range]]
+- East of [[Locations/OFC/Twopines Estate\|Twopines Estate]]
 
 
 </div></div>
@@ -190,7 +190,7 @@ Members of Strixhaven were first seen when [[Other Information/Display Tags/The 
 
 **Known Previous Locations:**
 - Very close to [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]].
-- East of [[Locations/OFC/Firebranch Range\|Firebranch Range]]
+- East of [[Locations/OFC/Twopines Estate\|Twopines Estate]]
 
 
 </div></div>
@@ -222,4 +222,4 @@ Members of Strixhaven were first seen when [[Other Information/Display Tags/The 
 
 **Known Previous Locations:**
 - Very close to [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]].
-- East of [[Locations/OFC/Firebranch Range\|Firebranch Range]]
+- East of [[Locations/OFC/Twopines Estate\|Twopines Estate]]
