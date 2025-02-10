@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2025-01-18T23:46:47.522+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2025-02-10T22:15:51.327+00:00"}
 ---
 
 
@@ -9,3 +9,5 @@ Winterbor is a mad wizard found in the [[Locations/OFC/Organisation of Free Citi
 During [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]], [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] went to meet Winterbor to ask if he was able to manipulate the weather to create a storm to stop enemy ships from forming able to approach. He agreed but not before two [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] appeared on his shoulder telling Chenris "You don't want to know".
 
 Chenris theorises that these demons are linked to Winterbor's sudden descent into madness. 
+
+[[Admin/INFORMATION MISSING OR OUT-OF-DATE\|INFORMATION MISSING OR OUT-OF-DATE]]
