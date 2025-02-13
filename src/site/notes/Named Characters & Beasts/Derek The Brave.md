@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/derek-the-brave/","tags":["NPC"],"updated":"2025-02-08T17:15:56.806+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/derek-the-brave/","tags":["NPC"],"updated":"2025-02-13T18:24:16.093+00:00"}
 ---
 
 

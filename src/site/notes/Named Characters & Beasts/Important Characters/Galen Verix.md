@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/galen-verix/","tags":["NPC","Important"],"updated":"2025-02-08T17:15:46.415+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/galen-verix/","tags":["NPC","Important"],"updated":"2025-02-13T18:24:16.145+00:00"}
 ---
 
 

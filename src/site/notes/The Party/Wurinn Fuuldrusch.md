@@ -11,7 +11,7 @@
 >  Type | Stat |
 > :----: | --- |
 >  Race | [[[[Dragonborn\|[[Other Information/Races/Dragonborn\|Dragonborn]]]]rn]] (White Dragon) |
->  Nationality | [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]] |
+>  Nationality | [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] |
 >  Class | Barbarian/ Paladin |
 >  Subclass | Totem Warrior/ Oath of Redemption |
 >  Age | 30-40 |
@@ -38,7 +38,7 @@
 > "That doesn't really matter; all that does is that I live what little time I have in this world the best way I can."<cite>Drache - [[Session Notes/Season 4 - Ignatius Beckons/Session 28\|Session 28]]</cite>
 
 ### Overview
-Wurinn Fuuldrusch, or more commonly known as 'Drache', is a white [[Other Information/Races/Dragonborn\|Dragonborn]]. It is currently unknown where he is originally from, but he spent the majority of his life serving in [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]]. He is a Barbarian/ Paladin multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for being honest and good to fault and is often seen as the party's moral compass. He is also physically the strongest out of the party, often being left to do most physical activities. Played by [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]].
+Wurinn Fuuldrusch, or more commonly known as 'Drache', is a white [[Other Information/Races/Dragonborn\|Dragonborn]]. It is currently unknown where he is originally from, but he spent the majority of his life serving in [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]]. He is a Barbarian/ Paladin multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for being honest and good to fault and is often seen as the party's moral compass. He is also physically the strongest out of the party, often being left to do most physical activities. Played by [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]].
 
 ### Personality
 Drache is an incredibly kind and honest person, often trying to resolve conflict more peacefully before resorting to violence. He will often stand up for people when they're being bullied and will normally try to see the good of everyone, despite their actions. Growing up in a fort, he is quite gruff and to the point. his time at the fort has also made him a very honourable man, who prefers to not sneak around, opting to tackle a challenge head-on. He is also known for not being the most intelligent in the party but he is extremely good with people. 
@@ -49,7 +49,7 @@ He is a charismatic and albeit somewhat flirtatious character whether he intends
 Drache is an incredibly tall, 46-year-old white [[Dragonborn]] who can often be found wearing heavy Half-Plate armour and wielding heavy weapons like Great-axes and Greatswords. 
 
 ### Backstory Summary
-Drache was originally from and loyal to [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]] before he fell in love with a woman named [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]. Emmeline was a soldier from a rival fort called [[Locations/Important Locations & Nations/The Emerald Fort\|The Emerald Fort]]. After secretly sending each other love letters for a while, they both decide to desert their posts to try and live a life together. However, on their journey to meet up, Drache was kidnapped by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]] delaying his reunion and leading to Emmeline's capture by Tulan Fort.
+Drache was originally from and loyal to [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] before he fell in love with a woman named [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]. Emmeline was a soldier from a rival fort called [[Locations/Important Locations/The Emerald Fort\|The Emerald Fort]]. After secretly sending each other love letters for a while, they both decide to desert their posts to try and live a life together. However, on their journey to meet up, Drache was kidnapped by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]] delaying his reunion and leading to Emmeline's capture by Tulan Fort.
 
 ### Trivia
 - Chenris and Drache have a card game they always play when the rest of [[Other Information/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 

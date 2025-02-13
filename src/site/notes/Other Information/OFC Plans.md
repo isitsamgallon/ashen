@@ -22,7 +22,7 @@ The OFC finally won true independence from [[Locations/The Dawn Empire/The Dawn 
 	- [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
 	- [[Locations/Ehobel/Ehobel\|Ehobel]]
 	- [[Locations/Snowport\|Snowport]]
-	- [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]
+	- [[Locations/Important Locations/Lost Haven\|Lost Haven]]
 	- [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]?
 - The party with reform the tax code to alleviate the burden on low income families and tax richer constituencies and well as increase tax on Trade.
 - Introduces e basic laws for safety of the people

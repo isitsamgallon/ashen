@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/durdretrude-grayfall-2/","tags":["NPC"],"updated":"2025-02-09T14:04:36.745+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/durdretrude-grayfall-2/","tags":["NPC"],"updated":"2025-02-13T18:24:16.124+00:00"}
 ---
 
 

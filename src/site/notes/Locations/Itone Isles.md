@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/itone-isles/","tags":["Location"],"updated":"2025-01-14T21:03:47.434+00:00"}
+{"dg-publish":true,"permalink":"/locations/itone-isles/","tags":["Discovered"],"updated":"2025-02-13T18:01:51.362+00:00"}
 ---
 
 ### Overview

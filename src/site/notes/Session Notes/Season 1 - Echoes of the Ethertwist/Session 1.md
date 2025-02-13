@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/","updated":"2025-01-14T21:10:35.350+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-1/","updated":"2025-02-13T20:01:15.300+00:00"}
 ---
 
 We start mid combat in [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]].
@@ -38,7 +38,7 @@ the party made their way to the clearing in [[Twopines\|Twopines]] to start [[Go
 - Kal placed a worn out short sword offering it to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] and stepped back, tears littering his face. 
 - Mordecai was next, removing his mother's cloak from his shoulders. With tears rolling down his face he tries to smell her one last time but her perfume faded with the years of campfire smoke. With a final goodbye, it his added to the fire.
 - Chenris quietly puts a hastily written note with an unsolved problem 
-- Drache ripped [[Locations/Important Locations & Nations/The Emerald Fort\|the Emerald fort]] emblem from this shirt, kissing it and determined that he would find who he was missing 
+- Drache ripped [[Locations/Important Locations/The Emerald Fort\|The Emerald Fort]] emblem from this shirt, kissing it and determined that he would find who he was missing 
 
 
 The first bell rang. as they kept their eyes shut, everyone was haunted by the ghosts of their past. 

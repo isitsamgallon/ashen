@@ -15,7 +15,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [ ] Questions about Player Backstories:
 	- [ ] How was [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] from a noble lineage?
 	- [ ] Why does [[The Party/Mordecai Reverence\|Mordecai Reverence]] have to run away from his father?
-	- [ ] What is [[The Party/Dead/Kal ‡\|Kal ‡]]'s unfinished business in [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]]?
+	- [ ] What is [[The Party/Dead/Kal ‡\|Kal ‡]]'s unfinished business in [[Locations/Important Locations/Lost Haven\|Lost Haven]]?
 	- [ ] How does [[The Party/Aidan Knight\|Aidan Knight]] have time manipulation abilities?
 	- [ ] What is [[The Party/Halfbie\|Halfbie]]?
 - [ ] How did [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and [[Named Characters & Beasts/Genevieve †\|Genevieve †]] live for so long as humans?

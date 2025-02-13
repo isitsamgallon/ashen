@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/divine-pillars-and-the-world-s-mantle/","updated":"2025-01-14T21:11:25.937+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/divine-pillars-and-the-world-s-mantle/","updated":"2025-02-13T20:12:10.365+00:00"}
 ---
 
 A book that [[The Party/The Korrigan\|The Korrigan]] secretly read while [[Other Information/Display Tags/The Party\|The Party]] was in [[Locations/Strixhaven\|Strixhaven]]. He was looking for information about [[Other Information/Display Tags/The Towers\|The Towers]] and how they function. This was mostly likely because of his pact with [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. Here is a summary of the book, taken from [[Other Information/Display Tags/The Ashen Book\|The Ashen Book]]:
@@ -11,5 +11,5 @@ The text began with the story of The Primordial Divinity, [[Gods & Heralds/Aethe
 
 The planet upon which [[Other Information/Display Tags/The Party\|The Party]] journeyed had one of these beings at its core—a creature known as [[Gods & Heralds/Aetherion/The Golden Being\|The Golden Being]], a monstrous entity whose vast tentacles had been lured into the towering pillars that now held it captive. These Divine Pillars, ancient and mysterious, drained the creature’s power, syphoning its energy to maintain a precarious balance, binding [[Gods & Heralds/Aetherion/Terathra\|Terathra]] to its prison and warding off the wrath of the gods. The book explains that [[Gods & Heralds/Aetherion/Terathra\|Terathra]]’s very being repels the gods and suppresses their power, [[Other Information/Display Tags/The Towers\|The Towers]] amplify that power to create a barrier to protect the mortal world from the gods.
 
-[[Gods & Heralds/Aetherion/The Golden Being\|The Golden Being]] could be freed by severing the magical link that connected [[Gods & Heralds/Aetherion/Terathra\|Terathra]] to the pillars
+[[Gods & Heralds/Aetherion/The Golden Being\|The Golden Being]] could be freed by severing the magical link that connected [[Gods & Heralds/Aetherion/Terathra\|Terathra]] to [[Other Information/Display Tags/The Towers\|the pillars]]
 

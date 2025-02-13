@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"updated":"2025-01-18T23:46:47.503+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"updated":"2025-02-13T18:24:16.091+00:00"}
 ---
 
 
 ### Overview
-Damascus Klyn is the former leader of [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]]. Having run the fort for a little over 20 years, he is known as a cruel and vindictive person who loves to watch people suffer.
+Damascus Klyn is the former leader of [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]]. Having run the fort for a little over 20 years, he is known as a cruel and vindictive person who loves to watch people suffer.
 
 ### Notable Information & History 
 - Towards the end of his tenure as leader, his troops started to lose faith in him when he sided with [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] in [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]], a battle they notably lost even though the odds were in his favour. 

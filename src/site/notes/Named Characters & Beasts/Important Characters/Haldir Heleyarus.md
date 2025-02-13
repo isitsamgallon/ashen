@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/haldir-heleyarus/","tags":["NPC","Important"],"updated":"2025-01-18T23:46:47.558+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/haldir-heleyarus/","tags":["NPC","Important"],"updated":"2025-02-13T18:24:16.151+00:00"}
 ---
 
 

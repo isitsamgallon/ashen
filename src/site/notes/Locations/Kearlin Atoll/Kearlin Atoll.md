@@ -1,6 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kearlin-atoll/","tags":["Location","Unexplored"],"updated":"2025-01-14T21:03:47.444+00:00"}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kearlin-atoll/","tags":["Undiscovered"],"updated":"2025-02-13T18:20:32.159+00:00"}
 ---
+
+> [!infobox]
+> 
+> # Kearlin Atoll
+> ![[]]
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | Unknown |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+>  ##### Cities & Towns 
+>   | File                                                        | Discovery Status               |
+> | ----------------------------------------------------------- | ------------------------------ |
+> | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Paraton\|Paraton]]             | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Teria\|Teria]]                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Totala\|Totala]]               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Carryn\|Carryn]]               | <ul><li>Undiscovered</li></ul> |
+> 
+{ .block-language-dataview}
 
 
 ### Overview
@@ -8,15 +33,6 @@ A nation made up of a group of islands found toward the far east of the [[Locati
 
 ### Geography
 Kearlin Atoll has a tropical climate
-
-### Known Locations
-- [[Locations/Kearlin Atoll/Teria\|Teria]] (Capital, Assumed)
-- [[Locations/Kearlin Atoll/Paraton\|Paraton]]
-- [[Locations/Kearlin Atoll/Totala\|Totala]]
-- [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]
-- [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]
-- [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]
-- [[Locations/Kearlin Atoll/Carryn\|Carryn]]
 
 ### NPCs From Kearlin Atoll
 | File | Home Town | Status |

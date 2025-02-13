@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Location"],"updated":"2025-01-14T21:03:47.533+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-02-13T18:11:45.927+00:00"}
 ---
 
 The capital city of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and home to [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]], The Emperor. Dawnhaven seems to be a very well-off area with buildings that look very well put together and pretty. The city takes on a different appearance once [[Other Information/Display Tags/The Party\|The Party]] goes off the main streets of the city as the wealth disparity becomes more and more evident. 

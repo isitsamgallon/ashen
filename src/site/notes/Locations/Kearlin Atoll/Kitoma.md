@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kitoma/","tags":["Location","Unexplored"],"updated":"2025-01-14T21:03:47.465+00:00"}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kitoma/","tags":["Undiscovered"],"updated":"2025-02-13T18:06:35.873+00:00"}
 ---
 
 

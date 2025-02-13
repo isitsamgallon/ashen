@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/minatota/","tags":["Location"],"updated":"2025-01-14T21:03:47.605+00:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/minatota/","tags":["Discovered"],"updated":"2025-02-13T18:01:52.212+00:00"}
 ---
 
 A Small town close to the boarder of [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] that doesn't look very well put together. many people are still drunk or lying in their own vomit. Many people are in skimpy outfits trying to attract people into clubs. 

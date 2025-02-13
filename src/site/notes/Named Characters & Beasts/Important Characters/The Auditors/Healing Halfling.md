@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/healing-halfling/","tags":["NPC","Important"],"updated":"2025-01-18T23:49:13.576+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/healing-halfling/","tags":["NPC","Important"],"updated":"2025-02-13T18:24:16.192+00:00"}
 ---
 
 

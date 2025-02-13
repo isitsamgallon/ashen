@@ -1,6 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Location"],"updated":"2025-02-08T17:15:49.035+00:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-02-13T18:01:51.628+00:00"}
 ---
+
+> [!infobox]
+> 
+>  # Organisation of Free Cities (OFC)
+> ![OFC_Map.jpg](/img/user/Admin/Attachments/OFC_Map.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | [[Other Information/Races/Humans\|Humans]] |
+>  Founder | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] & Other Lords |
+>  Current Leader | [[Other Information/Display Tags/The Party\|The Party]] |
+>  ##### Cities & Towns 
+>   | File                                                            | Discovery Status             |
+> | --------------------------------------------------------------- | ---------------------------- |
+> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
+> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
+> | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
+> | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
+> | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
+> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
+> | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
+> | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | Discovered                   |
+> 
+{ .block-language-dataview}
 
 The OFC is a small nation found to the west of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Sometime after the events of [[History & Events/The Sundering\|The Sundering]], the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] occurred causing the people of the land to fracture from The Dawn and form The OFC after the former refused to defend them against the [[Other Information/Races/Elves\|Elves]]. It is assumed that [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] also defected from The Dawn around this time but it is unclear exactly when or why this happened. Upon his defection, he became the leader of the armies and was known throughout the OFC as a powerful figure and a beacon of hope to its people.
 
@@ -31,13 +57,13 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive  |
 | [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive  |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead   |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead   |
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive  |
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive  |
-| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive  |
-| [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead   |
 | [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive  |
+| [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead   |
+| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive  |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive  |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead   |
 
 { .block-language-dataview}
 

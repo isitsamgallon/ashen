@@ -6,7 +6,7 @@
 - [ ] Deal with the Dwarves of [[Locations/Fort Moldan\|Fort Moldan]]
 - [ ] Create a trade deal between the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] and [[Locations/Ehobel/Ehobel\|Ehobel]].
 - [ ] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]
-- [ ] Go to [[Locations/Important Locations & Nations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan\|The Korrigan]]'s business.
+- [ ] Go to [[Locations/Important Locations/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan\|The Korrigan]]'s business.
 - [x] Travel to [[Locations/Itone Isles\|Itone Isles]] ✅ 2024-12-24
 	- [x] Learn more about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]. ✅ 2024-12-24
 	- [x] Find [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] ✅ 2024-12-24

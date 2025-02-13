@@ -1,6 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Location"],"updated":"2025-01-14T21:03:47.612+00:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Discovered"],"updated":"2025-02-13T18:15:47.273+00:00"}
 ---
+
+> [!infobox]
+> 
+> # Uvam Dynasty
+> ![The_Dawn_Empire_Map.jpg](/img/user/Admin/Attachments/The_Dawn_Empire_Map.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | [[Other Information/Races/Tiefling\|Tiefling]] |
+>  Founder | Unknown  |
+>  Current Leader | None |
+>  ##### Cities & Towns 
+>   | File                                                      | Discovery Status               |
+> | --------------------------------------------------------- | ------------------------------ |
+> | [[Locations/Goldpass Bridge\|Goldpass Bridge]]         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]  | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]              | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]          | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]          | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Uvam Dynasty/Tangping\|Tangping]]          | <ul><li>Undiscovered</li></ul> |
+> 
+{ .block-language-dataview}
 
 A nation found to the south of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Its architecture is based on [Edo Period Japan](https://en.wikipedia.org/wiki/Edo_period). Uvam is an [Anarchist Nation](https://en.wikipedia.org/wiki/Anarchy) with many of the towns and people free to do what they want, leading to them being extremely different from one another. Long ago they all banded together under one banner and each contributed forces for a standing army.  [[The Party/Mordecai Reverence\|Mordecai Reverence]] spent a long time in the region and has a particularly dark past associated with [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] and its de facto leader, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]].
 
@@ -9,23 +34,12 @@ A nation found to the south of [[Locations/The Dawn Empire/The Dawn Empire\|The 
 ### Geography
 Uvam is a relatively small nation found towards the south of the [[Locations/Verdant Spine\|Verdant Spine]]. The land is known for its vibrant grass, gentle hills and maple trees, a unique feature only found in this nation.
 
-### Known Locations
-- [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]
-	- [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]]
-- [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]
-- [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]
-- [[Locations/Uvam Dynasty/Tangping\|Tangping]]
-- [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]
-	- [[Locations/Important Locations & Nations/The Tulan Fort\|The Tulan Fort]] (Through Secret Entrance)
-- [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]
-- [[Locations/Goldpass Bridge\|Goldpass Bridge]]
-
 ### NPCs From The Uvam Dynasty
 | File                                                                                                                         | Home Town | Status |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon 2\|Arwen Gryffon 2]]               | Minatota  | Alive  |
 | [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                | Minatota  | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon 2\|Arwen Gryffon 2]]               | Minatota  | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
 
 { .block-language-dataview}

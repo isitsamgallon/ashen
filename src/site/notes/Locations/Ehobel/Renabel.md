@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/renabel/","tags":["Location","Unexplored"],"updated":"2025-01-14T21:03:47.375+00:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/renabel/","tags":["Undiscovered"],"updated":"2025-02-13T18:07:19.851+00:00"}
 ---
 
 A place in [[Locations/Ehobel/Ehobel\|Ehobel]]

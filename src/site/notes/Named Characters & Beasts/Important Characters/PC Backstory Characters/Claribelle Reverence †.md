@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/claribelle-reverence/","tags":["NPC","Important"],"updated":"2025-01-18T23:46:47.570+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/claribelle-reverence/","tags":["NPC","Important"],"updated":"2025-02-13T18:24:16.166+00:00"}
 ---
 
 
