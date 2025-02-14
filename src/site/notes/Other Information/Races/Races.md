@@ -7,12 +7,12 @@ Information on the races encountered during the campaign as some information dif
 ### Current Recorded Races
 - [[Other Information/Races/Inchlings\|Inchlings]]
 - [[Other Information/Races/Tiefling\|Tiefling]]
-- [[Other Information/Races/Eladrin\|Eladrin]]
 - [[Other Information/Races/Gnomes\|Gnomes]]
-- [[Other Information/Races/Goblin\|Goblin]]
 - [[Other Information/Races/Humans\|Humans]]
-- [[Other Information/Races/Halflings\|Halflings]]
 - [[Other Information/Races/Dragonborn\|Dragonborn]]
+- [[Other Information/Races/Halflings\|Halflings]]
+- [[Other Information/Races/Goblin\|Goblin]]
+- [[Other Information/Races/Eladrin\|Eladrin]]
 - [[Other Information/Races/Elves\|Elves]]
 - [[Other Information/Races/Dwarves\|Dwarves]]
 
