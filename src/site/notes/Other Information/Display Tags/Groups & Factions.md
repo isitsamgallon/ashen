@@ -22,6 +22,5 @@ Here is a list of all current known groups and f within the campaign
 - [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]]
 - [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]
 - [[Groups & Factions/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]]
-- [[Groups & Factions/Ye Old Tavern Down the Road 2\|Ye Old Tavern Down the Road 2]]
 
 { .block-language-dataview}
