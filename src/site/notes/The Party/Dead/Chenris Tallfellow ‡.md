@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-02-13T20:01:15.319+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-02-19T16:03:49.399+00:00"}
 ---
 
 > [!infobox]
 > 
 > # Chenris Tallfellow
-> ![IMG_0309.jpg|cover hsmall](/img/user/Admin/Attachments/IMG_0309.jpg)
+> ![IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)
 > ###### Basic Information
 > 
 >  Type | Stat |
@@ -17,7 +17,7 @@
 >  Age | 21 |
 >  Alignment | Lawful Neutral |
 >  Pronouns | He/ Him |
->  Family | Unnamed Parents, [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] (Father Figure) |
+>  Family | Unnamed Parents, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] (Father Figure) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

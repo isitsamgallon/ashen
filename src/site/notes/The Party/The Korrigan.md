@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-02-18T23:15:41.304+00:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-02-19T15:46:21.370+00:00"}
 ---
 
  > [!infobox]
@@ -8,7 +8,7 @@
 > ![KorriganProfilePic.png|cover hsmall](/img/user/Admin/Attachments/KorriganProfilePic.png)
 > ###### Basic Information
 > 
->  Type | Stat |
+>  Type |
 > :----: | --- |
 >  Race | Fey |
 >  Nationality | [[Locations/Feywild/Feywild\|Feywild]] |

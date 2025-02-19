@@ -21,7 +21,6 @@
 | [[The Party/Aidan Knight\|Aidan Knight]]                                      | Rogue/Warlock     | Party Member | In The Party |
 | [[The Party/Other Party Members/Familiars/Bit\|Bit]]                          | None              | Companion    | In The Party |
 | [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin           | Companion    | Travelling   |
-| [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                 | Cleric/Artificer  | Party Member | Dead         |
 | [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown           | Companion    | Travelling   |
 | [[The Party/Halfbie\|Halfbie]]                                                | Wizard/Artificer  | Party Member | In The Party |
 | [[The Party/Dead/Kal ‡\|Kal ‡]]                                               | Rogue/Ranger      | Party Member | Dead         |
