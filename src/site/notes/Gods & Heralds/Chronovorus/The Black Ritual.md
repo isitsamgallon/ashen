@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-ritual/","updated":"2025-01-14T21:11:41.320+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-ritual/","updated":"2025-03-01T16:50:43.981+00:00"}
 ---
 
 This was an ancient ritual that could be used to banish [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]. To perform this ritual, the afflicted must burn 8 of [[Gods & Heralds/Chronovorus/The Pages\|The Pages]] along with their most prized possession. Everyone must then close their eyes and not open them until they hear three rings of a bell. 
 
 Here is a list of what each party member burnt during their ritual:
-- [[The Party/Aidan Knight\|Aidan Knight]] threw in the key that he had used to escape the cult he had been holding since his birth. 
+- [[The Party/Aiden Knight\|Aiden Knight]] threw in the key that he had used to escape the cult he had been holding since his birth. 
 - [[The Party/The Korrigan\|The Korrigan]] Placed a worn-out short sword offering it to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] and stepped back, tears littering his face. 
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]] burnt [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]'s cloak.
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] puts a hastily written note with an unsolved problem. (This is a fake and will ultimately cause the ritual to fail)

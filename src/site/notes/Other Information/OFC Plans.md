@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2024-12-23T14:12:46.261+00:00"}
+{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-03-01T16:50:44.314+00:00"}
 ---
 
 These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 12\|Session 12]].
@@ -50,7 +50,7 @@ Minister of Defence; [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
 	Recruit (Rec.)
 		[Extra Military Rank Resource](https://www.reddit.com/r/worldbuilding/comments/4p4nkw/fictional_military_ranks/)
 
-Minister of Intelligence; [[The Party/Aidan Knight\|Aidan Knight]] 
+Minister of Intelligence; [[The Party/Aiden Knight\|Aiden Knight]] 
 
 **Primary Focus:** The Creation of the FCSB (Free Cities Security Bureau) and responsible for Espionage, Internal Affairs, External Affairs, Scouting, Information Extraction.
 

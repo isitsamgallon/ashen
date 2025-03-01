@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2024-12-31T22:33:31.184+00:00"}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-03-01T16:50:44.321+00:00"}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.
@@ -16,7 +16,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 	- [ ] How was [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] from a noble lineage?
 	- [ ] Why does [[The Party/Mordecai Reverence\|Mordecai Reverence]] have to run away from his father?
 	- [ ] What is [[The Party/Dead/Kal ‡\|Kal ‡]]'s unfinished business in [[Locations/Important Locations/Lost Haven\|Lost Haven]]?
-	- [ ] How does [[The Party/Aidan Knight\|Aidan Knight]] have time manipulation abilities?
+	- [ ] How does [[The Party/Aiden Knight\|Aiden Knight]] have time manipulation abilities?
 	- [ ] What is [[The Party/Halfbie\|Halfbie]]?
 - [ ] How did [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and [[Named Characters & Beasts/Genevieve †\|Genevieve †]] live for so long as humans?
 - [x] How did [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] live for so long? ✅ 2024-12-25
@@ -41,7 +41,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] was behind [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] resurrection 
   
 ### Incorrect Theories
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] had a theory that each member of [[Other Information/Display Tags/The Party\|The Party]] would become associated with a God at the beginning of the campaign. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], [[The Party/Aidan Knight\|Aidan Knight]] with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[The Party/Wurinn Fuuldrusch\|Drache]] with [[Gods & Heralds/Eldros/Eldros\|Eldros]] or [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] - they just couldn't place [[The Party/Dead/Kal ‡\|Kal ‡]]
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] had a theory that each member of [[Other Information/Display Tags/The Party\|The Party]] would become associated with a God at the beginning of the campaign. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], [[The Party/Aiden Knight\|Aiden Knight]] with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[The Party/Wurinn Fuuldrusch\|Drache]] with [[Gods & Heralds/Eldros/Eldros\|Eldros]] or [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] - they just couldn't place [[The Party/Dead/Kal ‡\|Kal ‡]]
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thought [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was rewarded by a powerful group like [[Groups & Factions/The Auditors\|The Auditors]] for leading the charge in the sundering and keeping the balance of the gods. OR he found a way with dark magic to extend his life so he could be with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] before she rejected him for [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]].
 
 ### Correct Theories & Answers

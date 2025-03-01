@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"updated":"2025-01-14T21:11:41.292+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"updated":"2025-03-01T16:50:43.855+00:00"}
 ---
 
 
@@ -9,7 +9,7 @@ The name given to the being at the centre of the world. See [[Gods & Heralds/Aet
 # History
 [[The Party/The Korrigan\|The Korrigan]] first made contact with it by casting [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) on the crystal at [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]. Korrigan then managed to have a full conversation with it by meditating on the tree in [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]].
 
-[[Other Information/Display Tags/The Party\|The Party]] had a second conversation with it after [[The Party/Aidan Knight\|Aidan Knight]] was possessed by [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] in [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]. One of the time distortions was on [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] making Korrigan incredibly scared for Terathra's safety. After the distortion was lifted, the party tried to communicate through the same method Korrigan did the day before. Accept this time, Korrigan, [[The Party/Mordecai Reverence\|Mordecai Reverence]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] shared the burden of allowing the whole party to speak. 
+[[Other Information/Display Tags/The Party\|The Party]] had a second conversation with it after [[The Party/Aiden Knight\|Aiden Knight]] was possessed by [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] in [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]. One of the time distortions was on [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] making Korrigan incredibly scared for Terathra's safety. After the distortion was lifted, the party tried to communicate through the same method Korrigan did the day before. Accept this time, Korrigan, [[The Party/Mordecai Reverence\|Mordecai Reverence]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] shared the burden of allowing the whole party to speak. 
 
 Terathra was feeling strange and noted that something about the crystal at the top of [[Other Information/Display Tags/The Towers\|The Towers]] could be wrong. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] is the only person free who can teleport up the tower and see what is wrong. When he arrives, he finds 2 [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] with the crystal. Chenris decides to destroy the crystal and after some hesitation, gives the energy back to Terathra. Leading to [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] falling. Please see [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 15\|Session 15]] for more information.
 

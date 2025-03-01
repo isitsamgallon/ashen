@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/feywild/","updated":"2025-01-14T21:03:47.384+00:00"}
+{"dg-publish":true,"permalink":"/locations/feywild/feywild/","updated":"2025-03-01T16:10:13.589+00:00"}
 ---
 
 The Feywild was a place of unrestrained and awe-inspiring natural beauty. The plane is always bathed in twilight of the setting (or perhaps rising) sun, with lanterns and fireflies providing additional, haunting lights. 
@@ -10,4 +10,4 @@ Visitors to the plane found that all sensations, both sensory and emotional, wer
 
 Description taken from [The Feywild Wiki ](https://forgottenrealms.fandom.com/wiki/Feywild#Description) and subject to change.
 
-The party currently does not know a lot about the fey wilds besides Korrigan, the party has had an audience with the [[Locations/Feywild/Seelie Court\|Seelie Court]] and seen the [[Locations/Feywild/Temple of Lorwyn\|Temple of Lorwyn]]
+[[Other Information/Display Tags/The Party\|The party]] currently does not know a lot about the fey wilds besides [[The Party/The Korrigan\|Korrigan]], [[Other Information/Display Tags/The Party\|the party]] has had an audience with the [[Locations/Feywild/Seelie Court\|Seelie Court]] and seen the [[Locations/Feywild/Temple of Lorwyn\|Temple of Lorwyn]]

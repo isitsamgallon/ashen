@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-8/","updated":"2025-02-08T17:11:52.847+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-8/","updated":"2025-03-01T16:50:45.181+00:00"}
 ---
 
 
@@ -16,7 +16,7 @@ After denying this, [[Other Information/Display Tags/The Party\|The Party]] is l
 As [[Other Information/Display Tags/The Party\|The Party]] get closer to [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]], [[The Party/Mordecai Reverence\|Mordecai Reverence]], learning from [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and Drache's mistakes, confesses to being wanted in [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] and in particular the town [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] where people have mentioned seeing Witherfeather. Mordecai reluctantly agrees and [[Other Information/Display Tags/The Party\|The Party]] enter [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] and find their way to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]. 
 
 [[Other Information/Display Tags/The Party\|The Party]] unknowingly enter a sex club after trying to find information on Witherfeather. after Drache accidentally buys an extremely expensive drink for the place, [[Other Information/Display Tags/The Party\|The Party]] learn the wizard had been spotted at nightclub called the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] and is known to hang out with a person called [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. Mordecai goes pale when learning this. Mordecai has a sip of a really strong drink for courage, warns everyone to try and stick together as the club was designed to isolate and rob people. Unfortunately thew club was much more disorientating than expected and [[Other Information/Display Tags/The Party\|The Party]] is split up almost immediately. Here are the vents of the club:
-- [[The Party/Aidan Knight\|Aidan Knight]], is charmed and kidnapped by a Teifling 
+- [[The Party/Aiden Knight\|Aiden Knight]], is charmed and kidnapped by a Teifling 
 - [[The Party/The Korrigan\|The Korrigan]] talks to some shifty looking characters who try to pick pocket him. He is confused why people would want to pickpocket and gives them the money anyway. They buy drinks together and the bartender spikes Korrigan with the suggestion potion
 - Drache and Chenris try to find Mordecai.
 - Mordecai gives money to an old friend who looks ROUGH because they’re clearly being abused by Arwen.

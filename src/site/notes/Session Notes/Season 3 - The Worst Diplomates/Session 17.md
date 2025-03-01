@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-17/","updated":"2025-01-14T21:10:35.392+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-17/","updated":"2025-03-01T16:50:45.406+00:00"}
 ---
 
 
@@ -16,7 +16,7 @@ Having dealt with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] before
 
 [[Other Information/Display Tags/The Party\|The Party]] are now outside the gates of the city and asks [[The Party/The Korrigan\|The Korrigan]] where the best place to set up camp might. (Due to a low roll) He decides it would be best to sleep right outside the castle wall. Most people disagree but go with it once Chenris reminds them that Korrigan would know best in these situations. 
 
-#### Chenris & [[The Party/Aidan Knight\|Aidan Knight]]'s Watch:
+#### Chenris & [[The Party/Aiden Knight\|Aiden Knight]]'s Watch:
 Sitting alone Chenris ask Aidan about his possession by [[Gods & Heralds/Chronovorus/Chronovorus\|chronovorus]] and starts to take notes as Aidan is talking. Aidan reveals that the possession actually started the night before [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 15\|Session 15]] and it felt like something halfway between being in autopilot and being in a coma. That was until [[Gods & Heralds/Chronovorus/Chronovorus\|chronovorus]] took full control and started opening time rifts. Apparently attacking his body did help him regain some control but this only angered the god and took back control. it was only after Mordecai cast [Dispel Magic](https://www.dndbeyond.com/spells/2072-dispel-magic) that he regained control. Having learned all he wanted, Chenris closed his notebook and returned to reading. 
 
 #### Chenris, Mordecai & Obeus' Watch:

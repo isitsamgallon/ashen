@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-7/","updated":"2025-01-14T21:10:35.369+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-7/","updated":"2025-03-01T16:50:45.107+00:00"}
 ---
 
 # Session Summary
@@ -16,7 +16,7 @@ Weirded out, the party go to bed in the tavern with a weird feeling that somethi
 
 They made their way to the docks to investigate if anyone else had this strange dream, posing as people doing a town wide questionnaire about general town welfare. [[The Party/Mordecai Reverence\|Mordecai Reverence]] makes the mistake of mentioning the faceless angel figure in his dream to a dock man and they think he’s on drugs. 
 
-They talk to another person who reports no weird dreams but seems just as confused and disoriented as the previous people they’d spoken with. He hints that there must be something in the water. They go check the well to see if the water is contaminated with something. They don’t know. [[The Party/Aidan Knight\|Aidan Knight]] suggests jumping down the well but the rest of the party doesn’t think it’s a good idea as they wouldn’t have a way to get back up.
+They talk to another person who reports no weird dreams but seems just as confused and disoriented as the previous people they’d spoken with. He hints that there must be something in the water. They go check the well to see if the water is contaminated with something. They don’t know. [[The Party/Aiden Knight\|Aiden Knight]] suggests jumping down the well but the rest of the party doesn’t think it’s a good idea as they wouldn’t have a way to get back up.
 
 They decide to go talk to the guards again due to the fact that they weren’t affected by the memory loss. The guards inform them that two of their guards went into the town to investigate a house that was from a person who had gone missing and both of them never returned. The party decide to try and find these guys.
 

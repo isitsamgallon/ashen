@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-31/","updated":"2025-02-13T20:12:22.056+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-31/","updated":"2025-03-01T16:50:45.975+00:00"}
 ---
 
 **Session Date:** 9th Feb 2025 
@@ -69,7 +69,7 @@ Without missing a beat, the headmaster asked if they were ready to take on the m
 The headmaster nodded and murmured that that was just going to have to do without other options before speaking up. He declared that he would answer their previous question, but he would need one person to help with this. He drew his gaze to the back of the party at [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] and declared that one last person needed to join them. He clicked his finger, and with a scream from [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]], [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] was pulled out from her. 
 
 # Trivia & Notes
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] were desperate to make sure Mordecai would get a magic item as they thought that Mordecai hadn't gotten anything cool (Korrigan had his bow, Drache had his great sword and axe, [[The Party/Aidan Knight\|Aidan Knight]] had his dagger, and [[The Party/Halfbie\|Halfbie]] had the things that they built).
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] were desperate to make sure Mordecai would get a magic item as they thought that Mordecai hadn't gotten anything cool (Korrigan had his bow, Drache had his great sword and axe, [[The Party/Aiden Knight\|Aiden Knight]] had his dagger, and [[The Party/Halfbie\|Halfbie]] had the things that they built).
 - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed that he had been building the final twist of this session for a while like when he mentioned that Ebis had taught Obeus and how he kept being able to find them. 
 
 # Footnotes

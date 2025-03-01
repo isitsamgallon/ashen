@@ -14,7 +14,7 @@
 | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                    | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                  | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | Ehobel                       | Ishnmel                     |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | <ul><li>Ehobel</li></ul>     | Ishnmel                     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                         | The Tulan Fort               | The Tulan Fort              |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
 | [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                   | The Desert                   | Unknown/Unclear             |
@@ -65,8 +65,10 @@
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/High Priest Lyrion\|High Priest Lyrion]]           | Unknown | Adult Human Male         | The Desert                        | Ember Peak            |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                                               | Alive   | Adult Human Male         | Ehobel                            | Caalona               |
 | [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                                         | Dead    | Adult Halfling Male      | The Dawn Empire                   | Dawnhaven             |
+| [[Named Characters & Beasts/Jessamine †\|Jessamine †]]                                                                                       | Dead    | Adult Eladrin Female     | <ul><li>The Feywilds</li></ul>    | The Shifting Forest   |
 | [[Named Characters & Beasts/Jub\|Jub]]                                                                                                       | Unknown | Adult Goblin Male        | Jub's Tribe                       | \-                    |
 | [[Named Characters & Beasts/Just Jack\|Just Jack]]                                                                                           | Alive   | Adult Human Male         | The Dawn Empire                   | Newhall               |
+| [[Named Characters & Beasts/Karnal\|Karnal]]                                                                                                 | Dead    | Adult Human Male         | <ul><li>Unknown/Unclear</li></ul> | Unknown/Unclear       |
 | [[Named Characters & Beasts/Keith Horrigan\|Keith Horrigan]]                                                                                 | Alive   | Adult Human Male         | The OFC                           | Blackwall             |
 | [[Named Characters & Beasts/Khanate Hester †\|Khanate Hester †]]                                                                             | Dead    | Adult Human Male         | \-                                | \-                    |
 | [[Named Characters & Beasts/King Oberon\|King Oberon]]                                                                                       | Alive   | Adult Fey Male           | The Feywilds                      | \-                    |
@@ -90,7 +92,9 @@
 | [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]                                                                               | Alive   | Adult Halfling Male      | The Dawn Empire                   | Dawnhaven             |
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                                   | Alive   | Adult Human Male         | The Dawn Empire                   | The All Father Temple |
 | [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]                                                                   | Alive   | Adult Human Male         | \-                                | \-                    |
+| [[Named Characters & Beasts/The Barista Dragon\|The Barista Dragon]]                                                                         | Alive   | Adult Red Dragon Male    | <ul><li>Strixhaven</li></ul>      | Steelwick             |
 | [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]                                                                       | Alive   | Adult Dwarf Male         | \-                                | \-                    |
+| [[Named Characters & Beasts/Wartooth\|Wartooth]]                                                                                             | Alive   | Adult Orc Male           | \-                                | \-                    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]]           | Alive   | Adult Dwarf Male         | Dwarven Empire                    | Fort Molden           |
 
 { .block-language-dataview}

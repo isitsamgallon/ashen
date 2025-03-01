@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-3/","updated":"2025-01-14T21:10:35.358+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-3/","updated":"2025-03-01T16:50:45.010+00:00"}
 ---
 
-They climb the mountain to try a find the Wyven's lair. The group reason that this is what [[The Party/Dead/Kal ‡\|Kal ‡]] would’ve wanted. The group eventually find it - its not a naturally occurring cave, more like it was hollowed out long ago. the lair is full of books shelves with ancient books written in ancient dwarvish. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] takes one of the books to for further study and in the hopes of learning the language. [[The Party/Mordecai Reverence\|Mordecai Reverence]] recognised the language from his travels. This language is found all over the cave and even on four pillars that are holding up the cave. The group decided that its best that leave for [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] to not only learn more about the books but about what is also going in with [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]].
+They climb the mountain to try to find the Wyven's lair. The group reasons that this is what Kal ‡ would’ve wanted. The group eventually find it - it's not a naturally occurring cave, more like it was hollowed out long ago. The lair is full of bookshelves with ancient books written in ancient dwarvish. Chenris Tallfellow ‡ takes one of the books for further study and in the hopes of learning the language. Mordecai Reverence recognised the language from his travels. This language is found all over the cave and even on the four pillars that are holding up the cave. The group decided that it was best to leave for Steelwick to learn not only more about the books but also about what was going on with [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]].
 
 As the group gets to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] they hear a Familiar voice asking the party for any food. They turn to face the character and the person looks and sounds exactly like Kal but this person has antlers. He calls himself Korrigan and has amnesia. The group takes him in more out of curiosity (Chenris keep trying to securely study him).  Mordecai then scare Korrigans  into using his abilities to learn more about him and his abilities. [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]'s name comes up a lot when talking about his powers, he even has Kal's Bow. 
 
@@ -40,5 +40,5 @@ Next was a simple room that had a door in it with the following written above it
 Finally the group accounted a room where massive constructs were shovelling lava into a machine. Korrigan noticed mid-fight that the constructs were powered by lava as well, allowing the party to defeat them without anyone dying. to get to the next room there was a massive lava moat to cross. after some time the party realised there was a water pipe above them they could shoot to make the lava solid. 
 
 TAGS:
-[[The Party/Aidan Knight\|Aidan Knight]]
+[[The Party/Aiden Knight\|Aiden Knight]]
 [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]]

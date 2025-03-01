@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-02-10T22:22:45.121+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-03-01T15:14:37.581+00:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 >  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
 >  Class | Wizard/ Artificer |
 >  Subclass | Order of Scribes/ Artillerist |
->  Age | 21 |
+>  Age | ~1300 (Canonical), 21(Physically) |
 >  Alignment | Seelie |
 >  Pronouns | Any |
 >  Family | Unnamed Parents |
