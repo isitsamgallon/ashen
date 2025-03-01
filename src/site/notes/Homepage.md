@@ -65,17 +65,16 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
-| [[Books, Documents & Artefacts/Jessamine's Chicken Noodle Soup Recipe\|Jessamine's Chicken Noodle Soup Recipe]]                                           | Unimportant      | The Shifting Forest                                                                   | March 01, 2025     |
 
 { .block-language-dataview}
 
 
 ### Recently Modified
+- [[The Party/Halfbie\|Halfbie]]
+- [[Books, Documents & Artefacts/Jessamine's Chicken Noodle Soup Recipe\|Jessamine's Chicken Noodle Soup Recipe]]
 - [[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 - [[Session Notes/Session 33\|Session 33]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]]
 
 { .block-language-dataview}
 
