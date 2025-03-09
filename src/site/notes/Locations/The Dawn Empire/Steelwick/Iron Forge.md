@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered"],"updated":"2025-02-13T18:11:04.807+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered"],"updated":"2025-03-01T21:16:08.657+00:00"}
 ---
 
 Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found the place by accepting a quest from [[Locations/Strixhaven\|Strixhaven]] to investigate some strange doors in the [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] mines. The Dungeon was full of puzzles and enemies

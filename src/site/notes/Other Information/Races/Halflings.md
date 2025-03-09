@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/halflings/","updated":"2025-02-08T16:13:37.464+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/halflings/","updated":"2025-03-01T21:15:51.855+00:00"}
 ---
 
 

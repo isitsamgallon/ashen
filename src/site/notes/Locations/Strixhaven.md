@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-02-13T18:36:54.821+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-03-01T21:15:15.859+00:00"}
 ---
 
 
@@ -17,9 +17,9 @@
 >  ##### Key Members
 >   | File                                                                                                                                     | Gender | Age   | Race  |
 > | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ----- |
-> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                 | Male   | Adult | Human |
-> | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Male   | Adult | Human |
 > | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | Male   | Adult | Human |
+> | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Male   | Adult | Human |
+> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                 | Male   | Adult | Human |
 > 
 { .block-language-dataview}
 
@@ -31,7 +31,7 @@ University stood as a breathtaking testament to the convergence of magic and kno
 
 ### History & Other Information
 - Sometime after [[History & Events/The Sundering\|The Sundering]] the university was researching [[Other Information/Display Tags/The Towers\|The Towers]] and initiated a research study that involved students being turned into pure magic and sent to [[Locations/The Realm of Mana\|The Realm of Mana]] to mine crystals, inadvertently creating [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]].
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] is known to have a dark past with the university when his beloved [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] sacrificed himself to save Chenris in a dungeon field trip. This act ultimately led to chenris being banned from the university. 
+- [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] is known to have a dark past with the university when his beloved [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] sacrificed himself to save Chenris in a dungeon field trip. This act ultimately led to chenris being banned from the university. 
 - Members of Strixhaven were first seen when [[Other Information/Display Tags/The Party\|The Party]] left [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]] and burned down a building in [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 1\|Session 1]]. 
 - Strixhaven mages appeared out of nowhere and gave Chenris an evil eye before putting out the fire and leaving. 
 - They were later seen spying on [[Other Information/Display Tags/The Party\|The Party]] when they had made camp in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 2\|Session 2]]. 

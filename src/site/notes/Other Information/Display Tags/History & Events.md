@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/history-and-events/","hideInGraph":true,"updated":"2025-02-08T15:09:24.517+00:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/history-and-events/","hideInGraph":true,"updated":"2025-03-01T21:15:58.842+00:00"}
 ---
 
 A list of all the historical events that we are aware of:
-- [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
-- [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
-- [[History & Events/The Sundering\|The Sundering]]
-- [[History & Events/The Cleansing\|The Cleansing]]
 - [[History & Events/Grayfall Empire\|Grayfall Empire]]
+- [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
 - [[History & Events/Skyfall Ward\|Skyfall Ward]]
-- [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
+- [[History & Events/The Cleansing\|The Cleansing]]
+- [[History & Events/The Sundering\|The Sundering]]
+- [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
 - [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]]
+- [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
 
 { .block-language-dataview}
 

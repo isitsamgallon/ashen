@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/companion/","tags":["NPC","Groups"],"updated":"2025-01-14T21:14:00.604+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/companion/","tags":["NPC","Groups"],"updated":"2025-03-01T21:15:13.269+00:00"}
 ---
 
 ### Overview
@@ -9,10 +9,10 @@ The name is given to the group of people that travel with [[Other Information/Di
 | File                                                                             | Class   | Role      | Status                    |
 | -------------------------------------------------------------------------------- | ------- | --------- | ------------------------- |
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] | Cleric  | Companion | <ul><li>Missing</li></ul> |
-| [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin | Companion | Travelling                |
-| [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown | Companion | Travelling                |
 | [[The Party/Other Party Members/Familiars/Bit\|Bit]]                          | None    | Companion | In The Party              |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter | Companion | Travelling                |
+| [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin | Companion | Travelling                |
+| [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown | Companion | Travelling                |
 
 { .block-language-dataview}
 

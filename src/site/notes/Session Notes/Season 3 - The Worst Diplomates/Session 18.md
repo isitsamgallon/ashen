@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-03-01T16:50:45.428+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-03-01T21:16:05.244+00:00"}
 ---
 
 
@@ -15,7 +15,7 @@ After the event of the last session, [[Other Information/Display Tags/The Party\
 - [[The Party/Aiden Knight\|Aiden Knight]] - Aidan is quite hurt and needs a place to sit down and think through what happen when he healed his horse with magic towards the end of [[Session Notes/Season 3 - The Worst Diplomates/Session 17\|Session 17]]. This results in him seeing the city has full of hot springs and massage parlours. 
 - [[The Party/The Korrigan\|The Korrigan]] - Korrigan is extremely drained and has no spell slot left, making his priority to find away to regain his magic. This results in him seeing the city being full of mana potion wells and stores.
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]] - Mordecai is currently on an adrenalin high from sprouting wings in combat and dying twice. This results in the city appearing to have many aerial obstacle course and what look like theme park rides.
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - Chenris is currently reeling on the fact that the [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]] had the ability to regenerate and needs to figure out how. This results in the city being full of hooded robes figures with books and many signs that say "Magical Cannibal School" on them. 
+- [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - Chenris is currently reeling on the fact that the [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]] had the ability to regenerate and needs to figure out how. This results in the city being full of hooded robes figures with books and many signs that say "Magical Cannibal School" on them. 
 
 Although all of this strike incredibly everyone as quite weird, the majority of them don't question it go to enjoy their own delusions. This was until Korrigan realises something and asks Mordecai to cast [Dispel Magic](https://www.dndbeyond.com/spells/2072-dispel-magic) to see if that did anything. Mordecai only had enough spells slots to cast it once on his own perception and now see [[Locations/Ehobel/Caalona\|Caalona]] for what it is, an illusion. However, he is unable to convince people otherwise. They all continue on to, what to Mordecai looked like a wooden shack, but for the rest of them, it was what they wanted to see. At the last minute, Korrigan and Mordecai try blind folding chenris try and distract him but he is able to see the 'world' just fine. They let him walk in. Everyone enters the build and this is what they see:
 - Mordecai sees it as medium room with over 50 [[Other Information/Races/Elves\|Elves]] huddled in acting out their own delusions. when the party enters, Mordecai sees that their eyes glaze over

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lord-ulan/","tags":["NPC"],"updated":"2025-02-13T18:24:16.218+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lord-ulan/","tags":["NPC"],"updated":"2025-03-01T21:15:22.949+00:00"}
 ---
 
 

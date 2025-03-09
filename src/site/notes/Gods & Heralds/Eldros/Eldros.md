@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2025-02-08T14:46:30.249+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2025-03-01T21:15:41.479+00:00"}
 ---
 
 **The Verdant Arbiter, Bringer of Balance**. The God responsible for ensuring the world keeps spinning and that all things remain as they should. While his dominion may seem similar to that of [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], who governs time, the crucial difference is that Eldros oversees everything—life, death, decay, growth, prosperity, and famine. His divine role is to maintain the natural order of the world, ensuring that each of these fundamental aspects continues in harmony.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/anselis/","tags":["NPC"],"updated":"2025-01-18T23:46:47.435+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/anselis/","tags":["NPC"],"updated":"2025-03-01T21:15:24.064+00:00"}
 ---
 
 

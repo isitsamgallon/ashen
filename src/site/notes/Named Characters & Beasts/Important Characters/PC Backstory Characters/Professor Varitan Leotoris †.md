@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2025-02-13T18:24:16.172+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2025-03-01T21:16:11.889+00:00"}
 ---
 
 
 ### Overview
-Leotoris was a professor at [[Locations/Strixhaven\|Strixhaven]], where he taught Magical Theory. He met [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] soon after he started his studies at the University. Chenris and Leotoris would spend a lot of time after class together researching theories and managed to greatly increase the world's understanding of magic theory.
+Leotoris was a professor at [[Locations/Strixhaven\|Strixhaven]], where he taught Magical Theory. He met [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] soon after he started his studies at the University. Chenris and Leotoris would spend a lot of time after class together researching theories and managed to greatly increase the world's understanding of magic theory.
 
 ### Notable Information & History
 - Leotoris was an incredibly kind man and quickly became a father figure for Chenris after they bonded after class and worked on problems together 

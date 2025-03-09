@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/important-locations/lost-haven/","tags":["Undiscovered"],"updated":"2025-02-13T18:06:40.716+00:00"}
+{"dg-publish":true,"permalink":"/locations/important-locations/lost-haven/","tags":["Undiscovered"],"updated":"2025-03-01T21:15:47.599+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ash-spawn/","updated":"2025-01-14T21:11:41.332+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ash-spawn/","updated":"2025-03-01T21:15:42.742+00:00"}
 ---
 
 The army of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] used during [[History & Events/The Sundering\|The Sundering]]. They're zombie-like beings formed from their ashes that cannot die unless Ignatius is killed. They are created when people are hit by [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]] or are burned with the flames of the deity. Because of this, the more people that die on the battlefield, the more the Ash Spawn army would grow, making it increasingly difficult to deal with.

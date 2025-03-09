@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-02-08T17:09:23.066+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-03-01T21:15:52.082+00:00"}
 ---
 
 

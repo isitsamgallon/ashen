@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/the-barista-dragon/","tags":["NPC"],"updated":"2025-03-01T14:55:34.454+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/the-barista-dragon/","tags":["NPC"],"updated":"2025-03-01T21:15:20.820+00:00"}
 ---
 
 

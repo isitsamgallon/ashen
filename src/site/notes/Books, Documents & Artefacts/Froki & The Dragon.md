@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/froki-and-the-dragon/","tags":["Unimportant"],"updated":"2025-02-08T17:15:57.865+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/froki-and-the-dragon/","tags":["Unimportant"],"updated":"2025-03-01T21:15:07.624+00:00"}
 ---
 
-A book [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] found when exploring the lair of a Wyvern they had chilled killed. it was written in Ancient Dwarven, and Chenris spent some time translating it to learn the language. 
+A book [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] found when exploring the lair of a Wyvern they had chilled killed. it was written in Ancient Dwarven, and Chenris spent some time translating it to learn the language. 
 
 ### The Book
 Once upon a time, in a land where dragons roamed and magic flowed like a gentle stream, there lived a small but brave halfling named Froki. Froki wasn't like the other [[Other Information/Races/Halflings\|halflings]] in his village. While they were content with their simple lives, Froki dreamed of grand adventures and heroic deeds.

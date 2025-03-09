@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-01-29T21:18:42.898+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-03-09T16:48:04.014+00:00"}
 ---
 
 
@@ -13,13 +13,13 @@
 >  Type | Stat |
 > :----: | --- |
 >  Race | Human |
->  Nationality | Unknown |
+>  Nationality | [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]], [[Locations/OFC/Whitespire/Whitespire\|Whitespire]] |
 >  Class | Rogue/ Warlock |
 >  Subclass | Temporal Echo/ [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] |
 >  Age | Mid 20s |
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
->  Family | Unnamed Parents |
+>  Family | Unnamed Parents, [[Named Characters & Beasts/Freya\|Freya]] (sister) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

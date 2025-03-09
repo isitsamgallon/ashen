@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-02-13T18:01:51.686+00:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-03-01T21:15:48.727+00:00"}
 ---
 
 
@@ -10,11 +10,11 @@ The Inchling Kingdom is a tiny kingdom found in the forests near [[Locations/OFC
 | Name                                                                        | Status |
 | --------------------------------------------------------------------------- | ------ |
 | [[Named Characters & Beasts/Big Dave\|Big Dave]]                         | Alive  |
-| [[Named Characters & Beasts/Dill Billington\|Dill Billington]]           | Alive  |
-| [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]         | Alive  |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]] | Dead   |
-| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]     | Alive  |
+| [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]         | Alive  |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]           | Alive  |
+| [[Named Characters & Beasts/Dill Billington\|Dill Billington]]           | Alive  |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]     | Alive  |
 
 { .block-language-dataview}
 

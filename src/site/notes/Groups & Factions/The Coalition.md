@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-coalition/","tags":["Groups"],"updated":"2025-01-14T21:14:00.626+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-coalition/","tags":["Groups"],"updated":"2025-03-01T21:15:13.291+00:00"}
 ---
 
 The name given to the group that teamed up to fight [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] during [[History & Events/The Sundering\|The Sundering]].

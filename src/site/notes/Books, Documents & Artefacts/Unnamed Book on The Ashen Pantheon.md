@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/unnamed-book-on-the-ashen-pantheon/","updated":"2025-01-14T21:11:25.996+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/unnamed-book-on-the-ashen-pantheon/","updated":"2025-03-01T21:15:08.820+00:00"}
 ---
 
 
-[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] read this book in the [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] library when research the deities they had met in a recent encounter. 
+[[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] read this book in the [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] library when research the deities they had met in a recent encounter. 
 
 Here are the contents of the book:
 

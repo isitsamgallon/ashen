@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/groups-and-factions/","hideInGraph":true,"updated":"2024-12-31T22:05:36.683+00:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/groups-and-factions/","hideInGraph":true,"updated":"2025-03-01T21:15:59.538+00:00"}
 ---
 
 Here is a list of all current known groups and f within the campaign

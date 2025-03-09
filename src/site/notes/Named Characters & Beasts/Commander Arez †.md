@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/commander-arez/","tags":["NPC"],"updated":"2025-02-13T18:24:16.083+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/commander-arez/","tags":["NPC"],"updated":"2025-03-01T21:15:20.318+00:00"}
 ---
 
 

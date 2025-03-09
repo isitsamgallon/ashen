@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/brotherhood-of-the-sun/","updated":"2025-01-18T20:46:28.060+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/brotherhood-of-the-sun/","updated":"2025-03-01T21:15:12.959+00:00"}
 ---
 
 ### Overview

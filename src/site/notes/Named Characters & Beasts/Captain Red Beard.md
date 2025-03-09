@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-red-beard/","tags":["NPC"],"updated":"2025-02-13T18:24:16.085+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-red-beard/","tags":["NPC"],"updated":"2025-03-01T21:15:20.827+00:00"}
 ---
 
 

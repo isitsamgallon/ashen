@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-bridges/","tags":["NPC"],"updated":"2025-02-13T18:24:16.078+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-bridges/","tags":["NPC"],"updated":"2025-03-01T21:15:19.131+00:00"}
 ---
 
 
 ### Overview
-Bridges is the captain of the [[Locations/OFC/Silkhorn\|Silkhorn]] guards. He was first encountered. After rescuing [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] from [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]] at the start of the campaign. He then guided them back to [[Locations/OFC/Silkhorn\|Silkhorn]] and taught them the basics of living in the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
+Bridges is the captain of the [[Locations/OFC/Silkhorn\|Silkhorn]] guards. He was first encountered. After rescuing [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] from [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]] at the start of the campaign. He then guided them back to [[Locations/OFC/Silkhorn\|Silkhorn]] and taught them the basics of living in the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
 
 ### Notable Information & History 
 - He is considered a very kind man, helping the party on many occasions and even offering them shelter when they had angered the townsfolk. 

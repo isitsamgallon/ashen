@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/paraton/","tags":["Undiscovered"],"updated":"2025-02-13T18:07:11.997+00:00"}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/paraton/","tags":["Undiscovered"],"updated":"2025-03-01T21:15:46.415+00:00"}
 ---
 
 

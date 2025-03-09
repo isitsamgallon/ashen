@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/page-from-unnamed-book-found-the-black-cult-s-hideout/","tags":["Unimportant"],"updated":"2025-01-14T21:11:25.954+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/page-from-unnamed-book-found-the-black-cult-s-hideout/","tags":["Unimportant"],"updated":"2025-03-01T21:15:07.490+00:00"}
 ---
 
 This is a book found in [[Groups & Factions/Religious Organisations/The Black Cult\|The Black Cult]]'s hideout in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] that details how to defeat [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] in [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]]. 

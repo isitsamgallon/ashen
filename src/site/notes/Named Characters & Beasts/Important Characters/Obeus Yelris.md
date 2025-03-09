@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2025-02-27T20:32:46.638+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2025-03-01T21:15:57.312+00:00"}
 ---
 
 > [!infobox]
@@ -52,5 +52,5 @@ Obeus is a small Elf with sickly pale skin and flowing black hair and can often 
 
 ### Other Information
 - She cried when [[The Party/Mordecai Reverence\|Mordecai Reverence]] said that they would be her friend especially now that they would be travelling together. 
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was the only one to understand truly why her guards wouldn't let her leave the palace due to his similar nature as a Half-[[Other Information/Races/Eladrin\|Eladrin]].
+- [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was the only one to understand truly why her guards wouldn't let her leave the palace due to his similar nature as a Half-[[Other Information/Races/Eladrin\|Eladrin]].
 - She has been travelling with them as a [[Groups & Factions/Companion\|Companion]] since being broken out of the palace.

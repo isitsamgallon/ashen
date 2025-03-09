@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-ones/","updated":"2025-01-14T21:11:41.286+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-ones/","updated":"2025-03-01T21:15:41.494+00:00"}
 ---
 
-The followers of [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]. They sign a pact with her on initiation meaning that she gets their eternal soul to act as a researcher while they get whatever knowledge they may require. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was an unwilling member of this group when he made a deal with the God for information on [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] and did not stop to ask what he would have to give in return. 
+The followers of [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]. They sign a pact with her on initiation meaning that she gets their eternal soul to act as a researcher while they get whatever knowledge they may require. [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was an unwilling member of this group when he made a deal with the God for information on [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] and did not stop to ask what he would have to give in return. 
 
 The Golden Ones have the unique privilege of being able to ask Aeloria for any information they would like at a cost. However, this cost has a lower penalty than another person not a part of the group. 

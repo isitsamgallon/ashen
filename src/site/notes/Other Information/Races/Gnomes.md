@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/gnomes/","updated":"2025-02-08T16:55:58.904+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/gnomes/","updated":"2025-03-01T21:15:51.919+00:00"}
 ---
 
 

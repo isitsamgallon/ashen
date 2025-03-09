@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-03-01T16:50:44.314+00:00"}
+{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-03-01T21:15:25.092+00:00"}
 ---
 
 These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 12\|Session 12]].
@@ -89,7 +89,7 @@ Minister of Agriculture & Environment; [[The Party/The Korrigan\|The Korrigan]]
 - Hunting Limit: Hunting for sport is outlawed.
 
 # Education 
-Minister of Education; [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
+Minister of Education; [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 
 **Primary Focus:**
 - Raise education levels of the general populace to meet the following:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/grom/","tags":["NPC"],"updated":"2025-02-13T18:24:16.101+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/grom/","tags":["NPC"],"updated":"2025-03-01T21:15:19.517+00:00"}
 ---
 
 

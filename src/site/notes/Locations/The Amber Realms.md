@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-amber-realms/","tags":["Display"],"updated":"2025-01-14T21:03:47.527+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-amber-realms/","tags":["Display"],"updated":"2025-03-01T21:15:16.895+00:00"}
 ---
 
 ### Static Map

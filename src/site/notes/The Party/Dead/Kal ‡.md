@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-01-26T17:59:58.581+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-03-01T21:16:05.578+00:00"}
 ---
 
 > [!infobox]

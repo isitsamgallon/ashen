@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"updated":"2025-02-13T18:24:16.226+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"updated":"2025-03-01T21:15:19.403+00:00"}
 ---
 
 
@@ -14,5 +14,5 @@ A part of a small level 1 adventuring party made up of completely [[Other Inform
 ### Notable Information & History 
 - Merek wrote a book about the fight with the wyvern painting him and his party in a much better light. The book was also written in such a way that [[Other Information/Display Tags/The Party\|The Party]] were made to look pathetic. 
 - After [[The Party/The Korrigan\|The Korrigan]] 's rebirth, he eventually found Merek while staying in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] and took him to the [[Locations/Feywild/Feywild\|Feywild]] s to strike some fear into him and to make Merek owe him. He then used this favour to force Merek to investigate was was the traitor and messed up [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]].
-- Through magic, Merek was then able to identify [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] as the traitor. 
+- Through magic, Merek was then able to identify [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] as the traitor. 
 

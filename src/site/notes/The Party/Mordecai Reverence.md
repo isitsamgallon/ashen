@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-02-08T17:11:50.430+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-03-01T21:15:25.496+00:00"}
 ---
 
 

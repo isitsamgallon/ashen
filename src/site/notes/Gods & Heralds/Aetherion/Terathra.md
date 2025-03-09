@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"updated":"2025-03-01T16:50:43.855+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"updated":"2025-03-01T21:15:43.040+00:00"}
 ---
 
 
@@ -11,6 +11,6 @@ The name given to the being at the centre of the world. See [[Gods & Heralds/Aet
 
 [[Other Information/Display Tags/The Party\|The Party]] had a second conversation with it after [[The Party/Aiden Knight\|Aiden Knight]] was possessed by [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] in [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]. One of the time distortions was on [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] making Korrigan incredibly scared for Terathra's safety. After the distortion was lifted, the party tried to communicate through the same method Korrigan did the day before. Accept this time, Korrigan, [[The Party/Mordecai Reverence\|Mordecai Reverence]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] shared the burden of allowing the whole party to speak. 
 
-Terathra was feeling strange and noted that something about the crystal at the top of [[Other Information/Display Tags/The Towers\|The Towers]] could be wrong. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] is the only person free who can teleport up the tower and see what is wrong. When he arrives, he finds 2 [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] with the crystal. Chenris decides to destroy the crystal and after some hesitation, gives the energy back to Terathra. Leading to [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] falling. Please see [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 15\|Session 15]] for more information.
+Terathra was feeling strange and noted that something about the crystal at the top of [[Other Information/Display Tags/The Towers\|The Towers]] could be wrong. [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] is the only person free who can teleport up the tower and see what is wrong. When he arrives, he finds 2 [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] with the crystal. Chenris decides to destroy the crystal and after some hesitation, gives the energy back to Terathra. Leading to [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] falling. Please see [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 15\|Session 15]] for more information.
 
 On the third conversation, Korrigan talks to Terathra alone and Terathra is overjoyed about Korrigans return. They talk in depth and discover information about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] and the [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]]. 

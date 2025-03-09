@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2025-02-13T19:56:53.708+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2025-03-01T21:15:56.646+00:00"}
 ---
 
 
@@ -9,4 +9,4 @@ Winterbor was the mad wizard that Chenris Tallfellow encountered during [[Histor
 In [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]], it was revealed by [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]] that the [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] responsible for his madness were originally his closeted friends from [[Locations/Strixhaven\|Strixhaven]]. Sometime after [[History & Events/The Sundering\|the Sundering]] and the creation of [[Other Information/Display Tags/The Towers\|The Towers]], [[Locations/Strixhaven\|Strixhaven]] was researching [[Locations/The Realm of Mana\|The Realm of Mana]] and how to access it to acquire more crystals needed for the construction of the tower. While at the university, Winterbor was not considered as powerful as his two best friends, as their magic was much more destructive compared to his manipulation abilities. Consequently, they were sent on a mission instead of him. Unfortunately, the journey turned out to be a one-way trip, and his friends perished there.
 
 ### Notable history & Information 
-During [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]], [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] met Winterbor to ask if he could manipulate the weather to create a storm to stop enemy ships from forming able to approach. He agreed, but not before two [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] appeared on his shoulder, telling Chenris, "You don't want to know".
+During [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]], [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] met Winterbor to ask if he could manipulate the weather to create a storm to stop enemy ships from forming able to approach. He agreed, but not before two [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] appeared on his shoulder, telling Chenris, "You don't want to know".

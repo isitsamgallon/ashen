@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/items/multitool/","updated":"2024-12-13T17:46:39.112+00:00"}
+{"dg-publish":true,"permalink":"/other-information/items/multitool/","updated":"2025-03-01T21:16:00.164+00:00"}
 ---
 
 
-[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'s tool fashioned after [Doctor Who's Sonic Screwdriver](https://tardis.fandom.com/wiki/Sonic_screwdriver), in reality it is his [Magical Tinkering](https://www.dndbeyond.com/sources/tcoe/artificer#MagicalTinkering) feature. it has the following abilities:
+[[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'s tool fashioned after [Doctor Who's Sonic Screwdriver](https://tardis.fandom.com/wiki/Sonic_screwdriver), in reality it is his [Magical Tinkering](https://www.dndbeyond.com/sources/tcoe/artificer#MagicalTinkering) feature. it has the following abilities:
 - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
 - The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.

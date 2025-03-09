@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/saleh-tower/","tags":["Discovered"],"updated":"2025-02-13T18:07:27.357+00:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/saleh-tower/","tags":["Discovered"],"updated":"2025-03-01T21:15:50.414+00:00"}
 ---
 
 Seems to be one of [[History & Events/The Ancient Pillars\|The Ancient Pillars]] and is found in [[Locations/Ehobel/Ehobel\|Ehobel]]. It's very old tower is in a state of disrepair due to being so old. It was built before [[History & Events/The Sundering\|The Sundering]] and unlike other towers that are known to have a power source, the crystal at the centre of the tower doesn't have one. 

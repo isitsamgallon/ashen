@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-02-08T17:14:05.964+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-03-01T21:15:26.361+00:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 >Languages | Common, Draconic|
 
 
-> "That doesn't really matter; all that does is that I live what little time I have in this world the best way I can."<cite>Drache - [[Session Notes/Season 4 - Ignatius Beckons/Session 28\|Session 28]]</cite>
+> "That doesn't really matter; all that does is that I live what little time I have in this world the best way I can."<cite>Drache - [[Session 28\|Session 28]]</cite>
 
 ### Overview
 Wurinn Fuuldrusch, or more commonly known as 'Drache', is a white [[Other Information/Races/Dragonborn\|Dragonborn]]. It is currently unknown where he is originally from, but he spent the majority of his life serving in [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]]. He is a Barbarian/ Paladin multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for being honest and good to fault and is often seen as the party's moral compass. He is also physically the strongest out of the party, often being left to do most physical activities. Played by [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]].

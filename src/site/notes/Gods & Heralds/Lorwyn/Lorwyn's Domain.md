@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn-s-domain/","tags":["Discovered"],"updated":"2025-02-13T18:01:51.022+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn-s-domain/","tags":["Discovered"],"updated":"2025-03-01T21:15:42.281+00:00"}
 ---
 
 

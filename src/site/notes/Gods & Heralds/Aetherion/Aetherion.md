@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/aetherion/","updated":"2025-02-13T20:12:08.082+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/aetherion/","updated":"2025-03-01T21:15:43.172+00:00"}
 ---
 
 The Primordial Divinity. In the beginning, there was one being: Aetherion, the All-Father. When he died, his body split off into eggs, which hatched into giant beings. The soul of Aetherion split up into different beings according to his emotions (Anger, Sadness, Hatred, Compassion, etc.), and they became the Ashen Pantheon]].

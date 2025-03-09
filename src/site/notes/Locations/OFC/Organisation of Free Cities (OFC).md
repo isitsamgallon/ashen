@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-02-13T18:01:51.628+00:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-03-01T21:15:49.258+00:00"}
 ---
 
 > [!infobox]
@@ -17,13 +17,13 @@
 >   | File                                                            | Discovery Status             |
 > | --------------------------------------------------------------- | ---------------------------- |
 > | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
-> | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
-> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
 > | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
 > | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
-> | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
+> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
+> | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
+> | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
+> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | Discovered                   |
 > 
 { .block-language-dataview}
@@ -35,7 +35,7 @@ The OFC is a small nation found to the west of [[Locations/The Dawn Empire/The D
 ### Geography 
 The OFC is mostly made up of dense forests and tall spruce trees. The nation is slightly bigger than the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] and is surrounded by water on all sides but one which borders with The Dawn. 
 
-[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[Other Information/Display Tags/The Party\|The Party]] made great use of the OFC's geography during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. They used the dense woods for ambushes. Due It is surrounded by water on most sides and there only being one entrance by land, they used that entrance as a natural choke point to control their enemy's movements.  
+[[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[Other Information/Display Tags/The Party\|The Party]] made great use of the OFC's geography during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. They used the dense woods for ambushes. Due It is surrounded by water on most sides and there only being one entrance by land, they used that entrance as a natural choke point to control their enemy's movements.  
 
 ### Known Locations
 - [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] (Capital)
@@ -52,18 +52,19 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 - [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]'s Various Hideouts (Defunct)
 
 ### NPCs From The OFC
-| File                                                                                                                                      | Home Town        | Status |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------ |
-| [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive  |
-| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive  |
-| [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead   |
-| [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive  |
-| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive  |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead   |
-| [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive  |
-| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive  |
-| [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead   |
-| [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive  |
+| File                                                                                                                                      | Home Town        | Status  |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
+| [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |
+| [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead    |
+| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
+| [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
 
 { .block-language-dataview}
 

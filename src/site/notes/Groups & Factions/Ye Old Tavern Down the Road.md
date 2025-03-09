@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/ye-old-tavern-down-the-road/","tags":["Groups"],"updated":"2025-02-08T17:15:26.648+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/ye-old-tavern-down-the-road/","tags":["Groups"],"updated":"2025-03-01T21:15:13.510+00:00"}
 ---
 
 [[Other Information/Display Tags/The Party\|The Party]] is an official sponsor! The Weatherspoon's of [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. Most of [[Other Information/Display Tags/The Party\|The Party]] have Ye Old Tavern Down the Road branded cloaks. Sometimes [[Other Information/Display Tags/The Party\|The Party]] will use this to their advantage for disguises, like when [[The Party/Mordecai Reverence\|Mordecai Reverence]] disguised himself as part of the Taverns team that asked people for their opinions in [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/seifer-willow/","tags":["NPC","Important"],"updated":"2025-02-13T18:24:16.184+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/seifer-willow/","tags":["NPC","Important"],"updated":"2025-03-01T21:15:57.346+00:00"}
 ---
 
 

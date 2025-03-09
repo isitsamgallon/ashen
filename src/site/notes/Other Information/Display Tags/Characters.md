@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/characters/","hideInGraph":true,"updated":"2024-12-31T20:39:23.477+00:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/characters/","hideInGraph":true,"updated":"2025-03-01T21:15:59.361+00:00"}
 ---
 
 ### Important Characters 
@@ -58,6 +58,7 @@
 | [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]]                                                              | Alive   | Adult Human Male         | Ehobel                            | \-                    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]]                                                | Dead    | Adult Human Male         | The OFC                           | Blackwall             |
 | [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                                             | Alive   | Adult Human Male         | Ehobel                            | Enelion               |
+| [[Named Characters & Beasts/Freya\|Freya]]                                                                                                   | Unknown | Teenage Human Female     | OFC                               | Whitespire            |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/General Midus †\|General Midus †]]                 | Dead    | Adult Human Male         | \-                                | \-                    |
 | [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                                                                       | Dead    | Adult Human Female       | The Emerald Fort                  | The Emerald Fort      |
 | [[Named Characters & Beasts/Grom\|Grom]]                                                                                                     | Unknown | Adult Orge Male          | Ehobel                            | \-                    |

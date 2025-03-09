@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-03-01T14:12:01.190+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-03-01T21:15:00.120+00:00"}
 ---
 
 ![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -21,12 +21,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                     | Saga                            | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 34\|Session 34]]                                 | Season 4 - Ignatius Beckons     | \-                                                                                                                                                                                                                                                                                                                                                                  |
 | [[Session Notes/Session 33\|Session 33]]                                 | Season 4 - Ignatius Beckons     | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]]     | Season 4 - Ignatius Beckons     | The party learned the truth about their identities, with Halfbie coming face-to-face with the ghost of Chenris, and Korrigan's buried memories triggering a dangerous vendetta. After a brutal battle against an Aspect of Ebis Daro and the loss of Obeus, the night spiraled into drunken chaos, ending with Korrigan accidentally betrothing himself to a demon. |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]]     | Season 4 - Ignatius Beckons     | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                                                                              |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]]     | Season 4 - Ignatius Beckons     | After executing Malin, Halfbie is accidentally flung into the Feywild, where he survives for centuries before Korrigan rescues him. The party then journeys onward, grappling with morality, confronting past traumas, and discovering the tiny but vibrant Inchling Kingdom.                                                                                       |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]]     | Season 4 - Ignatius Beckons     | The party uncovered secrets about a fiery cult, Halfbie’s eerie connection to Chenris, and the true roles of gods like Eldros. Conflicts over trust and desperation for answers brought tensions but also cryptic wisdom for the journey ahead.                                                                                                                     |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 28\|Session 28]]     | Season 4 - Ignatius Beckons     | The party navigates rising tensions while escaping the eerie skeletons of Itone Isles and uncovering unsettling truths about Mordecai's cursed crown. With Seifer Willow's influence growing, they set their sights on the All-Father Temple for answers.                                                                                                           |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]     | Season 4 - Ignatius Beckons     | We continue to explore Itone and encounter a strange crown that possesses Mordecai. We meet Uti, who is revealed to be Niaross and is killed in a fight. Finally, we investigate some strange chanting and find the Firesoul Greatsword, which Ebis Daro quickly steals.                                                                                            |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 26\|Session 26]]     | Season 4 - Ignatius Beckons     | After the death and the disappearance of chenris, we meet Halfbie. We also travel to Itone for the first time and explore the island.                                                                                                                                                                                                                               |
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]] | 3rd Saga - The Worst Diplomates | We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.                                                                                                                                                                                            |
@@ -48,42 +48,42 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 | Book/ Document                                                                                                                                               | Reading Priority | Location found                                                                        | Date Found         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------------ |
-| [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
+| [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
+| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
-| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 18, 2024  |
-| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | August 03, 2024    |
+| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
+| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | September 24, 2024 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
-| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | January 16, 2025   |
-| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
-| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
+| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
+| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
 { .block-language-dataview}
 
 
 ### Recently Modified
-- [[The Party/Halfbie\|Halfbie]]
-- [[Books, Documents & Artefacts/Jessamine's Chicken Noodle Soup Recipe\|Jessamine's Chicken Noodle Soup Recipe]]
-- [[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
-- [[Session Notes/Session 33\|Session 33]]
+- [[Session Notes/Session 34\|Session 34]]
+- [[Named Characters & Beasts/Freya\|Freya]]
+- [[The Party/Aiden Knight\|Aiden Knight]]
+- [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]]
+- [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]
+- [[Named Characters & Beasts/Freya\|Freya]]
+- [[Session Notes/Session 34\|Session 34]]
+- [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]]
 - [[Books, Documents & Artefacts/Jessamine's Chicken Noodle Soup Recipe\|Jessamine's Chicken Noodle Soup Recipe]]
-- [[Locations/Feywild/The Shifting Forest\|The Shifting Forest]]
-- [[Named Characters & Beasts/The Barista Dragon\|The Barista Dragon]]
-- [[Gods & Heralds/Lyira\|Lyira]]
+- [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 
 { .block-language-dataview}
 

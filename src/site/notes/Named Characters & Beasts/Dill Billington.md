@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/dill-billington/","tags":["NPC"],"updated":"2025-02-08T14:02:55.109+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/dill-billington/","tags":["NPC"],"updated":"2025-03-01T21:15:21.909+00:00"}
 ---
 
 

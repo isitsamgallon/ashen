@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/tour-de-ashen/","updated":"2025-02-08T14:51:10.982+00:00"}
+{"dg-publish":true,"permalink":"/other-information/tour-de-ashen/","updated":"2025-03-01T21:15:25.194+00:00"}
 ---
 
 In [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]], [[Other Information/Display Tags/The Party\|The Party]] decided to plan their journey so they would make sure they visited all the places each member needed to visit. Below is an annotated map of the journey plan.

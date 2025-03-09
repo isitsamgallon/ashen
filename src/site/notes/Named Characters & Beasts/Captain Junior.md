@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-junior/","tags":["NPC"],"updated":"2025-02-13T18:24:16.075+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-junior/","tags":["NPC"],"updated":"2025-03-01T21:15:20.551+00:00"}
 ---
 
 

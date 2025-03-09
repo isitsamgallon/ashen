@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/big-dave/","tags":["NPC"],"updated":"2025-02-08T13:49:31.364+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/big-dave/","tags":["NPC"],"updated":"2025-03-01T21:15:18.654+00:00"}
 ---
 
 

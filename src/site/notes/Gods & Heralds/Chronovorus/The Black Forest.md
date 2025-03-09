@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-forest/","updated":"2025-01-14T21:11:41.317+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-forest/","updated":"2025-03-01T21:15:43.803+00:00"}
 ---
 
 Seems to be another dimension linked to [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]]. [[Other Information/Display Tags/The Party\|The Party]] went into this dimension to gain more of [[Gods & Heralds/Chronovorus/The Pages\|The Pages]] to use in [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]]. Inside this dimension, [[Other Information/Display Tags/The Party\|The Party]] found the same house in various states of decay, belonging to a family that long since died. 

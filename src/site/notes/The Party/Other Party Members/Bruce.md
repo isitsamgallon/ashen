@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-01-14T21:18:02.105+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-03-01T21:16:06.786+00:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 ### Overview
 Bruce is A Dwarven automaton found in [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] under modern-day [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. Bruce seemed to be one of the original caretakers of the city, chasing off invaders and supporting the dwarfs and other automatons where needed. As [[History & Events/The Cleansing\|The Cleansing]] carried on, many of the Dwarfs died or moved to [[Locations/Fort Moldan\|Fort Moldan]] and Bruce was left to take off the city by himself until [[The Party/Other Party Members/Corvus\|Corvus]] moved in.
 
-He was finally rediscovered when [[Other Information/Display Tags/The Party\|The Party]] accompanied [[Locations/Strixhaven\|Strixhaven]] researchers to explore what they thought was an Ancient Dwarven Stronghold. The party immediately took a liking to him, especially [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]],  and decided to take him on to journey with them. 
+He was finally rediscovered when [[Other Information/Display Tags/The Party\|The Party]] accompanied [[Locations/Strixhaven\|Strixhaven]] researchers to explore what they thought was an Ancient Dwarven Stronghold. The party immediately took a liking to him, especially [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]],  and decided to take him on to journey with them. 
 
 ### Personality
 Although Bruce is an automaton, the extended period of time where he was left alone has caused many bugs in his coding and construction, leading him to his own personality. Bruce is sweet, endearing and kind of awkward but is incredibly energetic in whatever he does.
