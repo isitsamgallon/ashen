@@ -19,12 +19,12 @@
 > | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
 > | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
 > | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
-> | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
 > | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
+> | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
 > | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
 > | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
-> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | Discovered                   |
+> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > 
 { .block-language-dataview}
 
@@ -54,8 +54,8 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 ### NPCs From The OFC
 | File                                                                                                                                      | Home Town        | Status  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |

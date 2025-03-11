@@ -21,8 +21,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                     | Saga                            | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Session 34\|Session 34]]                                 | Season 4 - Ignatius Beckons     | \-                                                                                                                                                                                                                                                                                                                                                                  |
-| [[Session Notes/Session 33\|Session 33]]                                 | Season 4 - Ignatius Beckons     | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                                         |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]]     | Season 4 - Ignatius Beckons     | \-                                                                                                                                                                                                                                                                                                                                                                  |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]]     | Season 4 - Ignatius Beckons     | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]]     | Season 4 - Ignatius Beckons     | The party learned the truth about their identities, with Halfbie coming face-to-face with the ghost of Chenris, and Korrigan's buried memories triggering a dangerous vendetta. After a brutal battle against an Aspect of Ebis Daro and the loss of Obeus, the night spiraled into drunken chaos, ending with Korrigan accidentally betrothing himself to a demon. |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]]     | Season 4 - Ignatius Beckons     | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                                                                              |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]]     | Season 4 - Ignatius Beckons     | After executing Malin, Halfbie is accidentally flung into the Feywild, where he survives for centuries before Korrigan rescues him. The party then journeys onward, grappling with morality, confronting past traumas, and discovering the tiny but vibrant Inchling Kingdom.                                                                                       |
@@ -50,10 +50,10 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------------ |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
-| [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
+| [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
@@ -70,20 +70,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Session 34\|Session 34]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]]
+- [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]
 - [[Named Characters & Beasts/Freya\|Freya]]
 - [[The Party/Aiden Knight\|Aiden Knight]]
 - [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]]
-- [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]
 - [[Named Characters & Beasts/Freya\|Freya]]
-- [[Session Notes/Session 34\|Session 34]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]]
 - [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]]
 - [[Books, Documents & Artefacts/Jessamine's Chicken Noodle Soup Recipe\|Jessamine's Chicken Noodle Soup Recipe]]
-- [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 
 { .block-language-dataview}
 
