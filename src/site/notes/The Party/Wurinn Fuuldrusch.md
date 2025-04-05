@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-03-01T21:15:26.361+00:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-04-05T15:54:10.717+01:00"}
 ---
 
 
@@ -60,3 +60,4 @@ Drache was originally from and loyal to [[Locations/Important Locations/The Tula
 - He currently wields an obsidian great-sword, gained from [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] himself after fighting his animated corpse at the council building. 
 - He frequently has to carry Mordecai as he has become injured or incapacitated on many occasions, including being an incredible lightweight regarding alcohol.
 - Drache gained a dope ass bowler hat from a random encounter with goblins dancing around a fire after chenris repaired the worn-out hat they provided him.
+- Drache is self conscious hat he doesn't have an heir like everyone else and wears a badly made taupe. He then got self conscious about this wears a bowler hat at all times. 

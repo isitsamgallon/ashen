@@ -21,6 +21,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                     | Saga                            | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 35\|Session 35]]                                 | Season 4 - Ignatius Beckons     | \-                                                                                                                                                                                                                                                                                                                                                                  |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]]     | Season 4 - Ignatius Beckons     | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure.                 |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]]     | Season 4 - Ignatius Beckons     | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]]     | Season 4 - Ignatius Beckons     | The party learned the truth about their identities, with Halfbie coming face-to-face with the ghost of Chenris, and Korrigan's buried memories triggering a dangerous vendetta. After a brutal battle against an Aspect of Ebis Daro and the loss of Obeus, the night spiraled into drunken chaos, ending with Korrigan accidentally betrothing himself to a demon. |
@@ -30,7 +31,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]     | Season 4 - Ignatius Beckons     | We continue to explore Itone and encounter a strange crown that possesses Mordecai. We meet Uti, who is revealed to be Niaross and is killed in a fight. Finally, we investigate some strange chanting and find the Firesoul Greatsword, which Ebis Daro quickly steals.                                                                                            |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 26\|Session 26]]     | Season 4 - Ignatius Beckons     | After the death and the disappearance of chenris, we meet Halfbie. We also travel to Itone for the first time and explore the island.                                                                                                                                                                                                                               |
 | [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]] | 3rd Saga - The Worst Diplomates | We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.                                                                                                                                                                                            |
-| [[Session Notes/Season 3 - The Worst Diplomates/Session 24\|Session 24]] | 3rd Saga - The Worst Diplomates | Chenris, Mordecai and Korrigan explore further and aim to scout out Dawnhaven. However, along the way, they help a man retrieve his stuff from a which. Dawnhaven has been overrun with dark mages.                                                                                                                                                                 |
 
 { .block-language-dataview}
 ### Books & Documents Reading List
@@ -53,8 +53,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
@@ -70,20 +70,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]]
-- [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]
-- [[Named Characters & Beasts/Freya\|Freya]]
-- [[The Party/Aiden Knight\|Aiden Knight]]
-- [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]]
+- [[Session Notes/Session 35\|Session 35]]
+- [[[[Mordecai Reverence\|[[Mordecai Reverence]]
+- [[Veranius\|Veranius]]
+- [[Calathus\|Calathus]]
+- [[Cosmo\|Cosmo]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]
-- [[Named Characters & Beasts/Freya\|Freya]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]]
-- [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]]
-- [[Books, Documents & Artefacts/Jessamine's Chicken Noodle Soup Recipe\|Jessamine's Chicken Noodle Soup Recipe]]
+- [[[[Mordecai Reverence\|[[Mordecai Reverence]]
+- [[Veranius\|Veranius]]
+- [[Calathus\|Calathus]]
+- [[Cosmo\|Cosmo]]
+- [[Kaelis Ignithar\|Kaelis Ignithar]]
 
 { .block-language-dataview}
 
