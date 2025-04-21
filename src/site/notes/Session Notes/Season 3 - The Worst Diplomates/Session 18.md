@@ -51,7 +51,7 @@ Chenris enters a portal and there is notably no fog that clouds his judgement. H
 
 The [[Named Characters & Beasts/Illusion Master\|Illusion Master]] tries to make a deal with chenris by saying that he can offer protection for the party, even from the Gods. Chenris raises his doubts about this and ensure him that tricking the mind can do wonders. Their end of the deal is that they have to stay in [[Locations/Ehobel/Caalona\|Caalona]] - forever. Chenris refuses. The man tries to reason that is it not good to give the party everything they have ever wanted? He then goes on to list all of their latent desires one by one:
 - Aidan wishes to be rid of Chronovorus and to have never experienced his trauma at the hands of [[Groups & Factions/Religious Organisations/The Black Cult\|The Black Cult]]
-- Mordecai could have [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|his mother]] back
+- Mordecai could have [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|his mother]] back
 - Drache could have the freedom to do as his wishes and be with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]
 - Korrigan could finish his business in [[Locations/Important Locations/Lost Haven\|Lost Haven]].
 

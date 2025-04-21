@@ -3,28 +3,32 @@
 ---
 
 ### Important Characters 
-| Character                                                                                                                                | Home Nation                  | Home Town                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------------------------- |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]                                            | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]                               | Uvam Dynasty                 | Minatota                    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]]             | Uvam Dynasty                 | Yokotori                    |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                               | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                         | The Emerald Fort             | The Emerald Fort            |
-| [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                           | The Dawn Empire              | Dawnhaven                   |
-| [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                    | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                  | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                         | <ul><li>Ehobel</li></ul>     | Ishnmel                     |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                         | The Tulan Fort               | The Tulan Fort              |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
-| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                   | The Desert                   | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                 | Lost Haven                   | Lost Haven                  |
-| [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]]                                    | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                      | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                               | Lost Haven                   | Lost Haven                  |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                          | Itone                        | Uti's Cave                  |
-| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                   | The Dawn Empire              | Dawnhaven                   |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                          | Unknown/Unclear              | Unknown/Unclear             |
+| Character                                                                                                                                                  | Home Nation                  | Home Town                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------------------------- |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]                                                              | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]                   | Uvam Dynasty                 | Minatota                    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | Uvam Dynasty                 | Yokotori                    |
+| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                                           | The Emerald Fort             | The Emerald Fort            |
+| [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]                                                                             | The Dawn Empire              | Dawnhaven                   |
+| [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                                   | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                                      | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]]                                                                     | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                                    | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                                           | <ul><li>Ehobel</li></ul>     | Ishnmel                     |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                                           | The Tulan Fort               | The Tulan Fort              |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]                   | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Uvam Dynasty                 | Yokotori                    |
+| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                                     | The Desert                   | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                                   | Lost Haven                   | Lost Haven                  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Silver\|Silver]]                                                               | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]]                                                      | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                                        | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]         | Uvam Dynasty                 | Yokotori                    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | Lost Haven                   | Lost Haven                  |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                                            | Itone                        | Uti's Cave                  |
+| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                                     | The Dawn Empire              | Dawnhaven                   |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                                            | Unknown/Unclear              | Unknown/Unclear             |
 
 { .block-language-dataview}
 
@@ -41,6 +45,7 @@
 | [[Named Characters & Beasts/Beasts & Animals/Boogaloo\|Boogaloo]]                                                                            | Alive   | Adult Human Male         | \-                                | \-                    |
 | [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                                   | Alive   | Adult Human Male         | The Dawn Empire                   | Steelwick             |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]       | Dead    | Adult Human Male         | OFC                               | Blackwall             |
+| [[Named Characters & Beasts/Calathus\|Calathus]]                                                                                             | Alive   | Teenage Vampire Male     | \-                                | \-                    |
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                               | Alive   | Adult Human Male         | OFC                               | Silkhorn              |
 | [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                               | Alive   | Adult Human Male         | The Dawn Empire                   | Newhall               |
 | [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                                 | Alive   | Adult Human Male         | The Dawn Empire                   | Dustwood              |
@@ -48,6 +53,7 @@
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]]                                   | Alive   | Adult Goblin Male        | The Desert                        | Ember Peak            |
 | [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                                   | Alive   | Adult Tiefling Female    | Uvam Dynasty                      | Minatota              |
 | [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]                                                                             | Dead    | Adult Human Male         | The Dawn Empire                   | Dawnhaven             |
+| [[Named Characters & Beasts/Cosmo\|Cosmo]]                                                                                                   | Alive   | Teenage Vampire Male     | Unknown/Unclear                   | Unknown/Unclear       |
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                             | Alive   | \- \- \-                 | OFC                               | Inchling Village      |
 | [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]]                                                                               | Dead    | Adult Human Male         | The Tulan Fort                    | The Tulan Fort        |
 | [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                                 | Alive   | Adult Human Male         | The Dawn Empire                   | Newhall               |
@@ -84,6 +90,7 @@
 | [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                                 | Alive   | Adult Halfling Male      | The Dawn Empire                   | Steelwick             |
 | [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                                           | Dead    | Young Adult Human Female | The Dawn Empire                   | Steelwick             |
 | [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                                           | Alive   | Adult Human Female       | Ehobel                            | \-                    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]    | Dead    | Teenage Tiefling Male    | Uvam Dynasty                      | Yokotori              |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                                     | Dead    | \- \- \-                 | OFC                               | Inchling Village      |
 | [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                         | Alive   | \- \- \-                 | OFC                               | Inchling Village      |
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                                     | Alive   | Adult Imp Male           | Ehobel                            | Ishnmel               |
@@ -95,6 +102,7 @@
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                                   | Alive   | Adult Human Male         | The Dawn Empire                   | The All Father Temple |
 | [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]                                                                   | Alive   | Adult Human Male         | \-                                | \-                    |
 | [[Named Characters & Beasts/The Barista Dragon\|The Barista Dragon]]                                                                         | Alive   | Adult Red Dragon Male    | <ul><li>Strixhaven</li></ul>      | Steelwick             |
+| [[Named Characters & Beasts/Veranius\|Veranius]]                                                                                             | Alive   | Adult Vampire Male       | Unknown/Unclear                   | Unknown/Unclear       |
 | [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]                                                                       | Alive   | Adult Dwarf Male         | \-                                | \-                    |
 | [[Named Characters & Beasts/Wartooth\|Wartooth]]                                                                                             | Alive   | Adult Orc Male           | \-                                | \-                    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]]           | Alive   | Adult Dwarf Male         | Dwarven Empire                    | Fort Molden           |

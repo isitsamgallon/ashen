@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-03-01T21:15:07.502+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-04-21T17:16:52.672+01:00"}
 ---
 
 ### Introduction: The Flame’s Origin
 
-In the ancient days of the Grayfall Empire, before its collapse at the hands of the rising human rebellion, there lived a fire genasi who would change the course of magical history. Kaelis Ignithar, born in the blistering sands of the Ember Wastes, possessed an unparalleled mastery of fire. His brilliance led him to the heart of Grayfall, where he became one of the empire’s most renowned arcanists. This book recounts the life, triumphs, and ultimate fate of Kaelis—known as the Prince of Fire—and his enduring legacy.
+In the ancient days of the Grayfall Empire, before its collapse at the hands of the rising human rebellion, there lived a fire genasi who would change the course of magical history. [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]], born in the blistering sands of the Ember Wastes, possessed an unparalleled mastery of fire. His brilliance led him to the heart of Grayfall, where he became one of the empire’s most renowned arcanists. This book recounts the life, triumphs, and ultimate fate of Kaelis—known as the Prince of Fire—and his enduring legacy.
 
 ### Chapter 1: A Spark Ignites
 
@@ -38,7 +38,7 @@ As the final battle raged within the capital, Kaelis enacted a desperate plan. H
 
 When the walls of Grayfall fell, Kaelis stood at the city’s heart, wielding his fire against the advancing humans. His flames turned the streets into rivers of molten stone, and the very air shimmered with his power. But even he could not stand alone against an entire army.
 
-Some accounts claim he perished in the fires of his own making, refusing to surrender. Others whisper that he escaped, vanishing into the night, his fate unknown. The only certainty is that when the embers cooled, Grayfall was no more, and Kaelis Ignithar was never seen again.
+Some accounts claim he perished in the fires of his own making, refusing to surrender. Others whisper that he escaped, vanishing into the night, his fate unknown. The only certainty is that when the embers cooled, Grayfall was no more, and [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] was never seen again.
 
 ###  Chapter 5: Legacy of the Flame
 
@@ -50,4 +50,4 @@ Artifacts attributed to Kaelis, such as the _Everburning Crown_ and the _Torch o
 
 In the ruins of Grayfall, where ash and stone remain, there are those who claim to see flickering embers that never fade. Some believe it is a remnant of Kaelis’s final spell, a testament to his power. Others say it is merely the wind playing tricks on those who remember.
 
-Regardless of the truth, one thing remains certain: Kaelis Ignithar’s flame has never truly died. It burns on in the hearts of those who study his teachings, in the hands of those who wield his magic, and in the very fire that forges the future.
+Regardless of the truth, one thing remains certain: [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]]’s flame has never truly died. It burns on in the hearts of those who study his teachings, in the hands of those who wield his magic, and in the very fire that forges the future.

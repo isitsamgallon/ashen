@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-03-01T21:15:25.496+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-04-14T20:43:30.525+01:00"}
 ---
 
 
@@ -11,13 +11,13 @@
 >  Type | Stat |
 > :----: | --- |
 >  Race | [[Other Information/Races/Tiefling\|Tiefling]] |
->  Nationality | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] |
+>  Nationality | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]], [[Locations/Uvam Dynasty/Yokotori\|Yokotori]] |
 >  Class | Sorcerer/ Bard |
 >  Subclass | Wild Magic/ College of Eloquence |
 >  Age | 23 |
 >  Alignment | Neutral Good |
 >  Pronouns | He/ They |
->  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Claribelle Reverence †]] (Mother), Unnamed Father, Unnamed Siblings |
+>  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] (Mother), Unnamed Father, Unnamed Siblings |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
@@ -48,7 +48,7 @@ Mordecai Reverence has a performance-oriented personality. He carefully cultivat
 Mordecai Reverence is typically dressed in elaborate attire, favouring gold jewellery and rich purple fabrics that complement their red skin tone. His long dark hair features gold threads and cuffs woven into different strands. They often apply vibrant makeup, using brighter colours as a façade to support the persona they have developed over time. The only authentic item in his wardrobe is his well-maintained cloak, which has aged significantly, featuring a faded brown colour and meticulous stitching on its numerous holes. Despite his fiendish appearance, his eyes have a notably human quality.
 
 ### Backstory 
-Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
+Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
 
 ### Trivia
 * Mordecai's miniature figure is modelled after the female character design from Eldritch Foundry, as the male models did not meet his desired aesthetic criteria.

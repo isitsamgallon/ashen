@@ -17,4 +17,4 @@ They could be related to [[Named Characters & Beasts/Historically Significant  C
 
 ### Known Business Partners
 - [[Other Information/Display Tags/The Party\|The Party]]/ [[Named Characters & Beasts/Genevieve †\|Genevieve †]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon\|Arwen Gryffon]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
