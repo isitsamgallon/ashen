@@ -17,9 +17,9 @@
 >  ##### Key Members
 >   | File                                                                                                                                     | Gender | Age   | Race  |
 > | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ----- |
+> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                 | Male   | Adult | Human |
 > | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | Male   | Adult | Human |
 > | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Male   | Adult | Human |
-> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                 | Male   | Adult | Human |
 > 
 { .block-language-dataview}
 

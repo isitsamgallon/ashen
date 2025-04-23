@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-04-21T20:12:50.728+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-04-23T19:55:41.733+01:00"}
 ---
 
 **Session Date:** 26th Mar 2025 
@@ -57,16 +57,6 @@ With a snap of his fingers, a bell appeared in [[The Party/Halfbie\|Halfbie]] â€
 As [[Other Information/Display Tags/The Party\|the party]] made their way to the border between [[Locations/The Dawn Empire/Farpost\|Farpost]] and the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]], they met a fleet of soldiers guarding the wall. They paused, minds racing on how they were going to get past them again, knowing [[The Party/Mordecai Reverence\|Mordecai]]'s complicated history with them. Chenris' dying words swirled in [[The Party/Mordecai Reverence\|Mordecai]]'s mind as they were finally confronted by their past. How could he save others from their sadness when all he did was run from his own? Impulsively, the [[Other Information/Races/Tiefling\|Tiefling]] raised their crimson fingertips to unhook their cloak from over their horns, the sun reflecting off their jewellery like flames coiling through their dark hair. Within seconds, arrows soared through the air. Green vials of sedatives plunged into the necks of our heroes, bringing with them the murky darkness of their consciousness leaving them.
 
 Fire licked at the [[Other Information/Races/Tiefling\|Tiefling]] 's feet as they regained consciousness, bound tightly to a cross surrounded by all the people he had run from for years. His friends dangled upside down around them, bound and gagged, watching the events unfold - unable to help. [[The Party/Mordecai Reverence\|Mordecai]] couldn't recognise laughs bitterly in the face of their Father, brother and previous employer. "You know this won't work." They chided as they gestured their bound hands towards the fire snaking around their ankles. Arwen simply did not care as he watched the leaders of the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] dangle at his mercy. He informed [[Other Information/Display Tags/The Party\|the party]] through [[The Party/Mordecai Reverence\|Mordecai]] that the [[Groups & Factions/Goblin Mafia\|goblin mafia]] would take over their precious [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] when they died by his hand. His eyes dragged themself over his previous employee, the object of his obsession and then vehement hatred, restrained in front of him. "One thing I have found after years of trying to find you, that little taste of catching you and you evading my grip once again, I no longer care about you." Those words hung like a man at the gallows as the slimy nightclub owner retreated, leaving the Thornewood family reunion to commence.
-
-
-
-
-
-
-
-
-# Trivia & Notes
-- 
 
 # Footnotes
 
