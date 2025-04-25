@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/vormomli-bronzehand/","tags":["NPC"],"updated":"2025-03-01T21:15:21.920+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/vormomli-bronzehand/","tags":["NPC"],"updated":"2025-04-23T22:44:57.617+01:00"}
 ---
 
 

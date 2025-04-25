@@ -21,7 +21,7 @@
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Uvam Dynasty                 | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                                     | The Desert                   | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                                   | Lost Haven                   | Lost Haven                  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva\|Sylva]]                                                                 | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]                                           | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]]                                                      | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                                        | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]         | Uvam Dynasty                 | Yokotori                    |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-30/","updated":"2025-04-21T17:16:49.660+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-30/","updated":"2025-04-23T19:57:58.482+01:00"}
 ---
 
 **Session Date:** 29th Jan 2025 
@@ -148,6 +148,6 @@ As the chefs presented a small buffet of tadpoles and berries, many Inchlings ut
 
 [^4]: They're talking about the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 9\|Session 9]].
 
-[^5]: He is referring to the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 10\|Session 10]] when party members tried to listen into his conversation with [[The Party/Mordecai Reverence\|Mordecai]] about the [[Other Information/Races/Tiefling\|Tiefling]] secretly. 
+[^5]: He is referring to the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 10\|Session Notes/Season 2 - The War for The OFC's Freedom/Session 10]] when party members tried to listen into his conversation with [[The Party/Mordecai Reverence\|Mordecai]] about the [[Other Information/Races/Tiefling\|Tiefling]] secretly. 
 
 [^6]: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed that the word 'pescatarian' was a common word in this world, but Dave doesn't know it as he isn't very smart. 
