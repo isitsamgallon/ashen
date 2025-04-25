@@ -21,7 +21,6 @@ Here is a list of all current known groups and f within the campaign
 - [[Groups & Factions/The Hero Cult\|The Hero Cult]]
 - [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]]
 - [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]
-- [[Groups & Factions/The Watchers\|The Watchers]]
 - [[Groups & Factions/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]]
 
 { .block-language-dataview}

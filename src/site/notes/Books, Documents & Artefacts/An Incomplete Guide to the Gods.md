@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books-documents-and-artefacts/an-incomplete-guide-to-the-gods/","updated":"2025-03-01T21:15:10.181+00:00"}
 ---
 
-A book [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] picked up in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]'s library that detailed some knowledge about [[The Ashen Pantheon\|The Ashen Pantheon]]. Here are its contents:
+A book [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] picked up in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]'s library that detailed some knowledge about [[The Ashen Pantheon\|The Ashen Pantheon]]. Here are its contents:
 
 # Information on Deities 
 Several deities watch over [[Locations/The Amber Realms\|The Amber Realms]]. There is no distinction between the moral standing of these deities; they all do as they want. This means that the inhabitants of [[Locations/The Amber Realms\|The Amber Realms]] often see these deities as fickle, though this is not the truth as they plan and scheme and often have agendas they wish to fulfil.

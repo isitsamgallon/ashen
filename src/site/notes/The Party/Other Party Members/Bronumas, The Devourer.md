@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bronumas-the-devourer/","updated":"2025-03-01T21:16:50.090+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bronumas-the-devourer/","updated":"2025-03-01T21:16:36.618+00:00"}
 ---
 
 > [!infobox]

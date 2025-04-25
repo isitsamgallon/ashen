@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/tome-of-unfinished-stories/","tags":["Artefact"],"updated":"2025-03-01T21:16:36.235+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/tome-of-unfinished-stories/","tags":["Artefact"],"updated":"2025-03-01T21:16:23.811+00:00"}
 ---
 
 

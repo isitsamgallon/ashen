@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-03-01T21:15:41.674+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-04-25T19:18:36.292+01:00"}
 ---
 
 ### Overview
@@ -7,7 +7,7 @@
 
 She has a group of followers known as [[Gods & Heralds/Aeloria/The Golden Ones\|The Golden Ones]] who sign a pact with her on initiation, meaning that she gets their eternal soul to act as a researcher while they get whatever knowledge they may require.
 
-Aeloria is seen as generally a good god who dedicates herself to bringing hope to the inhabitants of [[Locations/The Amber Realms\|The Amber Realms]] and teaching them how to survive. However, she can also be quite cruel in what she asks for in return for knowledge, like when [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/Mordecai Reverence\|Mordecai Reverence]] visit her room in the [[Session Notes/Season 3 - The Worst Diplomates/Session 20#Aeloria's Room\|All-Father Temple]].
+Aeloria is seen as generally a good god who dedicates herself to bringing hope to the inhabitants of [[Locations/The Amber Realms\|The Amber Realms]] and teaching them how to survive. However, she can also be quite cruel in what she asks for in return for knowledge, like when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/Mordecai Reverence\|Mordecai Reverence]] visit her room in the [[Session Notes/Season 3 - The Worst Diplomates/Session 20#Aeloria's Room\|All-Father Temple]].
 
 ### List of Aeloria's Deals:
 - Information on [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] and [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|his note]] in exchange for Chenris' soul. (Deal Successful)
@@ -16,6 +16,7 @@ Aeloria is seen as generally a good god who dedicates herself to bringing hope t
 - Information on [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] and information on [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] and how to talk to her in exchange for all of Chenris' memories about Leotoris. (Deal Unsuccessful)
 	- Same information, but [[The Party/Mordecai Reverence\|Mordecai Reverence]] would have to forget everything about himself, his [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]], his father and his brother would also forget about him. (Deal Unsuccessful)
 - A deal with [[The Party/Halfbie\|Halfbie]] (Deal Successful)
+- A deal with [[The Party/Halfbie\|Halfbie]] for the location of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] in exchange for the knowledge their home town of [[Locations/Kearlin Atoll/Paraton\|Paraton]].
 
 ### Known Temple Locations
 - [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]

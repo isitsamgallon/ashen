@@ -3,7 +3,7 @@
 ---
 
 
-[[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] read this book in the [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] library when research the deities they had met in a recent encounter. 
+[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] read this book in the [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] library when research the deities they had met in a recent encounter. 
 
 Here are the contents of the book:
 

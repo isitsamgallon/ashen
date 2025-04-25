@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-sundering-as-told-by-the-ashen-cult/","updated":"2025-03-01T21:15:09.814+00:00"}
 ---
 
-Found in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 4\|Session 4]] in the [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]]. Describes [[History & Events/The Sundering\|The Sundering]] in a good light and how there are people that want to make sure it happens again. It also contains the first mention of [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]. [[Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] has been working tirelessly to translate the book from its original Ancient Dwarven to Common. Here is what has been translated so far:
+Found in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 4\|Session 4]] in the [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]]. Describes [[History & Events/The Sundering\|The Sundering]] in a good light and how there are people that want to make sure it happens again. It also contains the first mention of [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] has been working tirelessly to translate the book from its original Ancient Dwarven to Common. Here is what has been translated so far:
 
 
 ### Prologue: The Prophecy of the Cleansing Flame

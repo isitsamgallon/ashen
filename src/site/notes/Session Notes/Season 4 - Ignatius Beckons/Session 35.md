@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-04-25T08:33:45.285+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-04-25T19:03:52.612+01:00"}
 ---
 
 **Session Date:** 26th Mar 2025 
 **Web Vault Link:** https://www.ashencampaign.xyz/session-notes/season-4-ignatius-beckons/session-34/
 **A list Of Spells Cast In Sessions:** [[Admin/Spell Links\|Click Here]]
+#INFORMATION_MISSING_OR_OUT-OF-DATE
 
 # Session Summary 
-[[Admin/INFORMATION MISSING OR OUT-OF-DATE\|INFORMATION MISSING OR OUT-OF-DATE]]
+
 
 # Full Session Notes
 Soon after returning, [[Other Information/Display Tags/The Party\|the party]] set off for [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]. [[The Party/Aiden Knight\|Aiden Knight]] decided it would be best to find [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]], rather than risk needing help from [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] again. He quickly discovered a tavern down the road where the bartender, a dwarf, was speaking simply while pouring drinks for various customers. When Aiden asked about Shoni, the bartender replied, “I’m no good at remembering. Do you have something to jog my memory?” Reluctantly, Aiden pushed a few extra coins across the counter, and the bartender began to speak more formally. He explained that he had heard of Shoni and that she was last known to be heading south. With another payment, he detailed that she was working in [[Locations/The Desert/The Desert\|the Desert]], beyond [[Locations/The Desert/The Great Wall\|the Great Wall]]. Aiden thanked him for the information and returned to [[Other Information/Display Tags/The Party\|the party]], who refused to believe him, citing the bartender's poor command of Common.

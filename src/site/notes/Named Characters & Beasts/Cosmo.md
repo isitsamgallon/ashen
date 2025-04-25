@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/cosmo/","tags":["NPC"],"updated":"2025-04-23T21:37:48.860+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/cosmo/","tags":["NPC"],"updated":"2025-04-21T20:12:03.162+01:00"}
 ---
 
 ### Overview
