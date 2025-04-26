@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/emmeline/","tags":["NPC","Important"],"updated":"2025-03-01T21:16:12.056+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/emmeline/","tags":["NPC","Important"],"updated":"2025-04-26T18:54:25.180+01:00"}
 ---
 
 

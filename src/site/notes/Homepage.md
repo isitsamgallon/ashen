@@ -21,7 +21,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                                                                       |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                                                                          |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                                               |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                                                                       |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] | Season 4 - Ignatius Beckons | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure.                 |
@@ -53,11 +53,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
-| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
+| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | September 24, 2024 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
@@ -70,20 +70,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
-- [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]
-- [[Admin/Admin Dashboard\|Admin Dashboard]]
-- [[Groups & Factions/Nomad Families\|Nomad Families]]
-- [[Locations/The Desert/Camp Sophia\|Camp Sophia]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]
+- [[Other Information/Races/Vampire\|Vampire]]
+- [[Locations/Feywild/The Shifting Forest\|The Shifting Forest]]
+- [[The Party/Halfbie\|Halfbie]]
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Other Information/Races/Vampire\|Vampire]]
+- [[Locations/OFC/OFC\|OFC]]
+- [[Books, Documents & Artefacts/Kama Sutra\|Kama Sutra]]
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 - [[Groups & Factions/Nomad Families\|Nomad Families]]
-- [[Groups & Factions/The Watchers\|The Watchers]]
-- [[Locations/The Desert/Camp Sophia\|Camp Sophia]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
 
 { .block-language-dataview}
 

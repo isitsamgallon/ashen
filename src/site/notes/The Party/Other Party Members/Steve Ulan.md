@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC"],"updated":"2025-03-01T21:16:06.764+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC"],"updated":"2025-04-26T18:38:52.696+01:00"}
 ---
 
 > [!infobox]
@@ -46,7 +46,7 @@ Initially, Steve was unreliable and quite racist, especially since [[Other Infor
 
 ### Other Information
 - Steve isn't a very good fighter but tries hard to not be a burden to the party and his friends.
-- He travelled with [[Other Information/Display Tags/The Party\|The Party]] as a [[Groups & Factions/Companion\|Companion]] for a long time before being left in the [[History & Events/The War for the OFC's Freedom\|OFC]] to manage the cult and other affairs while they're not in the country 
+- He travelled with [[Other Information/Display Tags/The Party\|The Party]] as a [[Groups & Factions/Companions\|Companions]] for a long time before being left in the [[History & Events/The War for the OFC's Freedom\|OFC]] to manage the cult and other affairs while they're not in the country 
 
 ### Trivia
 - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] James originally planned for [[Other Information/Display Tags/The Party\|The Party]] to kill Steve because he was so racist and so had to quickly develop a back story for him since [[Other Information/Display Tags/The Party\|The Party]] showed no sign of letting him go. >:)

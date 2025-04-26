@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-03-01T21:16:06.786+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-04-26T18:38:52.629+01:00"}
 ---
 
 
@@ -48,4 +48,4 @@ Although Bruce is an automaton, the extended period of time where he was left al
 ### Other Information
 - Originally Bruce was only powered by lava that was pumped into him from a hose, severally limiting his operation time and where he could go. Chenris was able to create a semi-functioning battery for Bruce so they could take him to [[Locations/Strixhaven\|Strixhaven]] to fit him with a proper engine. 
 - Researchers managed to fix an airship core to him giving him an abundance of power but also making him slightly buoyant in air, requiring him to be weighed down with heavy metal plating. 
-- He has been travelling with [[Other Information/Display Tags/The Party\|The Party]] as a [[Groups & Factions/Companion\|Companion]] ever since.
+- He has been travelling with [[Other Information/Display Tags/The Party\|The Party]] as a [[Groups & Factions/Companions\|Companions]] ever since.

@@ -1,7 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/goblin-mafia/","tags":["Groups"],"updated":"2025-03-01T21:15:13.341+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/goblin-mafia/","tags":["Groups"],"updated":"2025-04-26T18:45:01.063+01:00"}
 ---
 
+> [!infobox]
+> 
+> # Goblin Mafia
+> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  HQ | HQ |
+>  Alignment | Neutral Evil |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+>  ##### Known Members
+>   | File                                            | Gender | Age   | Race   |
+> | ----------------------------------------------- | ------ | ----- | ------ |
+> | [[Named Characters & Beasts/Bing †\|Bing †]] | Male   | Adult | Goblin |
+> 
+{ .block-language-dataview}
+
+### Overview
 A well-connected group of goblins that seem to have connections in nearly every nation. They were first encountered in Two Pines when they offered a quest to deliver a "package" to Blackwall, which turned out to be a bomb used to try and blow up [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]. They turned up various points in the story and a group involved in terrorism, blackmail, thievery, exploitation and presumably much more. 
 
 They could be related to [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]] and [[Groups & Factions/The Goblin Resistance\|The Goblin Resistance]] from back during [[History & Events/The Sundering\|The Sundering]] but it is unclear if the Goblin Chief is even alive

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-32/","updated":"2025-03-01T21:16:01.679+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-32/","updated":"2025-04-26T17:50:01.839+01:00"}
 ---
 
 **Session Date:** 18th Feb 2025 
@@ -7,7 +7,7 @@
 **A list Of Spells Cast In Sessions:** [[Admin/Spell Links\|Click Here]]
 
 # Session Summary 
-The session began with Haldir Heleyarus revealing the truth behind each party member, using a powerful spell to strip them of illusions and divine influences. The Korrigan lost his Feywild magic and returned to his human form, Aidan Knight lost his connection to Chronovorus, and Halfbie was confronted by the ghost of Chenris Tallfellow. The revelation sent Halfbie into a panic, struggling with an overwhelming sense of familiarity with Chenris, while Korrigan suffered a violent breakdown as suppressed memories surged back, leading him to declare his intent to kill the King of Lost Haven. Mordecai and Drache tried to rein in their companions, while Chenris, now a ghost, struggled to reconnect with the group, leading to an unsettling confrontation about Halfbie’s true nature.
+The session began with Haldir Heleyarus revealing the truth behind each party member, using a powerful spell to strip them of illusions and divine influences. The Korrigan lost his [[Locations/Feywild/Feywild\|Feywild]] magic and returned to his human form, Aidan Knight lost his connection to Chronovorus, and Halfbie was confronted by the ghost of Chenris Tallfellow. The revelation sent Halfbie into a panic, struggling with an overwhelming sense of familiarity with Chenris, while Korrigan suffered a violent breakdown as suppressed memories surged back, leading him to declare his intent to kill the King of Lost Haven. Mordecai and Drache tried to rein in their companions, while Chenris, now a ghost, struggled to reconnect with the group, leading to an unsettling confrontation about Halfbie’s true nature.
 
 Before they could process these revelations, Haldir exposed one final deception—Obeus had been carrying an Aspect of Ebis Daro within her. The Aspect violently separated from her, igniting a battle that pushed the party to their limits. Fireballs and lightning tore through the chamber as the Aspect shifted forms, first as a spectral warrior and later as a dragon. The fight was grueling, with Drache and Halfbie unleashing devastating attacks, while Mordecai’s wild magic surged unpredictably. The final blow was dealt in a combined effort, shattering the Aspect into mist, but not before it nearly claimed Obeus' life. As the dust settled, Chenris harshly questioned Obeus about her connection to Ebis Daro, reducing her to tears before Mordecai and Korrigan reprimanded him.
 

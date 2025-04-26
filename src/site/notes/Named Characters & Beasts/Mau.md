@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mau/","tags":["NPC"],"updated":"2025-03-01T21:15:17.628+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/mau/","tags":["NPC"],"updated":"2025-04-26T18:50:47.079+01:00"}
 ---
 
 

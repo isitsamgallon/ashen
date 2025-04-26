@@ -4,7 +4,7 @@
 
 Here is a list of all current known groups and f within the campaign
 - [[Groups & Factions/Adventurers Guild\|Adventurers Guild]]
-- [[Groups & Factions/Companion\|Companion]]
+- [[Groups & Factions/Companions\|Companions]]
 - [[Groups & Factions/Ebon Quill\|Ebon Quill]]
 - [[Groups & Factions/Fruit Cutters\|Fruit Cutters]]
 - [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]

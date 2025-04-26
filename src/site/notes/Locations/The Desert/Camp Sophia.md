@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/camp-sophia/","tags":["Undiscovered"],"updated":"2025-04-25T19:05:54.057+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/camp-sophia/","tags":["Undiscovered"],"updated":"2025-04-26T18:00:44.508+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE
-### Overview
 
+### Overview
+A place in [[Locations/The Desert/The Desert\|The Desert]] near the bend in the river run by a [[Groups & Factions/Nomad Families\|Nomad Family]]. Notably this is the last known location of [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]], someone [[The Party/Aiden Knight\|Aiden Knight]] has to meet.
 
 ### Notable Information & History 

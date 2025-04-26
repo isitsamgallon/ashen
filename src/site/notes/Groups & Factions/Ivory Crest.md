@@ -1,6 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"updated":"2025-03-01T21:15:12.615+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"updated":"2025-04-26T18:46:09.821+01:00"}
 ---
+
+> [!infobox]
+> 
+> # Ivory Crest
+> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  HQ | HQ |
+>  Alignment | Neutral Evil |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+>  ##### Known Members
+>   | File                                      | Gender | Age   | Race  |
+> | ----------------------------------------- | ------ | ----- | ----- |
+> | [[Named Characters & Beasts/Mau\|Mau]] | Male   | Adult | Human |
+> | [[The Party/Dead/Kal ‡\|Kal ‡]]        | \-     | \-    | \-    |
+> 
+{ .block-language-dataview}
+
+### Overview
+
+
+### Notable Information & History
 
 Ivory Crest is facade for a thriving thieves' guild that operated covertly within the [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]. 
 
