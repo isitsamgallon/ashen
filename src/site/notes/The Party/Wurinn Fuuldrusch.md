@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-04-26T18:52:38.232+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-05-20T18:41:28.711+01:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | [[[[Dragonborn\|[[Other Information/Races/Dragonborn\|Dragonborn]]]]rn]] (White Dragon) |
+>  Race | [[Other Information/Races/Dragonborn\|Dragonborn]] (White Dragon) |
 >  Nationality | [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] |
 >  Class | Barbarian/ Paladin |
 >  Subclass | Totem Warrior/ Oath of Redemption |
@@ -46,10 +46,20 @@ Drache is an incredibly kind and honest person, often trying to resolve conflict
 He is a charismatic and albeit somewhat flirtatious character whether he intends to or not and has a way of sweet-talking various characters, if all else fails he can tap into his more aggressive side and utilise his size to be more of an intimidator, however, he will rarely use this.
 
 ### Description
-Drache is an incredibly tall, 46-year-old white [[Dragonborn]] who can often be found wearing heavy Half-Plate armour and wielding heavy weapons like Great-axes and Greatswords. 
+Drache is an incredibly tall, 46-year-old white [[Other Information/Races/Dragonborn\|Dragonborn]] who can often be found wearing heavy Half-Plate armour and wielding heavy weapons like Great-axes and Greatswords. 
 
 ### Backstory Summary
 Drache was originally from and loyal to [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] before he fell in love with a woman named [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]. Emmeline was a soldier from a rival fort called [[Locations/Important Locations/The Emerald Fort\|The Emerald Fort]]. After secretly sending each other love letters for a while, they both decide to desert their posts to try and live a life together. However, on their journey to meet up, Drache was kidnapped by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]] delaying his reunion and leading to Emmeline's capture by Tulan Fort.
+
+### Quotes
+ - "I heard you're looking for a stud."
+ - "I will not be challenged by a twink"
+ - "what a time to be a narc"
+ - "Ah yes…book…"
+ - "History is written in blood"
+ - "I'll whisper sweet nothings in your ear" - Drache to Korrigan
+ - "Yes I am rubbing Aidan off"
+ - i am big and fast
 
 ### Trivia
 - Chenris and Drache have a card game they always play when the rest of [[Other Information/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-04-26T18:47:54.971+01:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-05-20T18:42:13.169+01:00"}
 ---
 
 
@@ -49,6 +49,15 @@ Mordecai Reverence is typically dressed in elaborate attire, favouring gold jewe
 
 ### Backstory 
 Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
+
+### Quotes
+- "I’m shitting myself"
+- "Thank you... Wife?" Mordecai to Drache
+- "i am the most guardiets guard"
+- "![✨](https://discord.com/assets/10cfdf082083ea92.svg)![🌈](https://discord.com/assets/03c45c83ae57ae76.svg) Racism ![🌈](https://discord.com/assets/03c45c83ae57ae76.svg)![✨](https://discord.com/assets/10cfdf082083ea92.svg)"
+- "maybe one bollock to the wall" - chenris "im happy to be one bollock" - mord
+- Leave me alone, im traumatised
+- 'suck my tiny, tiny dick' - mord, 'I use wild shape' - korrigan
 
 ### Trivia
 * Mordecai's miniature figure is modelled after the female character design from Eldritch Foundry, as the male models did not meet his desired aesthetic criteria.

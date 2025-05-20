@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-04-26T17:49:52.445+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-05-20T18:38:09.442+01:00"}
 ---
 
 **Session Date:** 16th Jan 2025 
@@ -78,7 +78,7 @@ The orb thinks for a moment before relenting and explaining that it will give th
 
 Soon, Drache and Korrigan landed on the floor just as Mordecai was put down and disconnected from the hive mind. Mordecai feels sick, but otherwise, the experience was just as the orb had explained it to them, they had no memories of what they had 'processed'. They got up and began to explain the situation to the others who were hesitant to take the deal, and when they put it to the vote, everyone but Mordecai voted no. Drache tried to console Mordecai, explaining that there would be plenty of other chances to learn more about [[The Party/Halfbie\|Halfbie]] - ones that wouldn't cause them all to forget important information. Mordecai is disappointed but eventually understands where they are all coming from and mentally decides to do their best to at least get to know [[The Party/Halfbie\|Halfbie]] a little before jumping to such rash decisions. The orb made a sound like it was clearing its throat and said they had a side of the bargain to fulfil and explained that, to their knowledge, there was no way to reverse the possession of [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]].
 
-With everything settled, the group had no reason to stay in the room and bid their farewells to the orb. As they were leaving [[The Party/Halfbie\|Halfbie]] cast the message spell on Mordecai and ⚔️ Chenris Tallfellow ‡'s voices they said, "Glad to see you're not a hypocrite" Mordecai momentarily stopped in their tracks as the rest walked past him out of the room. [[The Party/Halfbie\|Halfbie]] was the last to leave, shooting them a quick glance before leaving as well. Mordecai soon joined them as they decided that it might be best if they went into 🏛️ Eldros' room next as none of them knew anything about the god, and it would be a great chance for them to learn some new information.
+With everything settled, the group had no reason to stay in the room and bid their farewells to the orb. As they were leaving [[The Party/Halfbie\|Halfbie]] cast the message spell on Mordecai and ⚔️ [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'s voices they said, "Glad to see you're not a hypocrite" Mordecai momentarily stopped in their tracks as the rest walked past him out of the room. [[The Party/Halfbie\|Halfbie]] was the last to leave, shooting them a quick glance before leaving as well. Mordecai soon joined them as they decided that it might be best if they went into 🏛️ Eldros' room next as none of them knew anything about the god, and it would be a great chance for them to learn some new information.
 
 
 #### [[Gods & Heralds/Eldros/Eldros\|Eldros]]' Room

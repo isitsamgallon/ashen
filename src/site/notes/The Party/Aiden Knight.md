@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-04-26T18:47:29.595+01:00"}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-05-20T18:37:05.839+01:00"}
 ---
 
 
@@ -56,3 +56,7 @@ Aiden has platinum blond hair and brown eyes. He wears all-black clothing with a
 
 ### Backstory Summary
 Aiden's backstory hasn't been revealed publicly yet. 
+
+### Quotes
+- "IT'S A TALL BLACK GUYYYYY!!!"
+- "What inter-dimensional bullshit have you done with it?!"

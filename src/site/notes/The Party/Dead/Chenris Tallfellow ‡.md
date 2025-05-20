@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-04-26T18:56:18.058+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-05-20T18:42:27.553+01:00"}
 ---
 
 > [!infobox]
@@ -59,7 +59,7 @@ Due to circumstances that Chenris refused to elaborate on, the Tallfellow family
 
 Later on, Leotoris was one of the stewards on a field trip to a local dungeon. Chenris begged his beloved teacher to let him tag along who eventually relented and snuck him onto the trip. This trip was designed for a much more advanced class than Chenris so it was no surprise when he accidentally activated a trap. Leotoris dove in between them and the trap at the last second, sparing Chenris but leaving the professor with lethal injuries. With his dying breath, he passed Chenris [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] and begged him to solve the problem on it. 
 
-# Dossier Reports on Chenris Tallfellow
+### Dossier Reports on Chenris Tallfellow
 **Background Overview:**
 In response to recent sightings of Chenris Tallfellow within the [[Locations/Strixhaven\|Strixhaven]] campus, I have initiated a comprehensive dossier report to illuminate his history before and during his tenure at [[Locations/Strixhaven\|Strixhaven]] University.
 
@@ -89,8 +89,6 @@ Regrettably, Chenris's unauthorized pursuit of forbidden knowledge compelled dec
 Chenris Tallfellow's academic journey, marked by familial discord, intellectual fervor, and tragic loss, illuminates the complex interplay of ambition and consequence within our esteemed institution. While his expulsion signifies a departure from the hallowed halls of [[Locations/Strixhaven\|Strixhaven]], the legacy of his tumultuous tenure serves as a cautionary tale and a testament to the enduring pursuit of knowledge amidst the tapestry of magical academia.
 
 [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]], Archmage and Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics.
-
-
 
 #### Report on Chenris Tallfellow (Vol. I)
 **Subject Overview:**
@@ -367,6 +365,17 @@ Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics
 #### Report on Chenris Tallfellow (Vol. VI)
 [IN PROGRESS]
 
+
+
+### Quotes
+- "You be speaking mad facts" - When speaking to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]
+- It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) 
+- "I did want a stud..." Addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
+- We are not friends - as [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] DIES IN FRONT ON HIM
+- "I am definitely proposing the library" _boing_
+- "maybe one bollock to the wall" - chenris "im happy to be one bollock" - mord
+- "are you okay?" - Aiden "I am a ghost...No" - Chenris
+
 ### Trivia
 - Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 
 - Chenris and Drache have a card game they always play when the rest of [[Other Information/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 
@@ -374,3 +383,5 @@ Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics
 	- Rowan has pointed out that Chenris' lack of direction is inspired by [Zoro from One Piece ](https://onepiece.fandom.com/wiki/Roronoa_Zoro), however this isn't true. [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] forgot about that and thought it would be funny at the time. he has since made it a bit more like Zoro's directional skills.
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] had been planning Chenris' betrayal during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] for months before it was finally revealed to the party during [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 10\|Session Notes/Season 2 - The War for The OFC's Freedom/Session 10]]. Sam also talked about it outside of the game to taunt and make sure no suspicion was on him before the reveal. 
 - The reason why Chenris' note has a lot more time put into it is that [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] uses it as a summary of all their adventures as well to keep [[Locations/Strixhaven\|Strixhaven]] relevant in the background. 
+
+

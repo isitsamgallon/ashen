@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-04-26T17:50:59.327+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-05-08T20:17:19.778+01:00"}
 ---
 
 **Session Date:** 23rd Apr 2025 
@@ -150,6 +150,6 @@ They devised a plan for [[The Party/Halfbie\|Halfbie]] to use their Suggestion s
 
 [^4]: Everyone looks at [[The Party/The Korrigan\|The Korrigan]] due to [[The Party/Dead/Kal ‡\|Kal ‡]] setting fire to a forest in the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] when [[Other Information/Display Tags/The Party\|The Party]] was attacked by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]. NOTE: [[The Party/Halfbie\|Halfbie]] is unaware of this at the time.
 
-[^5]: This is in reference to [[The Party/Halfbie\|Halfbie]] giving away that information in a deal with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]]
+[^5]: This is in reference to [[The Party/Halfbie\|Halfbie]] giving away that information in a deal with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session Notes/Season 4 - Ignatius Beckons/Session 36]]
 
 [^6]: [[The Party/Halfbie\|Halfbie]] is 21 years-old
