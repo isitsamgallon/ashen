@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-05-20T18:42:09.375+01:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-05-25T20:11:22.407+01:00"}
 ---
 
  > [!infobox]
@@ -8,16 +8,16 @@
 > ![KorriganProfilePic.png|cover hsmall](/img/user/Admin/Attachments/KorriganProfilePic.png)
 > ###### Basic Information
 > 
->  Type |
-> :----: | --- |
->  Race | Fey |
->  Nationality | [[Locations/Feywild/Feywild\|Feywild]] |
->  Class | Ranger/ Druid |
->  Subclass | Fey Wanderer/ Circle of the Endless Bloom |
->  Age | Late 20s |
->  Alignment | Seelie |
->  Pronouns | He/ Him |
->  Family | Unclear, [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]] (Divorced) |
+>  Type 
+> | :----: | --- |
+> | Race | Fey |
+> | Nationality | [[Locations/Feywild/Feywild\|Feywild]] |
+> |  Class | Ranger/ Druid |
+>  | Subclass | Fey Wanderer/ Circle of the Endless Bloom |
+>  | Age | Late 20s |
+>  | Alignment | Seelie |
+>  | Pronouns | He/ Him |
+>  | Family | Unclear, [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]] (Divorced) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
@@ -57,7 +57,7 @@ Kal's early backstory has not been disclosed to the public. Following initial ev
 - “Rawr”
 - AFTER OUR ROMANTIC TRIP! - Korrigan storming out of the court room
 - "Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
-- "as long as youn dont do red-face"
+- "as long as you don't do red-face"
 - "we are a meal deal"
 - 'suck my tiny, tiny dick' - mord, 'I use wild shape' - korrigan
   

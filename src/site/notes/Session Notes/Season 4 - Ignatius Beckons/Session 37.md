@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-05-08T20:17:19.778+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-05-25T23:09:19.985+01:00"}
 ---
 
 **Session Date:** 23rd Apr 2025 
-**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/season-4-ignatius-beckons/session-10/
+**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/season-4-ignatius-beckons/session-37/
 **A list Of Spells Cast In Sessions:** [[Admin/Spell Links\|Click Here]]
 
 
