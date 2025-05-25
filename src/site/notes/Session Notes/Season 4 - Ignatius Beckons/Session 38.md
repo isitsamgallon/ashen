@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-05-25T23:09:01.262+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-05-25T23:10:21.531+01:00"}
 ---
 
 **Session Date:** 25th May 2025 
@@ -14,7 +14,6 @@
 - Fairset Port 
 - On arrow, human name: [[Named Characters & Beasts/Dave McDuffin\|Dave McDuffin]] - poison form the [[Locations/The Deadlands\|The Deadlands]] (past [[Locations/Important Locations/Lost Haven\|Lost Haven]])
 - [[Gods & Heralds/Vaelrith\|Vaelrith]] - old god of dead 
-- 
 
 
 
