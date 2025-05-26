@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-20T18:01:33.276+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-26T14:57:16.934+01:00"}
 ---
 
 ![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
 
 # Quick Links
-[[Other Information/Display Tags/Characters\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Other Information/Display Tags/Locations\|Locations]] | [[Other Information/Display Tags/History & Events\|History & Events]] | [[Other Information/Display Tags/Gods & Heralds\|Gods & Heralds]] | [[Other Information/Display Tags/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]]
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.
 
@@ -21,7 +21,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | \-                                                                                                                                                                                                                                                                                                                                                                  |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                                       |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                                                                          |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                                               |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                                                                       |
@@ -61,8 +61,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | September 24, 2024 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
-| [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
+| [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
@@ -70,20 +70,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Gods & Heralds/Vaelrith\|Vaelrith]]
 - [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
-- [[Named Characters & Beasts/Dave McDuffin\|Dave McDuffin]]
-- [[Locations/The Deadlands\|The Deadlands]]
+- [[Groups & Factions/Prince of Fire\|Prince of Fire]]
+- [[Locations/OFC/OFC\|OFC]]
+- [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]
+- [[Locations/Ehobel/Ehobel\|Ehobel]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Gods & Heralds/Vaelrith\|Vaelrith]]
-- [[Locations/The Deadlands\|The Deadlands]]
-- [[Named Characters & Beasts/Dave McDuffin\|Dave McDuffin]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]]
-- [[Other Information/Races/Vampire\|Vampire]]
+- [[Groups & Factions/Prince of Fire\|Prince of Fire]]
+- [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]
+- [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]
+- [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]
+- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
 
 { .block-language-dataview}
 
@@ -93,10 +93,17 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                    | Date of Tagging |
 | ----------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | May 25, 2025    |
+| [[Other Information/Races/Vampire\|Vampire]]                         | May 26, 2025    |
+| [[Other Information/Races/Dwarves\|Dwarves]]                         | May 26, 2025    |
+| [[Other Information/Races/Inchlings\|Inchlings]]                     | May 26, 2025    |
+| [[Other Information/Races/Eladrin\|Eladrin]]                         | May 26, 2025    |
+| [[Other Information/Races/Tiefling\|Tiefling]]                       | May 26, 2025    |
+| [[Other Information/Races/Gnomes\|Gnomes]]                           | May 26, 2025    |
+| [[Other Information/Races/Dragonborn\|Dragonborn]]                   | May 26, 2025    |
+| [[Other Information/Races/Halflings\|Halflings]]                     | May 26, 2025    |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | April 26, 2025  |
-| [[Locations/The Deadlands\|The Deadlands]]                           | May 25, 2025    |
 | [[Named Characters & Beasts/Dave McDuffin\|Dave McDuffin]]           | May 25, 2025    |
+| [[Locations/The Deadlands\|The Deadlands]]                           | May 25, 2025    |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","updated":"2025-03-01T21:15:25.120+00:00"}
+{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","updated":"2025-05-26T14:53:43.641+01:00"}
 ---
 
 - [ ] Kill with [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] 
@@ -29,6 +29,6 @@
 - [ ] Learn more about [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
 - [ ] Learn who the [[Named Characters & Beasts/Illusion Master\|Illusion Master]] is
 - [x] Find the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]] ✅ 2024-12-24
-- [ ] Cure [[The Party/Mordecai Reverence\|Mordecai Reverence]] for being processed by [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]
-	- [ ] Go to [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]] and ask [[Named Characters & Beasts/Malin\|Malin]]
+- [x] Cure [[The Party/Mordecai Reverence\|Mordecai Reverence]] for being processed by [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]  [completion:: 2025-05-26]
+	- [x] Go to [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]] and ask [[Named Characters & Beasts/Malin\|Malin]]  [completion:: 2025-05-26]
 - [ ] Figure out what 's happenig to [[The Party/Halfbie\|Halfbie]]

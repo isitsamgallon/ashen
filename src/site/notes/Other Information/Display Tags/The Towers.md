@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/other-information/display-tags/the-towers/","updated":"2025-03-01T21:15:58.641+00:00"}
 ---
 
-Ancient devised used to keep the [[Other Information/Display Tags/Gods & Heralds\|Ashen Pantheon]] from interacting with our world. They were created by [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] sometime after [[History & Events/The Sundering\|The Sundering]] when a meteor fell from the sky and created a massive creator under what is now [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]].
+Ancient devised used to keep the [[Gods & Heralds/Gods & Heralds\|Ashen Pantheon]] from interacting with our world. They were created by [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] sometime after [[History & Events/The Sundering\|The Sundering]] when a meteor fell from the sky and created a massive creator under what is now [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]].
 
 The Towers are all built with crystals, which are powered by the tentacles of [[Gods & Heralds/Aetherion/Terathra\|Terathra]]. These tentacles cause the beast/God great pain and slowly kill them. 
 

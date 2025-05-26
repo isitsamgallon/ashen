@@ -115,7 +115,7 @@ to his horror something responded to his calls, a demon called [[The Party/Other
 
 # Trivia & Notes
 - [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]] was unavailable for the session but was desperately needed for the combat with the Aspect of Ebis, so [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] played both characters. 
-- [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] made a joke that [[The Party/Aiden Knight\|Aiden Knight]] and [[The Party/The Korrigan\|The Korrigan]] shouldn't have their powers as [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]] had forced everyone into their true forms, which removed any power granted by the [[Other Information/Display Tags/Gods & Heralds\|Gods]]. [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] liked the idea and made it the case, much to everyone's horror. 
+- [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] made a joke that [[The Party/Aiden Knight\|Aiden Knight]] and [[The Party/The Korrigan\|The Korrigan]] shouldn't have their powers as [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]] had forced everyone into their true forms, which removed any power granted by the [[Gods & Heralds/Gods & Heralds\|Gods]]. [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] liked the idea and made it the case, much to everyone's horror. 
 
 # Footnotes
 

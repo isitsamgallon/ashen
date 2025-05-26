@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-03-01T21:15:51.173+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-05-26T14:52:23.922+01:00"}
 ---
 
-
+#INFORMATION_MISSING_OR_OUT-OF-DATE 
  >[!infobox]
 > 
 > #  Eladrin

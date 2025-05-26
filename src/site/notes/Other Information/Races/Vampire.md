@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/vampire/","updated":"2025-04-26T19:00:16.831+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/vampire/","updated":"2025-05-26T14:51:56.787+01:00"}
 ---
 
-
+#INFORMATION_MISSING_OR_OUT-OF-DATE 
  >[!infobox]
 > 
 > #  Vampire

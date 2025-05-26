@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2025-04-26T17:52:38.195+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2025-05-26T15:04:42.206+01:00"}
 ---
 
 > [!infobox]
@@ -16,21 +16,22 @@
 >  ##### Cities & Towns 
 >   | File                                                                       | Discovery Status               |
 > | -------------------------------------------------------------------------- | ------------------------------ |
+> | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Caalona\|Caalona]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Ehobel\|Ehobel]]                                     | \-                             |
 > | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                          | <ul><li>Discovered</li></ul>   |
 > 
 { .block-language-dataview}
@@ -42,8 +43,8 @@ The home nation of the [[Other Information/Races/Elves\|Elves]] in [[Locations/T
 ### NPCs From Ehobel
 | File                                                                                                                            | Home Town | Status  |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- |
-| [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
+| [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
 | [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
 | [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |

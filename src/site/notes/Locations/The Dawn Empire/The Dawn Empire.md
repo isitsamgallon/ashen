@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","updated":"2025-03-01T21:15:53.199+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","updated":"2025-05-26T15:04:35.632+01:00"}
 ---
 
 > [!infobox]
@@ -14,22 +14,27 @@
 >  Founder | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] |
 >  ##### Cities & Towns 
->   | File                                                                          | Discovery Status               |
-> | ----------------------------------------------------------------------------- | ------------------------------ |
-> | [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]               | <ul><li>Missing</li></ul>      |
-> | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]             | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]               | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Baytown\|Baytown]]                             | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Dusthall\|Dusthall]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Farpost\|Farpost]]                             | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Dawn Empire/Newhall\|Newhall]]                             | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]] | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                     | <ul><li>Discovered</li></ul>   |
+>   | File                                                                                  | Discovery Status               |
+> | ------------------------------------------------------------------------------------- | ------------------------------ |
+> | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]                       | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]                       | <ul><li>Missing</li></ul>      |
+> | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Dawnhaven/The Silent Shade\|The Silent Shade]]         | \-                             |
+> | [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Dusthall\|Dusthall]]                                   | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Farpost\|Farpost]]                                     | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Newhall\|Newhall]]                                     | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]                     | \-                             |
+> | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]                         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]                           | <ul><li>Discovered</li></ul>   |
 > 
 { .block-language-dataview}
 
@@ -44,9 +49,9 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                           | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive   |
+| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
 | [[Named Characters & Beasts/Just Jack\|Just Jack]]                                                                             | Newhall               | Alive   |
