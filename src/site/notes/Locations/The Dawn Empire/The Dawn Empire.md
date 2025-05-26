@@ -18,21 +18,21 @@
 > | ------------------------------------------------------------------------------------- | ------------------------------ |
 > | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]                       | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]                       | <ul><li>Missing</li></ul>      |
 > | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dawnhaven/The Silent Shade\|The Silent Shade]]         | \-                             |
-> | [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dusthall\|Dusthall]]                                   | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Farpost\|Farpost]]                                     | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Dawn Empire/Newhall\|Newhall]]                                     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]                     | \-                             |
+> | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]                         | <ul><li>Undiscovered</li></ul> |
 > 
@@ -45,15 +45,15 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                       | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]                                                                 | Dawnhaven             | Alive   |
+| [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                           | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                   | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive   |
-| [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                           | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive   |
-| [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
-| [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead    |
-| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
-| [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
 | [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
+| [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
+| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
+| [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead    |
+| [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
 | [[Named Characters & Beasts/Just Jack\|Just Jack]]                                                                             | Newhall               | Alive   |
 | [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                   | Newhall               | Alive   |
 | [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]                                                               | Dawnhaven             | Dead    |
