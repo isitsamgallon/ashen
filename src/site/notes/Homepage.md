@@ -53,8 +53,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
-| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
+| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
@@ -70,8 +70,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Homepage\|Homepage]]
 - [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]]
+- [[Homepage\|Homepage]]
 - [[Groups & Factions/Prince of Fire\|Prince of Fire]]
 - [[Locations/OFC/OFC\|OFC]]
 - [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]
@@ -100,8 +100,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Other Information/Races/Dwarves\|Dwarves]]                         | May 26, 2025    |
 | [[Other Information/Races/Tiefling\|Tiefling]]                       | May 26, 2025    |
 | [[Other Information/Races/Gnomes\|Gnomes]]                           | May 26, 2025    |
-| [[Other Information/Races/Halflings\|Halflings]]                     | May 26, 2025    |
 | [[Other Information/Races/Dragonborn\|Dragonborn]]                   | May 26, 2025    |
+| [[Other Information/Races/Halflings\|Halflings]]                     | May 26, 2025    |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | April 26, 2025  |
 | [[Named Characters & Beasts/Dave McDuffin\|Dave McDuffin]]           | May 25, 2025    |
 | [[Locations/The Deadlands\|The Deadlands]]                           | May 25, 2025    |

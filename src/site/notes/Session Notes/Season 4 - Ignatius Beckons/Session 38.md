@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-05-26T17:25:10.626+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-05-26T19:55:02.970+01:00"}
 ---
 
 **Session Date:** 25th May 2025 
@@ -7,9 +7,9 @@
 **A list Of Spells Cast In Sessions:** [[Admin/Spell Links\|Click Here]]
 
 # Session Summary 
-Fleeing from the Tulan Fort atop Sylva’s giant ice spider, the Party was nearly caught—until Halfbie used their Tome of Unfinished Stories to subtly rewrite reality, turning their would-be captors into vaguely disappointed bureaucrats. After being allowed to leave, Halfbie was suddenly struck by a poisoned arrow engraved with the name “Dave McDuffin.” Chenris, speaking through Halfbie’s memories, recognised it as a rare and lethal “Name Poison.” The group continued their journey until they encountered a bone-carved funeral carriage pulled by a stitched-together ox and flanked by robed, faceless attendants. A coffin marked “Do Not Open” sat atop the carriage.
+Fleeing from the Tulan Fort atop Sylva’s giant ice spider, the Party was nearly caught—until Halfbie used their Tome of Unfinished Stories to subtly rewrite reality, turning their would-be captors into vaguely disappointed bureaucrats. After being allowed to leave, Halfbie was suddenly struck by a poisoned arrow engraved with the name “Dave McDuffin.” Chenris, speaking through Halfbie, recognised it as a rare and lethal “Name Poison.” The group continued their journey until they encountered a bone-carved funeral carriage pulled by a stitched-together ox and flanked by robed, faceless attendants. A coffin marked “Do Not Open” sat atop the carriage.
 
-Compelled by a divine sense of ritual and foreboding magic, Halfbie (through Chenris) rang a rusted bell offered by one of the attendants. This unleashed a fragment of a dead god, which forced itself into Halfbie’s body, seemingly possessing them. Korrigan’s attempt to track the carriage failed as its trail vanished into the mist, but the Party quickly realised the possession was not just symbolic—it was the incubation of a divine entity. That night, they were surrounded by vampires who offered food and claimed they served an ancient god named Vaelrith, who predated even Aetherion, and now lived within Halfbie.
+Compelled by a divine sense of ritual and foreboding magic, Chenris (through Halfbie) rang a rusted bell offered by one of the attendants. This unleashed a fragment of a dead god, which forced itself into Halfbie’s body, seemingly possessing them. Korrigan’s attempt to track the carriage failed as its trail vanished into the mist, but the Party quickly realised the possession was not just symbolic—it was the incubation of a divine entity. That night, they were surrounded by vampires who offered food and claimed they served an ancient god named Vaelrith, who predated even Aetherion, and now lived within Halfbie.
 
 What followed was a horrific campaign of magical consumption. Halfbie was led through portals to devour entire taverns’ worth of food, silos of grain, and even livestock, much to Korrigan’s anguish. The vampires insisted this “feeding” was necessary to sustain and bring forth their god. Korrigan, Sylva, and Mordecai prepared for an operation to extract Vaelrith from Halfbie’s body. The next morning, the skies turned black and ominous bells tolled—the ritual had begun.
 
