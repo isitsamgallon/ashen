@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-05-26T17:15:40.198+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-05-26T17:25:10.626+01:00"}
 ---
 
 **Session Date:** 25th May 2025 
@@ -198,4 +198,5 @@ His eyes, glowing with that unearthly light, settled on the group.
 # Trivia & Notes
 - [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]] was not in present 
 - [[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]] was not present 
-
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] made a cool edit of the the last scene. Here it is:
+![[Session 38 Edit.mp3]]
