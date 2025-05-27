@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-27T12:19:26.301+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-27T12:48:29.604+01:00"}
 ---
 
 ![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -16,11 +16,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 > 
 > We have made a point of never officially putting daggers on people unless we are outright told by James or in an official text. 
 
-```html
+
 <iframe src="https://app.kanka.io/w/322252/maps/108114/explore" width="100%" height="300">
   <p>Your browser does not support iframes.</p>
 </iframe>
-```
+
 
 ![ZoomedOutMapOfAmberRealms.jpg](/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg)
 
