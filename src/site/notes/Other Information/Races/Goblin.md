@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-03-01T21:15:51.227+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-05-27T13:36:46.900+01:00"}
 ---
 
 
@@ -48,3 +48,10 @@ Not much is known about them apart from their simple minded nature and the fact 
 
 ### History
 The ealiest known account of them in [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]] where it was revealed that chief, [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]] joined forces with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]
+
+### Known Goblins 
+- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]]
+- [[Named Characters & Beasts/Bing †\|Bing †]]
+- [[Named Characters & Beasts/Jub\|Jub]]
+
+{ .block-language-dataview}

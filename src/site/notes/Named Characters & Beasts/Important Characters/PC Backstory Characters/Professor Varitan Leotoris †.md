@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2025-05-27T10:57:43.327+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2025-05-27T13:39:40.897+01:00"}
 ---
 
 

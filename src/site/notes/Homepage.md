@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-27T13:09:49.732+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-27T14:00:03.762+01:00"}
 ---
 
 ![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -22,7 +22,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 </iframe>
 
 
-![ZoomedOutMapOfAmberRealms.jpg](/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg)
+
 
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                                             |
@@ -76,20 +76,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Locations/The Deadlands\|The Deadlands]]
 - [[Homepage\|Homepage]]
-- [[Other Information/Races/Dragonborn\|Dragonborn]]
-- [[The Party/Other Party Members/Bruce\|Bruce]]
-- [[The Party/Other Party Members/Corvus\|Corvus]]
-- [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]
+- [[Other Information/Races/Inchlings\|Inchlings]]
+- [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]
+- [[Named Characters & Beasts/Dill Billington\|Dill Billington]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Other Information/Name Poison\|Name Poison]]
 - [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]
 - [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]
 - [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]
 - [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
-- [[Locations/The Deadlands\|The Deadlands]]
 
 { .block-language-dataview}
 
@@ -99,17 +99,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                    | Date of Tagging |
 | ----------------------------------------------------------------------- | --------------- |
-| [[Other Information/Races/Vampire\|Vampire]]                         | May 26, 2025    |
-| [[Other Information/Races/Inchlings\|Inchlings]]                     | May 26, 2025    |
-| [[Other Information/Races/Eladrin\|Eladrin]]                         | May 26, 2025    |
-| [[Other Information/Races/Dwarves\|Dwarves]]                         | May 26, 2025    |
-| [[Other Information/Races/Tiefling\|Tiefling]]                       | May 26, 2025    |
-| [[Other Information/Races/Gnomes\|Gnomes]]                           | May 26, 2025    |
-| [[Other Information/Races/Dragonborn\|Dragonborn]]                   | May 27, 2025    |
-| [[Other Information/Races/Halflings\|Halflings]]                     | May 26, 2025    |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | April 26, 2025  |
-| [[Named Characters & Beasts/Dave McDuffin\|Dave McDuffin]]           | May 25, 2025    |
-| [[Locations/The Deadlands\|The Deadlands]]                           | May 25, 2025    |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | May 27, 2025    |
 
 { .block-language-dataview}
 

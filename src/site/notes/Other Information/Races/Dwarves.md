@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/dwarves/","updated":"2025-05-26T14:52:06.410+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/dwarves/","updated":"2025-05-27T13:17:31.721+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
  >[!infobox]
 > 
 > #  Dwarves
@@ -19,7 +19,7 @@
 > Type | Stat |
 >  :----: | --- |
 >  Activity Cycle | N/A |
->  Average Lifespan | 350 Years |
+>  Average Lifespan | 150 Years |
 >  Language(s) | [Common](https://forgottenrealms.fandom.com/wiki/Common "Common"), [Dwarven](https://forgottenrealms.fandom.com/wiki/Dwarven_language "Dwarven language") |
 >  Vision | Darkvision |
 >  Homeland | Dwarven Empire ([[Locations/Verdant Peninsula\|Verdant Peninsula]]) |
@@ -37,12 +37,19 @@
 
 
 ### Overview
-
+Dwarves, sometimes called the **Stout Folk** and **Deep Folk**, were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship. Many of the dwarves were wiped out during fall of the [[History & Events/Grayfall Empire\|Grayfall Empire]]. 
 
 ### Attitudes & Beliefs
-
+No much is known about how the dwarves acted or what they believed in. 
 
 ### History
+- [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
+- [[History & Events/Grayfall Empire\|Grayfall Empire]]
 
+### Known Dwarves
+- [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Dhuggith Broadcloak †\|Dhuggith Broadcloak †]]
+- [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]]
+- [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall †\|Durdretrude Grayfall †]]
+- [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]
 
-### Locations Found
+{ .block-language-dataview}

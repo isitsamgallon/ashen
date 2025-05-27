@@ -11,7 +11,7 @@
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | [[Other Information/Races/Eladrin\|Eladrin]] |
+>  Race | [[Eladrin\|Eladrin]] |
 >  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
 >  Class | Wizard/ Artificer |
 >  Subclass | Order of Scribes/ Artillerist |

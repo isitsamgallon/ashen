@@ -44,12 +44,12 @@ The home nation of the [[Other Information/Races/Elves\|Elves]] in [[Locations/T
 | File                                                                                                                            | Home Town | Status  |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- |
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
-| [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
 | [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
-| [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn\|Mannnnnn]]                                                            | \-        | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
+| [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
+| [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |
 
 { .block-language-dataview}
 ### Static Map

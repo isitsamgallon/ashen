@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-05-25T23:09:19.985+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-05-27T13:31:26.554+01:00"}
 ---
 
 **Session Date:** 23rd Apr 2025 
@@ -106,7 +106,7 @@ Kerrigan began to stutter through a sentence about how he just wanted to show he
 
 "I believe you mentioned it briefly, but you were quite mysterious about the details. You shared that you're from there and hinted at having killed several people but didn't elaborate much. I'm still not sure about the whole story." She answered.
 
-"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Important Locations/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Other Information/Races/Humans\|humans]] and i can summon it!!" explained [[The Party/The Korrigan\|Korrigan]] excitedly.
+"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Important Locations/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Other Information/Races/Human\|Human]] and i can summon it!!" explained [[The Party/The Korrigan\|Korrigan]] excitedly.
 
 "I did see the horse. I do remember you used to talk about your sleep. You used to see stuff about A revolution against some king or something and see your dad. She said.
 

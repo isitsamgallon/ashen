@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/halos-goodbarrel/","tags":["NPC"],"updated":"2025-03-01T21:15:23.681+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/halos-goodbarrel/","tags":["NPC"],"updated":"2025-05-27T13:32:42.573+01:00"}
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/gnomes/","updated":"2025-05-26T14:52:49.957+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/gnomes/","updated":"2025-05-27T13:44:22.688+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
  >[!infobox]
 > 
 > #  Gnomes
@@ -50,3 +50,8 @@ Not enough is know about this race to enter this information
 
 ### Locations Found
 Not enough is know about this race to enter this information
+
+### Known Gnomes
+- [[Named Characters & Beasts/Captain Junior\|Captain Junior]]
+
+{ .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/oregano-billington/","tags":["NPC"],"updated":"2025-05-27T10:56:17.124+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/oregano-billington/","tags":["NPC"],"updated":"2025-05-27T13:58:19.258+01:00"}
 ---
 
 

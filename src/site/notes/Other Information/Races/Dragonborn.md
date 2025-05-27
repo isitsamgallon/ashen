@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/dragonborn/","updated":"2025-05-27T13:09:25.727+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/dragonborn/","updated":"2025-05-27T13:11:41.096+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
  >[!infobox]
 > 
 > #  Dragonborn
@@ -36,11 +36,13 @@
 
 
 ### Overview
-Humanoid dragons species Despite having no ancestral links to true dragons, the blood of particular dragon types ran in the different dragonborn clans, giving them the traits and some abilities of these types of dragons 
+Humanoid dragons species Despite having no ancestral links to true dragons, the blood of particular dragon types ran in the different dragonborn clans, giving them the traits and some abilities of these types of dragons. 
 
 ### Attitudes & Beliefs
+Dragonborn had a well-known dedication to honour, but how deeply rooted this trait was remains debatable. However, all dragonborn tended to view all living things, even hated enemies, as deserving of courtesy and respect. To dragonborn, honour was more than a word and was often considered more important than life itself. Cowardice was not simply undesirable among dragonborn, it was considered outright repulsive.
 
 ### Known Dragonborns
 - [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
 
 { .block-language-dataview}

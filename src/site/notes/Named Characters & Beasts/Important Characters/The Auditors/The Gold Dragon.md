@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/the-gold-dragon/","tags":["NPC","Important"],"updated":"2025-03-01T21:16:10.294+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/the-gold-dragon/","tags":["NPC","Important"],"updated":"2025-05-27T13:32:54.735+01:00"}
 ---
 
 

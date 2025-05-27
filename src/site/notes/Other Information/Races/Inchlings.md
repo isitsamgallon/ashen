@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2025-05-26T14:52:14.106+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2025-05-27T13:59:30.204+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
  >[!infobox]
 > 
 > #  Inchlings
@@ -27,25 +27,29 @@
 >##### Appearance
 > Type | Stat |
 >  :----: | --- |
->  Skin Colour(s) | - |
->  Hair Colour(s) | - |
->  Eye Colour(s) | - |
->  Average Height | - |
->  Average Weight | - |
->  Distinctions | - |
+Skin Colour(s) | Pale to dark brown |
+>  Hair Colour(s) | Blond, brown, black |
+>  Eye Colour(s) | Blue, brown, gray, green, hazel |
+>  Average Height | 1 Inch tall |
+>  Average Weight | Unknown |
+>  Distinctions | Incredibly Small |
 >
 >##### History
 >Type | Stat |
 >  :----: | --- |
->  Based on | - |
+>  Based on | [Smurfs](https://en.wikipedia.org/wiki/The_Smurfs) |
 
 ### Overview
-
+A race of tiny [[Other Information/Races/Human\|Human]] s native to the lands of the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. They're so small that puddles are considered massive lakes or ponds and they're known for living in mushrooms.
 
 ### Attitudes & Beliefs
+Inchlings are known for being quite naïve and unaware of the wider world around them as walking between trees could take them days. Inchlings are also known for living in a [Communistic Society](https://en.wikipedia.org/wiki/Communism)
 
+### Known Inchlings
+- [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]
+- [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]
+- [[Named Characters & Beasts/Sage Billington\|Sage Billington]]
+- [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]
+- [[Named Characters & Beasts/Dill Billington\|Dill Billington]]
 
-### History
-
-
-### Locations Found
+{ .block-language-dataview}

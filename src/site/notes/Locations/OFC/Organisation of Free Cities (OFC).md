@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-05-27T11:25:05.878+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-05-27T13:31:26.102+01:00"}
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | [[Other Information/Races/Humans\|Humans]] |
+>  Primary Race | [[Other Information/Races/Human\|Human]] |
 >  Founder | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] & Other Lords |
 >  Current Leader | [[Other Information/Display Tags/The Party\|The Party]] |
 >  ##### Cities & Towns 
@@ -42,17 +42,17 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 | File                                                                                                                                      | Home Town        | Status  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
-| [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
-| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
-| [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
-| [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
-| [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead    |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
+| [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
+| [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
 
 { .block-language-dataview}
 

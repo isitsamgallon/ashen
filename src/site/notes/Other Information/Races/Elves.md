@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-03-01T21:15:51.928+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-05-27T13:43:41.352+01:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 >##### Appearance
 > Type | Stat |
 >  :----: | --- |
->  Skin Colour(s) | Same range as [[Other Information/Races/Humans\|Humans]] plus shades of copper, bronze, and bluish-white |
+>  Skin Colour(s) | Same range as [[Other Information/Races/Human\|Human]] plus shades of copper, bronze, and bluish-white |
 >  Hair Colour(s) | Same as humans plus green and blue |
 >  Eye Colour(s) | Same as humans plus gold and silver |
 >  Average Height | 4′7″‒5′5″ (1.4‒1.7 m) |
@@ -53,7 +53,22 @@ Elves notably make frequent use of slaves, most likely captured during wars and 
 ### History
 Elves fought during [[History & Events/The Sundering\|The Sundering]] as their armies contained great mages and warriors.
 
-Elves and [[Other Information/Races/Humans\|Humans]] have fought many time, with the most recent being [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which took place a little bit before the campaign.
+Elves and [[Other Information/Races/Human\|Human]] have fought many time, with the most recent being [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which took place a little bit before the campaign.
 
 ### Locations Found
 - [[Locations/Ehobel/Ehobel\|Ehobel]]
+- [[Locations/Strixhaven\|Strixhaven]]
+
+### Known Elves
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]
+- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]
+- [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]
+- [[Named Characters & Beasts/Malin\|Malin]]
+- [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]
+
+{ .block-language-dataview}
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
+- [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
+
+{ .block-language-dataview}

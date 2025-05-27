@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-05-27T11:14:53.448+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-05-27T13:31:26.145+01:00"}
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | [[Other Information/Races/Humans\|Humans]] |
+>  Primary Race | [[Other Information/Races/Human\|Human]] |
 >  Founder | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] |
 >  ##### Notable NPCs
@@ -58,11 +58,9 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
 | [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
-| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Just Jack\|Just Jack]]                                                                             | Newhall               | Alive   |
 | [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                   | Newhall               | Alive   |
 | [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive   |
-| [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive   |
 | [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                            | Dawnhaven             | Alive   |
 | [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]                                                | Dawnhaven             | Unknown |
@@ -71,6 +69,8 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                           | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]                                                               | Dawnhaven             | Dead    |
+| [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive   |
+| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
 
 { .block-language-dataview}
 

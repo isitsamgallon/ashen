@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/halflings/","updated":"2025-05-26T14:53:07.132+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/halflings/","updated":"2025-05-27T13:35:41.222+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
  >[!infobox]
 > 
 > #  Halflings
@@ -40,12 +40,17 @@
 >  Based on | J. R. R. Tolkien's [hobbits](https://en.wikipedia.org/wiki/en:Halfling "wikipedia:en:Halfling") |
 
 ### Overview
-
+Halflings resemble  small humans and usually had the same proportions as the typical human adult. Most halflings had dark hair and eyes, regardless of their skin complexion which, although commonly ruddy in hue had a similar range to humans.
 
 ### Attitudes & Beliefs
+Halflings were by nature joyful and friendly in their dealings with others. Because they lived in a world where they were surrounded by larger creatures, halflings tended to avoid notice, often deliberately, or at the very least, acted cordial towards the larger [[Other Information/Races/Races\|races]]. Halflings appeared deceptively harmless, meaning they were often beyond the notice of enemies that might otherwise pose a threat to them.
 
+### Known Halflings
+- [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]
+- [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]
+- [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]
+- [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]
+- [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]
+- [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]
 
-### History
-
-
-### Locations Found
+{ .block-language-dataview}
