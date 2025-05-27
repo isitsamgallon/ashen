@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/dragonborn/","updated":"2025-05-26T14:52:56.867+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/dragonborn/","updated":"2025-05-27T13:09:25.727+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
@@ -36,12 +36,11 @@
 
 
 ### Overview
-
+Humanoid dragons species Despite having no ancestral links to true dragons, the blood of particular dragon types ran in the different dragonborn clans, giving them the traits and some abilities of these types of dragons 
 
 ### Attitudes & Beliefs
 
+### Known Dragonborns
+- [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]
 
-### History
-
-
-### Locations Found
+{ .block-language-dataview}

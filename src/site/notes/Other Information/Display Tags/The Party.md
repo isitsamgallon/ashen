@@ -10,10 +10,8 @@
 { .block-language-dataview}
 
 ### All Members
-| Name                                                    | Class   | Role      | Status       |
-| ------------------------------------------------------- | ------- | --------- | ------------ |
-| [[The Party/Other Party Members/Familiars/Bit\|Bit]] | None    | Companion | In The Party |
-| [[The Party/Other Party Members/Bruce\|Bruce]]       | Paladin | Companion | Travelling   |
-| [[The Party/Other Party Members/Corvus\|Corvus]]     | Unknown | Companion | Travelling   |
+| Name                                                    | Class | Role      | Status       |
+| ------------------------------------------------------- | ----- | --------- | ------------ |
+| [[The Party/Other Party Members/Familiars/Bit\|Bit]] | None  | Companion | In The Party |
 
 { .block-language-dataview}
