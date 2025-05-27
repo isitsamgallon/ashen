@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/lady-of-morak/","tags":["NPC"],"updated":"2025-03-01T21:15:57.389+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/lady-of-morak/","tags":["NPC"],"updated":"2025-05-27T10:57:24.048+01:00"}
 ---
 
 
@@ -11,3 +11,5 @@ The Lady of Morak was a noble dwarf who ruled [[Locations/Important Locations/M
 - The Lady nurtured her sons with unwavering affection, teaching them the values of unity and love despite their differences. She served as their anchor, fostering their growth into two distinct but inseparable individuals—one embodying light and warmth, the other shadow and intellect.
 - During [[History & Events/The Cleansing\|The Cleansing]], a devastating human campaign against the dwarves, [[Locations/Important Locations/Morak Hold\|Morak Hold]] fell. The Lady was killed amidst the chaos, leaving her sons to find her serene form in the rubble. Her death marked the breaking point for the brothers, sending them on divergent paths.
 - Her memory remained a central force in the lives of her sons, influencing their destinies. She is remembered as a figure of love, balance, and resilience, whose life and death shaped the legendary paths of her children.
+
+#ConfirmedDead

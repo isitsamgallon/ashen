@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-sundering-as-told-by-the-ashen-cult/","updated":"2025-03-01T21:15:09.814+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-sundering-as-told-by-the-ashen-cult/","updated":"2025-05-27T10:54:15.520+01:00"}
 ---
 
 Found in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 4\|Session 4]] in the [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]]. Describes [[History & Events/The Sundering\|The Sundering]] in a good light and how there are people that want to make sure it happens again. It also contains the first mention of [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] has been working tirelessly to translate the book from its original Ancient Dwarven to Common. Here is what has been translated so far:
@@ -65,7 +65,7 @@ P.2. The faithful followers of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], g
 
 6.1. As the final days of [[History & Events/The Sundering\|the Sundering]] approached, [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] led his army to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], the last bastion of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] Empire. [[Groups & Factions/The Coalition\|The Coalition]] defenders, led by heroes of great renown, prepared for a final stand against the inevitable.
 
-6.2. The siege was long and gruelling, yet the defenders fought valiantly. In a climactic battle, the heroes faced [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] himself. Despite their valour, the god's might proved overwhelming. Only through divine intervention or the ascension of mortal might did [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] pierce [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]'s heart, striking a blow against the god.
+6.2. The siege was long and gruelling, yet the defenders fought valiantly. In a climactic battle, the heroes faced [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] himself. Despite their valour, the god's might proved overwhelming. Only through divine intervention or the ascension of mortal might did [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] pierce [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]'s heart, striking a blow against the god.
 
 6.3. The defenders, though outnumbered and outmatched, held the line with unwavering courage. Their determination to protect [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] from the [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]]'s fiery wrath became a symbol of hope for the beleaguered coalition.
 

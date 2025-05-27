@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/azel/","tags":["NPC"],"updated":"2025-03-01T21:15:23.099+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/azel/","tags":["NPC"],"updated":"2025-05-27T10:57:16.242+01:00"}
 ---
 
 ### Overview
@@ -10,3 +10,5 @@ Azel owned and operated out of a hastily constructed church that operated as a s
 ### Notable Information & History 
 - When [[The Party/Mordecai Reverence\|Mordecai Reverence]] confronted him on his racist beliefs, Azel refused to call his beliefs racist and preferred to see what he did and said as helping the local community.
 - Azel and some of his followers where murdered by [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] when he was left to deal with Azel and his hate cult. 
+
+#ConfirmedDead

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2025-03-01T21:15:13.745+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2025-05-27T10:54:15.783+01:00"}
 ---
 
 > [!infobox]
@@ -35,7 +35,7 @@ Akin saw to it that the Auditors were trained in not only martial skill but also
 Each member of the Auditors has a piece of Akin, binding them to the same mission, a silent brotherhood sworn to uphold balance in all things. Their work would continue for centuries, their actions shaping the realm in ways unseen by common folk.
 
 # Known Business Partners
-- [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]]
+- [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]
 - [[Other Information/Display Tags/The Party\|The Party]] 
 
 # Trivia 

@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-03-01T21:16:00.757+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-05-27T11:18:45.253+01:00"}
 ---
 
-The capital city of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and home to [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]], The Emperor. Dawnhaven seems to be a very well-off area with buildings that look very well put together and pretty. The city takes on a different appearance once [[Other Information/Display Tags/The Party\|The Party]] goes off the main streets of the city as the wealth disparity becomes more and more evident. 
+### Overview
+Dawnhaven is the capital city of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and the residence of Emperor Galen Verix. The city appears prosperous, featuring well-constructed and attractive buildings. However, as [[Other Information/Display Tags/The Party\|The Party]] ventures off the main streets, the disparity in wealth becomes increasingly apparent.
 
-It was located at the north-west most point of The Dawn Empire contented before [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] and [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]] cast an incredibly complex spell that culminated in Dawnhaven disappearing from the map. It is currently unknown where it is now located.
+Dawnhaven is situated at the northwesternmost point of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. However, it disappeared at the end of [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]] due to an incredibly complex spell cast by [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] and [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]]. Its current location remains unknown.
 
 ### Known Locations & Affiliations
 - The Emperor's Palace 
@@ -14,4 +15,4 @@ It was located at the north-west most point of The Dawn Empire contented before 
 - An [[Groups & Factions/Adventurers Guild\|Adventurers Guild]]
 
 ### Trivia
-- When [[The Party/The Korrigan\|The Korrigan]] used to be a member of the Ivory Crest and operated in and around Dawnhaven.
+- When [[The Party/The Korrigan\|The Korrigan]] used to be a member of the [[Groups & Factions/Ivory Crest\|Ivory Crest]] and operated in and around Dawnhaven.

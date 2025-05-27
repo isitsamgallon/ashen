@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lord-ulan/","tags":["NPC"],"updated":"2025-03-01T21:15:22.949+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lord-ulan/","tags":["NPC"],"updated":"2025-05-27T10:56:30.900+01:00"}
 ---
 
 
@@ -8,3 +8,5 @@ Lord Ulan (his first name was never revealed) was the former lord of [[Locations
 
 ### Notable Information & History  
 - After investigating Steve's room, [[Other Information/Display Tags/The Party\|The Party]] found his diary describing his father as a very kind and caring man until some unknown event turned him into the sick and twisted man that he is now. 
+
+#ConfirmedDead

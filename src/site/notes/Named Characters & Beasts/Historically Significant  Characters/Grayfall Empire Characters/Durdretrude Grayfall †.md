@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/durdretrude-grayfall/","tags":["NPC"],"updated":"2025-03-01T21:16:10.096+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/durdretrude-grayfall/","tags":["NPC"],"updated":"2025-05-27T10:58:30.752+01:00"}
 ---
 
 
@@ -11,3 +11,5 @@ Durdretrude Grayfall was the founder of the [[History & Events/Grayfall Empire\
 - Under Durdretrude’s vision, the [[History & Events/Grayfall Empire\|Grayfall Empire]] adopted a policy of isolationism, avoiding interactions with other factions such as the [[Other Information/Races/Elves\|elves]] of [[Locations/Ehobel/Ehobel\|Ehobel]]. This seclusion shaped its politics and culture but limited its influence beyond its borders.
 - Durdretrude’s empire became a symbol of dwarven might, innovation, and dominance, setting the stage for future conflicts and internal strife as the empire's governance model and reliance on slavery sowed the seeds of its decline.
 - While the empire eventually collapsed in the [[History & Events/Eras/4th Era\|4th Era]], its legacy persisted through lessons of avarice, exploitation, and the eventual shift towards reconciliation under later leaders like [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]].
+
+#ConfirmedDead

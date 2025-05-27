@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"updated":"2025-04-26T18:53:07.613+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"updated":"2025-05-27T10:56:54.740+01:00"}
 ---
 
 
@@ -11,3 +11,5 @@ Damascus Klyn is the former leader of [[Locations/Important Locations/The Tulan 
 - He notably captured and tortured [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] 's lover, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] and took great delight in watching the first suffer as he forced the Dragonborn to choose if she or [[The Party/Mordecai Reverence\|Mordecai Reverence]] would live. 
 - He is an incredibly skilled fighter as shown when he seemingly effortlessly beat Drache many times in combat. 
 - He was only killed when [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]] betrayed him and shot him in the back of the head with a crossbow.
+
+#ConfirmedDead

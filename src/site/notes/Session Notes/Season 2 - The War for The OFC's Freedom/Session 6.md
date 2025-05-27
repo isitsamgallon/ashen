@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-6/","updated":"2025-03-01T21:16:03.498+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-6/","updated":"2025-05-27T10:54:18.414+01:00"}
 ---
 
 
@@ -34,7 +34,7 @@ The two big Rizzmeisters (Korrigan and Mordecai) drag Drache to the temple to as
 
 Chenris and Aidan went to the Knowledge lady’s temple and Chenris was offered the exact location of the wizard in exchange for him not remembering where he was from. Chenris renegotiated with the Goddess for a more general location of where Terrance was in exchange for his knowledge of his family home.
 
-They reconvene and go talk to [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] to talk politics. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] greets them there and warns them not to bullshit anything and Chenris does all the appropriate etiquette things because turns out he was a Nobel this entire time
+They reconvene and go talk to [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] to talk politics. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] greets them there and warns them not to bullshit anything and Chenris does all the appropriate etiquette things because turns out he was a Nobel this entire time
 
 ### First Meeting with The Emperor
 [[Other Information/Display Tags/The Party\|The Party]] first met him when summoned them through employing [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] and [[Groups & Factions/The Auditors\|The Auditors]], who he seems to have a long connection with. Verix, learning of the parties newfound leadership over the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] invited them over to tell them that he was going to walk into the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] and to accept his arrival or die trying to stop him. After some questions, it was eventually revealed he wanted the are because due to its strategic importance  in the fight against [[Locations/Ehobel/Ehobel\|Ehobel]] as well as it access to the seas. 

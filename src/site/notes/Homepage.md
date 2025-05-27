@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-26T17:30:02.964+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-05-27T12:19:26.301+01:00"}
 ---
 
 ![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -15,6 +15,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 > ‡ denotes that the circumstances around this character's death are strange or unusual.
 > 
 > We have made a point of never officially putting daggers on people unless we are outright told by James or in an official text. 
+
+```html
+<iframe src="https://app.kanka.io/w/322252/maps/108114/explore" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+```
 
 ![ZoomedOutMapOfAmberRealms.jpg](/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg)
 
@@ -56,8 +62,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
-| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
+| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | September 24, 2024 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
@@ -70,20 +76,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]]
 - [[Homepage\|Homepage]]
-- [[Groups & Factions/Prince of Fire\|Prince of Fire]]
-- [[Locations/OFC/OFC\|OFC]]
 - [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]
+- [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]
+- [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]
+- [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Groups & Factions/Prince of Fire\|Prince of Fire]]
 - [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]
 - [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]
 - [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]
 - [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
+- [[Locations/The Deadlands\|The Deadlands]]
 
 { .block-language-dataview}
 
@@ -93,7 +99,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                    | Date of Tagging |
 | ----------------------------------------------------------------------- | --------------- |
-| [[Groups & Factions/Prince of Fire\|Prince of Fire]]                 | May 26, 2025    |
 | [[Other Information/Races/Vampire\|Vampire]]                         | May 26, 2025    |
 | [[Other Information/Races/Inchlings\|Inchlings]]                     | May 26, 2025    |
 | [[Other Information/Races/Eladrin\|Eladrin]]                         | May 26, 2025    |

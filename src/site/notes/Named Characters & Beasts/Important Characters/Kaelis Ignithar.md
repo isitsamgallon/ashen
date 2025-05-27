@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/kaelis-ignithar/","tags":["Important","NPC"],"updated":"2025-04-23T21:03:48.322+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/kaelis-ignithar/","tags":["Important","NPC"],"updated":"2025-05-27T10:52:46.317+01:00"}
 ---
 
 
@@ -30,3 +30,5 @@ He is honoured in both magical and historical traditions as a visionary who soug
 
 ### Cultural Impact  
 Legends persist of a never-dying ember glowing in the ruins of Grayfall, believed by some to be the lingering essence of Kaelis himself. Whether myth or reality, Kaelis Ignithar is remembered as a symbol of brilliance, defiance, and enduring flame.
+
+#Perpetual #ImportantCharacter 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/humans/","updated":"2025-03-01T21:15:51.180+00:00"}
+{"dg-publish":true,"permalink":"/other-information/races/humans/","updated":"2025-05-27T10:54:17.637+01:00"}
 ---
 
  > [!infobox]
@@ -20,7 +20,7 @@
 >  Activity Cycle | Day |
 >  Average Lifespan | Less than a century |
 >  Language(s) | Common |
->  Rulers | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]], Various others, [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] (current) (?) |
+>  Rulers | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]], Various others, [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] (current) (?) |
 >
 >##### Appearance
 > Type | Stat |

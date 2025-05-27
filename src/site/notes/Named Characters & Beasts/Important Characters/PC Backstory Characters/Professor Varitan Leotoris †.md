@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2025-03-01T21:16:11.889+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2025-05-27T10:57:43.327+01:00"}
 ---
 
 
@@ -14,3 +14,5 @@ Leotoris was a professor at [[Locations/Strixhaven\|Strixhaven]], where he taugh
 
 ### Image of Leotoris' Last Problem
 ![Leotoris' Note.png](/img/user/Admin/Attachments/Leotoris'%20Note.png)
+
+#ConfirmedDead

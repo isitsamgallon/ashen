@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/enel-cubus/","tags":["NPC"],"updated":"2025-03-01T21:15:55.999+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/enel-cubus/","tags":["NPC"],"updated":"2025-05-27T10:57:58.775+01:00"}
 ---
 
 
@@ -8,3 +8,5 @@ The Dean of the [[Groups & Factions/Mage's Guild\|Mage's Guild]] is located in t
 
 ### Notable Information & History
 - It was later revealed in [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]] that Enel had been killed by [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] when he entered the island. 
+
+#ConfirmedDead

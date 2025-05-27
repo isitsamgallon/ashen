@@ -1,10 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/brotherhood-of-the-sun/","updated":"2025-03-01T21:15:12.959+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/brotherhood-of-the-sun/","updated":"2025-05-27T10:52:13.313+01:00"}
 ---
 
+> [!infobox]
+> 
+>  # Brotherhood Of The Sun
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  HQ | HQ |
+>  Alignment | Neutral(?) |
+>  Founder | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] |
+>  Current Leader | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] |
+>  ##### Key Members
+>   | File                                                                                   | Gender | Age     | Race        |
+> | -------------------------------------------------------------------------------------- | ------ | ------- | ----------- |
+> | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] | Male   | Ancient | Fire Genasi |
+> 
+{ .block-language-dataview}
 ### Overview
-A mysterious group that first appeared in [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]] when [[Other Information/Display Tags/The Party\|The Party]] was walking through [[Locations/The Dawn Empire/Dustwood\|Dustwood]]. They appeared in the town hall and began explaining how they believe everything should go back to how it was before [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] or even the [[History & Events/Grayfall Empire\|Grayfall Empire]]. They would like to see the world go back to a system reminiscent of a theocracy. 
+A mysterious group that first appeared in [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]] after the fall of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Initially the party assumed they were aligned with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] due to their clear flame motif. The group is actually personality cult around [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]], an ancient and powerful mage. 
 
-Due to their flame motif, it's are assumed to be aligned with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] or, in some cases, a sect of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. 
 
-### Notable Information & History 

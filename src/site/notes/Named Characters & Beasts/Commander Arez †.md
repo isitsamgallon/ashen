@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/commander-arez/","tags":["NPC"],"updated":"2025-03-01T21:15:20.318+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/commander-arez/","tags":["NPC"],"updated":"2025-05-27T10:57:01.184+01:00"}
 ---
 
 
@@ -9,3 +9,5 @@ A high-up Dragonborn commander in [[Locations/The Dawn Empire/The Dawn Empire\|T
 ### Notable Information & History 
 - From the way he fought and presented himself, Arez was a massive pervert who took great joy in killing and taunting his prey. He was killed, alongside [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]], in [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. 
 - His most memorable moment during the fight was when he counter-charmed [[The Party/The Korrigan\|The Korrigan]] and had him attack [[Other Information/Display Tags/The Party\|The Party]]. Korrigan was able to break free and ripped him apart with [Thorn Whip](https://www.dndbeyond.com/spells/thorn-whip) towards the end of the fight.
+
+#ConfirmedDead

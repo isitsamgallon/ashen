@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-03-01T21:15:25.153+00:00"}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-05-27T10:54:17.789+01:00"}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.
@@ -19,12 +19,12 @@ A list of all current, proven false and proven correct theories, as well as all 
 	- [ ] How does [[The Party/Aiden Knight\|Aiden Knight]] have time manipulation abilities?
 	- [ ] What is [[The Party/Halfbie\|Halfbie]]?
 - [ ] How did [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and [[Named Characters & Beasts/Genevieve †\|Genevieve †]] live for so long as humans?
-- [x] How did [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] live for so long? ✅ 2024-12-25
+- [x] How did [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] live for so long? ✅ 2024-12-25
 - [ ] Who is the [[Named Characters & Beasts/Illusion Master\|Illusion Master]]?
 - [ ] What made [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]] go mad?
 - [x] What happened to [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]]? ✅ 2024-12-25
 - [ ] Who is [[Named Characters & Beasts/Anselis\|Anselis]]
-- [ ] Why was [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] working with [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was it a part of his larger plan?
+- [ ] Why was [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] working with [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] was it a part of his larger plan?
 - [ ] Why does [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] come back every 50 years?
 - [ ] why did Xekai get angry at [[The Party/The Korrigan\|The Korrigan]] when they mentioned [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]?
 
@@ -42,8 +42,8 @@ A list of all current, proven false and proven correct theories, as well as all 
   
 ### Incorrect Theories
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] had a theory that each member of [[Other Information/Display Tags/The Party\|The Party]] would become associated with a God at the beginning of the campaign. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], [[The Party/Aiden Knight\|Aiden Knight]] with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[The Party/Wurinn Fuuldrusch\|Drache]] with [[Gods & Heralds/Eldros/Eldros\|Eldros]] or [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] - they just couldn't place [[The Party/Dead/Kal ‡\|Kal ‡]]
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thought [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was rewarded by a powerful group like [[Groups & Factions/The Auditors\|The Auditors]] for leading the charge in the sundering and keeping the balance of the gods. OR he found a way with dark magic to extend his life so he could be with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] before she rejected him for [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]].
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thought [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] was rewarded by a powerful group like [[Groups & Factions/The Auditors\|The Auditors]] for leading the charge in the sundering and keeping the balance of the gods. OR he found a way with dark magic to extend his life so he could be with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] before she rejected him for [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]].
 
 ### Correct Theories & Answers
-- [[Named Characters & Beasts/Important Characters/Galen Verix\|Galen Verix]] was a [[Other Information/Perpetual\|Perpetual]] because he was killed a long time ago and resurrected [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] - read [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]] to learn more
+- [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] was a [[Other Information/Perpetual\|Perpetual]] because he was killed a long time ago and resurrected [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] - read [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]] to learn more
 - [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] was killed on [[Locations/Itone Isles\|Itone Isles]] by [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]
