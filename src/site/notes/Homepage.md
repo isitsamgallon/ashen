@@ -76,11 +76,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]]
+- [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]
 - [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
 - [[The Party/Halfbie\|Halfbie]]
 - [[The Party/Dead/Kal ‡\|Kal ‡]]
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
-- [[The Party/Other Party Members/Corvus\|Corvus]]
 
 { .block-language-dataview}
 
