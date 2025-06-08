@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-05-27T13:04:48.117+01:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-06-08T19:50:54.120+01:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 >  Age | ~1300 (Mentally), 21(Physically) |
 >  Alignment | Seelie |
 >  Pronouns | Any |
->  Family | Unnamed Parents |
+>  Family | Unnamed Parents, [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]] (Child?) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

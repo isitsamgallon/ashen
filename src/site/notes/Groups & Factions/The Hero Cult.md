@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-hero-cult/","tags":["Groups"],"updated":"2025-03-01T21:15:14.591+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-hero-cult/","tags":["Groups"],"updated":"2025-05-30T12:44:58.019+01:00"}
 ---
 
 ### Overview
@@ -7,7 +7,7 @@ When [[Other Information/Display Tags/The Party\|The Party]] where travelling th
 
 This process inadvertently led to the formation of a cult around [[Other Information/Display Tags/The Party\|The Party]]. They went as far as to write hymns and sermons to praise [[Other Information/Display Tags/The Party\|the party]], much to their dismay. 
 
-### Notable Information & History 
+### Notable Information 
 - One of the main tenets of the cult is to try and follow in the footsteps of [[Other Information/Display Tags/The Party\|The Party]] as much as possible by spreading the ideas of tolerance and liberation. 
 - The cult sends out missionaries to as many towns and nations as possible to spread their message. Notably, none of the missionaries ever returned from [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] and [[Locations/Uvam Dynasty/Yokotori\|Yokotori]], most likely due to them mentioning [[The Party/Mordecai Reverence\|Mordecai Reverence]].
 - Most of [[Other Information/Display Tags/The Party\|the party]] hates the idea of the cult but ultimately sees it as a force for good since it spreads good values.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-03-01T21:15:48.727+00:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-05-30T12:46:31.501+01:00"}
 ---
 
 
@@ -18,5 +18,5 @@ The Inchling Kingdom is a tiny kingdom found in the forests near [[Locations/OFC
 
 { .block-language-dataview}
 
-### Notable Information & History
+### Notable Information
 - The kingdom was first visited in [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] 

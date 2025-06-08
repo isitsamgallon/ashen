@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-32/","updated":"2025-04-26T17:50:01.839+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-32/","updated":"2025-05-30T11:39:03.159+01:00"}
 ---
 
 **Session Date:** 18th Feb 2025 
@@ -110,7 +110,7 @@ As the night went on, [[Other Information/Display Tags/The Party\|The Party]] ha
 
 As they went to steal the necklace, [[The Party/Halfbie\|Halfbie]] woke up with an incredible hangover and asked why it looked like Mordecai was trying to steal from a dragon. Mordecai quick rushed to halfbie to shut them up incase they woke someone up and told them they were dreaming and to go back to bed. halfbie dint complain and went back to sleep. After successfully stealing the neckless, Mordecai work up the rest of [[Other Information/Display Tags/The Party\|The Party]], only to have [[The Party/Halfbie\|Halfbie]] explain how they had such a weird dream of Mordecai trying to steal an old neckless. Mordecai shushed them quickly before dragging them away from the field. Korrigan awoke with only a slight hangover and called out to [[The Party/Other Party Members/Familiars/Bit\|Bit]]s and [[The Party/Other Party Members/Familiars/Bobs\|Bobs]] but got no response. He then suddenly remembered how he had tried to resummon them[^7], but because he was too drunk, the summon didn't work correctly. after that his memory is not there. 
 
-to his horror something responded to his calls, a demon called [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]]. who slowly turned over next to him and asked if he wanted anything and when did they want to start planning their wedding. 
+to his horror something responded to his calls, a demon called [[Named Characters & Beasts/Beasts & Animals/Bronumas, The Devourer\|Bronumas, The Devourer]]. who slowly turned over next to him and asked if he wanted anything and when did they want to start planning their wedding. 
 
 
 # Trivia & Notes
@@ -129,6 +129,6 @@ to his horror something responded to his calls, a demon called [[The Party/Other
 
 [^5]: Their constitution check was at disadvantage and they rolled a Nat 1
 
-[^6]: This is in reference to the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 5\|Session 5]].
+[^6]: This is in reference to the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 05\|Session 05]].
 
 [^7]: They were both destroyed during the fight with the [[Named Characters & Beasts/Aspect of Ebis Daro\|Aspect of Ebis Daro]].

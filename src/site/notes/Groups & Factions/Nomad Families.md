@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/nomad-families/","updated":"2025-04-26T18:40:36.822+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/nomad-families/","updated":"2025-05-30T12:44:56.457+01:00"}
 ---
 
 > [!infobox]
@@ -16,5 +16,5 @@
 ### Overview
 Large families that live in [[Locations/The Desert/The Desert\|The Desert]]. The families often have enough wealth and power to own military forces to defend their villages. It is not currently known how many families their are or what they're like. 
 
-### Notable Information & History
-- They were first mentioned by the Clerk at [[Locations/The Desert/The Great Wall\|The Great Wall]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
+### Notable Information
+- They were first mentioned by the Clerk at [[Locations/The Desert/The Great Wall\|The Great Wall]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session Notes/Season 4 - Ignatius Beckons/Session 37]]

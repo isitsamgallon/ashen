@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-05-26T15:01:59.402+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-05-30T12:50:18.832+01:00"}
 ---
 
 There are several deities that watch over [[Locations/The Amber Realms\|The Amber Realms]] there is no distinction between the moral standing of these deities, they all do as they want. This means that the inhabitants of  [[Locations/The Amber Realms\|The Amber Realms]] often see these deities as fickle, though this is not the truth as they plan and scheme and often have agendas they wish to fulfil." - extract from [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]].
@@ -15,5 +15,5 @@ There are several deities that watch over [[Locations/The Amber Realms\|The Ambe
 | [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]   | - The Compassionate One<br>- Bringer of Health                                                | [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]]                                | Unknown               |
 | [[Gods & Heralds/Somnora/Somnora\|Somnora]]     | - The Keeper of Dreams and Memories                                                           | [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]](?)                         | Unknown               |
 | [[Gods & Heralds/Lyira/Lyira\|Lyira]]       | The Goddess of Lust and Love                                                                  | Unknown                                             | Unknown               |
-| [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]    | The God of Death                                                                              | Unknown                                             | Unknown               |
+| [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]    | The God of Death, [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]                                                    | Unknown                                             | Unknown               |
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-31/","updated":"2025-05-27T13:31:26.286+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-31/","updated":"2025-05-30T11:39:03.115+01:00"}
 ---
 
 **Session Date:** 9th Feb 2025 
@@ -82,7 +82,7 @@ The headmaster nodded and murmured that that was just going to have to do withou
 
 [^4]: Korrigan is unable to wear/ touch iron/ most metals, so this was one of the few things he could buy and use. 
 
-[^5]: This happened in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 5\|Session 5]] 
+[^5]: This happened in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 05\|Session 05]] 
 
 [^6]: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] explained that it would be a similar sight to [The Wizard of Oz](https://en.wikipedia.org/wiki/Wizard_of_Oz_(character))
 

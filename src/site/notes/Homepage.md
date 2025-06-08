@@ -62,8 +62,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
-| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
+| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | September 24, 2024 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
@@ -76,11 +76,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Locations/The Deadlands\|The Deadlands]]
-- [[Homepage\|Homepage]]
-- [[Other Information/Races/Inchlings\|Inchlings]]
-- [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]
-- [[Named Characters & Beasts/Dill Billington\|Dill Billington]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
+- [[The Party/Halfbie\|Halfbie]]
+- [[The Party/Dead/Kal ‡\|Kal ‡]]
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
+- [[The Party/Other Party Members/Corvus\|Corvus]]
 
 { .block-language-dataview}
 
@@ -97,9 +97,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                    | Date of Tagging |
-| ----------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | May 27, 2025    |
+| Note                                                                                                                                         | Date of Tagging |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                      | May 27, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | May 30, 2025    |
+| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | May 30, 2025    |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/grom/","tags":["NPC"],"updated":"2025-03-01T21:15:19.517+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/grom/","tags":["NPC"],"updated":"2025-05-30T12:09:15.344+01:00"}
 ---
 
 
@@ -8,3 +8,9 @@
 
 ### Appearance 
 ![grom.png](/img/user/Admin/Attachments/grom.png)
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

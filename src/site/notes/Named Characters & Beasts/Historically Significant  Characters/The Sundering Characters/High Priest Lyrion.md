@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/high-priest-lyrion/","tags":["NPC"],"updated":"2025-03-01T21:16:08.821+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/high-priest-lyrion/","tags":["NPC"],"updated":"2025-05-30T12:01:02.072+01:00"}
 ---
 
 
@@ -15,4 +15,10 @@ L.1. True devotion to [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] is found in
 The world is tainted by corruption and sin. Only through fire can it be cleansed. We, [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]], are the instruments of this purification. Our duty is to spread the holy fire, to burn away the old and make way for the new.
 
 ### On the Return of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]
-[[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]'s return is inevitable. Though his physical form was struck down, his essence remains eternal. We must remain vigilant, ever faithful, and ever ready to welcome him back. In his return, the world shall be reborn in divine fire.
+[[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] 's return is inevitable. Though his physical form was struck down, his essence remains eternal. We must remain vigilant, ever faithful, and ever ready to welcome him back. In his return, the world shall be reborn in divine fire.
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

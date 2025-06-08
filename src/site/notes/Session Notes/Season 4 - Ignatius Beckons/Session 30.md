@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-30/","updated":"2025-05-27T10:54:19.578+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-30/","updated":"2025-05-30T11:39:13.164+01:00"}
 ---
 
 **Session Date:** 29th Jan 2025 
@@ -146,7 +146,7 @@ As the chefs presented a small buffet of tadpoles and berries, many Inchlings ut
 
 [^3]: This was said in [[Session Notes/Season 3 - The Worst Diplomates/Session 24\|Session 24]]
 
-[^4]: They're talking about the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 9\|Session 9]].
+[^4]: They're talking about the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 09\|Session 09]].
 
 [^5]: He is referring to the events of [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 10\|Session Notes/Season 2 - The War for The OFC's Freedom/Session 10]] when party members tried to listen into his conversation with [[The Party/Mordecai Reverence\|Mordecai]] about the [[Other Information/Races/Tiefling\|Tiefling]] secretly. 
 

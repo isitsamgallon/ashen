@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-05-27T13:04:33.377+01:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-05-30T13:31:14.547+01:00"}
 ---
 
  > [!infobox]
@@ -17,7 +17,7 @@
 >  | Age | Late 20s |
 >  | Alignment | Seelie |
 >  | Pronouns | He/ Him |
->  | Family | Unclear, [[The Party/Other Party Members/Bronumas, The Devourer\|Bronumas, The Devourer]] (Divorced) |
+>  | Family | Unclear, [[Named Characters & Beasts/Beasts & Animals/Bronumas, The Devourer\|Bronumas, The Devourer]] (Divorced) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

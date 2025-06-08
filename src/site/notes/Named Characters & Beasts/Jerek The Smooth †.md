@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jerek-the-smooth/","tags":["NPC"],"updated":"2025-05-27T10:56:47.569+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jerek-the-smooth/","tags":["NPC"],"updated":"2025-05-30T12:09:47.855+01:00"}
 ---
 
 
@@ -10,5 +10,11 @@ A part of a small level 1 adventuring party made up of completely [[Other Inform
 - [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]
 - [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]
 - [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}
 
 #ConfirmedDead

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/illusion-master/","tags":["NPC"],"updated":"2025-03-01T21:15:19.332+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/illusion-master/","tags":["NPC"],"updated":"2025-05-30T12:09:41.607+01:00"}
 ---
 
 
@@ -8,5 +8,11 @@ A mysterious figure [[Other Information/Display Tags/The Party\|The Party]] met 
 
 During their time in [[Locations/Ehobel/Caalona\|Caalona]], Chenris met the man, or an illusion of him, where he was offered the aforementioned deal. The mage was offering to give the whole party protection from even the Gods and their perfect lives if they would stay inside the illusion. Chenris refused and then left. 
 
-### Notable Information & History 
-It is theorised that the mage might be one of [[Groups & Factions/The Auditors\|The Auditors]] or even a [[Gods & Heralds/Herald\|Herald]] of some God. His final remarks detailed how they would probably meet again, he just hoped it wouldn't be on opposite sides of the battlefield. 
+### Notable Information & Theories 
+- It is theorised that the mage might be one of [[Groups & Factions/The Auditors\|The Auditors]] or even a [[Gods & Heralds/Herald\|Herald]] of some God. His final remarks detailed how they would probably meet again, he just hoped it wouldn't be on opposite sides of the battlefield. 
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

@@ -1,9 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/niall-thornwood/","tags":["NPC"],"updated":"2025-04-21T19:53:42.144+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/niall-thornwood/","tags":["NPC"],"updated":"2025-05-30T12:02:12.795+01:00"}
 ---
 
 
 ### Overview
-[[The Party/Mordecai Reverence\|Mordecai Reverence]]'
+#INFORMATION_MISSING_OR_OUT-OF-DATE 
 
-### Notable Information & History 
+### Notable Information
+
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

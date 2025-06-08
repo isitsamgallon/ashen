@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/azel/","tags":["NPC"],"updated":"2025-05-27T10:57:16.242+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/azel/","tags":["NPC"],"updated":"2025-05-30T12:46:10.032+01:00"}
 ---
 
 ### Overview
@@ -7,8 +7,14 @@ Sometime before [[History & Events/The War for the OFC's Freedom\|The War for th
 
 Azel owned and operated out of a hastily constructed church that operated as a soup kitchen to give meals and shelter to all who would listen to what he had to say.
 
-### Notable Information & History 
+### Notable Information 
 - When [[The Party/Mordecai Reverence\|Mordecai Reverence]] confronted him on his racist beliefs, Azel refused to call his beliefs racist and preferred to see what he did and said as helping the local community.
 - Azel and some of his followers where murdered by [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] when he was left to deal with Azel and his hate cult. 
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}
 
 #ConfirmedDead

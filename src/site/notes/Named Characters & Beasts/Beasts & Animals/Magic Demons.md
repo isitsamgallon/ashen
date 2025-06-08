@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/magic-demons/","tags":["NPC"],"updated":"2025-03-01T21:15:57.237+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/magic-demons/","tags":["NPC"],"updated":"2025-05-30T11:59:10.478+01:00"}
 ---
 
 
@@ -11,3 +11,9 @@ in [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]], [[Other
 It seems that the [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]] retain some of their memories and personalities after their creations, as two of [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]'s friends were turned into these creatures and came back to haunt him and turn him mad. 
 
 [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] seems to be affiliated with them.
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}
