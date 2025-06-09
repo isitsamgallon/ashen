@@ -8,7 +8,6 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------------------------- |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]                                                              | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]                   | Uvam Dynasty                 | Minatota                    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon 2\|Arwen Gryffon 2]]               | Uvam Dynasty                 | Minatota                    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | Uvam Dynasty                 | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]                                                           | The Emerald Fort             | The Emerald Fort            |
@@ -20,9 +19,7 @@
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                                           | <ul><li>Ehobel</li></ul>     | Ishnmel                     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                                           | The Tulan Fort               | The Tulan Fort              |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]                   | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris † 2\|Professor Varitan Leotoris † 2]]               | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Uvam Dynasty                 | Yokotori                    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood 2\|Robert Thornwood 2]]         | Uvam Dynasty                 | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                                     | The Desert                   | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                                                                   | Lost Haven                   | Lost Haven                  |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                                                | OFC                          | Steelwick                   |

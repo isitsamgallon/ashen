@@ -10,7 +10,6 @@ Here is a list of all current known groups and f within the campaign
 - [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]
 - [[Groups & Factions/Halos Emporium\|Halos Emporium]]
 - [[Groups & Factions/Ivory Crest\|Ivory Crest]]
-- [[Groups & Factions/Ivory Crest 2\|Ivory Crest 2]]
 - [[Groups & Factions/Mage's Guild\|Mage's Guild]]
 - [[Groups & Factions/Merchant Guild\|Merchant Guild]]
 - [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]

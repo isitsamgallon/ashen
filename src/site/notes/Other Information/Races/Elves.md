@@ -61,7 +61,6 @@ Elves and [[Other Information/Races/Human\|Human]] have fought many time, with t
 
 ### Known Elves
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris † 2\|Professor Varitan Leotoris † 2]]
 - [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]
 - [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]
 - [[Named Characters & Beasts/Malin\|Malin]]
@@ -69,7 +68,6 @@ Elves and [[Other Information/Races/Human\|Human]] have fought many time, with t
 
 { .block-language-dataview}
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon 2\|Arwen Gryffon 2]]
 - [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 

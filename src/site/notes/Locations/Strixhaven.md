@@ -15,15 +15,14 @@
 >  Founder | Unknown |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]] |
 >  ##### Key Members
->   | File                                                                                                                                         | Gender | Age   | Race       |
-> | -------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- |
-> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]     | Male   | Adult | Elf        |
-> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris † 2\|Professor Varitan Leotoris † 2]] | Male   | Adult | Elf        |
-> | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                     | Male   | Adult | Human      |
-> | [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]]                                                     | Male   | Adult | Human      |
-> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                     | Male   | Adult | Human      |
-> | [[Named Characters & Beasts/The Barista Dragon\|The Barista Dragon]]                                                                      | Male   | Adult | Red Dragon |
-> | [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                             | Male   | Adult | Half-Elf   |
+>   | File                                                                                                                                     | Gender | Age   | Race       |
+> | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- |
+> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | Male   | Adult | Elf        |
+> | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Male   | Adult | Human      |
+> | [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]]                                                 | Male   | Adult | Human      |
+> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                 | Male   | Adult | Human      |
+> | [[Named Characters & Beasts/The Barista Dragon\|The Barista Dragon]]                                                                  | Male   | Adult | Red Dragon |
+> | [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                         | Male   | Adult | Half-Elf   |
 > 
 { .block-language-dataview}
 
