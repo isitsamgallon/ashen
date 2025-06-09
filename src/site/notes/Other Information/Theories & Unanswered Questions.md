@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-05-27T10:54:17.789+01:00"}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-06-08T20:44:21.104+01:00"}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.
@@ -23,7 +23,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [ ] Who is the [[Named Characters & Beasts/Illusion Master\|Illusion Master]]?
 - [ ] What made [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]] go mad?
 - [x] What happened to [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]]? ✅ 2024-12-25
-- [ ] Who is [[Named Characters & Beasts/Anselis\|Anselis]]
+- [ ] Who is [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
 - [ ] Why was [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] working with [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] was it a part of his larger plan?
 - [ ] Why does [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] come back every 50 years?
 - [ ] why did Xekai get angry at [[The Party/The Korrigan\|The Korrigan]] when they mentioned [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]?
@@ -36,7 +36,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks that the [[Books, Documents & Artefacts/Artefacts/Crown of Trues Sight\|Crown of Trues Sight]] is currently held by [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]].
 - Sam thinks the Heragon from [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]] could be the druid [[Other Information/Display Tags/The Party\|The Party]] met ages ago.
 - [[Named Characters & Beasts/Illusion Master\|Illusion Master]] is one of [[Groups & Factions/The Auditors\|The Auditors]]
-- [[Named Characters & Beasts/Anselis\|Anselis]] is a member of [[Groups & Factions/The Auditors\|The Auditors]]
+- [[Named Characters & Beasts/Nehzahr\|Nehzahr]] is a member of [[Groups & Factions/The Auditors\|The Auditors]]
 - [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] was the one behind [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]'s resurrection 
 - [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] was behind [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] resurrection 
   

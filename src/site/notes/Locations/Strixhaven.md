@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-05-30T11:39:02.702+01:00"}
+{"dg-publish":true,"permalink":"/locations/strixhaven/","updated":"2025-06-09T21:18:16.251+01:00"}
 ---
 
 
@@ -15,13 +15,15 @@
 >  Founder | Unknown |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]] |
 >  ##### Key Members
->   | File                                                                                                                                     | Gender | Age   | Race       |
-> | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- |
-> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] | Male   | Adult | Elf        |
-> | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                 | Male   | Adult | Human      |
-> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                 | Male   | Adult | Human      |
-> | [[Named Characters & Beasts/The Barista Dragon\|The Barista Dragon]]                                                                  | Male   | Adult | Red Dragon |
-> | [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                         | Male   | Adult | Half-Elf   |
+>   | File                                                                                                                                         | Gender | Age   | Race       |
+> | -------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- |
+> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]     | Male   | Adult | Elf        |
+> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris † 2\|Professor Varitan Leotoris † 2]] | Male   | Adult | Elf        |
+> | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                     | Male   | Adult | Human      |
+> | [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]]                                                     | Male   | Adult | Human      |
+> | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                     | Male   | Adult | Human      |
+> | [[Named Characters & Beasts/The Barista Dragon\|The Barista Dragon]]                                                                      | Male   | Adult | Red Dragon |
+> | [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                             | Male   | Adult | Half-Elf   |
 > 
 { .block-language-dataview}
 
@@ -34,7 +36,7 @@ University stood as a breathtaking testament to the convergence of magic and kno
 ### History & Other Information
 - Sometime after [[History & Events/The Sundering\|The Sundering]] the university was researching [[Other Information/Display Tags/The Towers\|The Towers]] and initiated a research study that involved students being turned into pure magic and sent to [[Locations/The Realm of Mana\|The Realm of Mana]] to mine crystals, inadvertently creating [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]].
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] is known to have a dark past with the university when his beloved [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] sacrificed himself to save Chenris in a dungeon field trip. This act ultimately led to chenris being banned from the university. 
-- Members of Strixhaven were first seen when [[Other Information/Display Tags/The Party\|The Party]] left [[Gods & Heralds/Chronovorus/The Black Forest\|The Black Forest]] and burned down a building in [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 01\|Session 01]]. 
+- Members of Strixhaven were first seen when [[Other Information/Display Tags/The Party\|The Party]] left [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]] and burned down a building in [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 01\|Session 01]]. 
 - Strixhaven mages appeared out of nowhere and gave Chenris an evil eye before putting out the fire and leaving. 
 - They were later seen spying on [[Other Information/Display Tags/The Party\|The Party]] when they had made camp in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 02\|Session 02]]. 
 - [[Other Information/Display Tags/The Party\|The Party]] officially met Strixhaven mages in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 03\|Session 03]] when they came to investigate the[[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]] under [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. 

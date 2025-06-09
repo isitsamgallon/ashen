@@ -19,6 +19,7 @@
 > | ----------------------------------------- | ------ | ----- | ----- |
 > | [[Named Characters & Beasts/Mau\|Mau]] | Male   | Adult | Human |
 > | [[The Party/Dead/Kal ‡\|Kal ‡]]        | \-     | \-    | Human |
+> | [[The Party/Dead/Kal ‡ 2\|Kal ‡ 2]]    | \-     | \-    | Human |
 > 
 { .block-language-dataview}
 

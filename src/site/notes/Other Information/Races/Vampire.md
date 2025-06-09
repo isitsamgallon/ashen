@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/vampire/","updated":"2025-05-30T11:57:45.761+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/vampire/","updated":"2025-06-08T20:20:01.548+01:00"}
 ---
 
 
@@ -44,11 +44,11 @@ Vampires enjoyed finer things in unlife and engaged in decadent behavior, often 
 
 ### History
 - [[The Party/The Korrigan\|The Korrigan]] befriended a small group of vampires in [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]
-- A large group of vampires helped [[The Party/Halfbie\|Halfbie]] when they absorbed the [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]]
+- A large group of vampires helped [[The Party/Halfbie\|Halfbie]] when they absorbed the [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session Notes/Season 4 - Ignatius Beckons/Session 38]]
 
 ### Known Vampires
-- [[Named Characters & Beasts/Calathus\|Calathus]]
 - [[Named Characters & Beasts/Cosmo\|Cosmo]]
+- [[Named Characters & Beasts/Calathus\|Calathus]]
 - [[Named Characters & Beasts/Veranius\|Veranius]]
 
 { .block-language-dataview}

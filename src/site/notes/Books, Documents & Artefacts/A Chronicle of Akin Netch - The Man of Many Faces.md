@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/a-chronicle-of-akin-netch-the-man-of-many-faces/","updated":"2025-03-01T21:15:11.796+00:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/a-chronicle-of-akin-netch-the-man-of-many-faces/","updated":"2025-06-08T20:44:20.952+01:00"}
 ---
 
 
-Written by [[Named Characters & Beasts/Anselis\|Anselis]] of the [[Groups & Factions/Ebon Quill\|Ebon Quill]], Keeper of Forgotten Lore
+Written by [[Named Characters & Beasts/Nehzahr\|Nehzahr]] of the [[Groups & Factions/Ebon Quill\|Ebon Quill]], Keeper of Forgotten Lore
 
 # Chapter I: The Faceless Saviour
 In the annals of forgotten heroes, few are as enigmatic and revered as [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]], the man of many faces. His story is one steeped in mystery, sacrifice, and boundless will—a tale that spans the realm from its greatest heights to its deepest shadows. Born in an age where gods and mortals walked the same lands, Akin's life was shaped by a world teetering on the brink of divine interference.

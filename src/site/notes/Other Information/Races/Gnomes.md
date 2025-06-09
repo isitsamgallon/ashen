@@ -53,5 +53,6 @@ Not enough is know about this race to enter this information
 
 ### Known Gnomes
 - [[Named Characters & Beasts/Captain Junior\|Captain Junior]]
+- [[Named Characters & Beasts/Captain Junior 2\|Captain Junior 2]]
 
 { .block-language-dataview}

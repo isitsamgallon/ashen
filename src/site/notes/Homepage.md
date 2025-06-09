@@ -25,18 +25,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Sessions
-| Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                                       |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                                                                          |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                                               |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                                                                       |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] | Season 4 - Ignatius Beckons | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure.                 |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]] | Season 4 - Ignatius Beckons | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                                         |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]] | Season 4 - Ignatius Beckons | The party learned the truth about their identities, with Halfbie coming face-to-face with the ghost of Chenris, and Korrigan's buried memories triggering a dangerous vendetta. After a brutal battle against an Aspect of Ebis Daro and the loss of Obeus, the night spiraled into drunken chaos, ending with Korrigan accidentally betrothing himself to a demon. |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]] | Season 4 - Ignatius Beckons | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                                                                              |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] | Season 4 - Ignatius Beckons | After executing Malin, Halfbie is accidentally flung into the Feywild, where he survives for centuries before Korrigan rescues him. The party then journeys onward, grappling with morality, confronting past traumas, and discovering the tiny but vibrant Inchling Kingdom.                                                                                       |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]] | Season 4 - Ignatius Beckons | The party uncovered secrets about a fiery cult, Halfbie’s eerie connection to Chenris, and the true roles of gods like Eldros. Conflicts over trust and desperation for answers brought tensions but also cryptic wisdom for the journey ahead.                                                                                                                     |
+| Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 44\|Session 44]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                               |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                               |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                       |
+| [[Session Notes/Session 39\|Session 39]]                             | Season 4 - Ignatius Beckons | \-                                                                                                                                                                                                                                                                                                                                                  |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                       |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                                                          |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                               |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                                                       |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] | Season 4 - Ignatius Beckons | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure. |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]] | Season 4 - Ignatius Beckons | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                         |
 
 { .block-language-dataview}
 ### Books & Documents Reading List
@@ -54,6 +54,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 | Book/ Document                                                                                                                                               | Reading Priority | Location found                                                                        | Date Found         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------------ |
+| [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | June 09, 2025      |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
@@ -76,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]]
-- [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
-- [[The Party/Halfbie\|Halfbie]]
-- [[The Party/Dead/Kal ‡\|Kal ‡]]
+- [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+- [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]
+- [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]]
+- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
+- [[Gods & Heralds/Herald\|Herald]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Other Information/Name Poison\|Name Poison]]
-- [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]
-- [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]
-- [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]
-- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
+- [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]
+- [[Gods & Heralds/Vaelrith/The Still Lands\|The Still Lands]]
+- [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]]
+- [[Gods & Heralds/Seraphina/The Sanctum Of Mercy\|The Sanctum Of Mercy]]
+- [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]]
 
 { .block-language-dataview}
 
@@ -100,8 +101,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | Note                                                                                                                                         | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                      | May 27, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | May 30, 2025    |
 | [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | May 30, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | May 30, 2025    |
 
 { .block-language-dataview}
 
