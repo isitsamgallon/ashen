@@ -6,16 +6,13 @@
 The name is given to the group of people that travel with [[Other Information/Display Tags/The Party\|The Party]] but don't engage with them day-to-day. They can often be found at a nearby town/ Inn.
 
 ### Current Companions
-| File                                                                             | Class   | Role      | Status                       |
-| -------------------------------------------------------------------------------- | ------- | --------- | ---------------------------- |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] | Cleric  | Companion | <ul><li>Missing</li></ul>    |
-| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                          | None    | Companion | In The Party                 |
-| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter | Companion | Travelling                   |
-| [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin | Companion | Travelling                   |
-| [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown | Companion | Travelling                   |
-| [[The Party/Other Party Members/Corvus 2\|Corvus 2]]                          | Unknown | Companion | <ul><li>Travelling</li></ul> |
-| [[The Party/Other Party Members/Bruce 2\|Bruce 2]]                            | Paladin | Companion | <ul><li>Travelling</li></ul> |
-| [[The Party/Other Party Members/Steve Ulan 2\|Steve Ulan 2]]                  | Fighter | Companion | <ul><li>Travelling</li></ul> |
+| File                                                                             | Class   | Role      | Status                    |
+| -------------------------------------------------------------------------------- | ------- | --------- | ------------------------- |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] | Cleric  | Companion | <ul><li>Missing</li></ul> |
+| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                          | None    | Companion | In The Party              |
+| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                      | Fighter | Companion | Travelling                |
+| [[The Party/Other Party Members/Bruce\|Bruce]]                                | Paladin | Companion | Travelling                |
+| [[The Party/Other Party Members/Corvus\|Corvus]]                              | Unknown | Companion | Travelling                |
 
 { .block-language-dataview}
 

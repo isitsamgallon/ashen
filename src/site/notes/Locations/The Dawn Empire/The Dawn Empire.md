@@ -71,8 +71,6 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]                                                | Dawnhaven             | Unknown |
 | [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                            | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Captain Junior 2\|Captain Junior 2]]                                                               | Dustwood              | Alive   |
-| [[Named Characters & Beasts/Malin 2\|Malin 2]]                                                                                 | The All Father Temple | Alive   |
 
 { .block-language-dataview}
 

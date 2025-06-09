@@ -66,9 +66,6 @@ Elves and [[Other Information/Races/Human\|Human]] have fought many time, with t
 - [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]
 - [[Named Characters & Beasts/Malin\|Malin]]
 - [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]
-- [[Named Characters & Beasts/Folre Enelion IV Esquire 2\|Folre Enelion IV Esquire 2]]
-- [[Named Characters & Beasts/Ms. Adrei 2\|Ms. Adrei 2]]
-- [[Named Characters & Beasts/Malin 2\|Malin 2]]
 
 { .block-language-dataview}
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]

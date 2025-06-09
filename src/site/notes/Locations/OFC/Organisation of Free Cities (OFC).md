@@ -53,7 +53,6 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
-| [[The Party/Other Party Members/Steve Ulan 2\|Steve Ulan 2]]                                                                           | Steelwick        | Alive   |
 
 { .block-language-dataview}
 

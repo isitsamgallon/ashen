@@ -51,8 +51,6 @@ The home nation of the [[Other Information/Races/Elves\|Elves]] in [[Locations/T
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn †\|Mannnnnn †]]                                                        | \-        | Dead    |
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn\|Mannnnnn]]                                                            | \-        | Alive   |
-| [[Named Characters & Beasts/Folre Enelion IV Esquire 2\|Folre Enelion IV Esquire 2]]                                         | Enelion   | Alive   |
-| [[Named Characters & Beasts/Ms. Adrei 2\|Ms. Adrei 2]]                                                                       | \-        | Alive   |
 
 { .block-language-dataview}
 ### Static Map
