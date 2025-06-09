@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-06-09T21:27:52.796+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-06-09T22:13:42.141+01:00"}
 ---
 
 > [!infobox]
@@ -17,7 +17,7 @@
 > | Pronouns | He/ Him |
 > | Celestial Realm | [[Gods & Heralds/Ignatius/The Crucible Eternal\|The Crucible Eternal]] |
 
-> "AND THERE ROSE IGNATIUS, THE BURNING BLADE, Whose armor was forged in the crucible of wrath, and Whose sword was flame eternal. Upon the earth he Brought judgment, his footsteps thunder, his fury Sanctified by fire, that the impure might be purged."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
+> "AND THERE ROSE IGNATIUS, THE BURNING BLADE, Whose Armor was forged in the crucible of wrath, and Whose sword was flame eternal. Upon the earth he Brought judgment, his footsteps thunder, his fury Sanctified by fire, that the impure might be purged."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 
 ### Overview
 Ignatius is a living furnace of war and will, encased in Crimson and gold armor that pulses with inner fire. Towering and wrathful, he is the embodiment of conflict Forged into purpose - not chaos, but cleansing flame. His sword is a roaring truth, and his presence demands Action, forcing the world to choose between fear and Defiance. He does not rest, for the battle never truly Ends.

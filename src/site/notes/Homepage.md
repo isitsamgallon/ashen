@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]
 - [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
 - [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]
 - [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]]
 - [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
-- [[Gods & Heralds/Herald\|Herald]]
 
 { .block-language-dataview}
 
