@@ -47,8 +47,8 @@ Vampires enjoyed finer things in unlife and engaged in decadent behavior, often 
 - A large group of vampires helped [[The Party/Halfbie\|Halfbie]] when they absorbed the [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session Notes/Season 4 - Ignatius Beckons/Session 38]]
 
 ### Known Vampires
-- [[Named Characters & Beasts/Cosmo\|Cosmo]]
 - [[Named Characters & Beasts/Calathus\|Calathus]]
 - [[Named Characters & Beasts/Veranius\|Veranius]]
+- [[Named Characters & Beasts/Cosmo\|Cosmo]]
 
 { .block-language-dataview}

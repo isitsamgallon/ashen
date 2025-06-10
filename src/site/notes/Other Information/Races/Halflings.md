@@ -50,7 +50,7 @@ Halflings were by nature joyful and friendly in their dealings with others. Beca
 - [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]
 - [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]
 - [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]
-- [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]
 - [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]
+- [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]
 
 { .block-language-dataview}
