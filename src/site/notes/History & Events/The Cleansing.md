@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/the-cleansing/","updated":"2025-05-27T10:54:16.029+01:00"}
+dg-publish: true
 ---
+The event where [[Redmund Verix †]] led a human revolt against the [[Grayfall Empire]] who had been keeping them slaves. It took place at the turn of the [[5th Era]]. It was an incredibly bloody conflict which saw the merciless killing of any dwarves found whether they were good or bad. The Cleansing eventually led to the formation of [[The Dawn Empire]], led by Redmund's distant son, [[Galen Verix ‡]].
 
-The event where [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] led a human revolt against the [[History & Events/Grayfall Empire\|Grayfall Empire]] who had been keeping them slaves. It took place at the turn of the [[History & Events/Eras/5th Era\|5th Era]]. It was an incredibly bloody conflict which saw the merciless killing of any dwarves found whether they were good or bad. The Cleansing eventually led to the formation of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], led by Redmund's distant son, [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]].
-
-In [[Session Notes/Season 3 - The Worst Diplomates/Session 24\|Session 24]], [[Other Information/Display Tags/The Party\|The Party]] learned that [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] was one last few places left for the dwarves to survive on the [[Locations/Verdant Peninsula\|Verdant Peninsula]] before that was eventually taken over as well. The last of the Dwarves were evacuated by [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]] to what is now known as [[Locations/Fort Moldan\|Fort Moldan]].
+In [[Session 24]], [[The Party]] learned that [[Iron Forge]] was one last few places left for the dwarves to survive on the [[Verdant Peninsula]] before that was eventually taken over as well. The last of the Dwarves were evacuated by [[Werrec Whitshield]] to what is now known as [[Fort Moldan]].
