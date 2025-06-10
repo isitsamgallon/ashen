@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ishnmel/ishnmel/","tags":["Discovered"],"updated":"2025-03-01T21:16:07.470+00:00"}
+dg-publish: true
+Nation: Ehobel
+tags:
+  - Discovered
+icon: place
 ---
-
-The Capital city of [[Locations/Ehobel/Ehobel\|Ehobel]] and home to [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] and the [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]. [[Locations/Ehobel/Irs Thalor\|Irs Thalor]] used to be the capital of [[Locations/Ehobel/Ehobel\|Ehobel]] but the cite was moved to be around the tower to make it easier to defend. [[Other Information/Display Tags/The Party\|The Party]] first visited in an attempt to create a trade deal between the lands of [[Locations/Ehobel/Ehobel\|Ehobel]] and the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] after [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]].
+The Capital city of [[Ehobel]] and home to [[The Tower of Ishnmel]] and the [[Ashira Yelris †]]. [[Irs Thalor]] used to be the capital of [[Ehobel]] but the cite was moved to be around the tower to make it easier to defend. [[The Party]] first visited in an attempt to create a trade deal between the lands of [[Ehobel]] and the [[Organisation of Free Cities (OFC)|OFC]] after [[The War for the OFC's Freedom]].

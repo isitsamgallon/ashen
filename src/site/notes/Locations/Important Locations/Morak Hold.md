@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/important-locations/morak-hold/","tags":["Undiscovered"],"updated":"2025-03-01T21:15:47.494+00:00"}
+dg-publish: true
+Nation: Dwarven Empire
+tags:
+  - Undiscovered
+icon: place
 ---
-
-The setting for [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]] 
+The setting for [[The Unbroken Coin - A Tale of Two Brothers]] 

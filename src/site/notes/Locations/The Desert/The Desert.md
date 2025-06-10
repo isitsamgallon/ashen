@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/the-desert/","tags":["Undiscovered"],"updated":"2025-04-25T08:31:53.274+01:00"}
+dg-publish: true
+Nation: The Desert
+tags:
+  - Undiscovered
+icon: place
 ---
-
-A large desert is found to the south of [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]] and [[Locations/Ehobel/Ehobel\|Ehobel]]. This Desert is home to [[Locations/The Desert/Ember Peak\|Ember Peak]], where [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] was first able to enter [[Locations/The Amber Realms\|the Amber Realms]], thanks to [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]. 
+A large desert is found to the south of [[the Dawn Empire]] and [[Ehobel]]. This Desert is home to [[Ember Peak]], where [[Ignatius]] was first able to enter [[the Amber Realms]], thanks to [[The Ashen Cult]]. 

@@ -1,53 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Discovered"],"updated":"2025-03-01T21:15:54.547+00:00"}
+dg-publish: true
+tags:
+  - Discovered
+Nation: Uvam Dynasty
+icon: place
 ---
-
 > [!infobox]
 > 
-> # Uvam Dynasty
-> ![The_Dawn_Empire_Map.jpg](/img/user/Admin/Attachments/The_Dawn_Empire_Map.jpg)
+> # `=this.file.name`
+> ![[The_Dawn_Empire_Map.jpg]]
 > ###### Basic Information
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | [[Other Information/Races/Tiefling\|Tiefling]] |
+>  Primary Race | [[Tiefling]] |
 >  Founder | Unknown  |
 >  Current Leader | None |
 >  ##### Cities & Towns 
->   | File                                                                          | Discovery Status               |
-> | ----------------------------------------------------------------------------- | ------------------------------ |
-> | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                             | <ul><li>Discovered</li></ul>   |
-> 
-{ .block-language-dataview}
+>  ```dataview
+>  table tags as "Discovery Status"
+>  From "Locations"
+>  WHERE contains( Nation, this.file.name)
+>  ```
 
-A nation found to the south of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Its architecture is based on [Edo Period Japan](https://en.wikipedia.org/wiki/Edo_period). Uvam is an [Anarchist Nation](https://en.wikipedia.org/wiki/Anarchy) with many of the towns and people free to do what they want, leading to them being extremely different from one another. Long ago they all banded together under one banner and each contributed forces for a standing army.  [[The Party/Mordecai Reverence\|Mordecai Reverence]] spent a long time in the region and has a particularly dark past associated with [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] and its de facto leader, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]].
+A nation found to the south of [[The Dawn Empire]]. Its architecture is based on [Edo Period Japan](https://en.wikipedia.org/wiki/Edo_period). Uvam is an [Anarchist Nation](https://en.wikipedia.org/wiki/Anarchy) with many of the towns and people free to do what they want, leading to them being extremely different from one another. Long ago they all banded together under one banner and each contributed forces for a standing army.  [[Mordecai Reverence]] spent a long time in the region and has a particularly dark past associated with [[Minatota]] and its de facto leader, [[Arwen Gryffon]].
 
-[[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] and [[Locations/Ehobel/Ehobel\|Ehobel]] share a large bridge that connects them called the [[Locations/Goldpass Bridge\|Goldpass Bridge]] which is used for trade between the two nations. 
+[[Uvam Dynasty]] and [[Ehobel]] share a large bridge that connects them called the [[Goldpass Bridge]] which is used for trade between the two nations. 
 
 ### Geography
-Uvam is a relatively small nation found towards the south of the [[Locations/Verdant Spine\|Verdant Spine]]. The land is known for its vibrant grass, gentle hills and maple trees, a unique feature only found in this nation.
+Uvam is a relatively small nation found towards the south of the [[Verdant Spine]]. The land is known for its vibrant grass, gentle hills and maple trees, a unique feature only found in this nation.
 
 ### NPCs From The Uvam Dynasty
-| File                                                                                                                                                       | Home Town | Status |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
-| [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                                              | Minatota  | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]               | Yokotori  | Dead   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Yokotori  | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]         | Yokotori  | \-     |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
+```dataview
+TABLE town as "Home Town", Status as "Status"
+FROM #NPC
+WHERE Nation = "Uvam Dynasty" 
 
-{ .block-language-dataview}
+```
 ### Static Map
-![Uvam_Dynasty_Map.jpg](/img/user/Admin/Attachments/Uvam_Dynasty_Map.jpg)
+![[Uvam_Dynasty_Map.jpg]]
 
 ### Interactive Map (Unavailable Online)
 ``` leaflet

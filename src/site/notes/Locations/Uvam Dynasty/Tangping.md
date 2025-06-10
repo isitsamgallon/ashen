@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/tangping/","tags":["Undiscovered"],"updated":"2025-03-01T21:15:54.657+00:00"}
+dg-publish: true
+tags:
+  - Undiscovered
+Nation: Uvam Dynasty
+icon: place
 ---
-
-A town in [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
+A town in [[Uvam Dynasty]]

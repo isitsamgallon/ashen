@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-amber-realms/","tags":["Display"],"updated":"2025-03-01T21:15:16.895+00:00"}
+dg-publish: true
+tags:
+  - Display
+icon: place
 ---
-
 ### Static Map
-![ZoomedOutMapOfAmberRealms.jpg](/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg)
+![[ZoomedOutMapOfAmberRealms.jpg]]
 
 ### Interactive Map (Unavailable Online)
 
