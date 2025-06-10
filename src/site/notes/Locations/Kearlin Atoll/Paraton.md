@@ -1,13 +1,10 @@
 ---
-tags:
-  - Undiscovered
-Nation: Kearlin Atoll
-dg-publish: true
-icon: place
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/paraton/","tags":["Undiscovered"],"updated":"2025-05-30T12:46:18.909+01:00"}
 ---
 
+
 ### Overview
-A town found in [[Kearlin Atoll]].
+A town found in [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]].
 
 ### Notable Information 
-- [[Halfbie]] is originally from here
+- [[The Party/Halfbie\|Halfbie]] is originally from here

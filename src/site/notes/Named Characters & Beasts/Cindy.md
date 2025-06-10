@@ -1,25 +1,13 @@
 ---
-tags:
-  - NPC
-Nation: Uvam Dynasty
-town: Minatota
-Status: Alive
-dg-publish: true
-icon: npc
-age: Adult
-race: Tiefling
-gender: Female
-faction: 
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/cindy/","tags":["NPC"],"updated":"2025-05-30T12:07:46.923+01:00"}
 ---
 
+
 ### Overview
-A [[tiefling]] in [[Minatota]] that had heard of [[Terence Witherfeather]] working in [[Nightshade's Crown]].
+A [[Other Information/Races/Tiefling\|tiefling]] in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] that had heard of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] working in [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]].
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

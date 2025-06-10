@@ -1,32 +1,29 @@
 ---
-dg-publish: true
-tags:
-  - Groups
-icon: group
-Nation: Uvam Dynasty
-town: Uvam Dynasty
+{"dg-publish":true,"permalink":"/groups-and-factions/fruit-cutters/","tags":["Groups"],"updated":"2025-05-30T12:45:00.945+01:00"}
 ---
+
 > [!infobox]
 > 
-> # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
+> # Fruit Cutters
+> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### Basic Information
 > 
 >  Type | Info |
 > :----: | --- |
->  HQ | Every Town in [[Uvam Dynasty]] |
+>  HQ | Every Town in [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] |
 >  Alignment | Various depending on the town |
 >  Founder | Unknown |
 >  Current Leader | Various depending on the town |
 >  ##### Key Members
->  ```dataview
->  table gender as "Gender", age as "Age",  race as "Race"
->  WHERE contains(faction, this.file.name)
->  ```
+>   | File                                                                                                                                               | Gender | Age         | Race     |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------- | -------- |
+> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]] | Male   | Young Adult | Tiefling |
+> 
+{ .block-language-dataview}
 
 ### Overview
 
 
 ### Notable Information
 
-A group of Samurai from the [[Uvam Dynasty]] have been tasked with finding and capturing [[Mordecai Reverence]]. First encountered in [[Session 24]]
+A group of Samurai from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] have been tasked with finding and capturing [[The Party/Mordecai Reverence\|Mordecai Reverence]]. First encountered in [[Session Notes/Season 3 - The Worst Diplomates/Session 24\|Session 24]]

@@ -1,12 +1,11 @@
 ---
-dg-publish: true
-Nation: The Forts
-icon: place
+{"dg-publish":true,"permalink":"/locations/important-locations/the-emerald-fort/","updated":"2025-03-01T21:15:47.625+00:00"}
 ---
-A mercenary fort that used to be led by [[Genevieve †]] and is the rival to [[The Tulan Fort]]. It is located far east of [[The Dawn Empire]] and is the closest point to [[Lost Haven]] by sea. It is described as a sprawling city of people with many of them acting as standing soldiers for their leader, [[Genevieve †]], whose family have run the fort for 1000s of years. With [[Genevieve †]] herself running it for at least 200 years. It notably sided with the [[Organisation of Free Cities (OFC)|OFC]] during [[The War for the OFC's Freedom]] and was a part of [[The Coalition]] during [[The Sundering]].
+
+A mercenary fort that used to be led by [[Named Characters & Beasts/Genevieve †\|Genevieve †]] and is the rival to [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]]. It is located far east of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and is the closest point to [[Locations/Important Locations/Lost Haven\|Lost Haven]] by sea. It is described as a sprawling city of people with many of them acting as standing soldiers for their leader, [[Named Characters & Beasts/Genevieve †\|Genevieve †]], whose family have run the fort for 1000s of years. With [[Named Characters & Beasts/Genevieve †\|Genevieve †]] herself running it for at least 200 years. It notably sided with the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]] and was a part of [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]].
 
 ### Known Members
-- [[Genevieve †]] (Former Leader, Killed in war)
-- [[Emmeline]] (Former)
+- [[Named Characters & Beasts/Genevieve †\|Genevieve †]] (Former Leader, Killed in war)
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] (Former)
 - Various Officers (Assumed)
 - 600 Troops

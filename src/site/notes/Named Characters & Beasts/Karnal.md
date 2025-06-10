@@ -1,29 +1,17 @@
 ---
-tags:
-  - NPC
-Nation:
-  - Unknown/Unclear
-town: Unknown/Unclear
-dg-publish: true
-icon: npc
-Status: Dead
-age: Adult
-race: Human
-gender: Male
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/karnal/","tags":["NPC"],"updated":"2025-05-30T12:45:20.435+01:00"}
 ---
 
+
 ### Overview
-An avid adventurer who had exploded most of [[The Amber Realms]] and was even revealed to be involved in many things that [[The Party]] had done. including fighting in [[The War for the OFC's Freedom]] and joining the [[Fruit Cutters]] in the hunt for [[Mordecai Reverence]]. He was killed by an [[Orcs|Orc]] called [[Wartooth]]. 
+An avid adventurer who had exploded most of [[Locations/The Amber Realms\|The Amber Realms]] and was even revealed to be involved in many things that [[Other Information/Display Tags/The Party\|The Party]] had done. including fighting in [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]] and joining the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]] in the hunt for [[The Party/Mordecai Reverence\|Mordecai Reverence]]. He was killed by an [[Orcs\|Orc]] called [[Named Characters & Beasts/Wartooth\|Wartooth]]. 
 
 ### Notable Information 
-- He was first mentioned when [[The Party]] encountered his friends mourning his death by burning his body and singing/ partying. 
-- [[The Party]] promised that they would get revenge for them if they ever encountered [[Wartooth]] on their travels. 
+- He was first mentioned when [[Other Information/Display Tags/The Party\|The Party]] encountered his friends mourning his death by burning his body and singing/ partying. 
+- [[Other Information/Display Tags/The Party\|The Party]] promised that they would get revenge for them if they ever encountered [[Named Characters & Beasts/Wartooth\|Wartooth]] on their travels. 
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

@@ -1,30 +1,26 @@
 ---
-tags: 
-Nation: 
-town: 
-dg-publish: true
-icon: group
-aliases:
-  - Prince of Fire
+{"dg-publish":true,"permalink":"/groups-and-factions/brotherhood-of-the-sun/","updated":"2025-05-27T10:52:13.313+01:00"}
 ---
+
 > [!infobox]
 > 
->  # `=this.file.name`
-> ![[ImagePlaceholder.png]]
+>  # Brotherhood Of The Sun
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### Basic Information
 > 
 >  Type | Info |
 > :----: | --- |
 >  HQ | HQ |
 >  Alignment | Neutral(?) |
->  Founder | [[Kaelis Ignithar]] |
->  Current Leader | [[Kaelis Ignithar]] |
+>  Founder | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] |
+>  Current Leader | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] |
 >  ##### Key Members
->  ```dataview
->  table gender as "Gender", age as "Age",  race as "Race"
->  WHERE contains( faction, "Brotherhood Of The Sun")
->  ```
+>   | File                                                                                   | Gender | Age     | Race        |
+> | -------------------------------------------------------------------------------------- | ------ | ------- | ----------- |
+> | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] | Male   | Ancient | Fire Genasi |
+> 
+{ .block-language-dataview}
 ### Overview
-A mysterious group that first appeared in [[Session 29]] after the fall of [[The Dawn Empire]]. Initially the party assumed they were aligned with [[Ignatius]] due to their clear flame motif. The group is actually personality cult around [[Kaelis Ignithar]], an ancient and powerful mage. 
+A mysterious group that first appeared in [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]] after the fall of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Initially the party assumed they were aligned with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] due to their clear flame motif. The group is actually personality cult around [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]], an ancient and powerful mage. 
 
 

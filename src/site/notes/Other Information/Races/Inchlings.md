@@ -46,10 +46,10 @@ A race of tiny [[Other Information/Races/Human\|Human]] s native to the lands of
 Inchlings are known for being quite naïve and unaware of the wider world around them as walking between trees could take them days. Inchlings are also known for living in a [Communistic Society](https://en.wikipedia.org/wiki/Communism)
 
 ### Known Inchlings
-- [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]
 - [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]
-- [[Named Characters & Beasts/Sage Billington\|Sage Billington]]
-- [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]
 - [[Named Characters & Beasts/Dill Billington\|Dill Billington]]
+- [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]
+- [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]
+- [[Named Characters & Beasts/Sage Billington\|Sage Billington]]
 
 { .block-language-dataview}

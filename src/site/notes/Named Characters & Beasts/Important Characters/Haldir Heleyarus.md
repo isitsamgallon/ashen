@@ -1,29 +1,13 @@
 ---
-tags:
-  - NPC
-  - Important
-type:
-  - important
-Nation:
-  - Strixhaven
-town: Strixhaven Residential Area
-Status: Alive
-dg-publish: true
-age: Adult
-race: Human
-gender: Male
-icon: vip
-faction: Strixhaven
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/haldir-heleyarus/","tags":["NPC","Important"],"updated":"2025-05-30T12:06:02.577+01:00"}
 ---
 
+
 ### Overview
-Archmage and Headmaster of [[Strixhaven]], Academy of Magics.
+Archmage and Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics.
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

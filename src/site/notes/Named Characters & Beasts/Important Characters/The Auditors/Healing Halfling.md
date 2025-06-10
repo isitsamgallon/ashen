@@ -1,29 +1,16 @@
 ---
-tags:
-  - NPC
-  - Important
-Nation: Unknown/Unclear
-town: Unknown/Unclear
-dg-publish: true
-aliases: 
-age: Adult
-race: Halfling
-gender: Female
-icon: vip
-faction: The Auditors
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/healing-halfling/","tags":["NPC","Important"],"updated":"2025-05-30T12:03:59.446+01:00"}
 ---
 
+
 ### Overview
-An unnamed halfling and a member of [[The Auditors]] [[The Party]] first met in [[Session 22]] when [[the party]] first escaped from [[The Pyramid]]. She was summoned by [[Xekai]] to heal [[the party]] after narrowly escaping with their lives.
+An unnamed halfling and a member of [[Groups & Factions/The Auditors\|The Auditors]] [[Other Information/Display Tags/The Party\|The Party]] first met in [[Session Notes/Season 3 - The Worst Diplomates/Session 22\|Session 22]] when [[Other Information/Display Tags/The Party\|the party]] first escaped from [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]. She was summoned by [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] to heal [[Other Information/Display Tags/The Party\|the party]] after narrowly escaping with their lives.
 
 ### Notable Information
-- in [[Session 27]], she was revealed to be a member of [[The Auditors]] when she was spotted through the [[Xekai]] 's portal discussing the next steps after [[Uti †]] death.
+- in [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]], she was revealed to be a member of [[Groups & Factions/The Auditors\|The Auditors]] when she was spotted through the [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] 's portal discussing the next steps after [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] death.
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

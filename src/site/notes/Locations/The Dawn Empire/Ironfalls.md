@@ -1,9 +1,5 @@
 ---
-dg-publish: true
-city type: 
-Nation: The Dawn Empire
-tags:
-  - Undiscovered
-icon: place
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/ironfalls/","tags":["Undiscovered"],"updated":"2025-03-01T21:15:53.124+00:00"}
 ---
-A town in [[The Dawn Empire]]
+
+A town in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]

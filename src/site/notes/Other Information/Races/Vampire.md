@@ -48,7 +48,7 @@ Vampires enjoyed finer things in unlife and engaged in decadent behavior, often 
 
 ### Known Vampires
 - [[Named Characters & Beasts/Calathus\|Calathus]]
-- [[Named Characters & Beasts/Veranius\|Veranius]]
 - [[Named Characters & Beasts/Cosmo\|Cosmo]]
+- [[Named Characters & Beasts/Veranius\|Veranius]]
 
 { .block-language-dataview}

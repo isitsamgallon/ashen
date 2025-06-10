@@ -1,25 +1,13 @@
 ---
-tags:
-  - NPC
-Nation: The Desert
-town: Ember Peak
-Status: Alive
-dg-publish: true
-icon: npc
-age: Adult
-race: Goblin
-gender: Male
-faction: 
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/chatiz/","tags":["NPC"],"updated":"2025-05-30T12:00:50.245+01:00"}
 ---
 
+
 ### Overview
-A Goblin general from the age of [[The Sundering]] who chose to align with [[Ignatius]] to help preserve his tribe. He even sacrificed his eldest son to prove that he was willing to do what it took and to show his loyalty. Now allied, [[The Goblin Resistance]] of [[The Ashen Cult]], disrupted coalition supply lines, weakening the resolve of their foes.
+A Goblin general from the age of [[History & Events/The Sundering\|The Sundering]] who chose to align with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] to help preserve his tribe. He even sacrificed his eldest son to prove that he was willing to do what it took and to show his loyalty. Now allied, [[Groups & Factions/The Goblin Resistance\|The Goblin Resistance]] of [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]], disrupted coalition supply lines, weakening the resolve of their foes.
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

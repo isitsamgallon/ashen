@@ -1,22 +1,20 @@
 ---
-dg-publish: true
-icon: group
-Nation: The Desert
-town:
+{"dg-publish":true,"permalink":"/groups-and-factions/nomad-families/","updated":"2025-05-30T12:44:56.457+01:00"}
 ---
+
 > [!infobox]
 > 
-># `=this.file.name`
-> ![[Bedine_and_D'tarig.webp|cover hsmall]]
+># Nomad Families
+> ![Bedine_and_D'tarig.webp|cover hsmall](/img/user/Admin/Attachments/Bedine_and_D'tarig.webp)
 >  ##### Key Members
->  ```dataview
->  table gender as "Gender", age as "Age",  race as "Race"
->  WHERE contains(faction, this.file.name)
->  ```
+>   | File | Gender | Age | Race |
+> | ---- | ------ | --- | ---- |
+> 
+{ .block-language-dataview}
 
 
 ### Overview
-Large families that live in [[The Desert]]. The families often have enough wealth and power to own military forces to defend their villages. It is not currently known how many families their are or what they're like. 
+Large families that live in [[Locations/The Desert/The Desert\|The Desert]]. The families often have enough wealth and power to own military forces to defend their villages. It is not currently known how many families their are or what they're like. 
 
 ### Notable Information
-- They were first mentioned by the Clerk at [[The Great Wall]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 37]]
+- They were first mentioned by the Clerk at [[Locations/The Desert/The Great Wall\|The Great Wall]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session Notes/Season 4 - Ignatius Beckons/Session 37]]

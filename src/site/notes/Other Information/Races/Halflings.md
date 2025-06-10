@@ -46,11 +46,11 @@ Halflings resemble  small humans and usually had the same proportions as the typ
 Halflings were by nature joyful and friendly in their dealings with others. Because they lived in a world where they were surrounded by larger creatures, halflings tended to avoid notice, often deliberately, or at the very least, acted cordial towards the larger [[Other Information/Races/Races\|races]]. Halflings appeared deceptively harmless, meaning they were often beyond the notice of enemies that might otherwise pose a threat to them.
 
 ### Known Halflings
-- [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]
-- [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]
 - [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]
+- [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]
 - [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]
-- [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]
 - [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]
+- [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]
 
 { .block-language-dataview}

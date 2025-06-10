@@ -1,17 +1,14 @@
 ---
-dg-publish: true
-race: Herald
-icon: god
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/angel-under-the-well/","updated":"2025-05-30T13:04:36.091+01:00"}
 ---
+
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 
-Angel under the well in [[Newhall]]
+Angel under the well in [[Locations/The Dawn Empire/Newhall\|Newhall]]
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 07\|Session 07]] | It was terrifyingly fast and strong, moving through the battle field with relative easy and it landed heavy blows of magic and steel. The party fought valiantly, almost defeating the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]] of an unknown god to them. They however did not survive, with Aidan being the last one standing due to rogues being known for their ability to evade damage. Once all of the party went down a voice echoed in their and the herald's head that said "No this is not where their story ends" and healed them the party and the herald back to full health. The herald spoke to the party in the common tongue, disgusted at having to use such a vile language and said that they best leave not interfere with its plans or suffer the consequences |
+
+{ .block-language-dataview}

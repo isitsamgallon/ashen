@@ -1,21 +1,17 @@
 ---
-tags:
-  - Discovered
-Nation: The Realm of The Gods
-town: Aeloria's Domain
-dg-publish: true
-icon: god
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-plane/","tags":["Discovered"],"updated":"2025-06-09T21:17:42.270+01:00"}
 ---
-![[Screenshot 2025-06-09 181520.png]] 
 
-> "AND LO, THOSE WHO SOUGHT THE LIGHT DID walk the fields of gold, where thought knew no end and truth bloomed without root. In the halls of glass they laboured, not in toil, but in reverence-for knowledge was their altar, and revelation their reward."" <cite> Book of [[Aeloria]], Verse 17 :4 </cite>
+![Screenshot 2025-06-09 181520.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181520.png) 
+
+> "AND LO, THOSE WHO SOUGHT THE LIGHT DID walk the fields of gold, where thought knew no end and truth bloomed without root. In the halls of glass they laboured, not in toil, but in reverence-for knowledge was their altar, and revelation their reward."" <cite> Book of [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], Verse 17 :4 </cite>
 
 ### Overview
-The Golden Plane is the divine realm of [[Aeloria]], a radiant afterlife where knowledge is eternal and the pursuit of truth never ends. It stretches infinitely Beneath a sky of shifting constellations- each star a concept, memory, or forgotten truth waiting to be rediscovered. The land itself is serene and ordered: vast Fields of golden grass ripple with unseen winds, whispering lessons to those who listen. Rivers of liquid light wind through crystalline valleys, flowing with divine inspiration and pure thought. Trees bear fruit that grants fleeting glimpses into hidden wisdom, but Each bite poses a question in return.
+The Golden Plane is the divine realm of [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], a radiant afterlife where knowledge is eternal and the pursuit of truth never ends. It stretches infinitely Beneath a sky of shifting constellations- each star a concept, memory, or forgotten truth waiting to be rediscovered. The land itself is serene and ordered: vast Fields of golden grass ripple with unseen winds, whispering lessons to those who listen. Rivers of liquid light wind through crystalline valleys, flowing with divine inspiration and pure thought. Trees bear fruit that grants fleeting glimpses into hidden wisdom, but Each bite poses a question in return.
 
-At the centre of this plane stands the Celestial Archive, A sprawling tower-library of light and glass, its corridors Endless and ever-shifting. Within its walls, [[The Golden Ones]], souls who pledged themselves to [[Aeloria]] in life labour As scholars, researchers, and archivists. They are Not bound by chains, but by purpose, each devoted to uncovering truths too vast for the mortal mind. Here, The boundaries of time blur; a single moment can Stretch into years of contemplation, and a lifetime's Worth of insight can be drawn from a single word.
+At the centre of this plane stands the Celestial Archive, A sprawling tower-library of light and glass, its corridors Endless and ever-shifting. Within its walls, [[Groups & Factions/Religious Organisations/The Golden Ones\|The Golden Ones]], souls who pledged themselves to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] in life labour As scholars, researchers, and archivists. They are Not bound by chains, but by purpose, each devoted to uncovering truths too vast for the mortal mind. Here, The boundaries of time blur; a single moment can Stretch into years of contemplation, and a lifetime's Worth of insight can be drawn from a single word.
 
-The Golden Plane is a place of peace and clarity, but not Without its burdens. The endless pursuit of truth can be Isolating, and some scholars lose themselves in their Studies, unravelled by the weight of knowledge never Meant for mortal comprehension. [[Aeloria]] herself walks The halls at times, offering guidance to those who stray Too far, and watching over her faithful with a gaze as Warm as it is piercing.
+The Golden Plane is a place of peace and clarity, but not Without its burdens. The endless pursuit of truth can be Isolating, and some scholars lose themselves in their Studies, unravelled by the weight of knowledge never Meant for mortal comprehension. [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] herself walks The halls at times, offering guidance to those who stray Too far, and watching over her faithful with a gaze as Warm as it is piercing.
 
 While beautiful and luminous, the Golden P lane is no Paradise of leisure. It is a sacred crucible of thought, Where devotion to truth replaces rest, and where light does not always comfort, but always reveals.
 
@@ -27,6 +23,6 @@ Despite its serene beauty, the library exudes an unsettling aura. Whispers drift
 The shelves themselves defy mortal understanding. Some are impossibly tall, extending upward into ceilings that fade into a starry void. Others are compact and intimate, shaped like spirals or crescents, encouraging personal discovery. There are sections where books float freely, orbiting around glowing pedestals, while others are stacked neatly in glass cases that open only at the touch of the worthy.
 
 ### Notable Information 
-- The library has appeared to [[The Party]] multiple times throughout the campaign. It first appeared when [[Chenris Tallfellow ‡]] was transported there when [[Chronovorus]] was trying to bargain with them to fix the situation they were in when [[Kal ‡]] was turned into a suicide bomber by the [[Goblin Mafia]].
-- It next appeared in [[Session 09]], where the whole party first met [[Aeloria]] and officially introduced herself and Levelled up [[The Party]].
-- The library later appeared to [[Halfbie]] when they were about to die and they struck a deal to merge memories with Chenris. 
+- The library has appeared to [[Other Information/Display Tags/The Party\|The Party]] multiple times throughout the campaign. It first appeared when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was transported there when [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] was trying to bargain with them to fix the situation they were in when [[The Party/Dead/Kal ‡\|Kal ‡]] was turned into a suicide bomber by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]].
+- It next appeared in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 09\|Session 09]], where the whole party first met [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] and officially introduced herself and Levelled up [[Other Information/Display Tags/The Party\|The Party]].
+- The library later appeared to [[The Party/Halfbie\|Halfbie]] when they were about to die and they struck a deal to merge memories with Chenris. 

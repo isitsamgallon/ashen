@@ -1,25 +1,13 @@
 ---
-tags:
-  - NPC
-Nation: Ehobel
-town: Enelion
-Status: Alive
-dg-publish: true
-icon: npc
-age: Adult
-race: Elf
-gender: Male
-faction:
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/folre-enelion-iv-esquire/","tags":["NPC"],"updated":"2025-05-30T12:08:34.122+01:00"}
 ---
 
+
 ### Overview
-The Lord of [[Enelion]]. [[Chenris Tallfellow ‡]] was forced to have a long, very misogynistic conversation with him to try and gain [[Lord Enelion's Favour|his favour]]. Chenris hoped this would aid them in getting a trade deal between [[Ehobel]] and the [[Organisation of Free Cities (OFC)|OFC]]. Flore seemed to be constantly accompanied by guards and many sex slaves who were all under the [Charmed](https://www.dndbeyond.com/spells/charm) spell. 
+The Lord of [[Locations/Ehobel/Enelion/Enelion\|Enelion]]. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was forced to have a long, very misogynistic conversation with him to try and gain [[Books, Documents & Artefacts/Lord Enelion's Favour\|his favour]]. Chenris hoped this would aid them in getting a trade deal between [[Locations/Ehobel/Ehobel\|Ehobel]] and the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. Flore seemed to be constantly accompanied by guards and many sex slaves who were all under the [Charmed](https://www.dndbeyond.com/spells/charm) spell. 
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

@@ -1,24 +1,13 @@
 ---
-tags:
-  - NPC
-Nation: Ehobel
-Status: Alive
-dg-publish: true
-icon: npc
-age: Adult
-race: Elf
-gender: Female
-faction:
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ms-adrei/","tags":["NPC"],"updated":"2025-05-30T12:10:51.438+01:00"}
 ---
 
+
 ### Overview
-The damsel in distress who fell for a bandit leader that robbed her in [[Ehobel]]
+The damsel in distress who fell for a bandit leader that robbed her in [[Locations/Ehobel/Ehobel\|Ehobel]]
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

@@ -1,24 +1,13 @@
 ---
-tags:
-  - NPC
-Nation: The Feywilds
-dg-publish: true
-icon: npc
-age: Adult
-race: Fey
-gender: Male
-Status: Alive
-faction: 
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/king-oberon/","tags":["NPC"],"updated":"2025-05-30T12:10:17.686+01:00"}
 ---
 
+
 ### Overview
-Member of the [[Seelie Court]] , married to [[Queen Titania]]
+Member of the [[Locations/Feywild/Seelie Court\|Seelie Court]] , married to [[Named Characters & Beasts/Queen Titania\|Queen Titania]]
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

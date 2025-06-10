@@ -1,10 +1,8 @@
 ---
-tags: 
-Nation: 
-town: 
-dg-publish: true
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/the-sanctum-of-mercy/","updated":"2025-06-09T21:42:01.598+01:00"}
 ---
-![[Screenshot 2025-06-09 181612.png]]
+
+![Screenshot 2025-06-09 181612.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181612.png)
 
 > "AND IN THE HOUR OF BREAKING, THE WEARY shall be lifted, cradled in wings of still light. Their pain shall be remembered, not to wound, but to heal-and in the Sanctum, sorrow shall sleep beside hope, and be made whole."<cite>Scripture of the Gentle Dawn, Passage 5:12 </cite>
 

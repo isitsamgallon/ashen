@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-Nation: The Desert
-icon: place
-tags:
-  - Discovered
+{"dg-publish":true,"permalink":"/locations/the-desert/the-great-wall/","tags":["Discovered"],"updated":"2025-04-26T18:11:52.700+01:00"}
 ---
+
 ### Overview  
 The Great Wall is a monumental fortification that divides the **Verdant Peninsula** from **The Desert**. Constructed in the aftermath of the **First Sundering**, the Wall serves as the first and greatest line of defence against external threats. Towering over 50 feet tall and stretching beyond the horizon, the Wall remains an enduring symbol of vigilance, sacrifice, and mystery.
 

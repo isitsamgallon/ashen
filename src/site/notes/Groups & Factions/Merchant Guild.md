@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-tags: Groups
-icon: group
+{"dg-publish":true,"permalink":"/groups-and-factions/merchant-guild/","tags":["Groups"],"updated":"2025-03-01T21:15:13.912+00:00"}
 ---
+
 - Handle and relay information on the price of goods in different regions, allowing merchants to make more money from their speculative trading. The guild could even hire spell casters to use sending to send updates between regions really quickly. Protecting these ledgers and notes from rival traders outside of the guild would be important
 - Officiate licensing of merchants. If you're not a member of the guild and you want to trade in these waters, then you don't get to use the guild's ports, shipyards or warehouses.
 - Organise brokers and freighters. There will be folks for buying and selling as well as folks for moving goods between locations, and part of the guild's responsibility should be in making sure they play along nicely.

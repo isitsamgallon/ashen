@@ -50,8 +50,8 @@ Not much is known about them apart from their simple minded nature and the fact 
 The ealiest known account of them in [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]] where it was revealed that chief, [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]] joined forces with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]
 
 ### Known Goblins 
-- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]]
 - [[Named Characters & Beasts/Bing †\|Bing †]]
+- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]]
 - [[Named Characters & Beasts/Jub\|Jub]]
 
 { .block-language-dataview}

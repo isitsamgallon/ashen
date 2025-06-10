@@ -60,9 +60,9 @@ Elves and [[Other Information/Races/Human\|Human]] have fought many time, with t
 - [[Locations/Strixhaven\|Strixhaven]]
 
 ### Known Elves
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]
-- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]
 - [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]
+- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]
 - [[Named Characters & Beasts/Malin\|Malin]]
 - [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]
 

@@ -1,24 +1,13 @@
 ---
-tags:
-  - NPC
-Nation: Jub's Tribe
-Status: Unknown
-dg-publish: true
-icon: npc
-age: Adult
-race: Goblin
-gender: Male
-faction: 
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jub/","tags":["NPC"],"updated":"2025-05-30T12:09:59.265+01:00"}
 ---
 
+
 ### Overview
-A leader of a goblin tribe in [[Ehobel]] and is first mentioned in [[Yren]].
+A leader of a goblin tribe in [[Locations/Ehobel/Ehobel\|Ehobel]] and is first mentioned in [[Locations/Ehobel/Yren\|Yren]].
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}
