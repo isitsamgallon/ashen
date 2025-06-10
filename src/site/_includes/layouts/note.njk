@@ -5,8 +5,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <html lang="{{ meta.mainLanguage }}">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
-    <!-- Link to your custom CSS file -->
-    <link rel="stylesheet" href="/styles/User/banner-web.css">
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
