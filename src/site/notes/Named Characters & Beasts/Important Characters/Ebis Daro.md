@@ -1,24 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/ebis-daro/","tags":["NPC","Important"],"updated":"2025-05-30T12:05:28.730+01:00"}
+tags:
+  - NPC
+  - Important
+Nation: Unknown/Unclear
+type: important
+Status: Alive
+dg-publish: true
+town: Unknown/Unclear
+age: Adult
+race: Human
+gender: Male
+icon: vip
+faction: 
 ---
 
-
 ### Overview
-Ebis Daro is a very mysterious figure who has the ability to shape-shift into many different people and races. The elf was met by [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in the [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]] when he and [[The Party/Mordecai Reverence\|Mordecai Reverence]] were searching for information on [[Gods & Heralds/Aetherion/The All-Father\|The All-Father]] / [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]]. At the time he introduced himself as grandmaster of the [[Groups & Factions/Mage's Guild\|Mage's Guild]] in [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]. He is suspected of working with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] / [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]] and is potentially one of the brothers from [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]].
+Ebis Daro is a very mysterious figure who has the ability to shape-shift into many different people and races. The elf was met by [[Wurinn Fuuldrusch]] in the [[Wooden Hearth Inn]] when he and [[Mordecai Reverence]] were searching for information on [[The All-Father]] / [[Aetherion]]. At the time he introduced himself as grandmaster of the [[Mage's Guild]] in [[Ishnmel]]. He is suspected of working with [[Ignatius]] / [[The Ashen Cult]] and is potentially one of the brothers from [[The Unbroken Coin - A Tale of Two Brothers]].
 
 ### Known Forms Taken
-- The leader of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]
-- The person that exploded themselves outside the airship in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]].
-- Grandmaster Ebis (As a Dwarf teaching [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]])
+- The leader of [[The Red Cult]]
+- The person that exploded themselves outside the airship in the [[Organisation of Free Cities (OFC)|OFC]].
+- Grandmaster Ebis (As a Dwarf teaching [[Obeus Yelris]])
 - Grandmaster Ebis 
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]]
+- [[Claribelle Reverence †]]
 - Tall Elvin Man
 
 ### Notable Information
-- [[Other Information/Display Tags/The Party\|The Party]] first met Ebis in the [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]] in [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]] ([[Session Notes/Season 2 - The War for The OFC's Freedom/Session 15\|Session 15]]). The group of [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]], Mordecai and [[The Party/Aiden Knight\|Aiden Knight]] went to gain more knowledge on [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]]. At the time [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/The Korrigan\|The Korrigan]] had been secretly plotting and researching the being behind everyone's back and Mordecai was determined to not be outdone by Chenris wanted to learn more than them. 
+- [[The Party]] first met Ebis in the [[Wooden Hearth Inn]] in [[Ishnmel]] ([[Session 15]]). The group of [[Wurinn Fuuldrusch]], Mordecai and [[Aiden Knight]] went to gain more knowledge on [[Aetherion]]. At the time [[Chenris Tallfellow ‡]] and [[The Korrigan]] had been secretly plotting and researching the being behind everyone's back and Mordecai was determined to not be outdone by Chenris wanted to learn more than them. 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

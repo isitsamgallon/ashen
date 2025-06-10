@@ -1,16 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/halos-goodbarrel/","tags":["NPC"],"updated":"2025-05-30T12:45:28.754+01:00"}
+tags:
+  - NPC
+dg-publish: true
+icon: npc
+age: Adult
+race: Halfling
+gender: Male
+Status: Alive
+faction:
 ---
 
-
 ### Overview
-The creator and founder of [[Groups & Factions/Halos Emporium\|Halos Emporium]].
+The creator and founder of [[Halos Emporium]].
 
 ### Notable Information 
-- This was [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] 's original character from another campaign. 
+- This was [[James Absolom]] 's original character from another campaign. 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

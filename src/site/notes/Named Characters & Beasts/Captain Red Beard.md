@@ -1,14 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-red-beard/","tags":["NPC"],"updated":"2025-05-30T12:07:42.019+01:00"}
+tags:
+  - NPC
+Nation: The Golden Fleet
+town: Snowport
+Status: Alive
+dg-publish: true
+icon: npc
+age: Adult
+race: Human
+gender: Male
+faction:
+  - The Golden Fleet
 ---
 
-
 ### Overview
-Captain of the [[Groups & Factions/The Golden Fleet\|The Golden Fleet]].
+Captain of the [[The Golden Fleet]].
 
 ### History & Mentions
-| §                                                                               | Interactions                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 01\|Session 01]] | The party escapes The Not World and heads east to the last page where they find the house and the not world. Inside the family is currently building the familiar house. The Dawn expanded their empire and the family moved from their house in [[Locations/Snowport\|Snowport]]. They got here by being smuggled in with the help of [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]]. |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

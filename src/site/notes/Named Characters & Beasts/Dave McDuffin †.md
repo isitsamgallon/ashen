@@ -1,14 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/dave-mc-duffin/","tags":["NPC"],"updated":"2025-06-08T20:20:01.445+01:00"}
+tags:
+  - NPC
+Nation: The Tulan Fort
+town: The Tulan Fort
+dg-publish: true
+icon: npc
+Status: Dead
+age: Young Adult
+race: Human
+gender: Male
+faction:
+  - The Tulan Fort
 ---
 
-
 ### Overview
-The name of [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] soldier who was killed with the a Name Poison for wanting to unionise in [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session Notes/Season 4 - Ignatius Beckons/Session 38]].
+The name of [[The Tulan Fort]] soldier who was killed with the a Name Poison for wanting to unionise in [[Session Notes/Season 4 - Ignatius Beckons/Session 38]].
 
 ### History & Mentions
-| §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Examining the arrow, [[The Party/The Korrigan\|Korrigan]] couldn't identify the poison but noticed that the name "[[Named Characters & Beasts/Dave McDuffin †\|Dave McDuffin †]]" was engraved on the shaft. Sensing some magic on the arrow, [[The Party/Halfbie\|Halfbie]] took over the analysis. However, they could only determine that it was enchanted. CXhenris, on the other hand, immediately recognised it from an old class at [[Locations/Strixhaven\|Strixhaven]] as a "Name Poison," a technique from [[Locations/The Deadlands\|The Deadlands]] that creates especially deadly poisons targeted at a specific person. The arrow would not affect anyone else and could not be replicated. Chenris shared this knowledge with [[The Party/Halfbie\|Halfbie]], who explained it to [[Other Information/Display Tags/The Party\|the Party]], much to their surprise. |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

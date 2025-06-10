@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/kaelis-ignithar/","tags":["Important","NPC"],"updated":"2025-05-30T12:06:07.057+01:00"}
+tags:
+  - Important
+  - NPC
+Nation: Unknown/Unclear
+town: Unknown/Unclear
+dg-publish: true
+age: Ancient
+race: Fire Genasi
+gender: Male
+Status: Alive
+icon: vip
+faction:
+  - Brotherhood Of The Sun
 ---
-
 
 ### Overview  
 Kaelis Ignithar was a legendary fire genasi arcanist from the final era of the Grayfall Empire. Renowned for his revolutionary mastery of pyromancy and his role in shaping modern magical theory, Kaelis remains a pivotal figure in the history of arcane scholarship. He is credited with the creation and codification of many foundational fire spells and the authorship of _The Pyromantic Codex_, a seminal work still studied today. His fate remains unknown following the fall of Grayfall, but his legacy continues to burn across the magical world.
@@ -32,10 +43,12 @@ He is honoured in both magical and historical traditions as a visionary who soug
 Legends persist of a never-dying ember glowing in the ruins of Grayfall, believed by some to be the lingering essence of Kaelis himself. Whether myth or reality, Kaelis Ignithar is remembered as a symbol of brilliance, defiance, and enduring flame.
 
 ### History & Mentions
-| §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | After some travelling, they made excellent progress until they reached the old wall separating [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]] from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. The wall was not well-maintained, with much of it severely eroded or completely missing in some areas. Most of the Dawn flags had also been taken down and replaced with the emblem of The [[Groups & Factions/Brotherhood Of The Sun\|Brotherhood Of The Sun]]. Seeing the symbol reminded [[The Party/Halfbie\|Halfbie]] of [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]] and his promise to teach them magic. They pulled out the magic bell they had given him and rang it. The metal of the bell reshaped into a face and said, "You are currently number 698 in the queue," before switching to [hold music](https://open.spotify.com/track/35oiHtaPcjzqwx2gu9dx6a?si=0bb51f545de94ab3). [[The Party/Halfbie\|Halfbie]] suggested they should call back another time, but as they spoke, a distant, hollow toll echoed through the fog-choked air—a deep and resonant bell ringing with sorrow that clung to the bones. |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```
 
 #Perpetual #ImportantCharacter 

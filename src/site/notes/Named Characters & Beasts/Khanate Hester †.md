@@ -1,15 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/khanate-hester/","tags":["NPC"],"updated":"2025-05-30T12:10:13.956+01:00"}
+tags:
+  - NPC
+Status: Dead
+dg-publish: true
+icon: npc
+age: Adult
+race: Human
+gender: Male
+faction: 
 ---
 
-
 ### Overview
-Wrote [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]] 
+Wrote [[Poems from the Sand Dunes]] 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```
 
 #ConfirmedDead

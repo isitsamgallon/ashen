@@ -1,13 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/mannnnnn/","tags":["NPC"],"updated":"2025-05-30T11:59:19.635+01:00"}
+tags:
+  - NPC
+Nation: Ehobel
+Status: Alive
+dg-publish: true
+icon: npc
+age: Adult
+race: Gecko
+gender: Male
+faction: 
 ---
 
-
 ### Overview
-The Gecko that joined [[The Party/The Korrigan\|The Korrigan]] for a short time outside of [[Locations/Ehobel/Saleh Tower\|Saleh Tower]].
+The Gecko that joined [[The Korrigan]] for a short time outside of [[Saleh Tower]].
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

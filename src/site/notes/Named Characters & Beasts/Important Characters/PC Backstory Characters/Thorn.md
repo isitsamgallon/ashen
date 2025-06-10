@@ -1,13 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/thorn/","tags":["NPC","Important"],"updated":"2025-05-30T12:03:24.399+01:00"}
+tags:
+  - NPC
+  - Important
+Nation: Lost Haven
+type: important
+Status: Alive
+dg-publish: true
+town: Lost Haven
+age: Adult
+race: Human
+gender: Male
+icon: vip
+faction: 
 ---
 
-
 ### Overview
-Seemingly someone [[The Party/The Korrigan\|The Korrigan]] used to know in [[Locations/Important Locations/Lost Haven\|Lost Haven]], credited as an author of [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
+Seemingly someone [[The Korrigan]] used to know in [[Lost Haven]], credited as an author of [[Mousebert & the Emperor's Folly]]
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

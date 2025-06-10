@@ -1,13 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lil-boat-boy/","tags":["NPC"],"updated":"2025-05-30T12:10:23.118+01:00"}
+tags:
+  - NPC
+Nation: The Dawn Empire
+town: Baytown
+dg-publish: true
+Status: Alive
+icon: npc
+faction: 
 ---
 
-
 ### Overview
-The sailor from [[Locations/The Dawn Empire/Baytown\|Baytown]] who helped [[Other Information/Display Tags/The Party\|The Party]] travel to [[Locations/Itone Isles\|Itone Isles]]. They are known for being quite gruff and having a lot of Sex stories that they share without anyone asking. 
+The sailor from [[Baytown]] who helped [[The Party]] travel to [[Itone Isles]]. They are known for being quite gruff and having a lot of Sex stories that they share without anyone asking. 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

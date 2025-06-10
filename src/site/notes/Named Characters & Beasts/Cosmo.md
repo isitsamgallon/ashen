@@ -1,16 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/cosmo/","tags":["NPC"],"updated":"2025-05-30T12:45:17.440+01:00"}
+tags:
+  - NPC
+Nation: Unknown/Unclear
+town: Unknown/Unclear
+dg-publish: true
+age: Teenage
+race: Vampire
+gender: Male
+Status: Alive
+icon: npc
 ---
-
 ### Overview
-One of the vampires [[The Party/The Korrigan\|The Korrigan]] met during [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]
+One of the vampires [[The Korrigan]] met during [[Session 35]]
 
 ### Notable Information 
-- They occasionally pop up when [[The Party/The Korrigan\|Korrigan]] decided to use animal messenger to send them food. 
-- They seem to be following [[Other Information/Display Tags/The Party\|The Party]] as during [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session Notes/Season 4 - Ignatius Beckons/Session 36]] the rabbit showed they were hiding in a nearby bush but disappeared as soon as they realised they had been spotted. 
+- They occasionally pop up when [[The Korrigan|Korrigan]] decided to use animal messenger to send them food. 
+- They seem to be following [[The Party]] as during [[Session Notes/Season 4 - Ignatius Beckons/Session 36]] the rabbit showed they were hiding in a nearby bush but disappeared as soon as they realised they had been spotted. 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

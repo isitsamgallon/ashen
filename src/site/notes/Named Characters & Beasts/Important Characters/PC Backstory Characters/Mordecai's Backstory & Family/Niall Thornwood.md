@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/niall-thornwood/","tags":["NPC"],"updated":"2025-05-30T12:02:12.795+01:00"}
+tags:
+  - NPC
+Nation: Uvam Dynasty
+town: Yokotori
+dg-publish: true
+icon: npc
+Status: Dead
+age: Teenage
+race: Tiefling
+gender: Male
 ---
-
 
 ### Overview
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
@@ -10,7 +18,10 @@
 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

@@ -1,19 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-junior/","tags":["NPC"],"updated":"2025-05-30T12:46:07.690+01:00"}
+tags:
+  - NPC
+Nation: The Dawn Empire
+town: Dustwood
+Status: Alive
+dg-publish: true
+icon: npc
+age: Adult
+race: Gnome
+gender: Male
+faction:
 ---
 
-
 ### Overview
-Captain of the guards in [[Locations/The Dawn Empire/Dustwood\|Dustwood]] and had been told to accompany [[Other Information/Display Tags/The Party\|The Party]] to try and catch them out for [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] 's murder of [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]] in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]].
+Captain of the guards in [[Dustwood]] and had been told to accompany [[The Party]] to try and catch them out for [[Steve Ulan]] 's murder of [[Lord Ulan †]] in [[Steelwick]].
 
 ### Notable Information 
 - He was first encountered when the party was taken in for questioning. He was secretly in the integration room with them until he was later revealed.
-- He travelled with the party to many places on their journey. He spent most of this time riding on [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] 's shoulder invisible.
-- He eventually gave up on staying with the party when [[The Party/Mordecai Reverence\|Mordecai Reverence]] made him realise how homesick he was and dropped him off in Dustwood.
+- He travelled with the party to many places on their journey. He spent most of this time riding on [[Wurinn Fuuldrusch]] 's shoulder invisible.
+- He eventually gave up on staying with the party when [[Mordecai Reverence]] made him realise how homesick he was and dropped him off in Dustwood.
 
 ### History & Mentions
-| §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 08\|Session 08]] | After denying this, [[Other Information/Display Tags/The Party\|The Party]] is left alone for moment while ther guard is gone to get something. [[Other Information/Display Tags/The Party\|The Party]] start to strategies before it is revealed a gnome called [[Named Characters & Beasts/Captain Junior\|Captain Junior]] was watching them from the rood the whole time. [[Other Information/Display Tags/The Party\|The Party]] is let free but they are to be accompanied by Junior everywhere they go to see if they are caught out by the gnome. |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

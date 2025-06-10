@@ -1,15 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/bing/","tags":["NPC"],"updated":"2025-05-30T12:07:02.163+01:00"}
+tags:
+  - NPC
+Status: Dead
+dg-publish: true
+icon: npc
+age: Adult
+race: Goblin
+gender: Male
+faction: Goblin Mafia
 ---
 
-
 ### Overview
-The goblin that was sent by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] to assassinate [[Other Information/Display Tags/The Party\|The Party]]. They failed and when caught, took a cyanide pill. 
+The goblin that was sent by the [[Goblin Mafia]] to assassinate [[The Party]]. They failed and when caught, took a cyanide pill. 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```
 
 #ConfirmedDead

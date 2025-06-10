@@ -1,13 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/sage-billington/","tags":["NPC"],"updated":"2025-05-30T12:11:10.235+01:00"}
+tags:
+  - NPC
+Nation: OFC
+town: Inchling Village
+dg-publish: true
+icon: npc
+Status: Alive
+race: Inchling
+faction:
+  - Inchlings
 ---
 
-
 ### Overview
-[[Named Characters & Beasts/Dill Billington\|Dill Billington]] 's father and resident of [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]
+[[Dill Billington]] 's father and resident of [[The Inchling Kingdom]]
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

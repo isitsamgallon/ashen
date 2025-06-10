@@ -1,20 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jerek-the-smooth/","tags":["NPC"],"updated":"2025-05-30T12:09:47.855+01:00"}
+tags:
+  - NPC
+Nation: The Dawn Empire
+town: Dawnhaven
+Status: Dead
+dg-publish: true
+icon: npc
+age: Adult
+race: Halfling
+gender: Male
+faction: 
 ---
 
-
 ### Overview
-A part of a small level 1 adventuring party made up of completely [[Other Information/Races/Halflings\|Halflings]]. They were encountered on the [[Locations/Verdant Spine\|Verdant Spine]] on their own quest to kill a dragon. Unfortunately, this dragon ended up being the Wyvern that killed [[The Party/Dead/Kal ‡\|Kal ‡]]. Jerek also died during this fight.
+A part of a small level 1 adventuring party made up of completely [[Halflings]]. They were encountered on the [[Verdant Spine]] on their own quest to kill a dragon. Unfortunately, this dragon ended up being the Wyvern that killed [[Kal ‡]]. Jerek also died during this fight.
 
 ### Party Members 
-- [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]
-- [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]
-- [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]
+- [[Merek The Wise]]
+- [[Derek The Brave]]
+- [[Serek The Quick]]
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```
 
 #ConfirmedDead

@@ -1,13 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/queen-titania/","tags":["NPC"],"updated":"2025-05-30T12:11:06.173+01:00"}
+tags:
+  - NPC
+Nation: The Feywilds
+Status: Alive
+dg-publish: true
+icon: npc
+age: Adult
+race: Fey
+gender: Female
+faction:
+  - Seele Court
 ---
 
-
 ### Overview
-The leader of the [[Locations/Feywild/Seelie Court\|Seelie Court]] in the [[Locations/Feywild/Feywild\|Feywild]]. Like many fey creatures, she is mischievous and likes to play pranks on people, sometimes very cruel ones. She seems to have a particular disdain for [[The Party/The Korrigan\|The Korrigan]] due to his nature of being a human transformed into the Fey by [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]].
+The leader of the [[Seelie Court]] in the [[Feywild]]. Like many fey creatures, she is mischievous and likes to play pranks on people, sometimes very cruel ones. She seems to have a particular disdain for [[The Korrigan]] due to his nature of being a human transformed into the Fey by [[Lorwyn]].
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

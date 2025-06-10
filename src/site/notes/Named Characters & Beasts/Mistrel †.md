@@ -1,16 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mistrel/","tags":["NPC"],"updated":"2025-05-30T12:10:46.087+01:00"}
+tags:
+  - NPC
+type: important
+town: Steelwick
+Nation: The Dawn Empire
+dg-publish: true
+Status: Dead
+icon: npc
+age: Young Adult
+race: Human
+gender: Female
+faction: 
 ---
 
-
 ### Overview
-[[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] 's lover from his childhood in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found love letters from the girl in the palace dungeons talking about her torture and imprisonment. 
+[[Steve Ulan]] 's lover from his childhood in [[Steelwick]]. [[The Party]] found love letters from the girl in the palace dungeons talking about her torture and imprisonment. 
 
 ### History & Mentions
-| §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 03\|Session 03]] | The party decide to explore the castle, finding [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] 's diary detailing how in his childhood his father wasn't such a dick to his son, but actually quite good. There was a picture of Steve's mother as well but not much else. Although things seem idealic, investigating his room said otherwise when an ornate dagger was found under his bed and bedsheets out the window - an obvious escape plan. Steve is very confused. They leave his bedroom venture down to the basement find an old torture rack with a prison containing a little girl's dress and a bunch of love letters to Steve from [[Named Characters & Beasts/Mistrel †\|Mistrel †]]. Upon reading the letter, Steve flys into a murderous rage aimed at his father. Mordecai uses minor illusion to make it look like the door disappears to give them time to talk him down. |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```
 
 #ConfirmedDead

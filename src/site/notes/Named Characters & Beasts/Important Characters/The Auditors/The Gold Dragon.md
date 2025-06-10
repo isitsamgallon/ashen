@@ -1,16 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/the-gold-dragon/","tags":["NPC","Important"],"updated":"2025-05-30T12:04:24.363+01:00"}
+tags:
+  - NPC
+  - Important
+Nation: Unknown/Unclear
+town: Unknown/Unclear
+dg-publish: true
+age: Adult
+race: Gold Dragon
+gender: Male
+icon: vip
+faction:
+  - The Auditors
 ---
 
-
 ### Overview
-A member of [[Groups & Factions/The Auditors\|The Auditors]], first appeared [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]
+A member of [[The Auditors]], first appeared [[Session 27]]
 
 ### Notable Information
 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

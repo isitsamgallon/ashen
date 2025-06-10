@@ -1,9 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/akin-netch/","tags":["Important"],"updated":"2025-05-30T12:03:49.101+01:00"}
+dg-publish: true
+tags:
+  - Important
+Nation: Unknown/Unclear
+town: Unknown/Unclear
+age: Adult
+race: Human
+gender: Male
+icon: vip
+faction: The Auditors
 ---
-
 ### Overview
-Akin Netch, known as "the Faceless Savior," was a mysterious and revered figure as the founder of [[Groups & Factions/The Auditors\|The Auditors]]. He rejected divine influence and adopted countless identities, never revealing his true face. His actions were guided by a belief in maintaining the world’s balance.
+Akin Netch, known as "the Faceless Savior," was a mysterious and revered figure as the founder of [[The Auditors]]. He rejected divine influence and adopted countless identities, never revealing his true face. His actions were guided by a belief in maintaining the world’s balance.
 
 ### Other Information
 - Akin established _The Auditors_, a secretive order devoted to preserving balance in the realm, addressing both natural and supernatural forces. The Auditors acted as impartial agents, intervening in shadowy and decisive ways to maintain equilibrium.
@@ -14,10 +22,13 @@ Akin Netch, known as "the Faceless Savior," was a mysterious and revered figure 
 - Akin Netch is remembered as the faceless saviour, the guardian of the veil, and the founder of _The Auditors_. His legacy persists in the ongoing mission to maintain balance, shielding the world from both divine and mortal disruptions.
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```
 
 # Trivia
-- It is theorised that Akin is one of the brothers talked about in [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]].
+- It is theorised that Akin is one of the brothers talked about in [[The Unbroken Coin - A Tale of Two Brothers]].

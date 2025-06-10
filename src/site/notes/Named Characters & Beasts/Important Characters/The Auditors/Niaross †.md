@@ -1,17 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/niaross/","tags":["NPC","Important"],"updated":"2025-05-30T12:04:07.431+01:00"}
+tags:
+  - NPC
+  - Important
+type:
+  - important
+Status: Dead
+dg-publish: true
+Nation: Unknown/Unclear
+town: Unknown/Unclear
+age: Adult
+race: Red Dragon
+gender: Female
+icon: vip
+faction: The Auditors
 ---
 
-
 ### Overview
-The Grand Architect. A mysterious member of [[Groups & Factions/The Auditors\|The Auditors]] who was the primary creator of [[History & Events/The Ancient Pillars\|The Ancient Pillars]] and is specifically mentioned as the person who created [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] with the help of [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]. They were later revealed to be Uti † and lived on the [[Locations/Itone Isles\|Itone Isles]] guarding the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]] for the likes of [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]. They were sworn to kill anyone who entered the island to make sure Ebis couldn't sneak on. They were later killed by [[Other Information/Display Tags/The Party\|The Party]] when they travelled to Itone to learn more about [[Gods & Heralds/Aetherion/Terathra\|Terathra]]. 
+The Grand Architect. A mysterious member of [[The Auditors]] who was the primary creator of [[The Ancient Pillars]] and is specifically mentioned as the person who created [[The Tower of Ishnmel]] with the help of [[Ashira Yelris †]]. They were later revealed to be Uti † and lived on the [[Itone Isles]] guarding the [[Firesoul Greatsword]] for the likes of [[Ebis Daro]]. They were sworn to kill anyone who entered the island to make sure Ebis couldn't sneak on. They were later killed by [[The Party]] when they travelled to Itone to learn more about [[Terathra]]. 
 
 ### Notable Information
-- They were first mentioned in [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]] in a very negative light. This was most likely due to him creating [[Other Information/Display Tags/The Towers\|The Towers]] that used to hold back the Gods - including [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]. 
-- They also seem to be connected to [[Gods & Heralds/Aetherion/The All-Father\|The All-Father]] due to their involvement with [[Other Information/Display Tags/The Towers\|The Towers]] and their ability to drain [[Gods & Heralds/Aetherion/The All-Father\|The All-Father]] 's power.
+- They were first mentioned in [[The Sundering - As told by The Ashen Cult]] in a very negative light. This was most likely due to him creating [[The Towers]] that used to hold back the Gods - including [[Ignatius]]. 
+- They also seem to be connected to [[The All-Father]] due to their involvement with [[The Towers]] and their ability to drain [[The All-Father]] 's power.
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

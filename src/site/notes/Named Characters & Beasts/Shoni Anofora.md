@@ -1,13 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/shoni-anofora/","tags":["NPC"],"updated":"2025-05-30T12:11:17.733+01:00"}
+tags:
+  - NPC
+Nation: Unknown/Unclear
+town: Unknown/Unclear
+dg-publish: true
+icon: npc
+Status: Alive
+age: Adult
+race: Human
+gender: Female
 ---
 
-
 ### Overview
-The possession expert from [[The Party/Aiden Knight\|Aiden Knight]] 's trial in the [[Locations/Feywild/Feywild\|Feywild]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]]. [[The Party/Aiden Knight\|Aiden Knight]] currently wants to finder to see if she can reverse his possession. 
+The possession expert from [[Aiden Knight]] 's trial in the [[Feywild]] in [[Session 34]]. [[Aiden Knight]] currently wants to finder to see if she can reverse his possession. 
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

@@ -1,13 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/vormomli-bronzehand/","tags":["NPC"],"updated":"2025-05-30T12:11:58.251+01:00"}
+tags:
+  - NPC
+type:
+  - important
+Status: Alive
+icon: npc
+age: Adult
+race: Dwarf
+gender: Male
+faction:
+  - The Tulan Fort
+dg-publish: true
 ---
 
-
 ### Overview
-One of the high-ranking officers in [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] who is notable for letting [[Other Information/Display Tags/The Party\|The Party]] flee the fort after rescuing [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] when he killed the fort leader at the time, [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]].
+One of the high-ranking officers in [[The Tulan Fort]] who is notable for letting [[The Party]] flee the fort after rescuing [[Emmeline]] when he killed the fort leader at the time, [[Damascus Klyn †]].
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

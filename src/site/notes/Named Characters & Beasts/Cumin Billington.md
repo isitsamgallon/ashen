@@ -1,13 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/cumin-billington/","tags":["NPC"],"updated":"2025-05-30T12:08:01.872+01:00"}
+tags:
+  - NPC
+Nation: OFC
+town: Inchling Village
+dg-publish: true
+icon: npc
+Status: Alive
+faction:
+  - Inchlings
+race: Inchling
 ---
 
-
 ### Overview
-[[Named Characters & Beasts/Dill Billington\|Dill Billington]] 's mother and a resident of [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]
+[[Dill Billington]] 's mother and a resident of [[The Inchling Kingdom]]
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```
