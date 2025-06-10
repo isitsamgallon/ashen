@@ -1,18 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-watchers/","updated":"2025-04-26T18:38:28.135+01:00"}
+dg-publish: true
+icon: group
+Nation: The Desert
+town:
 ---
-
 > [!infobox]
 > 
->  # The Watchers
-> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+>  # `=this.file.name`
+> ![[ImagePlaceholder.png|cover hsmall]]
 > ###### Basic Information
 > 
 >  Type | Info |
 > :----: | --- |
 >  HQ | HQ |
 >  Alignment | True neutral |
->  Founder | [[Groups & Factions/The Coalition\|The Coalition]] |
+>  Founder | [[The Coalition]] |
 >  Current Leader | No Official Leader |
 
 

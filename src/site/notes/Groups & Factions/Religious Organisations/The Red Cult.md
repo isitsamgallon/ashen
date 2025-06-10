@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/the-red-cult/","tags":["Groups"],"updated":"2025-06-09T21:09:45.769+01:00"}
+dg-publish: true
+tags: Groups
+icon: group
 ---
+The cult that Kidnapped [[Chenris Tallfellow ‡]], [[Mordecai Reverence]] and [[Wurinn Fuuldrusch]].
 
-The cult that Kidnapped [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]].
-
-They worship [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] as the divine flame that must purge the world to make it pure. Its followers embrace destruction as sacred, believing fire cleanses all corruption and prepares the way for rebirth. They await his promised return, spreading his doctrine through scorched earth and fanatical sacrifice.
+They worship [[Ignatius]] as the divine flame that must purge the world to make it pure. Its followers embrace destruction as sacred, believing fire cleanses all corruption and prepares the way for rebirth. They await his promised return, spreading his doctrine through scorched earth and fanatical sacrifice.

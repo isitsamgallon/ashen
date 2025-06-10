@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/religious-organisations/","updated":"2025-06-09T21:08:49.579+01:00"}
+dg-publish: true
+icon: group
+Nation: 
+town:
 ---
 
-
 ### On Cults
-An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhaven\|Strixhaven]]
+An excerpt by [[Archivist Thalen]], Lorehold College, [[Strixhaven]]
 
 Cults devoted to the Ashen Gods are as varied and  contradictory as the deities they revere. They emerge in both the margins and centre's of society, taking root in places where doctrine falters and mystery thrives. Some are ancient orders with codified rites and crumbling temples; others are little more than fevered mobs, whispering to bones and shadow.
 
-It would be a mistake to think of these cults as monolithic. Even those who serve the same god rarely agree on meaning-one sect may venerate [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] as the ticking heartbeat of creation, while another heaps offerings of teeth beneath rusted clocks, swearing the god speaks in the spaces between seconds. Both might be right. I think-yes. I think both might be.
+It would be a mistake to think of these cults as monolithic. Even those who serve the same god rarely agree on meaning-one sect may venerate [[Chronovorus]] as the ticking heartbeat of creation, while another heaps offerings of teeth beneath rusted clocks, swearing the god speaks in the spaces between seconds. Both might be right. I think-yes. I think both might be.
 
 To many, these cults are threats-dangerous outgrowths of superstition and ungoverned magic. But what are threats if not truths wrapped in the wrong language? In studying them, I have come to see them not as aberrations but as reflections. Fractured mirrors,
 yes, but mirrors nonetheless. They preserve rites we were never meant to lose. They protect texts we dare not read. They chant in tongues that still know.
