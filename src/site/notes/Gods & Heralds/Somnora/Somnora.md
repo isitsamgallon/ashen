@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2025-06-09T21:43:05.730+01:00"}
+dg-publish: true
+race: God
+icon: god
 ---
-
 > [!infobox]
 > 
-> # Somnora
-> ![Screenshot 2025-06-09 181435.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181435.png)
+> # `=this.file.name`
+> ![[Screenshot 2025-06-09 181435.png]]
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -15,18 +16,18 @@
 > | Titles | **The Keeper of Dreams and Memories** |
 > | Typcial Alignment | Neutral |
 > | Pronouns | She/ Her  |
-> | Celestial Realm | [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]] |
+> | Celestial Realm | [[The Slumbering Veil]] |
 
-> "AND IN THE HUSH OF THE NINTH HOUR CAME Somnora, the Veil of Night, whose mantle is woven of stars and whose breath brings sleep to kings and beggars alike. She walks the hidden paths between waking and wonder, and in her shadow bloom the dreams of men. Her voice is the hush before the storm, the lullaby of eternity, and she binds the restless with visions both divine and dreadful. For in her dominion, the soul is laid bare, and truth is whispered in riddles."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
+> "AND IN THE HUSH OF THE NINTH HOUR CAME Somnora, the Veil of Night, whose mantle is woven of stars and whose breath brings sleep to kings and beggars alike. She walks the hidden paths between waking and wonder, and in her shadow bloom the dreams of men. Her voice is the hush before the storm, the lullaby of eternity, and she binds the restless with visions both divine and dreadful. For in her dominion, the soul is laid bare, and truth is whispered in riddles."<cite> [[Nehzahr]] </cite>
 
 ### Overview
 Somnora drifts through the folds of night, her form shrouded in shadow and starlight. She speaks in dreams, in symbols, in the quiet just before sleep takes hold. Neither kind nor cruel, she shows mortals what they most need to see - or what they fear they already
 know. She is the boundary between rest and revelation, a guide through the strange landscapes of the soul.
 
 ### General Information
-The daughter of [[Gods & Heralds/Eldros/Eldros\|Eldros]], who was created to oversee the realm of dreams. Originally, [[Gods & Heralds/Eldros/Eldros\|Eldros]] attempted to manage both the waking and dreaming worlds, but the unpredictable nature of dreams made it difficult for him to maintain balance. Realising that he could not effectively govern both realms, he birthed Somnora to take charge of the sleeping world while he focused on the waking one.
+The daughter of [[Eldros]], who was created to oversee the realm of dreams. Originally, [[Eldros]] attempted to manage both the waking and dreaming worlds, but the unpredictable nature of dreams made it difficult for him to maintain balance. Realising that he could not effectively govern both realms, he birthed Somnora to take charge of the sleeping world while he focused on the waking one.
 
-Though little else is known about her, Somnora exists to ensure that the dream world remains stable, separate from the structured reality that [[Gods & Heralds/Eldros/Eldros\|Eldros]] maintains. Her creation signifies a division of responsibilities among the gods, ensuring that both realms—waking and dreaming—are properly maintained.
+Though little else is known about her, Somnora exists to ensure that the dream world remains stable, separate from the structured reality that [[Eldros]] maintains. Her creation signifies a division of responsibilities among the gods, ensuring that both realms—waking and dreaming—are properly maintained.
 
 ### Divine Attributes
 - Somnora is the goddess of Dreams, Sleep, Secrets, Illusion, and the Unconscious- a quiet guide through the twilight realms where reality softens and hidden truths stir. She moves unseen through slumbering minds, weaving visions, omens, and forgotten memories.
@@ -35,7 +36,7 @@ Though little else is known about her, Somnora exists to ensure that the dream w
 - Creatures sacred to Somnora include dusk moths that carry fragments of dreams, star-furred dream hounds that guard the sleeping mind, and glass-eyed owls that see into the soul's quiet depths.
 
 ### Mythos & Legends
-Somnora, goddess of Dreams, Sleep, Secrets, Illusion, and the Unconscious, walks the unseen paths between waking and oblivion. Born from the will of [[Gods & Heralds/Eldros/Eldros\|Eldros]] to tend what lies beyond mortal awareness, she was shaped from silence, starlight, and the breath between
+Somnora, goddess of Dreams, Sleep, Secrets, Illusion, and the Unconscious, walks the unseen paths between waking and oblivion. Born from the will of [[Eldros]] to tend what lies beyond mortal awareness, she was shaped from silence, starlight, and the breath between
 thoughts. While her father maintains balance in the waking world, Somnora guards the realm of slumberwhere memories drift, truths hide, and the soul wanders free.
 
 She did not come into the world with sound or fury, but with a sigh that blanketed the world in its first true sleep. From that stillness, her domain blossomed: a boundless dreamscape where time flows strangely and thoughts take form. Somnora weaves illusions and visions through the minds of mortals, offering comfort, insight, or sometimes, subtle warnings.
@@ -71,13 +72,16 @@ A smooth black stone set in a circlet or amulet. It grants lucid dreams and shie
 An hourglass filled with silver dust. When flipped, it erases one memory from anyone nearby for a day. Meant to ease pain or hide secrets- but dangerous if misused.
 
 ### Known Temple Locations
-- [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]
+- [[The All-Father Temple]]
 
 ### Heralds
-- [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]] (?)
+- [[Angel Under The Well]] (?)
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+	file.link AS "§", 
+	x AS "Interactions" FROM "Session Notes"
+FLATTEN x WHERE contains(x,this.file.name) 
+SORT file.name DESC
+```

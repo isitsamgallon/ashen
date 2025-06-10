@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/the-golden-being/","updated":"2025-03-01T21:15:43.117+00:00"}
+dg-publish: true
+race: God
+icon: god
 ---
-
-Another name for [[Gods & Heralds/Aetherion/Terathra\|Terathra]].
+Another name for [[Terathra]].
